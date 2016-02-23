@@ -35628,7 +35628,8 @@ fe80::1%lo0 localhost
 127.0.0.1 sina.yinstar.org
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 r.dmp.sina.cn
+127.0.0.1 gen.alicdn.com
+#127.0.0.1 img30.360buyimg.com
 #
-#网易
-127.0.0.1 img2.cache.netease.com
-127.0.0.1 img11.360buyimg.com
+#127.0.0.1 img11.360buyimg.com
+#
