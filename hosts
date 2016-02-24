@@ -35623,7 +35623,7 @@ fe80::1%lo0 localhost
 #127.0.0.1 img04.sogoucdn.com
 #127.0.0.1 img01.sogoucdn.com
 #127.0.0.1 img02.sogoucdn.com
-#127.0.0.1 img03.sogoucdn.com
+127.0.0.1 irnvf.lu.sogou.com
 127.0.0.1 jrb.pluto.sogou.com
 127.0.0.1 eff.lu.sogou.com
 127.0.0.1 p5.123.sogoucdn.com
