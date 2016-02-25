@@ -1,20 +1,21 @@
-#######################################################################
-##本hosts是去「各种国内广告+各种fq」的合集
-# fq部分蓝本来自于2015-10-06老d的谷歌hosts文件
-# 去广告部分蓝本来自于adaway中国版20151018日文件
-#
-#
+########################################################################
+##本hosts专注于去国内各种网页广告、视频广告，顺带fq功能。
+##
+# （fq部分蓝本来自于2015-10-06老d的谷歌hosts文件）
+#（ 去广告部分蓝本来自于adaway中国版20151018日文件）
 # 此hosts已修改了大量误杀，添加了新广告黑名单，从2015维护至今去广告部分越趋完善稳定
-#fq部分经过调教，基本都实现可用了
-#
+#fq部分经过调教，功能都可用
+###################################
+#####################################
 #如果你有发现还存在误杀情况，请联系我
 #酷安：sy619
-#
-#
+##
+##
 #订阅源：https://raw.githubusercontent.com/sy618/hosts/master/hosts
+##
 ######################################################################
-
-
+#
+#
 # Facebook start
 66.220.158.13    fb.me
 31.13.66.14    video.xx.fbcdn.net
@@ -153,7 +154,6 @@
 69.171.235.49    vupload.facebook.com
 69.171.235.49    vupload2.vvv.facebook.com
 # Facebook end
-
 # Twitter Start
 185.45.5.47	t.co
 185.45.5.54	api.twitter.com
@@ -35608,6 +35608,22 @@ fe80::1%lo0 localhost
 127.0.0.1 m3.dx1200.com
 127.0.0.1 n06.duiliandaquan.net
 127.0.0.1 xfjsv.nantongjinmao.com
+127.0.0.1 www.sohutvqq011.601819.com
+127.0.0.1 tz.lhzly.com
+127.0.0.1 cb13.gp577.com
+127.0.0.1 ss.subo.me
+127.0.0.1 aytexp.com
+127.0.0.1 s.keytui.com
+127.0.0.1 dn-sixiang.kongtiaoweixiuwang.com
+127.0.0.1 rc.jusha.com
+127.0.0.1 i.00oo00.com
+127.0.0.1 material.jusha.com
+127.0.0.1 wap.jokeji.cn
+127.0.0.1 www.163.com.rshygs.com
+127.0.0.1 dn-sixiang.kongtiaoweixiuwang.com:81
+127.0.0.1 www.sohutvqq011.601819.com:8011
+127.0.0.1 mobile.xinyongka.51qq.net.cn
+127.0.0.1 mobile.xinyongka.51qq.net.cn:100
 #
 #新浪
 127.0.0.1 d8.sina.com.cn
