@@ -1,29 +1,35 @@
-########################################################################
-##本hosts专注于去国内各种网页广告、视频广告，顺带fq功能。
-##
-# （fq部分蓝本来自于2016-02-25老d的谷歌hosts文件）
-#（ 去广告部分蓝本来自于adaway中国版20151018日文件）
-# 此hosts已修改了大量误杀，添加了新广告黑名单，从2015维护至今去广告部分越趋完善稳定
-#fq部分 基本都可用
 ###################################
-#####################################
-#如果你有发现还存在误杀情况，请联系我
+############【AD+ FQ】##############
+#本hosts专注于去国内各种网页广告、客户端广告、视频广告，fq功能只是附带。
+#
+# 此hosts已修改了大量误杀，添加了大量新广告黑名单，从2015维护至今去广告部分越趋完善稳定。fq部分实现基本可用。
+#
+###################################
+############【联系我】###############
+#如果你有发现还存在误杀情况与广告问题，请联系我
 #酷安：sy619
-##
-##########  订阅源 ###################
-#本hosts：https://raw.githubusercontent.com/sy618/hosts/master/hosts
-###
-#ADaway中国版去广告自带源：https://coding.net/u/Elaine_ni/p/hosts/git/raw/master/hosts.txt
-###
-#老D谷歌hosts博客：
+#（FQ方面问题请到老D博客反馈）
+#
+###################################
+############  订阅源 #################
+#【本hosts】：https://raw.githubusercontent.com/sy618/hosts/master/hosts
+#【Adaway中国版】去广告自带源：https://coding.net/u/Elaine_ni/p/hosts/git/raw/master/hosts.txt
+#【老D谷歌hosts博客】：
 http://laod.cn/hosts/2016-google-hosts.html
-######################################################################
-##20160227更新：
-#重构FQ部分、
-#重新深度过滤爱奇艺广告、乐视广告、搜狐、新闻门户网站广告、bt搜索网页广告、乐乐动漫网广告、其他很多...
 #
+##################################
+##############样本#################
+#（fq部分蓝本来自于2016-02-25老d的谷歌hosts文件）
+#（ 去广告部分蓝本来自于adaway中国版20151018日文件）
 #
-###################
+###################################
+#############更新日志###############
+#0229：解决几处非常难找的误杀导致不能登录问题
+#0228：解决可能存在冲突的内容
+#20160227大更新：
+#重构FQ部分、重新深度过滤爱奇艺广告、乐视广告、搜狐、新闻门户网站广告、bt搜索网页广告、乐乐动漫网广告、其他很多..！
+#############且用且珍惜##############
+#
 # Facebook start
 66.220.158.13    fb.me
 31.13.66.14    video.xx.fbcdn.net
@@ -182,7 +188,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 199.59.150.48	cdn.api.twitter.com
 185.45.5.39	cdn.syndication.twitter.com
 185.45.5.45	dev.twitter.com
-185.45.5.35	downloads.tweetdeck.com
+185.45.5.35 downloads.tweetdeck.com
 185.45.5.48	mobile.twitter.com
 209.17.68.209	oi40.tinypic.com
 209.17.68.209	oi41.tinypic.com
@@ -223,8 +229,8 @@ http://laod.cn/hosts/2016-google-hosts.html
 173.236.110.98	twitpic.com
 173.236.110.98	m1.twitpic.com
 104.244.42.195	twitter.com
-185.45.5.40	upload.twitter.com
-104.244.42.67	analytics.twitter.com
+185.45.5.40 upload.twitter.com
+#104.244.42.67	analytics.twitter.com
 199.59.150.48	urls-real.api.twitter.com
 108.61.13.60	userstream.twitter.com
 173.236.110.98	web1.twitpic.com
@@ -269,7 +275,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 54.231.229.10	s3-ap-northeast-1.amazonaws.com
 54.231.242.150	s3-ap-southeast-1.amazonaws.com
 54.231.252.130	s3-ap-southeast-2.amazonaws.com
-72.21.203.5	s3-console-us-standard.console.aws.amazon.com
+72.21.203.5 s3-console-us-standard.console.aws.amazon.com
 54.231.192.41	s3-eu-central-1.amazonaws.com
 54.231.132.112	s3-eu-west-1.amazonaws.com
 54.231.253.78	s3-sa-east-1.amazonaws.com
@@ -381,7 +387,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	voice.google.com
 220.255.2.153	upload.video.google.com
 220.255.2.153	vp.video.google.com
-220.255.2.153	ads.google.com
+#220.255.2.153	ads.google.com
 220.255.2.153	www.googlegroups.com
 220.255.2.153	a.orkut.gmodules.com
 220.255.2.153	www.googlestore.com
@@ -816,7 +822,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	www.gmodules.com
 220.255.2.153	www.ig.gmodules.com
 220.255.2.153	ig.gmodules.com
-220.255.2.153	ads.gmodules.com
+#220.255.2.153	ads.gmodules.com
 220.255.2.153	p.gmodules.com
 220.255.2.153	1.ig.gmodules.com
 220.255.2.153	2.ig.gmodules.com
@@ -924,7 +930,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	s0.2mdn.net
 220.255.2.153	s1.2mdn.net
 220.255.2.153	service.urchin.com
-220.255.2.153	analytics.google.com
+#220.255.2.153	analytics.google.com
 220.255.2.153	www.googleartproject.com
 220.255.2.153	feedburner.google.com
 220.255.2.153	www.feedburner.com
@@ -952,15 +958,12 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	mailhide.recaptcha.net
 220.255.2.153	webmproject.org
 220.255.2.153	www.webmproject.org
-# 104.152.168.18	www.webm-ccl.org
 220.255.2.153	www.chromercise.com
 220.255.2.153	www.data-vocabulary.org
 220.255.2.153	www.googleinsidesearch.com
 220.255.2.153	www.teachparentstech.org
 220.255.2.153	www.thinkwithgoogle.com
 220.255.2.153	www.oneworldmanystories.com
-# 203.176.178.29	www.dartlang.org
-# 203.176.178.29	try.dartlang.org
 220.255.2.153	www.l.google.com
 220.255.2.153	www2.l.google.com
 220.255.2.153	www3.l.google.com
@@ -1022,10 +1025,10 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	orkut-opensocial.l.google.com
 220.255.2.153	orkut-promote.l.google.com
 220.255.2.153	orkut-static.l.google.com
-220.255.2.153	pagead.l.google.com
-220.255.2.153	pagead-tpc.l.google.com
-220.255.2.153	pagead-googlehosted.l.google.com
-220.255.2.153	partnerad.l.google.com
+#220.255.2.153	pagead.l.google.com
+#220.255.2.153	pagead-tpc.l.google.com
+#220.255.2.153	pagead-googlehosted.l.google.com
+#220.255.2.153	partnerad.l.google.com
 220.255.2.153	picasaweb.l.google.com
 220.255.2.153	plus.l.google.com
 220.255.2.153	photos-ugc.l.google.com
@@ -1038,7 +1041,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	spreadsheets.l.google.com
 220.255.2.153	spreadsheets-china.l.google.com
 220.255.2.153	sslvideo-upload.l.google.com
-220.255.2.153	ssl-google-analytics.l.google.com
+#220.255.2.153	ssl-google-analytics.l.google.com
 220.255.2.153	static.cache.l.google.com
 220.255.2.153	suggestqueries.l.google.com
 220.255.2.153	tbn.l.google.com
@@ -1079,7 +1082,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	vp19.video.l.google.com
 220.255.2.153	vp20.video.l.google.com
 220.255.2.153	video-stats.l.google.com
-220.255.2.153	video-analytics.l.google.com
+#220.255.2.153	video-analytics.l.google.com
 220.255.2.153	video-thumbnails.l.google.com
 220.255.2.153	wifi.l.google.com
 220.255.2.153	writely.l.google.com
@@ -1096,9 +1099,9 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	yt-video-upload.l.google.com
 220.255.2.153	ytimg.l.google.com
 220.255.2.153	ytstatic.l.google.com
-220.255.2.153	admob.com
-220.255.2.153	www.admob.com
-220.255.2.153	apps.admob.com
+#220.255.2.153	admob.com
+#220.255.2.153	www.admob.com
+#220.255.2.153	apps.admob.com
 220.255.2.153	www.googlesyndication.com
 127.0.0.1 www.googleadservices.com
 220.255.2.153	adwords.google.com
@@ -1106,8 +1109,8 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	www.android.com
 220.255.2.153	android.com
 220.255.2.153	connectivitycheck.android.com
-220.255.2.153	developer.android.com
-220.255.2.153   dev.android.com
+220.255.2.153 developer.android.com
+220.255.2.153 dev.android.com
 220.255.2.153	source.android.com
 220.255.2.153	market.android.com
 220.255.2.153	play.google.com
@@ -2353,9 +2356,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	m.google.com.sg
 220.255.2.153	mobile.google.com
 220.255.2.153	mobile.l.google.com
-# 203.176.178.29	ext.google.com
 216.58.217.12	proxy.googlezip.net
-# 216.58.217.12	check.googlezip.net
 216.58.217.12	compress.googlezip.net
 216.58.217.12	proxy-dev.googlezip.net
 220.255.2.153	polymer-project.org
@@ -2378,7 +2379,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	ru.youtube.com
 220.255.2.153	uk.youtube.com
 220.255.2.153	tw.youtube.com
-220.255.2.153	ads.youtube.com
+#220.255.2.153	ads.youtube.com
 220.255.2.153	www.youtube-nocookie.com
 220.255.2.153	m.youtube.com
 220.255.2.153	youtu.be
@@ -2402,7 +2403,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	manifest.googlevideo.com
 64.233.162.83	onetoday.google.com
 # Google:others Start
-220.255.2.153	google.ad
+#220.255.2.153	google.ad
 220.255.2.153	google.ae
 220.255.2.153	google.al
 220.255.2.153	google.am
@@ -2588,7 +2589,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 220.255.2.153	google.vg
 220.255.2.153	google.vu
 220.255.2.153	google.ws
-220.255.2.153	www.google.ad
+#220.255.2.153	www.google.ad
 220.255.2.153	www.google.ae
 220.255.2.153	www.google.al
 220.255.2.153	www.google.am
@@ -2985,7 +2986,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 103.20.93.138  www.slideshare.net
 61.213.168.33  www.elperiodico.cat
 # slideshare End
-122.72.32.40 cdn.akamai.steamstatic.com
+#122.72.32.40 cdn.akamai.steamstatic.com
 # SoundCloud Start
 68.232.44.96	a1.sndcdn.com
 68.232.44.127	api.soundcloud.com
@@ -3501,7 +3502,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 106.10.193.20	sa.edit.yahoo.com
 124.108.120.124	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
-106.10.193.30	sp.analytics.yahoo.com
+#106.10.193.30	sp.analytics.yahoo.com
 69.147.90.159	sp1.farm2.staticflickr.com
 69.147.90.215	sp1.farm3.staticflickr.com
 106.10.137.23	static.flickr.com
@@ -3515,7 +3516,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 106.10.138.240	www.yahoo.com
 106.10.137.202	cn.edit.yahoo.com
 106.10.138.240	accounts-flickr.yahoo.com
-98.138.47.63	y.analytics.yahoo.com
+#98.138.47.63	y.analytics.yahoo.com
 98.138.253.109	yahoo.com
 77.238.184.150	ying.com
 # Yahoo End
@@ -3533,6 +3534,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 68.232.44.251	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
+#####
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 pagead2.googleadservices.com
 216.58.199.1 lh1.google.com
@@ -3544,6 +3546,14 @@ http://laod.cn/hosts/2016-google-hosts.html
 216.58.199.1 lh4.ggpht.com
 216.58.199.1 lh5.ggpht.com
 216.58.199.1 lh6.ggpht.com
+220.255.2.153 yt3.ggpht.com
+220.255.2.153 yt2.ggpht.com
+220.255.2.153 yt1.ggpht.com
+220.255.2.153 yt0.ggpht.com
+220.255.2.153 yt4.ggpht.com
+220.255.2.153 yt5.ggpht.com
+220.255.2.153 yt6.ggpht.com
+##########
 # 去广告部分
 127.0.0.1 localhost
 127.0.0.1 0.r.msn.com
@@ -18723,7 +18733,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com
 127.0.0.1 im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com
 127.0.0.1 im.ctags.cn
-127.0.0.1 im.jpush.cn
+#127.0.0.1 im.jpush.cn导致app不能调用登录
 127.0.0.1 im.mn.ctags.cn
 127.0.0.1 im.rediff.com
 127.0.0.1 im.upromise.com
@@ -20456,7 +20466,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 log.superweb.ws
 127.0.0.1 log.tapatalk.com
 127.0.0.1 log.tbs.qq.com
-127.0.0.1 log.umsns.com
+#127.0.0.1 log.umsns.com导致不能调用app
 127.0.0.1 log.v.iask.com
 127.0.0.1 log.v2.hunantv.com
 127.0.0.1 log.vdn.apps.cntv.cn
@@ -23746,7 +23756,6 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagead.topobiavi.com
 127.0.0.1 pagead1.googlesyndication.com
-127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead2.vxiaoshuo8.com
 127.0.0.1 pagead46.l.doubleclick.net
@@ -23820,7 +23829,6 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 partner.finditquick.com
 127.0.0.1 partner.friendsearch.com
 127.0.0.1 partner.funshion.com
-127.0.0.1 partner.googleadservices.com
 127.0.0.1 partner.leguide.com
 127.0.0.1 partner.oboom.com
 127.0.0.1 partner.premiumdomains.com
@@ -27227,7 +27235,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 snippets-stats.mozilla.org
 127.0.0.1 snoobi.com
 127.0.0.1 snowplow-collector.sugarops.com
-127.0.0.1 sns.whalecloud.com
+#127.0.0.1 sns.whalecloud.com导致app不能调用登录
 127.0.0.1 snwmedia.adk2x.com
 127.0.0.1 so.118114.cn
 127.0.0.1 so.stat.v-56.com
@@ -32702,7 +32710,6 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 www.gooddata.com
 127.0.0.1 www.goodtraffic.net
 127.0.0.1 www.google.com.1.302br.net
-127.0.0.1 www.googleadservices.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googlecommerce.com
 127.0.0.1 www.googlesyndication.com
@@ -35071,7 +35078,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 static.app.m.letv.com
 #127.0.0.1 api.mob.app.letv.com
 #
-#真的没时间去详细分类
+#没时间解释了～
 127.0.0.1 ffwap.com
 127.0.0.1 img.feitian001.com
 127.0.0.1 lmcdn1.admin5.com
@@ -35116,4 +35123,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 m.hao123.com
-
+127.0.0.1 google.ad
+127.0.0.1 www.google.ad
+127.0.0.1 pagead-googlehosted.l.google.com
+127.0.0.1 video-analytics.l.google.com
