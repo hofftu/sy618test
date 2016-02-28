@@ -20,7 +20,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 ######################################################################
 ##20160227更新：
 #重构FQ部分、
-#重新深度过滤爱奇艺广告、新闻门户网站广告、bt搜索网页广告、乐乐动漫网广告、其他很多...
+#重新深度过滤爱奇艺广告、乐视广告、搜狐、新闻门户网站广告、bt搜索网页广告、乐乐动漫网广告、其他很多...
 #
 #
 ###################
@@ -14853,30 +14853,23 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 d1.windows8downloads.com
 127.0.0.1 d1.zedo.com
 127.0.0.1 d13.zedo.com
-
 127.0.0.1 d2.advertserve.com
 127.0.0.1 d2.appdown.info
 127.0.0.1 d2.casee.cn
 127.0.0.1 d2.cnr.cn
 127.0.0.1 d2.sina.com.cn
 127.0.0.1 d2.zedo.com
-
 127.0.0.1 d3.sc.omtrdc.net
 127.0.0.1 d3.sina.com.cn
 127.0.0.1 d3.zedo.com
-
 127.0.0.1 d3fd89.r.axf8.net
-
 127.0.0.1 d4.sina.com.cn
 127.0.0.1 d4.zedo.com
-
 127.0.0.1 d5.sina.com.cn
 127.0.0.1 d5.zedo.com
 127.0.0.1 d5e1ef2qzo-8108dl9wk1l8m59.hop.clickbank.net
-
 127.0.0.1 d6.sina.com.cn
 127.0.0.1 d6.zedo.com
-
 127.0.0.1 d6hzz.survey7.adsservingtwig.xyz
 127.0.0.1 d6y1.ads.pof.com
 127.0.0.1 d6y2.ads.pof.com
@@ -14885,12 +14878,10 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 d7.sina.com.cn
 127.0.0.1 d7.zedo.com
 127.0.0.1 d8.zedo.com
-
 127.0.0.1 d9.sina.com.cn
 127.0.0.1 d9.zedo.com
 127.0.0.1 d9b05-pgfb01xj76ljh8o4sg3f.hop.clickbank.net
 127.0.0.1 d9d0e0.r.axf8.net
-
 127.0.0.1 da.feedsportal.com
 127.0.0.1 da.newstogram.com
 127.0.0.1 da.virginmedia.com
@@ -14923,7 +14914,6 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 daimlerag.122.2o7.net
 127.0.0.1 daimlerag.d2.sc.omtrdc.net
 127.0.0.1 dal2.voxcloud.cedexis.com
-
 127.0.0.1 damnimcute.us.intellitxt.com
 127.0.0.1 danasdirt.us.intellitxt.com
 127.0.0.1 danban.com
@@ -15086,7 +15076,6 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 dc56.s290.meetrics.net
 127.0.0.1 dc61.s290.meetrics.net
 127.0.0.1 dc84.s290.meetrics.net
-
 127.0.0.1 d-cache.microad-cn.com
 127.0.0.1 dcad.watersoul.com
 127.0.0.1 dcapps.disney.go.com
@@ -15110,7 +15099,6 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 dd.connextra.com
 127.0.0.1 ddi2.com
 127.0.0.1 ddmap.adsame.com
-
 127.0.0.1 de.2.cqcounter.com
 127.0.0.1 de.adition.com
 127.0.0.1 de.ads.adviva.net
@@ -15131,7 +15119,6 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 de1.frosmo.com
 127.0.0.1 de17a.com
 127.0.0.1 de2.ipinkvisualpass.com
-
 127.0.0.1 dealcatcher.com
 127.0.0.1 dealchicken.go2cloud.org
 127.0.0.1 dealcollect.insightfirst.com
@@ -15294,7 +15281,6 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 devshed.us.intellitxt.com
 127.0.0.1 df.tanx.com
 127.0.0.1 dfd8-789c-33b8-f419.reporo.net
-
 127.0.0.1 dfp.doubleclick.net
 127.0.0.1 dfpreports.doubleclick.net
 127.0.0.1 dft.cl.dynad.net
@@ -35080,6 +35066,11 @@ http://laod.cn/hosts/2016-google-hosts.html
 #127.0.0.1 cache.m.iqiyi.com评论区
 #127.0.0.1 control.i.iqiyi.com评论留言
 #
+#乐视客户端
+127.0.0.1 n.mark.letv.com
+127.0.0.1 static.app.m.letv.com
+#127.0.0.1 api.mob.app.letv.com
+#
 #真的没时间去详细分类
 127.0.0.1 ffwap.com
 127.0.0.1 img.feitian001.com
@@ -35102,12 +35093,12 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 rjs.niuxgame77.com
 127.0.0.1 ps.haohaowan8.com
 127.0.0.1 ad.www.clwaiting.com
-127.0.0.1 e.changyan.sohu.com
+#127.0.0.1 e.changyan.sohu.com
 127.0.0.1 r.adbxb.com
 127.0.0.1 c.bxb.oupeng.com
 127.0.0.1 c1.adbxb.com
 127.0.0.1 changyan.itc.cn
-127.0.0.1 changyan.sohu.com
+#127.0.0.1 changyan.sohu.com
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 x.jd.com
 127.0.0.1 www.2f.com
@@ -35116,4 +35107,13 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 static.tieba.baidu.com
 127.0.0.1 bos-pack.ops.baidu.com
 127.0.0.1 s.jandan.com
-#127.0.0.1 cdn.jandan.net
+127.0.0.1 www.jiukan1.com
+127.0.0.1 www.nextcps.com
+127.0.0.1 www.statcounter.com
+127.0.0.1 muban.muyouwan.com
+127.0.0.1 www.boosme.info
+127.0.0.1 www.solomet.info
+127.0.0.1 dol.deliver.ifeng.com
+127.0.0.1 c1.ifengimg.com
+127.0.0.1 m.hao123.com
+
