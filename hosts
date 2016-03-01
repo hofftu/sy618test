@@ -1,7 +1,7 @@
 ###################################
 ############【AD+ FQ】##############
-#本hosts专注于去国内各种网页广告、客户端广告、视频广告，fq功能只是附带。
-#
+#本hosts专注于去国内各种网页广告、客户端广告、视频广告
+#fq功能只是附带，稳定FQ请用蓝灯：https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk
 # 此hosts已修改了大量误杀，添加了大量新广告黑名单，从2015维护至今去广告部分越趋完善稳定。fq部分实现基本可用。
 #
 ###################################
@@ -24,14 +24,12 @@ http://laod.cn/hosts/2016-google-hosts.html
 #
 ###################################
 #############更新日志###############
-#0229：解决几处非常难找的误杀导致不能登录问题
-#0228：解决可能存在冲突的内容
-#20160227大更新：
-#重构FQ部分、重新深度过滤爱奇艺广告、乐视广告、搜狐、新闻门户网站广告、bt搜索网页广告、乐乐动漫网广告、其他很多..！
+#3月
+#01更新fb
 #############且用且珍惜##############
 #
 # Facebook start
-66.220.158.13    fb.me
+182.239.95.136    fb.me
 31.13.66.14    video.xx.fbcdn.net
 31.13.66.9    scontent.xx.fbcdn.net
 31.13.66.9    scontent-a.xx.fbcdn.net
@@ -57,7 +55,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 23.63.99.171    fbcdn-video-o-a.akamaihd.net
 23.63.99.144    fbcdn-video-p-a.akamaihd.net
 23.63.99.123    fbcdn-vthumb-a.akamaihd.net
-66.220.158.13    mqtt.facebook.com
+182.239.95.136    mqtt.facebook.com
 77.67.4.11    fbcdn-sphotos-a-a.akamaihd.net
 77.67.4.64    fbcdn-sphotos-b-a.akamaihd.net
 77.67.4.74    fbcdn-sphotos-c-a.akamaihd.net
@@ -71,23 +69,23 @@ http://laod.cn/hosts/2016-google-hosts.html
 23.213.58.87    profile.ak.facebook.com
 184.28.188.154    static.ak.facebook.com
 184.28.188.154    b.static.ak.facebook.com
-66.220.158.13    graph.facebook.com
-66.220.158.13    ssl.facebook.com
-66.220.158.13    api.facebook.com
-66.220.158.13    secure-profile.facebook.com
-66.220.158.13    secure.facebook.com
-66.220.158.13    zh-cn.facebook.com
-66.220.158.13    login.facebook.com
-66.220.158.13    m.facebook.com
+182.239.95.136    graph.facebook.com
+182.239.95.136    ssl.facebook.com
+182.239.95.136    api.facebook.com
+182.239.95.136    secure-profile.facebook.com
+182.239.95.136    secure.facebook.com
+182.239.95.136    zh-cn.facebook.com
+182.239.95.136    login.facebook.com
+182.239.95.136    m.facebook.com
 108.166.120.82    messages-facebook.com
-66.220.158.13    attachments.facebook.com
-66.220.158.13    touch.facebook.com
-66.220.158.13    facebook.com
-66.220.158.13    www.facebook.com
-66.220.158.13    apps.facebook.com
-66.220.158.13    upload.facebook.com
-66.220.158.13    developers.facebook.com
-66.220.158.13    fbcdn.net
+182.239.95.136    attachments.facebook.com
+182.239.95.136    touch.facebook.com
+182.239.95.136    facebook.com
+182.239.95.136    www.facebook.com
+182.239.95.136    apps.facebook.com
+182.239.95.136    upload.facebook.com
+182.239.95.136    developers.facebook.com
+182.239.95.136    fbcdn.net
 165.254.42.232    profile.ak.fbcdn.net
 173.252.71.184    vpn.tfbnw.net
 184.28.188.240    vthumb.ak.fbcdn.net
@@ -119,25 +117,25 @@ http://laod.cn/hosts/2016-google-hosts.html
 69.171.246.16    channel-ecmp-05-ash3.facebook.com
 69.171.246.17    channel-staging-ecmp-05-ash3.facebook.com
 69.171.246.18    channel-testing-ecmp-05-ash3.facebook.com
-66.220.158.13    0-edge-chat.facebook.com
-66.220.158.13    1-edge-chat.facebook.com
-66.220.158.13    2-edge-chat.facebook.com
-66.220.158.13    3-edge-chat.facebook.com
-66.220.158.13    4-edge-chat.facebook.com
-66.220.158.13    5-edge-chat.facebook.com
-66.220.158.13    6-edge-chat.facebook.com
-66.220.158.13    api-read.facebook.com
-66.220.158.13    attachment.fbsbx.com
-66.220.158.13    bigzipfiles.facebook.com
-66.220.158.13    check4.facebook.com
-66.220.158.13    check6.facebook.com
-66.220.158.13    code.facebook.com
-66.220.158.13    connect.facebook.com
-66.220.158.13    edge-chat.facebook.com
-66.220.158.13    pixel.facebook.com
-66.220.158.13    star.c10r.facebook.com
-66.220.158.13    star.facebook.com
-66.220.158.13    zh-tw.facebook.com
+182.239.95.136    0-edge-chat.facebook.com
+182.239.95.136    1-edge-chat.facebook.com
+182.239.95.136    2-edge-chat.facebook.com
+182.239.95.136    3-edge-chat.facebook.com
+182.239.95.136    4-edge-chat.facebook.com
+182.239.95.136    5-edge-chat.facebook.com
+182.239.95.136    6-edge-chat.facebook.com
+182.239.95.136    api-read.facebook.com
+182.239.95.136    attachment.fbsbx.com
+182.239.95.136    bigzipfiles.facebook.com
+182.239.95.136    check4.facebook.com
+182.239.95.136    check6.facebook.com
+182.239.95.136    code.facebook.com
+182.239.95.136    connect.facebook.com
+182.239.95.136    edge-chat.facebook.com
+182.239.95.136    pixel.facebook.com
+182.239.95.136    star.c10r.facebook.com
+182.239.95.136    star.facebook.com
+182.239.95.136    zh-tw.facebook.com
 173.252.74.27    b-api.facebook.com
 173.252.74.27    b-graph.facebook.com
 104.78.23.174    connect.facebook.net
@@ -35066,7 +35064,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 subscription.iqiyi.com
-127.0.0.1 up.video.iqiyi.com
+#127.0.0.1 up.video.iqiyi.com
 127.0.0.1 score.video.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 static1.bfdcdn.com
@@ -35127,3 +35125,5 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 www.google.ad
 127.0.0.1 pagead-googlehosted.l.google.com
 127.0.0.1 video-analytics.l.google.com
+127.0.0.1 www.wzajs.com
+127.0.0.1 fans.bestvogue.com
