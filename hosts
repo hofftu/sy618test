@@ -18,13 +18,15 @@
 http://laod.cn/hosts/2016-google-hosts.html
 #
 ##################################
-##############样本#################
-#（fq部分蓝本来自于2016-02-25老d的谷歌hosts文件）
-#（ 去广告部分蓝本来自于adaway中国版20151018日文件）
+##############说明#################
+#fq部分蓝本采用2016-02-25老d的谷歌hosts文件
+#去广告部分蓝本采用adaway中国版20151018日文件
 #
 ###################################
 #############更新日志###############
 #3月
+#05修复淘宝误杀
+#03屏蔽miui广告
 #01更新fb
 #############且用且珍惜##############
 #
@@ -9111,7 +9113,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 ah-ha.com
 127.0.0.1 ahtv.wrating.com
 127.0.0.1 ai.hitbox.com
-127.0.0.1 ai.m.taobao.com
+#127.0.0.1 ai.m.taobao.com
 127.0.0.1 ai.net
 127.0.0.1 ai.pricegrabber.com
 127.0.0.1 ai.taobao.com
@@ -35127,3 +35129,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 video-analytics.l.google.com
 127.0.0.1 www.wzajs.com
 127.0.0.1 fans.bestvogue.com
+127.0.0.1 xlmc.sec.miui.com
+127.0.0.1 api.sec.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 cdn.read.html5.qq.com
