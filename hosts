@@ -1,39 +1,41 @@
 ###################################
 ############【AD+ FQ】##############
-#本hosts专注于去国内各种网页广告、客户端广告、视频广告
-#fq功能只是附带，稳定FQ请用蓝灯：https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk
-# 此hosts已修改了大量误杀，添加了大量新广告黑名单，从2015维护至今去广告部分越趋完善稳定。fq部分实现基本可用。
+#本hosts专注于去除【国内】各种网页广告、客户端广告、视频广告
+#
+#fq功能只是附带，稳定FQ请用蓝灯：https://getlantern.org/，蓝灯下载🚩：https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk
+#
+# 此hosts已修复了大量误杀，自己添加了大量新广告域名，从2015维护至今去广告部分越趋完善稳定。fq部分实现基本可用。
 #
 ###################################
 ############【联系我】###############
-#如果你有发现还存在误杀情况与广告问题，请联系我
+#如果你有发现还存在误杀情况与广告问题，可以联系我：
 #酷安：sy619
-#（FQ方面问题请到老D博客反馈）
 #
+#（FQ方面问题请到老D博客反馈或直接使用蓝灯）
 ###################################
 ############  订阅源 #################
 #【本hosts】：https://raw.githubusercontent.com/sy618/hosts/master/hosts
-#【Adaway中国版】去广告自带源：https://coding.net/u/Elaine_ni/p/hosts/git/raw/master/hosts.txt
-#【老D谷歌hosts博客】：
-http://laod.cn/hosts/2016-google-hosts.html
+#【Adaway中国版自带】纯去广告源：https://coding.net/u/Elaine_ni/p/hosts/git/raw/master/hosts.txt
+#【老D谷歌hosts】https://github.com/racaljk/hosts 
+#博客：http://laod.cn/hosts/2016-google-hosts.html
 #
 ##################################
 ##############说明#################
 #fq部分蓝本采用2016-02-25老d的谷歌hosts文件
 #去广告部分蓝本采用adaway中国版20151018日文件
-#
 ###################################
 #############更新日志###############
 ##3月
+#09更新fb
 #08修复爱奇艺客户端不能刷新观看记录、添加百度云网盘广告、去微博误杀、修复爱奇艺客户端无法更新、修复腾讯新闻排版错乱
 #07添加腾讯网一广告
 #05修复淘宝误杀
-#03屏蔽miui广告
+#03酷安网友@笨淡 提供miui广告域名
 #01更新fb
 #############且用且珍惜##############
 #
 # Facebook start
-182.239.95.136    fb.me
+182.239.95.137    fb.me
 31.13.66.14    video.xx.fbcdn.net
 31.13.66.9    scontent.xx.fbcdn.net
 31.13.66.9    scontent-a.xx.fbcdn.net
@@ -59,7 +61,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 23.63.99.171    fbcdn-video-o-a.akamaihd.net
 23.63.99.144    fbcdn-video-p-a.akamaihd.net
 23.63.99.123    fbcdn-vthumb-a.akamaihd.net
-182.239.95.136    mqtt.facebook.com
+182.239.95.137    mqtt.facebook.com
 77.67.4.11    fbcdn-sphotos-a-a.akamaihd.net
 77.67.4.64    fbcdn-sphotos-b-a.akamaihd.net
 77.67.4.74    fbcdn-sphotos-c-a.akamaihd.net
@@ -73,23 +75,23 @@ http://laod.cn/hosts/2016-google-hosts.html
 23.213.58.87    profile.ak.facebook.com
 184.28.188.154    static.ak.facebook.com
 184.28.188.154    b.static.ak.facebook.com
-182.239.95.136    graph.facebook.com
-182.239.95.136    ssl.facebook.com
-182.239.95.136    api.facebook.com
-182.239.95.136    secure-profile.facebook.com
-182.239.95.136    secure.facebook.com
-182.239.95.136    zh-cn.facebook.com
-182.239.95.136    login.facebook.com
-182.239.95.136    m.facebook.com
+182.239.95.137    graph.facebook.com
+182.239.95.137    ssl.facebook.com
+182.239.95.137    api.facebook.com
+182.239.95.137    secure-profile.facebook.com
+182.239.95.137    secure.facebook.com
+182.239.95.137    zh-cn.facebook.com
+182.239.95.137    login.facebook.com
+182.239.95.137    m.facebook.com
 108.166.120.82    messages-facebook.com
-182.239.95.136    attachments.facebook.com
-182.239.95.136    touch.facebook.com
-182.239.95.136    facebook.com
-182.239.95.136    www.facebook.com
-182.239.95.136    apps.facebook.com
-182.239.95.136    upload.facebook.com
-182.239.95.136    developers.facebook.com
-182.239.95.136    fbcdn.net
+182.239.95.137    attachments.facebook.com
+182.239.95.137    touch.facebook.com
+182.239.95.137    facebook.com
+182.239.95.137    www.facebook.com
+182.239.95.137    apps.facebook.com
+182.239.95.137    upload.facebook.com
+182.239.95.137    developers.facebook.com
+182.239.95.137    fbcdn.net
 165.254.42.232    profile.ak.fbcdn.net
 173.252.71.184    vpn.tfbnw.net
 184.28.188.240    vthumb.ak.fbcdn.net
@@ -121,25 +123,25 @@ http://laod.cn/hosts/2016-google-hosts.html
 69.171.246.16    channel-ecmp-05-ash3.facebook.com
 69.171.246.17    channel-staging-ecmp-05-ash3.facebook.com
 69.171.246.18    channel-testing-ecmp-05-ash3.facebook.com
-182.239.95.136    0-edge-chat.facebook.com
-182.239.95.136    1-edge-chat.facebook.com
-182.239.95.136    2-edge-chat.facebook.com
-182.239.95.136    3-edge-chat.facebook.com
-182.239.95.136    4-edge-chat.facebook.com
-182.239.95.136    5-edge-chat.facebook.com
-182.239.95.136    6-edge-chat.facebook.com
-182.239.95.136    api-read.facebook.com
-182.239.95.136    attachment.fbsbx.com
-182.239.95.136    bigzipfiles.facebook.com
-182.239.95.136    check4.facebook.com
-182.239.95.136    check6.facebook.com
-182.239.95.136    code.facebook.com
-182.239.95.136    connect.facebook.com
-182.239.95.136    edge-chat.facebook.com
-182.239.95.136    pixel.facebook.com
-182.239.95.136    star.c10r.facebook.com
-182.239.95.136    star.facebook.com
-182.239.95.136    zh-tw.facebook.com
+182.239.95.137    0-edge-chat.facebook.com
+182.239.95.137    1-edge-chat.facebook.com
+182.239.95.137    2-edge-chat.facebook.com
+182.239.95.137    3-edge-chat.facebook.com
+182.239.95.137    4-edge-chat.facebook.com
+182.239.95.137    5-edge-chat.facebook.com
+182.239.95.137    6-edge-chat.facebook.com
+182.239.95.137    api-read.facebook.com
+182.239.95.137    attachment.fbsbx.com
+182.239.95.137    bigzipfiles.facebook.com
+182.239.95.137    check4.facebook.com
+182.239.95.137    check6.facebook.com
+182.239.95.137    code.facebook.com
+182.239.95.137    connect.facebook.com
+182.239.95.137    edge-chat.facebook.com
+182.239.95.137    pixel.facebook.com
+182.239.95.137    star.c10r.facebook.com
+182.239.95.137    star.facebook.com
+182.239.95.137    zh-tw.facebook.com
 173.252.74.27    b-api.facebook.com
 173.252.74.27    b-graph.facebook.com
 104.78.23.174    connect.facebook.net
