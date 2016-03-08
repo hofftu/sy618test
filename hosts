@@ -25,7 +25,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 ###################################
 #############更新日志###############
 ##3月
-#08修复爱奇艺客户端观看记录误杀
+#08修复爱奇艺客户端不能刷新观看记录、添加百度云网盘广告、去微博误杀、修复爱奇艺客户端无法更新、修复腾讯新闻排版错乱
 #07添加腾讯网一广告
 #05修复淘宝误杀
 #03屏蔽miui广告
@@ -21133,7 +21133,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 mb.zam.com
 127.0.0.1 mb01.com
 127.0.0.1 mb104.com
-127.0.0.1 mbdapp.iqiyi.com
+#127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 mbfile.ppstream.com
 127.0.0.1 mbl.flash.jiehunmishu.com
@@ -24729,7 +24729,7 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 promos.wealthymen.com
 127.0.0.1 promos.wegcash.com
 127.0.0.1 promoserver.net
-127.0.0.1 promote.biz.weibo.cn
+#127.0.0.1 promote.biz.weibo.cn
 127.0.0.1 promote.pair.com
 127.0.0.1 promotion.partnercash.com
 127.0.0.1 promotion.shirtinator.net
@@ -35135,4 +35135,5 @@ http://laod.cn/hosts/2016-google-hosts.html
 127.0.0.1 api.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 cdn.read.html5.qq.com
-127.0.0.1 mat1.gtimg.com
+#127.0.0.1 mat1.gtimg.com
+127.0.0.1 bcscdn.baidu.com
