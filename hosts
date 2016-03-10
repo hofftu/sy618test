@@ -26,6 +26,7 @@
 ###################################
 #############更新日志###############
 ##3月
+#11再次添加屏蔽miui广告、修复百度云客户端不能安装视频插件
 #09更新fb
 #08修复爱奇艺客户端不能刷新观看记录、添加百度云网盘广告、去微博误杀、修复爱奇艺客户端无法更新、修复腾讯新闻排版错乱
 #07添加腾讯网一广告
@@ -172,6 +173,7 @@
 69.171.235.49    vupload.facebook.com
 69.171.235.49    vupload2.vvv.facebook.com
 # Facebook end
+#
 # Twitter Start
 185.45.5.47	t.co
 185.45.5.54	api.twitter.com
@@ -35138,4 +35140,13 @@
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 cdn.read.html5.qq.com
 #127.0.0.1 mat1.gtimg.com
-127.0.0.1 bcscdn.baidu.com
+#127.0.0.1 bcscdn.baidu.com
+127.0.0.1 v.6dvip.com
+127.0.0.1 d16b4.8ox.cn
+127.0.0.1 199.nord-raum.com
+127.0.0.1 tvtvtv.9090qqtvtv.com
+127.0.0.1 ttyy.365gym.cn
+127.0.0.1 c3.moogos.com
+127.0.0.1 app01.nodes.gslb.mi-idc.com
+127.0.0.1 app02.nodes.gslb.mi-idc.com
+127.0.0.1 file.market.xiaomi.com
