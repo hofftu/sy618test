@@ -26,7 +26,7 @@
 ###################################
 #############更新日志###############
 ##3月
-#11再次添加屏蔽miui广告、修复百度云客户端不能安装视频插件
+#12屏蔽爱弹幕网广告
 #09更新fb
 #08修复爱奇艺客户端不能刷新观看记录、添加百度云网盘广告、去微博误杀、修复爱奇艺客户端无法更新、修复腾讯新闻排版错乱
 #07添加腾讯网一广告
@@ -35150,3 +35150,14 @@
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
 127.0.0.1 file.market.xiaomi.com
+127.0.0.1 ww2.sinaimg.cn
+127.0.0.1 ww1.sinaimg.cn
+127.0.0.1 ww4.sinaimg.cn
+127.0.0.1 ww3.sinaimg.cn
+127.0.0.1 s.jusha.com
+127.0.0.1 cn.gravatar.com
+127.0.0.1 dd.010teacher.com
+127.0.0.1 imgcdn.ahzlep.com
+127.0.0.1 js1746.lishuanghao.com
+127.0.0.1 activation.inn-studio.com
+127.0.0.1 t22.3sdaigou.com
