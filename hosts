@@ -26,6 +26,7 @@
 ###################################
 #############更新日志###############
 ##3月
+#14写点教程关于如何抓包，放网盘里。
 #12屏蔽 爱弹幕 网广告条、继续完善miui广告
 #11再次添加屏蔽miui广告、修复百度云客户端不能安装视频插件
 #09更新fb
@@ -35137,11 +35138,11 @@
 127.0.0.1 www.wzajs.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 xlmc.sec.miui.com
-127.0.0.1 api.sec.miui.com
+#127.0.0.1 api.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 cdn.read.html5.qq.com
 #127.0.0.1 mat1.gtimg.com
-#127.0.0.1 bcscdn.baidu.com
+127.0.0.1 bcscdn.baidu.com
 127.0.0.1 v.6dvip.com
 127.0.0.1 d16b4.8ox.cn
 127.0.0.1 199.nord-raum.com
@@ -35150,7 +35151,7 @@
 127.0.0.1 c3.moogos.com
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
-127.0.0.1 file.market.xiaomi.com
+#127.0.0.1 file.market.xiaomi.com
 #127.0.0.1 ww2.sinaimg.cn
 #127.0.0.1 ww1.sinaimg.cn
 #127.0.0.1 ww4.sinaimg.cn
@@ -35170,3 +35171,16 @@
 127.0.0.1 mibind.chat.gslb.mi-idc.com
 127.0.0.1 info.analysis.kp.sec.miui.com
 127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 www.xh334455.com
+127.0.0.1 d.aoaopa00.com
+127.0.0.1 www.v19888.com
+127.0.0.1 lm.admin5.com
+127.0.0.1 www.17435.com
+127.0.0.1 js2498.lishuanghao.com
+127.0.0.1 www.2466tt.com
+127.0.0.1 www.5345ee.com
+127.0.0.1 cloud.zyiis.net
+127.0.0.1 www.jixing.cc
+127.0.0.1 e.e701.net
+127.0.0.1 a.70e.com
+127.0.0.1 cpro.sogou.86lego.com
