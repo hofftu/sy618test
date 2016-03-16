@@ -9,8 +9,9 @@
 ###################################
 ############【联系我】###############
 #如果你有发现还存在误杀情况与广告问题，可以联系我：
-#酷安：sy619
+#酷安网：sy619
 #
+#抓包工具以及教程：http://pan.baidu.com/s/1qW1QcA4
 #（FQ方面问题请到老D博客反馈或直接使用蓝灯）
 ###################################
 ############  订阅源 #################
@@ -26,6 +27,7 @@
 ###################################
 #############更新日志###############
 ##3月
+#16屏蔽风车动漫网新出现的广告、其他屏蔽
 #14写点教程关于如何抓包，放网盘里。
 #12屏蔽 爱弹幕 网广告条、继续完善miui广告
 #11再次添加屏蔽miui广告、修复百度云客户端不能安装视频插件
@@ -24539,7 +24541,7 @@
 127.0.0.1 powersearch.us.com
 127.0.0.1 powertube.bitterstrawberry.com
 127.0.0.1 pp.keyrun.com
-127.0.0.1 pp.myapp.com
+#127.0.0.1 pp.myapp.com
 127.0.0.1 pp.nrelate.com
 127.0.0.1 pp1.pplive.com
 127.0.0.1 pp2.as.pplive.cn
@@ -35045,6 +35047,18 @@
 127.0.0.1 material.jusha.com
 127.0.0.1 www.163.com.rshygs.com
 127.0.0.1 mobile.xinyongka.51qq.net.cn
+127.0.0.1 vip.9wjc.com
+127.0.0.1 njs.myyage.com
+#127.0.0.1 52dongm.duapp.com风车动漫视频
+127.0.0.1 js2294.lishuanghao.com
+127.0.0.1 iiad.liuliguo.com
+127.0.0.1 vipdy.r2d7.pw
+127.0.0.1 lgcdr.ruitt.com
+127.0.0.1 z8dzuvhzvpeay0k.z8dzuvhzvpeay0k.e7g9.pw
+127.0.0.1 qzgmv.ruitt.com
+127.0.0.1 pic.gpdzj.com
+127.0.0.1 6rrdwwewtx8u6ww.6rrdwwewtx8u6ww.e7g9.pw
+127.0.0.1 c1.qshxc.com
 #
 #新浪
 127.0.0.1 d8.sina.com.cn
@@ -35137,21 +35151,22 @@
 127.0.0.1 video-analytics.l.google.com
 127.0.0.1 www.wzajs.com
 127.0.0.1 fans.bestvogue.com
+#小米
 127.0.0.1 xlmc.sec.miui.com
 #127.0.0.1 api.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 cdn.read.html5.qq.com
-#127.0.0.1 mat1.gtimg.com
-127.0.0.1 bcscdn.baidu.com
-127.0.0.1 v.6dvip.com
-127.0.0.1 d16b4.8ox.cn
-127.0.0.1 199.nord-raum.com
-127.0.0.1 tvtvtv.9090qqtvtv.com
-127.0.0.1 ttyy.365gym.cn
-127.0.0.1 c3.moogos.com
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
 #127.0.0.1 file.market.xiaomi.com
+127.0.0.1 miwifi.com
+127.0.0.1 api.ra1.xlmc.sandai.net
+127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 twin13a131.sandai.net
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1 mibind.chat.gslb.mi-idc.com
+127.0.0.1 info.analysis.kp.sec.miui.com
+127.0.0.1 test.ad.xiaomi.com
+#
 #127.0.0.1 ww2.sinaimg.cn
 #127.0.0.1 ww1.sinaimg.cn
 #127.0.0.1 ww4.sinaimg.cn
@@ -35163,14 +35178,7 @@
 127.0.0.1 js1746.lishuanghao.com
 127.0.0.1 activation.inn-studio.com
 127.0.0.1 t22.3sdaigou.com
-127.0.0.1 miwifi.com
-127.0.0.1 api.ra1.xlmc.sandai.net
-127.0.0.1 sousuo.xm.sjzhushou.com
-127.0.0.1 twin13a131.sandai.net
-127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
-127.0.0.1 mibind.chat.gslb.mi-idc.com
-127.0.0.1 info.analysis.kp.sec.miui.com
-127.0.0.1 test.ad.xiaomi.com
+#
 127.0.0.1 www.xh334455.com
 127.0.0.1 d.aoaopa00.com
 127.0.0.1 www.v19888.com
@@ -35184,3 +35192,36 @@
 127.0.0.1 e.e701.net
 127.0.0.1 a.70e.com
 127.0.0.1 cpro.sogou.86lego.com
+#
+127.0.0.1 cdn.read.html5.qq.com
+#127.0.0.1 mat1.gtimg.com
+#127.0.0.1 bcscdn.baidu.com
+127.0.0.1 v.6dvip.com
+127.0.0.1 d16b4.8ox.cn
+127.0.0.1 199.nord-raum.com
+127.0.0.1 tvtvtv.9090qqtvtv.com
+127.0.0.1 ttyy.365gym.cn
+127.0.0.1 c3.moogos.com
+#一个
+127.0.0.1 sdkinit.taobao.com
+127.0.0.1 disk.giccoo.com
+127.0.0.1 m.giccoo.com
+127.0.0.1 click.gridsumdissector.com
+127.0.0.1 ynuf.alipay.com
+127.0.0.1 wb.110.taobao.com
+#
+127.0.0.1 api.baidao.com
+127.0.0.1 m.98.cn
+127.0.0.1 win.tiantong99.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 isub.snssdk.com
+127.0.0.1 i.snssdk.com
+127.0.0.1 m2397.oadz.com
+127.0.0.1 u.pingan.com
+127.0.0.1 win.98.cn
+127.0.0.1 hiphotos.baidu.com
+127.0.0.1 idcot.com
+127.0.0.1 img.jx.media8.cn
+#
+127.0.0.1 s1.pan.bdstatic.com
+#
