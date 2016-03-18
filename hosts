@@ -35196,7 +35196,6 @@
 #
 127.0.0.1 cdn.read.html5.qq.com
 #127.0.0.1 mat1.gtimg.com
-#127.0.0.1 bcscdn.baidu.com
 127.0.0.1 v.6dvip.com
 127.0.0.1 d16b4.8ox.cn
 127.0.0.1 199.nord-raum.com
@@ -35205,6 +35204,7 @@
 127.0.0.1 c3.moogos.com
 #
 #127.0.0.1 s1.pan.bdstatic.com
+127.0.0.1 bcscdn.baidu.com
 #
 #一个
 127.0.0.1 sdkinit.taobao.com
@@ -35213,7 +35213,7 @@
 127.0.0.1 click.gridsumdissector.com
 127.0.0.1 ynuf.alipay.com
 127.0.0.1 wb.110.taobao.com
-#jrtt
+#今日头条（可能有误杀）
 127.0.0.1 api.baidao.com
 127.0.0.1 m.98.cn
 127.0.0.1 win.tiantong99.com
