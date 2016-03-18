@@ -27,6 +27,7 @@
 ###################################
 #############更新日志###############
 ##3月
+#18尝试屏蔽今日头条失败了，机智的头条菌把广告真实地址改成短链接，所以无法屏蔽其推广广告。
 #16屏蔽风车动漫网新出现的广告、其他屏蔽
 #14写点教程关于如何抓包，放网盘里。
 #12屏蔽 爱弹幕 网广告条、继续完善miui广告
@@ -35202,6 +35203,9 @@
 127.0.0.1 tvtvtv.9090qqtvtv.com
 127.0.0.1 ttyy.365gym.cn
 127.0.0.1 c3.moogos.com
+#
+127.0.0.1 s1.pan.bdstatic.com
+#
 #一个
 127.0.0.1 sdkinit.taobao.com
 127.0.0.1 disk.giccoo.com
@@ -35209,12 +35213,12 @@
 127.0.0.1 click.gridsumdissector.com
 127.0.0.1 ynuf.alipay.com
 127.0.0.1 wb.110.taobao.com
-#
+#jrtt
 127.0.0.1 api.baidao.com
 127.0.0.1 m.98.cn
 127.0.0.1 win.tiantong99.com
 127.0.0.1 qzs.qq.com
-127.0.0.1 isub.snssdk.com
+#127.0.0.1 isub.snssdk.com评论
 127.0.0.1 i.snssdk.com
 127.0.0.1 m2397.oadz.com
 127.0.0.1 u.pingan.com
@@ -35222,6 +35226,20 @@
 127.0.0.1 hiphotos.baidu.com
 127.0.0.1 idcot.com
 127.0.0.1 img.jx.media8.cn
-#
-127.0.0.1 s1.pan.bdstatic.com
+#127.0.0.1 d.toutiao.com
+#127.0.0.1 p3.pstatp.com头像
+#127.0.0.1 m.cnr.cn央视新闻
+#127.0.0.1 p.pstatp.com话题图片
+127.0.0.1 t.m.youth.cn
+127.0.0.1 m2.people.cn
+#127.0.0.1 lf.snssdk.com视频
+127.0.0.1 wx.qlogo.cn
+127.0.0.1 log.snssdk.com
+127.0.0.1 ichannel.snssdk.com
+127.0.0.1 mon.snssdk.com
+127.0.0.1 special.mercedes-benz.com.cn
+127.0.0.1 img.wmy-ad.com
+127.0.0.1 cdnmaster.com
+127.0.0.1 www.wmy-ad.com
+127.0.0.1 n-cn.cn
 #
