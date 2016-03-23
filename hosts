@@ -6,7 +6,6 @@
 #
 # 此hosts已修复了大量误杀，自己添加了大量新广告域名，从2015维护至今去广告部分越趋完善稳定。fq部分实现基本可用。
 #
-###################################
 ############【联系我】###############
 #如果你有发现还存在误杀情况与广告问题，可以联系我：
 #酷安网：sy619
@@ -27,7 +26,9 @@
 ###################################
 #############更新日志###############
 ##3月
-#22屏蔽cnbeta里的阿里广告（因广告条与网页图片使用同一域名，故无法屏蔽）   b.修复微信头像不能显示
+#24去除hosts里重复的域名，感谢酷安网友 @没有密码找回 的热心帮助！！
+#23.a屏蔽汽车之家所有广告。b.取消屏蔽cnbeta。c修复应用宝app的误杀.d修复酷狗app8.0不能下载主题与音效
+#22尝试屏蔽cnbeta里的阿里广告。   b.修复微信头像不能显示
 #21a修复QQ浏览器里视频播霸里面图片误杀.b修复迅播影视评论被误杀，并添加屏蔽此网站所有广告
 #20屏蔽宜搜小说广告
 #18修复今日头条评论被误杀（尝试屏蔽今日头条推广失败了，机智的头条菌把广告真实地址改成短链接，所以无法屏蔽其推广广告。）
@@ -52,7 +53,7 @@
 31.13.66.9    scontent-c.xx.fbcdn.net
 31.13.66.9    scontent-d.xx.fbcdn.net
 23.63.99.242    fbexternal-a.akamaihd.net
-23.67.255.208    fbcdn-creative-a.akamaihd.net
+#23.67.255.208    fbcdn-creative-a.akamaihd.net
 23.63.99.186    fbcdn-video-a-a.akamaihd.net
 23.63.99.171    fbcdn-video-b-a.akamaihd.net
 23.63.99.120    fbcdn-video-c-a.akamaihd.net
@@ -112,7 +113,7 @@
 184.28.188.153    photos-f.ak.fbcdn.net
 184.28.188.171    photos-g.ak.fbcdn.net
 184.28.188.146    photos-h.ak.fbcdn.net
-184.28.188.171    creative.ak.fbcdn.net
+#184.28.188.171    creative.ak.fbcdn.net
 184.28.188.153    external.ak.fbcdn.net
 184.28.188.153    b.static.ak.fbcdn.net
 184.28.188.153    static.ak.fbcdn.net
@@ -147,14 +148,14 @@
 182.239.95.137    code.facebook.com
 182.239.95.137    connect.facebook.com
 182.239.95.137    edge-chat.facebook.com
-182.239.95.137    pixel.facebook.com
+#182.239.95.137    pixel.facebook.com
 182.239.95.137    star.c10r.facebook.com
 182.239.95.137    star.facebook.com
 182.239.95.137    zh-tw.facebook.com
 173.252.74.27    b-api.facebook.com
 173.252.74.27    b-graph.facebook.com
 104.78.23.174    connect.facebook.net
-23.32.248.41    creative.ak.fbcdn.net
+#23.32.248.41    creative.ak.fbcdn.net
 173.252.102.13    d.facebook.com
 31.13.95.12    ent-a.xx.fbcdn.net
 31.13.95.12    ent-b.xx.fbcdn.net
@@ -171,8 +172,6 @@
 31.13.79.251    scontent-a-sin.xx.fbcdn.net
 31.13.70.7    scontent-b-lax.xx.fbcdn.net
 183.111.23.18    scontent-b-sin.xx.fbcdn.net
-31.13.82.7    scontent-c.xx.fbcdn.net
-31.13.95.7    scontent-d.xx.fbcdn.net
 31.13.79.224    scontent-e.xx.fbcdn.net
 31.13.86.4    scontent-mxp.xx.fbcdn.net
 23.207.122.24    s-external.ak.fbcdn.net
@@ -187,7 +186,7 @@
 185.45.5.54	api.twitter.com
 185.45.5.41	a0.twimg.com
 185.45.5.41	a1.twimg.com
-185.45.5.41	r.twimg.com
+#185.45.5.41	r.twimg.com
 185.45.5.41	abs.twimg.com
 185.45.5.41	g.twimg.com
 185.45.5.41	ma.twimg.com
@@ -195,12 +194,12 @@
 185.45.5.41	pbs.twimg.com
 185.45.5.41	o.twimg.com
 185.45.5.41	image-proxy-origin.twimg.com
-185.45.5.41	cdn.syndication.twimg.com
+#185.45.5.41	cdn.syndication.twimg.com
 185.45.5.45	about.twitter.com
 185.45.5.45	betastream.twitter.com
 185.45.5.45	blog.twitter.com
 199.59.150.48	cdn.api.twitter.com
-185.45.5.39	cdn.syndication.twitter.com
+#185.45.5.39	cdn.syndication.twitter.com
 185.45.5.45	dev.twitter.com
 185.45.5.35 downloads.tweetdeck.com
 185.45.5.48	mobile.twitter.com
@@ -234,7 +233,7 @@
 185.45.5.45	stream.twitter.com
 185.45.5.49	support.twitter.com
 185.45.5.41	syndication.twimg.com
-185.45.5.39	syndication.twitter.com
+#185.45.5.39	syndication.twitter.com
 185.45.5.41	syndication-o.twimg.com
 185.45.5.39	syndication-o.twitter.com
 185.45.5.35	tdweb.twitter.com
@@ -345,7 +344,7 @@
 220.255.2.153	m.googlemail.com
 220.255.2.153	mail.google.com
 220.255.2.153	www.gmail.com
-64.233.162.84 mail-settings.google.com
+#64.233.162.84 mail-settings.google.com
 # Gmail web End
 # Google Start
 220.255.2.153	www.google.com
@@ -397,7 +396,7 @@
 220.255.2.153	uploads.client.google.com
 220.255.2.153	upload.client.google.com
 220.255.2.153	video.google.com
-220.255.2.153	video-stats.video.google.com
+#220.255.2.153	video-stats.video.google.com
 220.255.2.153	voice.google.com
 220.255.2.153	upload.video.google.com
 220.255.2.153	vp.video.google.com
@@ -748,7 +747,7 @@
 220.255.2.153	mt1.google.com
 220.255.2.153	mt2.google.com
 220.255.2.153	mt3.google.com
-220.255.2.153	gg.google.com
+#220.255.2.153	gg.google.com
 220.255.2.153	id.google.com
 220.255.2.153	mts.google.com
 220.255.2.153	mts0.google.com
@@ -941,9 +940,9 @@
 220.255.2.153	base3.googlehosted.com
 220.255.2.153	base4.googlehosted.com
 220.255.2.153	base5.googlehosted.com
-220.255.2.153	s0.2mdn.net
-220.255.2.153	s1.2mdn.net
-220.255.2.153	service.urchin.com
+#220.255.2.153	s0.2mdn.net
+#220.255.2.153	s1.2mdn.net
+#220.255.2.153	service.urchin.com
 #220.255.2.153	analytics.google.com
 220.255.2.153	www.googleartproject.com
 220.255.2.153	feedburner.google.com
@@ -984,7 +983,7 @@
 220.255.2.153	www4.l.google.com
 220.255.2.153	accounts.l.google.com
 220.255.2.153	accounts-cctld.l.google.com
-220.255.2.153	afd.l.google.com
+#220.255.2.153	afd.l.google.com
 220.255.2.153	android-market.l.google.com
 220.255.2.153	android.l.google.com
 220.255.2.153	android-china.l.google.com
@@ -1116,7 +1115,7 @@
 #220.255.2.153	admob.com
 #220.255.2.153	www.admob.com
 #220.255.2.153	apps.admob.com
-220.255.2.153	www.googlesyndication.com
+#220.255.2.153	www.googlesyndication.com
 127.0.0.1 www.googleadservices.com
 220.255.2.153	adwords.google.com
 220.255.2.153	adwords.google.sk
@@ -3011,17 +3010,17 @@
 68.232.45.67	ec-media.soundcloud.com
 68.232.46.220	ec-rtmp-media.soundcloud.com
 54.76.196.137	eventgateway.soundcloud.com
-54.76.196.137	eventlogger.soundcloud.com
+#54.76.196.137	eventlogger.soundcloud.com
 68.232.44.96	i1.sndcdn.com
 68.232.44.96	i2.sndcdn.com
 68.232.44.96	i3.sndcdn.com
 54.192.138.234	i4.sndcdn.com
-62.161.94.230	logs1403.xiti.com
+#62.161.94.230	logs1403.xiti.com
 72.21.91.127	m.soundcloud.com
-203.190.124.18	pixel.quantserve.com
+#203.190.124.18	pixel.quantserve.com
 68.232.44.127	promoted.soundcloud.com
-23.207.123.120	sb.scorecardresearch.com
-203.190.124.16	secure.quantserve.com
+#23.207.123.120	sb.scorecardresearch.com
+#203.190.124.16	secure.quantserve.com
 68.232.44.127	soundcloud.com
 111.119.3.1	soundcloud.hs.llnwd.net
 72.21.91.96	style.sndcdn.com
@@ -3397,8 +3396,8 @@
 91.198.174.192	meta.wikimedia.org
 91.198.174.192	wikimediafoundation.org
 91.198.174.192	www.wikimediafoundation.org
-91.198.174.192	mediawiki.org
-91.198.174.192	www.mediawiki.org
+#91.198.174.192	mediawiki.org
+#91.198.174.192	www.mediawiki.org
 208.80.154.241	bugs.wikimedia.org
 208.80.154.241	bugzilla.wikimedia.org
 208.80.154.241	noc.wikimedia.org
@@ -3418,7 +3417,7 @@
 68.232.44.121	s.gravatar.com
 192.0.80.242	lb.gravatar.com
 192.0.80.242	secure.gravatar.com
-192.0.81.250	botd2.wordpress.com
+#192.0.81.250	botd2.wordpress.com
 66.155.9.238	dashboard.wordpress.com
 66.155.9.238	en.blog.wordpress.com
 66.155.9.238	en.forums.wordpress.com
@@ -3429,7 +3428,7 @@
 66.155.9.238	lb.wordpress.com
 66.155.9.238	lucifr.wordpress.com
 192.0.81.250	r-login.wordpress.com
-68.232.44.119	s.stats.wordpress.com
+#68.232.44.119	s.stats.wordpress.com
 192.229.144.127	s.w.org
 68.232.44.111	s.wordpress.com
 68.232.44.111	s.wordpress.org
@@ -3439,7 +3438,7 @@
 68.232.44.111	s2.wordpress.com
 68.232.44.111	s2.wp.com
 68.232.44.111	s3.wordpress.com
-66.155.9.238	stats.wordpress.com
+#66.155.9.238	stats.wordpress.com
 66.155.11.243	wordpress.com
 66.155.9.238	wpcom.wordpress.com
 66.155.9.238	zh.wordpress.com
@@ -3457,24 +3456,23 @@
 192.229.144.96	cdn-www.xda-developers.com
 192.229.144.96	cs261.wac.edgecastcdn.net
 207.244.72.9	forum.xda-developers.com
-23.32.241.66	m.servebom.com
-117.18.237.203	tags.bkrtx.com
+#23.32.241.66	m.servebom.com
+#117.18.237.203	tags.bkrtx.com
 68.232.44.229	wac.8244.edgecastcdn.net
 207.244.73.44	www.xda-developers.com
 207.244.73.44	xda-developers.com
 # XDA End
 # Yahoo Start
 76.13.18.77	ac4.farm4.staticflickr.com
-209.191.105.102	adjax.flickr.yahoo.com
+#209.191.105.102	adjax.flickr.yahoo.com
 121.101.144.112	api.flickr.com
 98.137.205.236	bf1.farm3.staticflickr.com
 98.139.21.45	bf1.farm6.staticflickr.com
 98.139.235.135	bf1.farm7.staticflickr.com
 119.161.9.151	c5.ah.yahoo.com
-68.142.196.57	c5.ah.yahoo.com
-204.0.5.35	content.yieldmanager.edgesuite.net
-119.160.254.215	d.yimg.com
-98.137.88.88	d.yimg.com
+#204.0.5.35	content.yieldmanager.edgesuite.net
+#119.160.254.215	d.yimg.com
+#98.137.88.88	d.yimg.com
 106.10.136.195	de.yahoo.com
 119.160.254.215	e.yimg.com
 98.139.21.169	edit.yahoo.com
@@ -3486,8 +3484,8 @@
 98.136.171.208	farm6.staticflickr.com
 98.138.250.88	farm7.staticflickr.com
 69.147.76.173	flickr.com
-106.10.137.175	geo.query.yahoo.com
-98.136.43.76	geo.yahoo.com
+#106.10.137.175	geo.query.yahoo.com
+#98.136.43.76	geo.yahoo.com
 216.39.54.34	gq1.farm3.staticflickr.com
 67.195.19.62	gq1.farm4.staticflickr.com
 67.195.19.65	gq1.farm5.staticflickr.com
@@ -3498,9 +3496,7 @@
 206.190.39.139	hsrd.yahoo.com
 106.10.193.20	hk-mg61.mail.yahoo.com
 119.160.254.215	l.yimg.com
-68.142.250.161	l.yimg.com
 106.10.193.20	login.yahoo.com
-124.108.97.193	login.yahoo.com
 208.71.44.31	m.flickr.com
 106.10.193.20	mail.yahoo.com
 203.84.197.27	mg.mail.yahoo.com
@@ -3508,13 +3504,11 @@
 106.10.193.20	na.edit.yahoo.com
 98.138.250.88	ne1.farm7.staticflickr.com
 106.10.193.20	open.login.yahoo.com
-66.163.168.247	open.login.yahoo.com
 98.136.166.37	overview.mail.yahoo.com
 119.160.254.215	p.yimg.com
 216.115.100.102	s.yimg.com
 119.160.254.215	s1.yimg.com
 106.10.193.20	sa.edit.yahoo.com
-124.108.120.124	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
 #106.10.193.30	sp.analytics.yahoo.com
 69.147.90.159	sp1.farm2.staticflickr.com
@@ -6084,7 +6078,6 @@
 127.0.0.1 adlooxtracking.com
 127.0.0.1 adlure.net
 127.0.0.1 adm.baidu.com
-127.0.0.1 adm.easou.com
 127.0.0.1 adm.funshion.com
 127.0.0.1 adm.fwmrm.net
 127.0.0.1 adm.icast.cn
@@ -8766,7 +8759,6 @@
 127.0.0.1 adx.adosx.com
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 adx.atnext.com
-127.0.0.1 adx.autohome.com.cn
 127.0.0.1 adx.bixee.com
 127.0.0.1 ad-x.com
 127.0.0.1 adx.darikweb.com
@@ -15541,7 +15533,6 @@
 127.0.0.1 doctortrusted.org
 127.0.0.1 dogcustom-works.com
 127.0.0.1 dogpile.112.2o7.net
-127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dol.ifeng.com
 127.0.0.1 dol.nuggad.net
 127.0.0.1 dol.tianya.cn
@@ -15639,7 +15630,7 @@
 127.0.0.1 downloads.superfish.com
 127.0.0.1 downloads.t3nlink.com
 127.0.0.1 downmini.kugou.com
-127.0.0.1 downmobile.kugou.com
+#127.0.0.1 downmobile.kugou.com
 127.0.0.1 dp.g.doubleclick.net
 127.0.0.1 dp.myapp.com
 127.0.0.1 dp.specificclick.net
@@ -16641,7 +16632,6 @@
 127.0.0.1 f1.6dad.com
 127.0.0.1 f1.ilivlite.com
 127.0.0.1 f1.jifenqiang.com
-127.0.0.1 f1.p0y.cn
 127.0.0.1 f1.p0y.com
 127.0.0.1 f10.smaato.net
 127.0.0.1 f11.smaato.net
@@ -35142,11 +35132,9 @@
 127.0.0.1 s.jandan.com
 127.0.0.1 www.jiukan1.com
 127.0.0.1 www.nextcps.com
-127.0.0.1 www.statcounter.com
 127.0.0.1 muban.muyouwan.com
 127.0.0.1 www.boosme.info
 127.0.0.1 www.solomet.info
-127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 m.hao123.com
 127.0.0.1 google.ad
@@ -35157,7 +35145,7 @@
 127.0.0.1 fans.bestvogue.com
 #小米
 127.0.0.1 xlmc.sec.miui.com
-#127.0.0.1 api.sec.miui.com
+127.0.0.1 api.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
@@ -35220,7 +35208,7 @@
 127.0.0.1 api.baidao.com
 127.0.0.1 m.98.cn
 127.0.0.1 win.tiantong99.com
-127.0.0.1 qzs.qq.com
+#127.0.0.1 qzs.qq.com
 #127.0.0.1 isub.snssdk.com评论
 127.0.0.1 i.snssdk.com
 127.0.0.1 m2397.oadz.com
@@ -35264,3 +35252,24 @@
 #cnbeta
 127.0.0.1 click.aliyun.com
 #127.0.0.1 static.cnbetacdn.com
+#qiche home
+127.0.0.1 img2.autoimg.cn
+127.0.0.1 adx.autohome.com.cn
+127.0.0.1 adm1.autoimg.cn
+127.0.0.1 adm3.autoimg.cn
+127.0.0.1 c.autohome.com.cn
+127.0.0.1 f1.p0y.cn
+127.0.0.1 rd.autohome.com.cn
+127.0.0.1 comm.app.api.autohome.com.cn
+#127.0.0.1 x.autoimg.cn
+127.0.0.1 reply.autohome.com.cn
+127.0.0.1 super.api.autohome.com.cn
+127.0.0.1 hjk.api.autohome.com.cn
+127.0.0.1 pcd.autohome.com.cn
+127.0.0.1 app.autohome.com.cn
+#127.0.0.1 s.autoimg.cn
+127.0.0.1 dwz.cn
+127.0.0.1 tinyurl.com
+#127.0.0.1 v.m.autohome.com.cn
+#
+#
