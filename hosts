@@ -35150,7 +35150,7 @@
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
 #127.0.0.1 file.market.xiaomi.com
-127.0.0.1 miwifi.com
+#127.0.0.1 miwifi.com
 127.0.0.1 api.ra1.xlmc.sandai.net
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 twin13a131.sandai.net
