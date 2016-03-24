@@ -23,10 +23,11 @@
 ##############说明#################
 #fq部分蓝本采用2016-02-25老d的谷歌hosts文件
 #去广告部分蓝本采用adaway中国版20151018日文件
+#在此表示感谢！！
 ###################################
 #############更新日志###############
 ##3月
-#24a去除hosts里重复的域名，感谢酷安网友 @没有密码找回 的热心帮助！！b更新fb。c分离hosts合集为两部分。
+#24a去除hosts里重复的域名，感谢酷安网友 @没有密码找回 的热心帮助！！b更新fb。c分离hosts合集为两部分。d.去除「今日头条」「一个」的修改内容，避免了存在的误杀，想去广告请去用修改版app。
 #23.a屏蔽汽车之家所有广告。b.取消屏蔽cnbeta。c修复应用宝app的误杀.d修复酷狗app8.0不能下载主题与音效。e修复米WiFi被误杀。
 #22尝试屏蔽cnbeta里的阿里广告。   b.修复微信头像不能显示
 #21a修复QQ浏览器里视频播霸里面图片误杀.b修复迅播影视评论被误杀，并添加屏蔽此网站所有广告
@@ -35166,7 +35167,7 @@
 #127.0.0.1 ww4.sinaimg.cn
 #127.0.0.1 ww3.sinaimg.cn
 127.0.0.1 s.jusha.com
-127.0.0.1 cn.gravatar.com
+#127.0.0.1 cn.gravatar.com
 127.0.0.1 dd.010teacher.com
 127.0.0.1 imgcdn.ahzlep.com
 127.0.0.1 js1746.lishuanghao.com
@@ -35198,43 +35199,9 @@
 #
 #127.0.0.1 s1.pan.bdstatic.com
 127.0.0.1 bcscdn.baidu.com
-#
-#一个
-127.0.0.1 sdkinit.taobao.com
-127.0.0.1 disk.giccoo.com
-127.0.0.1 m.giccoo.com
-127.0.0.1 click.gridsumdissector.com
-127.0.0.1 ynuf.alipay.com
-127.0.0.1 wb.110.taobao.com
-#今日头条（可能有误杀）
-127.0.0.1 api.baidao.com
-127.0.0.1 m.98.cn
-127.0.0.1 win.tiantong99.com
-#127.0.0.1 qzs.qq.com
-#127.0.0.1 isub.snssdk.com评论
-127.0.0.1 i.snssdk.com
-127.0.0.1 m2397.oadz.com
-127.0.0.1 u.pingan.com
-127.0.0.1 win.98.cn
-127.0.0.1 hiphotos.baidu.com
 127.0.0.1 idcot.com
-127.0.0.1 img.jx.media8.cn
-#127.0.0.1 d.toutiao.com
-#127.0.0.1 p3.pstatp.com头像
-#127.0.0.1 m.cnr.cn央视新闻
-#127.0.0.1 p.pstatp.com话题图片
-127.0.0.1 t.m.youth.cn
-127.0.0.1 m2.people.cn
-#127.0.0.1 lf.snssdk.com视频
-#127.0.0.1 wx.qlogo.cn
-127.0.0.1 log.snssdk.com
-127.0.0.1 ichannel.snssdk.com
-127.0.0.1 mon.snssdk.com
-127.0.0.1 special.mercedes-benz.com.cn
 127.0.0.1 img.wmy-ad.com
-127.0.0.1 cdnmaster.com
 127.0.0.1 www.wmy-ad.com
-127.0.0.1 n-cn.cn
 #宜搜小说
 127.0.0.1 ec3.easou.com
 127.0.0.1 int.dpool.sina.com.cn
@@ -35251,9 +35218,6 @@
 127.0.0.1 t100.qpic.cn
 127.0.0.1 i.7k7kimg.cn
 127.0.0.1 www.iqucai.com
-#cnbeta
-127.0.0.1 click.aliyun.com
-#127.0.0.1 static.cnbetacdn.com
 #qiche home
 127.0.0.1 img2.autoimg.cn
 127.0.0.1 adx.autohome.com.cn
