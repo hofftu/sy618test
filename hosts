@@ -27,6 +27,7 @@
 ###################################
 #############更新日志###############
 ##3月
+#26添加并重定向一条谷歌消息通知域名。
 #24a去除hosts里重复的域名，感谢酷安网友 @没有密码找回 的热心帮助！！b更新fb。c分离hosts合集为两部分。d.去除「今日头条」「一个」的修改内容，避免了存在的误杀，想去广告请去用修改版app。
 #23.a屏蔽汽车之家所有广告。b.取消屏蔽cnbeta。c修复应用宝app的误杀.d修复酷狗app8.0不能下载主题与音效。e修复米WiFi被误杀。
 #22尝试屏蔽cnbeta里的阿里广告。   b.修复微信头像不能显示
@@ -3564,8 +3565,13 @@
 220.255.2.153 yt4.ggpht.com
 220.255.2.153 yt5.ggpht.com
 220.255.2.153 yt6.ggpht.com
+220.255.2.153 notifications.google.com
 ##########
-# 去广告部分
+#
+#
+#                     去广告部分
+#删除以上部分你就得到纯去广告的hosts
+#
 127.0.0.1 localhost
 127.0.0.1 0.r.msn.com
 127.0.0.1 006.free-adult-counters.x-xtra.com
@@ -27579,7 +27585,7 @@
 127.0.0.1 st4.surf-town.net
 127.0.0.1 st4.xhamster.com
 127.0.0.1 st5.surf-town.net
-127.0.0.1 sta.ganji.com
+#127.0.0.1 sta.ganji.com
 127.0.0.1 sta.ifeng.com
 127.0.0.1 sta.play.ifeng.com
 127.0.0.1 stabx.net
@@ -35228,7 +35234,7 @@
 127.0.0.1 rd.autohome.com.cn
 127.0.0.1 comm.app.api.autohome.com.cn
 #127.0.0.1 x.autoimg.cn
-127.0.0.1 reply.autohome.com.cn
+#127.0.0.1 reply.autohome.com.cn
 127.0.0.1 super.api.autohome.com.cn
 127.0.0.1 hjk.api.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
