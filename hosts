@@ -877,7 +877,7 @@
 220.255.2.153	accounts.gstatic.com
 220.255.2.153	maps.gstatic.com
 220.255.2.153	ssl.gstatic.com
-220.255.2.153	www.gstatic.com
+#220.255.2.153	www.gstatic.com
 220.255.2.153	encrypted-tbn0.gstatic.com
 220.255.2.153	encrypted-tbn1.gstatic.com
 220.255.2.153	encrypted-tbn2.gstatic.com
@@ -25530,7 +25530,7 @@
 127.0.0.1 reseller.hitbox.com
 127.0.0.1 reseller.sexyads.com
 127.0.0.1 resimler.randevum.com
-#127.0.0.1 resolver.gslb.mi-idc.com
+#127.0.0.1 误杀resolver.gslb.mi-idc.com
 #127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resource.dl.kukuplay.com
 127.0.0.1 resource.duopao.com
@@ -35158,7 +35158,6 @@
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
-#127.0.0.1 file.market.xiaomi.com
 #127.0.0.1 miwifi.com
 127.0.0.1 api.ra1.xlmc.sandai.net
 127.0.0.1 sousuo.xm.sjzhushou.com
@@ -35167,6 +35166,13 @@
 127.0.0.1 mibind.chat.gslb.mi-idc.com
 127.0.0.1 info.analysis.kp.sec.miui.com
 127.0.0.1 test.ad.xiaomi.com
+#测试
+0.0.0.0 f5.market.xiaomi.com
+0.0.0.0 file.market.xiaomi.com
+0.0.0.0 connect.rom.miui.com
+#127.0.0.1 误杀市场file.market.xiaomi.com
+0.0.0.0 resolver.gslb.mi-idc.com
+127.0.0.1 www.gstatic.com
 #
 #127.0.0.1 ww2.sinaimg.cn
 #127.0.0.1 ww1.sinaimg.cn
@@ -35245,3 +35251,4 @@
 #127.0.0.1 v.m.autohome.com.cn
 127.0.0.1 yc0.autoimg.cn
 127.0.0.1 yc.m.autohome.com.cn
+#
