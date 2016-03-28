@@ -1,6 +1,8 @@
 #                     去广告部分
 #从合集里提取出来的纯去广告hosts
 #by sy619
+#订阅源：https://raw.githubusercontent.com/sy618/hosts/master/AD
+#
 127.0.0.1 localhost
 127.0.0.1 0.r.msn.com
 127.0.0.1 006.free-adult-counters.x-xtra.com
