@@ -19659,7 +19659,7 @@
 127.0.0.1 jobs.leadbolt.com
 127.0.0.1 jobs.revmob.com
 127.0.0.1 jobs.zedo.com
-127.0.0.1 jobsfe.funshion.com
+#127.0.0.1 jobsfe.funshion.com
 127.0.0.1 jobzdk.nuggad.net
 127.0.0.1 joe.freelogs.com
 127.0.0.1 joetec.net
@@ -35170,7 +35170,7 @@
 0.0.0.0 f5.market.xiaomi.com
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 connect.rom.miui.com
-#127.0.0.1 误杀市场file.market.xiaomi.com
+#127.0.0.1 市场file.market.xiaomi.com
 0.0.0.0 resolver.gslb.mi-idc.com
 127.0.0.1 www.gstatic.com
 #
