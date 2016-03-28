@@ -15,6 +15,8 @@
 ###################################
 ############  订阅源 #################
 #【本hosts】：https://raw.githubusercontent.com/sy618/hosts/master/hosts
+#『AD』从合集里分离出来纯AD部分，不喜欢合集的可以用这个：https://raw.githubusercontent.com/sy618/hosts/master/AD
+
 #【Adaway中国版自带】纯去广告源：https://coding.net/u/Elaine_ni/p/hosts/git/raw/master/hosts.txt
 #【老D谷歌hosts】https://github.com/racaljk/hosts 
 #博客：http://laod.cn/hosts/2016-google-hosts.html
@@ -27,7 +29,8 @@
 ###################################
 #############更新日志###############
 ##3月
-#26添加并重定向一条谷歌消息通知域名。
+#28尝试屏蔽miui剩余的广告。请miui用户们直接提供给我有效的miui广告域名。
+#26a添加并重定向一条谷歌消息通知域名。b修正汽车之家评论误杀。
 #24a去除hosts里重复的域名，感谢酷安网友 @没有密码找回 的热心帮助！！b更新fb。c分离hosts合集为两部分。d.去除「今日头条」「一个」的修改内容，避免了存在的误杀，想去广告请去用修改版app。
 #23.a屏蔽汽车之家所有广告。b.取消屏蔽cnbeta。c修复应用宝app的误杀.d修复酷狗app8.0不能下载主题与音效。e修复米WiFi被误杀。
 #22尝试屏蔽cnbeta里的阿里广告。   b.修复微信头像不能显示
