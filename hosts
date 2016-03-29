@@ -29,7 +29,6 @@
 #############更新日志###############
 ##3月
 #29修复百度新闻误杀。
-#28尝试屏蔽miui剩余的广告。请miui用户们直接提供给我有效的miui广告域名。
 #26a添加并重定向一条谷歌消息通知域名。b修正汽车之家评论误杀。
 #24a去除hosts里重复的域名，感谢酷安网友 @没有密码找回 的热心帮助！！b更新fb。c分离hosts合集为两部分。d.去除「今日头条」「一个」的修改内容，避免了存在的误杀，想去广告请去用修改版app。
 #23.a屏蔽汽车之家所有广告。b.取消屏蔽cnbeta。c修复应用宝app的误杀.d修复酷狗app8.0不能下载主题与音效。e修复米WiFi被误杀。
@@ -35169,13 +35168,10 @@
 127.0.0.1 mibind.chat.gslb.mi-idc.com
 127.0.0.1 info.analysis.kp.sec.miui.com
 127.0.0.1 test.ad.xiaomi.com
-#测试
-0.0.0.0 f5.market.xiaomi.com
-0.0.0.0 file.market.xiaomi.com
-0.0.0.0 connect.rom.miui.com
+#0.0.0.0 f5.market.xiaomi.com
+#0.0.0.0 connect.rom.miui.com
 #127.0.0.1 市场file.market.xiaomi.com
-0.0.0.0 resolver.gslb.mi-idc.com
-#127.0.0.1 www.gstatic.com
+#0.0.0.0 resolver.gslb.mi-idc.com
 #
 #127.0.0.1 ww2.sinaimg.cn
 #127.0.0.1 ww1.sinaimg.cn
