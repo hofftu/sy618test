@@ -249,7 +249,7 @@
 173.236.110.98	m1.twitpic.com
 104.244.42.195	twitter.com
 185.45.5.40 upload.twitter.com
-#104.244.42.67	analytics.twitter.com
+104.244.42.67	analytics.twitter.com
 199.59.150.48	urls-real.api.twitter.com
 108.61.13.60	userstream.twitter.com
 173.236.110.98	web1.twitpic.com
@@ -353,7 +353,7 @@
 #64.233.162.84 mail-settings.google.com
 # Gmail web End
 # Google Start
-220.255.2.153	www.google.com
+220.255.2.153 www.google.com
 220.255.2.153	google.com
 220.255.2.153	gcr.io
 220.255.2.153	www.gcr.io
@@ -4946,7 +4946,7 @@
 127.0.0.1 ad.directrev.com
 127.0.0.1 ad.distrigame.com
 127.0.0.1 ad.dk.doubleclick.net
-127.0.0.1 ad.dmm.com
+#127.0.0.1 ad.dmm.com
 127.0.0.1 ad.dmpi.net
 127.0.0.1 ad.dogpile.com
 127.0.0.1 ad.donanimhaber.com
@@ -9475,7 +9475,7 @@
 127.0.0.1 analytics.tribeca.vidavee.com
 127.0.0.1 analytics.trutv.com
 127.0.0.1 analytics.turn.com
-127.0.0.1 analytics.twitter.com
+#127.0.0.1 analytics.twitter.com
 127.0.0.1 analytics.upworthy.com
 127.0.0.1 analytics.us.archive.org
 127.0.0.1 analytics.usdm.net
