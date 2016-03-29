@@ -880,7 +880,7 @@
 220.255.2.153	accounts.gstatic.com
 220.255.2.153	maps.gstatic.com
 220.255.2.153	ssl.gstatic.com
-#220.255.2.153	www.gstatic.com
+220.255.2.153	www.gstatic.com
 220.255.2.153	encrypted-tbn0.gstatic.com
 220.255.2.153	encrypted-tbn1.gstatic.com
 220.255.2.153	encrypted-tbn2.gstatic.com
@@ -35175,7 +35175,7 @@
 0.0.0.0 connect.rom.miui.com
 #127.0.0.1 市场file.market.xiaomi.com
 0.0.0.0 resolver.gslb.mi-idc.com
-127.0.0.1 www.gstatic.com
+#127.0.0.1 www.gstatic.com
 #
 #127.0.0.1 ww2.sinaimg.cn
 #127.0.0.1 ww1.sinaimg.cn
