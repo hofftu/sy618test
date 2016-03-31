@@ -1,8 +1,10 @@
-#                     去广告部分
-#从合集里提取出来的纯去广告hosts
-#by sy619
-#订阅源：https://raw.githubusercontent.com/sy618/hosts/master/AD
+##########
 #
+#
+#                     去广告部分
+#
+#                               by sy619
+#                              20160401
 127.0.0.1 localhost
 127.0.0.1 0.r.msn.com
 127.0.0.1 006.free-adult-counters.x-xtra.com
@@ -1375,7 +1377,7 @@
 127.0.0.1 ad.directrev.com
 127.0.0.1 ad.distrigame.com
 127.0.0.1 ad.dk.doubleclick.net
-127.0.0.1 ad.dmm.com
+#127.0.0.1 ad.dmm.com
 127.0.0.1 ad.dmpi.net
 127.0.0.1 ad.dogpile.com
 127.0.0.1 ad.donanimhaber.com
@@ -5904,7 +5906,7 @@
 127.0.0.1 analytics.tribeca.vidavee.com
 127.0.0.1 analytics.trutv.com
 127.0.0.1 analytics.turn.com
-127.0.0.1 analytics.twitter.com
+#127.0.0.1 analytics.twitter.com
 127.0.0.1 analytics.upworthy.com
 127.0.0.1 analytics.us.archive.org
 127.0.0.1 analytics.usdm.net
@@ -11858,7 +11860,7 @@
 127.0.0.1 dk.adserver.yahoo.com
 127.0.0.1 dk.gmads.net
 127.0.0.1 dk1.siteimprove.com
-127.0.0.1 dl.360safe.com
+#127.0.0.1 dl.360safe.com
 127.0.0.1 dl.5577.com
 127.0.0.1 dl.adshooter.com
 127.0.0.1 dl.alphagirlz.mobi
@@ -12017,7 +12019,7 @@
 127.0.0.1 doubleviking.us.intellitxt.com
 127.0.0.1 doubleyourdating.directtrack.com
 127.0.0.1 douglas01.webtrekk.net
-127.0.0.1 down.360safe.com
+#127.0.0.1 down.360safe.com
 127.0.0.1 down.cnzz.com
 127.0.0.1 down.mobile7.cn
 127.0.0.1 down.myapp.com
@@ -25019,11 +25021,11 @@
 127.0.0.1 t1.trackalyzer.com
 127.0.0.1 t1.visualrevenue.com
 127.0.0.1 t1.wrating.com
-127.0.0.1 t10.baidu.com
+#127.0.0.1 t10.baidu.com
 127.0.0.1 t10.rbnt.org
 127.0.0.1 t10.wrating.com
-127.0.0.1 t11.baidu.com
-127.0.0.1 t12.baidu.com
+#127.0.0.1 t11.baidu.com
+#127.0.0.1 t12.baidu.com
 127.0.0.1 t2.70e.com
 127.0.0.1 t2.formalyzer.com
 127.0.0.1 t2.hulu.com
@@ -31597,13 +31599,10 @@
 127.0.0.1 mibind.chat.gslb.mi-idc.com
 127.0.0.1 info.analysis.kp.sec.miui.com
 127.0.0.1 test.ad.xiaomi.com
-#测试
-0.0.0.0 f5.market.xiaomi.com
-0.0.0.0 file.market.xiaomi.com
-0.0.0.0 connect.rom.miui.com
+#0.0.0.0 f5.market.xiaomi.com
+#0.0.0.0 connect.rom.miui.com
 #127.0.0.1 市场file.market.xiaomi.com
-0.0.0.0 resolver.gslb.mi-idc.com
-127.0.0.1 www.gstatic.com
+#0.0.0.0 resolver.gslb.mi-idc.com
 #
 #127.0.0.1 ww2.sinaimg.cn
 #127.0.0.1 ww1.sinaimg.cn
