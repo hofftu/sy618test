@@ -29,7 +29,7 @@
 ###################################
 #############更新日志###############
 ##4月
-#2a屏蔽某第三方云盘搜索引擎广告。b最后一次屏蔽“风车动漫网”新出现的变态广告 #(滑稽脸)。
+#2a屏蔽某第三方云盘搜索引擎广告。b最后一次屏蔽“风车动漫网”新出现的变态广告 #(滑稽脸)。c修复海豚浏览器不能下载插件。
 #1零零散散修复了一些已知误杀。
 #
 #############且用且珍惜##############
@@ -15595,7 +15595,7 @@
 127.0.0.1 download.cdn.torchbrowser.com
 127.0.0.1 download.cooguo.com
 127.0.0.1 download.coolguang.com
-127.0.0.1 download.dolphin-browser.cn
+#127.0.0.1 download.dolphin-browser.cn
 127.0.0.1 download.downloadquick.net
 127.0.0.1 download.duba.net
 127.0.0.1 download.favorit-network.com
