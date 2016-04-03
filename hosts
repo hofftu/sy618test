@@ -14,10 +14,10 @@
 #（温馨提示：若本hosts与其他国内源合用后出现的误杀，这黑锅我不背！FQ方面问题请到老D博客反馈或直接使用蓝灯）
 ###################################
 ############  订阅源 #################
-#【本hosts】：https://raw.githubusercontent.com/sy618/hosts/master/hosts
-#『AD』从合集里分离出来纯AD部分，不喜欢合集的可以用这个，大概半月更一次：https://raw.githubusercontent.com/sy618/hosts/master/AD
+#【新hosts】：https://raw.githubusercontent.com/sy618/hosts/master/hosts
+#『新AD』https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 #
-#【Adaway中国版自带】纯去广告源：https://coding.net/u/Elaine_ni/p/hosts/git/raw/master/hosts.txt
+#
 #【老D谷歌hosts】https://github.com/racaljk/hosts 
 #老D博客：http://laod.cn/hosts/2016-google-hosts.html
 #
@@ -29,6 +29,7 @@
 ###################################
 #############更新日志###############
 ##4月
+#3再次屏蔽我已知的BT搜索网广告，老司机可以愉快的发车啦！
 #2a屏蔽某第三方云盘搜索引擎广告。b最后一次屏蔽“风车动漫网”新出现的变态广告 #(滑稽脸)。c修复海豚浏览器不能下载插件。
 #1零零散散修复了一些已知误杀。
 #
@@ -236,7 +237,7 @@
 173.236.110.98	m1.twitpic.com
 104.244.42.195	twitter.com
 185.45.5.40 upload.twitter.com
-104.244.42.67	analytics.twitter.com
+104.244.42.67 analytics.twitter.com
 199.59.150.48	urls-real.api.twitter.com
 108.61.13.60	userstream.twitter.com
 173.236.110.98	web1.twitpic.com
@@ -3555,6 +3556,7 @@
 220.255.2.153 yt5.ggpht.com
 220.255.2.153 yt6.ggpht.com
 220.255.2.153 notifications.google.com
+52.84.7.141 getlantern.org
 ##########
 #
 #
@@ -34943,7 +34945,6 @@
 127.0.0.1 zzdh.cnzz.com
 127.0.0.1 zzz.clickbank.net
 127.0.0.1 pflq.duowan.com
-#127.0.0.1 data.video.qiyi.com禁用会导致客户端不能播放
 #meitu
 127.0.0.1 meiyan.dl.meitu.com
 127.0.0.1 promote.beautyplus.com
@@ -35000,22 +35001,25 @@
 127.0.0.1 limei.com
 127.0.0.1 jq159.com
 127.0.0.1 kanclick.com
+#百度
 127.0.0.1 tuiguang.baidu.com
 127.0.0.1 uil.cbs.baidu.com
 127.0.0.1 mo.baidu.com
 127.0.0.1 uxsurvey.baidu.com
 127.0.0.1 dl.ops.baidu.com
-127.0.0.1 gtms02.alicdn.com
-127.0.0.1 gtms01.alicdn.com
 127.0.0.1 tanxlog.istreamsche.com
 127.0.0.1 downpack.baidu.com
+#阿里
+127.0.0.1 gtms02.alicdn.com
+127.0.0.1 gtms01.alicdn.com
+#友盟
 127.0.0.1 alog.umeng.com
 127.0.0.1 au.umeng.com
 127.0.0.1 alog.umeng.co
-#127.0.0.1 gdown.baidu.com
-52.84.7.141 getlantern.org
-#127.0.0.1 k.youku.com
-#风车动漫
+#
+#127.0.0.1 k.youku.com优酷不要屏蔽这条
+#
+#风车动漫，这网站真变态，屏蔽他好几次了，有些域名可能已过期
 127.0.0.1 njs.myhx120.com
 127.0.0.1 znsv.baidu.com
 127.0.0.1 ms.liuliguo.com
@@ -35093,14 +35097,96 @@
 127.0.0.1 static1.bfdcdn.com
 #127.0.0.1 cache.m.iqiyi.com评论区
 #127.0.0.1 control.i.iqiyi.com评论留言
+#127.0.0.1 data.video.qiyi.com禁用会导致客户端不能播放
 #
 #乐视客户端
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
-#127.0.0.1 api.mob.app.letv.com
 #
-#没时间解释了～
+
+#小米，不是很完美。
+127.0.0.1 xlmc.sec.miui.com
+#127.0.0.1 api.sec.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 app01.nodes.gslb.mi-idc.com
+127.0.0.1 app02.nodes.gslb.mi-idc.com
+#127.0.0.1 miwifi.com
+127.0.0.1 api.ra1.xlmc.sandai.net
+127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 twin13a131.sandai.net
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1 mibind.chat.gslb.mi-idc.com
+127.0.0.1 info.analysis.kp.sec.miui.com
+127.0.0.1 test.ad.xiaomi.com
+#0.0.0.0 f5.market.xiaomi.com
+#0.0.0.0 connect.rom.miui.com
+#127.0.0.1 市场file.market.xiaomi.com
+#0.0.0.0 resolver.gslb.mi-idc.com
+#
+#百度盘
+#127.0.0.1 s1.pan.bdstatic.com
+127.0.0.1 bcscdn.baidu.com
+#宜搜小说
+127.0.0.1 ec3.easou.com
+127.0.0.1 int.dpool.sina.com.cn
+127.0.0.1 assets.easou.com
+127.0.0.1 easou.irs01.com
+127.0.0.1 api0.analysys.com.cn
+127.0.0.1 adm.easou.com
+#迅播影视
+127.0.0.1 m.iqucai.com
+127.0.0.1 gg.qucaigg.com
+127.0.0.1 2tu.qucaigg.com
+#127.0.0.1 statics.joy3g.com
+127.0.0.1 d3d.3dwwwgame.com
+127.0.0.1 t100.qpic.cn
+127.0.0.1 i.7k7kimg.cn
+127.0.0.1 www.iqucai.com
+#qiche home
+127.0.0.1 img2.autoimg.cn
+127.0.0.1 adx.autohome.com.cn
+127.0.0.1 adm1.autoimg.cn
+127.0.0.1 adm3.autoimg.cn
+127.0.0.1 c.autohome.com.cn
+127.0.0.1 f1.p0y.cn
+127.0.0.1 rd.autohome.com.cn
+127.0.0.1 comm.app.api.autohome.com.cn
+#127.0.0.1 x.autoimg.cn
+#127.0.0.1 reply.autohome.com.cn
+127.0.0.1 super.api.autohome.com.cn
+127.0.0.1 hjk.api.autohome.com.cn
+127.0.0.1 pcd.autohome.com.cn
+127.0.0.1 app.autohome.com.cn
+#127.0.0.1 s.autoimg.cn
+#127.0.0.1 dwz.cn
+127.0.0.1 tinyurl.com
+#127.0.0.1 v.m.autohome.com.cn
+127.0.0.1 yc0.autoimg.cn
+127.0.0.1 yc.m.autohome.com.cn
+#百度网盘搜索引擎http://pan.java1234.com/
+127.0.0.1 89.8ox.cn
+127.0.0.1 7.1qtv.com
+127.0.0.1 yzsm888.com
+127.0.0.1 qmtk.3975.com
+127.0.0.1 img.kk7kk.com
+127.0.0.1 count.qiqipower.com
+127.0.0.1 j.qiqiww.com
+127.0.0.1 s.haiyunx.com
+127.0.0.1 hyssp.haiyunx.com
+127.0.0.1 t.adxchina.cn
+#BT搜索网
+127.0.0.1 j.mainbx.com
 127.0.0.1 ffwap.com
+127.0.0.1 js.users.51.la
+127.0.0.1 qaz.afjlb.com
+127.0.0.1 js883.anreson.net
+127.0.0.1 hyad1.163abcd.com
+127.0.0.1 js883.cnbole.net
+127.0.0.1 la.qshxc.com
+#qq浏览器
+127.0.0.1 adsense.html5.qq.com
+#
+#都怪我平时没练成记录域名来源的习惯～
 127.0.0.1 img.feitian001.com
 127.0.0.1 lmcdn1.admin5.com
 127.0.0.1 stats.chinaz.com
@@ -35148,37 +35234,12 @@
 127.0.0.1 video-analytics.l.google.com
 127.0.0.1 www.wzajs.com
 127.0.0.1 fans.bestvogue.com
-#小米
-127.0.0.1 xlmc.sec.miui.com
-#127.0.0.1 api.sec.miui.com
-127.0.0.1 adv.sec.miui.com
-127.0.0.1 app01.nodes.gslb.mi-idc.com
-127.0.0.1 app02.nodes.gslb.mi-idc.com
-#127.0.0.1 miwifi.com
-127.0.0.1 api.ra1.xlmc.sandai.net
-127.0.0.1 sousuo.xm.sjzhushou.com
-127.0.0.1 twin13a131.sandai.net
-127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
-127.0.0.1 mibind.chat.gslb.mi-idc.com
-127.0.0.1 info.analysis.kp.sec.miui.com
-127.0.0.1 test.ad.xiaomi.com
-#0.0.0.0 f5.market.xiaomi.com
-#0.0.0.0 connect.rom.miui.com
-#127.0.0.1 市场file.market.xiaomi.com
-#0.0.0.0 resolver.gslb.mi-idc.com
-#
-#127.0.0.1 ww2.sinaimg.cn
-#127.0.0.1 ww1.sinaimg.cn
-#127.0.0.1 ww4.sinaimg.cn
-#127.0.0.1 ww3.sinaimg.cn
 127.0.0.1 s.jusha.com
-#127.0.0.1 cn.gravatar.com
 127.0.0.1 dd.010teacher.com
 127.0.0.1 imgcdn.ahzlep.com
 127.0.0.1 js1746.lishuanghao.com
 127.0.0.1 activation.inn-studio.com
 127.0.0.1 t22.3sdaigou.com
-#
 127.0.0.1 www.xh334455.com
 127.0.0.1 d.aoaopa00.com
 127.0.0.1 www.v19888.com
@@ -35192,67 +35253,14 @@
 127.0.0.1 e.e701.net
 127.0.0.1 a.70e.com
 127.0.0.1 cpro.sogou.86lego.com
-#
-#127.0.0.1 cdn.read.html5.qq.com
-#127.0.0.1 mat1.gtimg.com
 127.0.0.1 v.6dvip.com
 127.0.0.1 d16b4.8ox.cn
 127.0.0.1 199.nord-raum.com
 127.0.0.1 tvtvtv.9090qqtvtv.com
 127.0.0.1 ttyy.365gym.cn
 127.0.0.1 c3.moogos.com
-#
-#127.0.0.1 s1.pan.bdstatic.com
-127.0.0.1 bcscdn.baidu.com
 127.0.0.1 idcot.com
 127.0.0.1 img.wmy-ad.com
 127.0.0.1 www.wmy-ad.com
-#宜搜小说
-127.0.0.1 ec3.easou.com
-127.0.0.1 int.dpool.sina.com.cn
-127.0.0.1 assets.easou.com
-127.0.0.1 easou.irs01.com
-127.0.0.1 api0.analysys.com.cn
-127.0.0.1 adm.easou.com
-#迅播影视
-127.0.0.1 m.iqucai.com
-127.0.0.1 gg.qucaigg.com
-127.0.0.1 2tu.qucaigg.com
-#127.0.0.1 statics.joy3g.com
-127.0.0.1 d3d.3dwwwgame.com
-127.0.0.1 t100.qpic.cn
-127.0.0.1 i.7k7kimg.cn
-127.0.0.1 www.iqucai.com
-#qiche home
-127.0.0.1 img2.autoimg.cn
-127.0.0.1 adx.autohome.com.cn
-127.0.0.1 adm1.autoimg.cn
-127.0.0.1 adm3.autoimg.cn
-127.0.0.1 c.autohome.com.cn
-127.0.0.1 f1.p0y.cn
-127.0.0.1 rd.autohome.com.cn
-127.0.0.1 comm.app.api.autohome.com.cn
-#127.0.0.1 x.autoimg.cn
-#127.0.0.1 reply.autohome.com.cn
-127.0.0.1 super.api.autohome.com.cn
-127.0.0.1 hjk.api.autohome.com.cn
-127.0.0.1 pcd.autohome.com.cn
-127.0.0.1 app.autohome.com.cn
-#127.0.0.1 s.autoimg.cn
-#127.0.0.1 dwz.cn
-127.0.0.1 tinyurl.com
-#127.0.0.1 v.m.autohome.com.cn
-127.0.0.1 yc0.autoimg.cn
-127.0.0.1 yc.m.autohome.com.cn
-#pan sousuo
-127.0.0.1 89.8ox.cn
-127.0.0.1 7.1qtv.com
-127.0.0.1 yzsm888.com
-127.0.0.1 qmtk.3975.com
-127.0.0.1 img.kk7kk.com
-127.0.0.1 count.qiqipower.com
-127.0.0.1 j.qiqiww.com
-127.0.0.1 s.haiyunx.com
-127.0.0.1 hyssp.haiyunx.com
-127.0.0.1 t.adxchina.cn
+#
 #
