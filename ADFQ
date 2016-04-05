@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#
+#20160405
 # 酷安网 by sy619
 #本hosts专注于去国内广告、集成FQ功能。精品hosts你值得拥有！！！
 #
@@ -3532,7 +3532,7 @@
 52.84.7.141 getlantern.org
 ##########
 
-;version=201604041530
+;version=201604052312
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -3745,6 +3745,7 @@ fe80::1%lo0	localhost
 127.0.0.1 cl.webterren.com
 127.0.0.1 cl2.webterren.com
 127.0.0.1 cl3.webterren.com
+127.0.0.1 cl4.webterren.com
 127.0.0.1 cl5.webterren.com
 #wp.com
 127.0.0.1 stats.wp.com
@@ -3856,6 +3857,9 @@ fe80::1%lo0	localhost
 127.0.0.1 static.awempire.com
 74.63.113.122 tt1069.com
 74.63.113.122 www.tt1069.com
+#91porn.com
+127.0.0.1 fans.bestvogue.com
+127.0.0.1 bcp.crwdcntrl.net
 #www.vn-zoom.com
 127.0.0.1 api.adtimaserver.vn
 127.0.0.1 log.adtimaserver.vn
@@ -3874,6 +3878,8 @@ fe80::1%lo0	localhost
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
 127.0.0.1 hqs7.cnzz.com
+127.0.0.1 z5.cnzz.com
+127.0.0.1 z6.cnzz.com
 127.0.0.1 hzs14.cnzz.com
 127.0.0.1 hzs17.cnzz.com
 127.0.0.1 hzs5.cnzz.com
@@ -4022,6 +4028,7 @@ fe80::1%lo0	localhost
 #mediav.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
+127.0.0.1 cm.mediav.com
 127.0.0.1 material-ssl.mediav.com
 127.0.0.1 material.mediav.com
 127.0.0.1 max.mediav.com
@@ -4126,14 +4133,16 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 cm.lianmeng.360.cn
+127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 s1.stat.lianmeng.360.cn
+127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.360.cn
-127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 service.jiagu.360.cn
-127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 tf.360.cn
 127.0.0.1 ini.update.360safe.com
@@ -4384,6 +4393,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ups.ksmobile.net
 #qq.com
 127.0.0.1 ac.o2.qq.com
+127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 cm.e.qq.com
@@ -4392,6 +4402,7 @@ fe80::1%lo0	localhost
 127.0.0.1 l.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 mini2015.qq.com
+127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 res.imtt.qq.com
 127.0.0.1 s.pcapps.qq.com
@@ -4405,11 +4416,15 @@ fe80::1%lo0	localhost
 127.0.0.1 video.wap.mpush.qq.com
 127.0.0.1 vmind.qqvideo.tc.qq.com
 127.0.0.1 w.l.qq.com
-127.0.0.1 ra.gtimg.com
-127.0.0.1 wb.gtimg.com
-127.0.0.1 wa.gtimg.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 ra.gtimg.com
+127.0.0.1 wa.gtimg.com
+127.0.0.1 wb.gtimg.com
+127.0.0.1 mapp.qzone.qq.com
+127.0.0.1 masdk.3g.qq.com
+127.0.0.1 p.store.qq.com
+127.0.0.1 s.isdspeed.qq.com
 127.0.0.1 qq.m.cn.miaozhen.com
 #sina.com.cn
 127.0.0.1 rs.sinajs.cn
@@ -4987,6 +5002,8 @@ fe80::1%lo0	localhost
 127.0.0.1 sta.ganji.com
 #douban.com
 127.0.0.1 erebor.douban.com
+#jandan.net
+127.0.0.1 s.jandan.com
 #jd-bbs.com
 127.0.0.1 pic.jd-bbs.com
 127.0.0.1 pic.jdbbs.com
@@ -5091,8 +5108,10 @@ fe80::1%lo0	localhost
 127.0.0.1 static.houyi.baofeng.net
 127.0.0.1 web.houyi.baofeng.net
 127.0.0.1 wl.houyi.baofeng.net
+127.0.0.1 wx.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 cdn.baofenggame.com
+127.0.0.1 androidlog.shouji.baofeng.com
 #cntv.cn
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn
@@ -5345,6 +5364,7 @@ fe80::1%lo0	localhost
 127.0.0.1 rbjs.chinassp.cn
 127.0.0.1 t.adxchina.cn
 #www.btdao.xyz
+127.0.0.1 b.yunfanlm.net
 127.0.0.1 dougou88.com
 127.0.0.1 js859.lishuanghao.com
 #www.friok.com
@@ -5466,6 +5486,9 @@ u5.8ox.cn
 127.0.0.1 t.cyuew.com
 127.0.0.1 love.66san.com
 127.0.0.1 love.chushoushijian.cn
+127.0.0.1 cdn.ttkx22n.com
+127.0.0.1 m1.dx1200.com
+127.0.0.1 vip2.media8.cn
 @mobile
 #adcolony
 127.0.0.1 androidads23.adcolony.com
@@ -5562,6 +5585,7 @@ u5.8ox.cn
 127.0.0.1 alog.umeng.co
 127.0.0.1 au.umeng.co
 127.0.0.1 oc.umeng.co
+127.0.0.1 www.umeng.co
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.umeng.com
@@ -5617,6 +5641,8 @@ u5.8ox.cn
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.easou.com
 127.0.0.1 tjlog.ps.easou.com
+#gameloft
+127.0.0.1 imp-mdsp.avazutracking.net
 #habitbrowser
 127.0.0.1 ad.adfurikun.jp
 127.0.0.1 api.adfurikun.jp
@@ -5647,6 +5673,10 @@ u5.8ox.cn
 127.0.0.1 www.voiceads.cn
 #systemav
 127.0.0.1 m.madthumbs.com
+#toutiao
+127.0.0.1 app.toutiao.com
+127.0.0.1 s.toutiao.com
+127.0.0.1 log.snssdk.com
 #ttpod
 127.0.0.1 tj.itlily.com
 127.0.0.1 v1.ard.tj.itlily.com
