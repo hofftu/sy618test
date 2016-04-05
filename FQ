@@ -3510,8 +3510,8 @@
 68.232.44.251	www.w3schools.com
 # W3schools End
 #####
-127.0.0.1 partner.googleadservices.com
-127.0.0.1 pagead2.googleadservices.com
+#127.0.0.1 partner.googleadservices.com
+#127.0.0.1 pagead2.googleadservices.com
 #64.233.189.132 lh1.google.com
 #64.233.189.132 lh0.google.com
 #64.233.189.132 lh2.ggpht.com
@@ -3530,4 +3530,5 @@
 220.255.2.153 yt6.ggpht.com
 220.255.2.153 notifications.google.com
 52.84.7.141 getlantern.org
-##########
+23.235.43.133 raw.githubusercontent.com
+##########end#######
