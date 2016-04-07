@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-# 20160407
+#20160407b
 # 酷安网 by sy619
 #本hosts专注于去国内广告、集成FQ功能。精品hosts你值得拥有！！！
 #
@@ -3533,7 +3533,7 @@
 23.235.43.133 raw.githubusercontent.com
 ##########end#######
 
-;version=201604062229
+;version=201604071420
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -3554,8 +3554,6 @@ fe80::1%lo0	localhost
 #click
 127.0.0.1 c.duomai.com
 127.0.0.1 p.yiqifa.com
-127.0.0.1 8dcyqu.c.admaster.com.cn
-127.0.0.1 c.admaster.com.cn
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 router.gwdang.com
@@ -3702,6 +3700,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sg-cdn.effectivemeasure.net
 127.0.0.1 s.effectivemeasure.net
 #gtags.net
+127.0.0.1 cm.gtags.net
 127.0.0.1 cms.gtags.net
 127.0.0.1 uma.gtags.net
 #gosquared.com
@@ -3874,8 +3873,16 @@ fe80::1%lo0	localhost
 127.0.0.1 j.microad.net
 127.0.0.1 cache.send.microadinc.com
 @common-cn-adunion
+#admaster.com.cn
+127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 8dcyqu.c.admaster.com.cn
+127.0.0.1 c.admaster.com.cn
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 vyk.admaster.com.cn
 #alibaba
 127.0.0.1 click.aliyun.com
+127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 log.mmstat.com
@@ -3939,6 +3946,7 @@ fe80::1%lo0	localhost
 127.0.0.1 stats.ipinyou.com
 127.0.0.1 fm.p0y.cn
 127.0.0.1 f1.p0y.cn
+127.0.0.1 f2.p0y.cn
 127.0.0.1 mlt01.com
 127.0.0.1 cm.mlt01.com
 127.0.0.1 dt.tongji.linezing.com
@@ -4060,6 +4068,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sd.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
+127.0.0.1 tyaqy.m.cn.miaozhen.com
 #qtmojo.c
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn
@@ -4091,6 +4100,7 @@ fe80::1%lo0	localhost
 127.0.0.1 mimg.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 mr.da.netease.com
+127.0.0.1 wr.da.netease.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -4278,6 +4288,7 @@ fe80::1%lo0	localhost
 127.0.0.1 api9.tuisong.baidu.com
 #baidu-video
 127.0.0.1 nsclickvideo.baidu.com
+127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 sestat.baidu.com
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 videopush.baidu.com
@@ -4436,15 +4447,20 @@ fe80::1%lo0	localhost
 127.0.0.1 p.store.qq.com
 127.0.0.1 s.isdspeed.qq.com
 127.0.0.1 qq.m.cn.miaozhen.com
+127.0.0.1 c.3g.qq.com
+127.0.0.1 ping.3g.qq.com
 #sina.com.cn
-127.0.0.1 rs.sinajs.cn
+127.0.0.1 cm.dmp.sina.cn
+127.0.0.1 sax.sina.cn
+127.0.0.1 slog.sina.cn
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 res.icast.cn
+127.0.0.1 rs.sinajs.cn
 127.0.0.1 track.ra.icast.cn
-127.0.0.1 pfp.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
-127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 beacon.sina.com.cn
+127.0.0.1 click.uve.mobile.sina.cn
+127.0.0.1 d00.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
@@ -4455,17 +4471,20 @@ fe80::1%lo0	localhost
 127.0.0.1 d7.sina.com.cn
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 d9.sina.com.cn
-127.0.0.1 click.uve.mobile.sina.cn
 127.0.0.1 img.adbox.sina.com.cn
+127.0.0.1 img.amp.ad.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
 127.0.0.1 mg.games.sina.com.cn
+127.0.0.1 pfp.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
+127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 woocall.sina.com.cn
+127.0.0.1 sina.m.cn.momentad.com
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
@@ -4479,20 +4498,16 @@ fe80::1%lo0	localhost
 127.0.0.1 sdk.open.phone.igexin.com
 #sohu.com
 127.0.0.1 ad.mail.sohu.com
-127.0.0.1 corp.sohu.com
-127.0.0.1 images.sohu.com
-127.0.0.1 imp.go.sohu.com
-127.0.0.1 pv.sohu.com
-127.0.0.1 s.go.sohu.com
-127.0.0.1 t.go.sohu.com
-127.0.0.1 txt.go.sohu.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 click2.hd.sohu.com
+127.0.0.1 corp.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 his.tv.sohu.com
+127.0.0.1 images.sohu.com
+127.0.0.1 imp.go.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
@@ -4502,9 +4517,14 @@ fe80::1%lo0	localhost
 127.0.0.1 pm.aty.sohu.com
 127.0.0.1 push.tv.sohu.com
 127.0.0.1 pv.hd.sohu.com
+127.0.0.1 pv.sohu.com
+127.0.0.1 s.go.sohu.com
+127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
 127.0.0.1 um.hd.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 wl.hd.sohu.com
+127.0.0.1 zz.m.sohu.com
 127.0.0.1 sohu.wrating.com
 127.0.0.1 sohu.irs01.com
 127.0.0.1 sohutv.hpg.cn.miaozhen.com
@@ -4557,6 +4577,15 @@ fe80::1%lo0	localhost
 127.0.0.1 adm2.autoimg.cn
 127.0.0.1 adm3.autoimg.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 dclog.autodsp.com
+127.0.0.1 dclog.cig.com.cn
+127.0.0.1 pc.dc.cig.com.cn
+127.0.0.1 scd.dc.cig.com.cn
+127.0.0.1 dclog.dc.ctags.cn
+127.0.0.1 ev.dc.ctags.cn
+127.0.0.1 ev.dc.ctags.cn    
+127.0.0.1 js.ctags.cn
+127.0.0.1 pc.dc.ctags.cn
 @sites-cn/comic
 #e-hentai.org
 127.0.0.1 adserver.juicyads.com
@@ -4625,6 +4654,7 @@ fe80::1%lo0	localhost
 127.0.0.1 cnfolimedia.qtmojo.com
 #eastmoney.com
 127.0.0.1 cmsjs.eastmoney.com
+127.0.0.1 cp.eastmoney.com
 127.0.0.1 js4.eastmoney.com
 127.0.0.1 same.eastmoney.com
 #ftchinese.com
@@ -4731,6 +4761,8 @@ fe80::1%lo0	localhost
 #fang.com
 127.0.0.1 js.ub.fang.com
 127.0.0.1 show3.fang.com
+127.0.0.1 countpvn.light.fang.com
+127.0.0.1 uv.wap.fang.com
 127.0.0.1 clickm.soufun.com
 #fdc.com.cn
 127.0.0.1 shows.fdc.com.cn
@@ -4893,6 +4925,10 @@ fe80::1%lo0	localhost
 127.0.0.1 ggw.gusuwang.com
 127.0.0.1 ggw.watertu.com
 127.0.0.1 gg.haianw.com
+#huanqiu.com
+127.0.0.1 sspservice.ad-survey.com
+127.0.0.1 g.usingde.com
+127.0.0.1 pic.usingde.com
 #hangzhou.com.cn
 127.0.0.1 go.hangzhou.com.cn
 #hefei.cc
@@ -4901,6 +4937,7 @@ fe80::1%lo0	localhost
 127.0.0.1 g.hsw.cn
 127.0.0.1 stat.hsw.cn
 #ifeng.com
+127.0.0.1 c1.ifengimg.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
@@ -4969,6 +5006,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sc.chinaiiss.com
 #miercn.com
 127.0.0.1 tongji.miercn.com
+127.0.0.1 v.m.miercn.com
 127.0.0.1 w2.ddheli.com
 127.0.0.1 w3.ddheli.com
 #itiexue.net
@@ -5008,6 +5046,7 @@ fe80::1%lo0	localhost
 127.0.0.1 tracklog.58.com
 127.0.0.1 usdtop.58.com
 #ganji.com
+127.0.0.1 analytics.ganji.com
 127.0.0.1 ganjituiguang.ganji.com
 127.0.0.1 sta.ganji.com
 #douban.com
@@ -5188,11 +5227,9 @@ fe80::1%lo0	localhost
 127.0.0.1 float.co.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 pgv.m.xunlei.com
-127.0.0.1 record.kuai.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
 127.0.0.1 stat.vod.xunlei.com
-127.0.0.1 msg2.client.xunlei.com
 127.0.0.1 misc.show.xunlei.com
 127.0.0.1 v2.boxpage.niu.xunlei.com
 127.0.0.1 boxcfg.niu.xunlei.com
@@ -5713,9 +5750,6 @@ u5.8ox.cn
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am
 127.0.0.1 iqiyi.irs01.com
-127.0.0.1 397c0.admaster.com.cn
-127.0.0.1 viqiyi.admaster.com.cn
-127.0.0.1 tyaqy.m.cn.miaozhen.com
 #letv
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
@@ -5746,12 +5780,15 @@ u5.8ox.cn
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
-127.0.0.1 v.admaster.com.cn
-127.0.0.1 vyk.admaster.com.cn
 #zhushou
 127.0.0.1 123.click.kakamobi.cn
 #kuaiya
 127.0.0.1 lottery.kuaiya.cn
+127.0.0.1 api.dewmobile.net
+127.0.0.1 download.dewmobile.net
+127.0.0.1 downloada.dewmobile.net
+127.0.0.1 downloadb.dewmobile.net
+127.0.0.1 downloadf.dewmobile.net
 #jkbd
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
