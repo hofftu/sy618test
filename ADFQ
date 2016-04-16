@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160414
+#20160416
 # 酷安网 by sy619
 #本hosts专注于去国内广告、集成FQ功能。精品hosts你值得拥有！！！
 #
@@ -3535,12 +3535,14 @@
 #103.27.77.201 music.163.com启用这条可解锁网易云音乐版权限制
 ##########end#######
 
-;version=201604141748
+;version=20160416 943
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
 ::1             localhost
 @redirect
+#music
+103.27.77.201 music.163.com
 #uvwxyz.xyz
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
@@ -3631,6 +3633,7 @@
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-fe.amazon-adsystem.com
+127.0.0.1 aax-fe-pek.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
 #google
@@ -4044,7 +4047,6 @@
 127.0.0.1 nlog.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 rp.baidu.com
-127.0.0.1 static.pay.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 tongji.baidu.com
@@ -4082,14 +4084,17 @@
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
-#baidu-pan
-127.0.0.1 bcscdn.baidu.com
 #baidu-pos
 127.0.0.1 snippet.pos.baidu.com
 #baidu-share
 127.0.0.1 share.baidu.com
 #baidu-static
 127.0.0.1 rigel.baidustatic.com
+#baidu-tieba
+127.0.0.1 nj.baichuan.baidu.com
+127.0.0.1 static.pay.baidu.com
+127.0.0.1 img.taotaosou.cn
+127.0.0.1 img01.taotaosou.cn
 #baidu-tuisong
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api0.tuisong.baidu.com
@@ -4222,10 +4227,11 @@
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 #mi-browser
+127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
-127.0.0.1 fcanr.tracking.miui.com
+127.0.0.1 mlog.search.xiaomi.net
 #mi-download
 127.0.0.1 sousuo.xm.sjzhushou.com
 #mi-game
@@ -4436,12 +4442,18 @@
 127.0.0.1 monitor.yigao.com
 127.0.0.1 p.yigao.com
 #yoyi.com.cn
-127.0.0.1 d.yoyi.tv
+127.0.0.1 aim.yoyi.com.cn
+127.0.0.1 amps.yoyi.com.cn
 127.0.0.1 atm.yoyi.com.cn
+127.0.0.1 d.yoyi.com.cn
+127.0.0.1 d.yoyi.tv
 127.0.0.1 databank.air.yoyi.com.cn
 127.0.0.1 databank.yoyi.com.cn
+127.0.0.1 g.rs.yoyi.com.cn
 127.0.0.1 log2.air.yoyi.com.cn
+127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn
+127.0.0.1 www.yoyi.com.cn
 @sites-cn/books
 #aabook.club
 127.0.0.1 ads.exoclick.com
@@ -4781,6 +4793,7 @@
 127.0.0.1 csdnim.qtmojo.com
 #www.ctfile.com
 127.0.0.1 doubleclick.tv002.com
+127.0.0.1 vip.xlingdi.com
 #www.dedecms.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
@@ -4829,6 +4842,8 @@
 127.0.0.1 pv.tianjimedia.com
 127.0.0.1 y001.tianjimedia.com
 127.0.0.1 www.tianjimedia.com
+#zdfans.com
+127.0.0.1 94776.zdfans.com
 #www.zdnet.com.cn
 127.0.0.1 chkpt.zdnet.com
 127.0.0.1 am.zdnet.com.cn
@@ -4929,8 +4944,11 @@
 #www.fun.tv
 127.0.0.1 adm.funshion.com
 127.0.0.1 aw01.pub.funshion.com
-127.0.0.1 pub.funshion.com
 127.0.0.1 jobsfe.funshion.com
+127.0.0.1 po.funshion.com
+127.0.0.1 pub.funshion.com
+127.0.0.1 pv.funshion.com
+127.0.0.1 stat.funshion.net
 #www.gdtv.cn
 127.0.0.1 adv.grtn.cn
 #www.gridsum.com
@@ -5193,6 +5211,8 @@
 127.0.0.1 cfps.cw.china-netwave.com
 #www.people.com.cn
 127.0.0.1 pmm.people.com.cn
+#www.ptfish.com
+127.0.0.1 app.ptleju.com
 #www.qianlong.com
 127.0.0.1 qianlong.adsame.com
 #www.qingdaonews.com
@@ -5528,6 +5548,12 @@
 #simplecd.wang
 127.0.0.1 ad.7simage.com
 127.0.0.1 js.static.tebaidu.cn
+#www.80s.tw
+127.0.0.1 edc.zzzkxx.com
+127.0.0.1 js.133u.com
+127.0.0.1 iii.mengmob.com
+127.0.0.1 admin.louxia.org
+127.0.0.1 ssp.tadseeker.com
 #www.9kkz.com
 127.0.0.1 e4.6dad.com
 #www.aiqiyivip.com
@@ -5782,15 +5808,6 @@
 127.0.0.1 static.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 track.dmp.youmi.net
-#yoyi.com.cn
-127.0.0.1 aim.yoyi.com.cn
-127.0.0.1 amps.yoyi.com.cn
-127.0.0.1 atm.yoyi.com.cn
-127.0.0.1 d.yoyi.com.cn
-127.0.0.1 g.rs.yoyi.com.cn
-127.0.0.1 m.yoyi.com.cn
-127.0.0.1 mapping.yoyi.com.cn
-127.0.0.1 www.yoyi.com.cn
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
@@ -5854,6 +5871,13 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
+#gqfmys
+127.0.0.1 dc.ie.027ie.com
+127.0.0.1 ic.ie.027ie.com
+127.0.0.1 dd713.bj.bcebos.com
+127.0.0.1 vv84.bj.bcebos.com
+127.0.0.1 t1.jzkapp.com
+127.0.0.1 t2.jzkapp.com
 @tvbox
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
