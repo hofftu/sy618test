@@ -5,7 +5,7 @@
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 #
 ###喜欢追新的，你可以自己合并以下源。
-#最强AD源（由@vokins创建并维护）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+#最强AD源（由@vokins创建并维护）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 #最新FQ源：https://github.com/racaljk/hosts
 #（以上源不可与其他国内广告源合用，两个选一个使用即可）
 ##############################
@@ -3533,6 +3533,6 @@
 #其他
 52.84.7.141 getlantern.org
 23.235.43.133 raw.githubusercontent.com
-#103.27.77.201 music.163.com启用这条可解锁网易云音乐版权限制
+#
 ##########FQ end#########
 #
