@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160420
+#20160423
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。精品hosts你值得拥有！！！
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3533,7 +3533,8 @@
 #其他
 52.84.7.141 getlantern.org
 23.235.43.133 raw.githubusercontent.com
-#103.27.77.201 music.163.com启用这条可解锁网易云音乐版权限制
+127.0.0.1 bcscdn.baidu.com
+#
 ##########FQ end#########
 #
 @OS
@@ -3621,43 +3622,43 @@ ff02::2 ip6-allrouters
 #systemav
 127.0.0.1 m.madthumbs.com
 @mobile-cnapps
-#QQ�����
+#QQ
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
-#UC�����
+#UC
 127.0.0.1 adslot.uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 track.uc.cn
 127.0.0.1 safe.ucweb.com
-#���
+#jiedaibao
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
 127.0.0.1 rmw.jdburl.com
 127.0.0.1 jdb.jiudingcapital.cn
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 hd.jiedaibao.com
-#����
+#kuaiya
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 api.dewmobile.net
 127.0.0.1 downloada.dewmobile.net
 127.0.0.1 downloadb.dewmobile.net
-#�ݿ�����
+#jiakaobaodian
 127.0.0.1 123.click.kakamobi.cn
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-#�������Ӱ��
+#gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 t1.jzkapp.com
 127.0.0.1 t2.jzkapp.com
-#�л�������
+#etouch
 127.0.0.1 cq01-cm-et01.cq01.baidu.com
 127.0.0.1 marketing.etouch.cn
 127.0.0.1 pclog.suishenyun.net
@@ -5944,8 +5945,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 mp.atm.youku.com
 127.0.0.1 mqtt.m.youku.com
-127.0.0.1 msg.youku.com
-127.0.0.1 p.l.youku.com
 127.0.0.1 passport-log.youku.com
 127.0.0.1 player.lstat.youku.com
 127.0.0.1 push.m.youku.com
