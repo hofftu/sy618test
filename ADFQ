@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160423
+#20160427
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。精品hosts你值得拥有！！！
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -5982,3 +5982,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 njs.imagicskin.com
 127.0.0.1 img.95duk.com
 127.0.0.1 www.guanta37w.com
+127.0.0.1 m1.zhenai80.com
+127.0.0.1 vip.xjidian.com
+127.0.0.1 cp.5jjx.net
+127.0.0.1 rc.123juhd.com
+127.0.0.1 s95.cnzz.com
+127.0.0.1 z4.cnzz.com
+127.0.0.1 z1.cnzz.com
+127.0.0.1 s22.cnzz.com
