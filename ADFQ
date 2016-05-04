@@ -6137,3 +6137,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 c.yes.youku.com
+127.0.0.1 v2.uyan.cc
+127.0.0.1 jsapi.uyan.cc
+127.0.0.1 imgcdn.ynwqls.com
+127.0.0.1 js1940.anreson.net
