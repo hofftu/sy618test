@@ -2943,11 +2943,11 @@
 65.54.187.24	account.live.com
 23.44.152.70	auth.gfx.ms
 131.253.61.66	login.live.com
-134.170.108.154	onedrive.live.com
+204.79.197.217	onedrive.live.com
 23.212.129.202	p.sfx.ms
 134.170.30.15	people.live.com
 134.170.30.15	profile.live.com
-134.170.111.96	skyapi.onedrive.live.com
+134.170.107.48	skyapi.onedrive.live.com
 134.170.104.168	storage.live.com
 204.79.197.213	nhuhga.dm2301.livefilestore.com
 # OneDrive End
@@ -2998,8 +2998,8 @@
 198.35.26.112	upload.wikimedia.org
 208.80.154.224	en.wikipedia.org
 208.80.154.224	eu.wikipedia.org
-198.35.26.96	zh.wikipedia.org
-198.35.26.108	zh.m.wikipedia.org
+208.80.154.224	zh.wikipedia.org
+208.80.154.224	zh.m.wikipedia.org
 # Wikipedia End
 # WordPress Start
 68.232.44.121	www.gravatar.com
