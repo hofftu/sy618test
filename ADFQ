@@ -5059,6 +5059,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 tf.360.cn
+127.0.0.1 e.tf.360.cn
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
@@ -5616,6 +5617,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 bz.cnjianzhan.net
 127.0.0.1 scimg.27admin.com
 127.0.0.1 static.tv508.com
+#m.kb20.cc
+127.0.0.1 i.zt-dq.com
 #m.piaov.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
@@ -5935,4 +5938,3 @@ ff02::2 ip6-allrouters
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 c.yes.youku.com
-127.0.0.1 i.zt-dq.com
