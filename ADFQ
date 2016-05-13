@@ -3170,8 +3170,8 @@
 23.235.43.133 raw.githubusercontent.com
 127.0.0.1 bcscdn.baidu.com
 127.0.0.1 u.uc123.com
-#
-##########FQ end#########
+127.0.0.1 navi.gd.chinamobile.com
+########## end#########
 #
 @OS
 ::1     localhost
@@ -5935,3 +5935,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 c.yes.youku.com
+127.0.0.1 i.zt-dq.com
