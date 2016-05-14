@@ -3166,6 +3166,11 @@
 220.255.2.153 lh6.googleusercontent.com
 220.255.2.153 notifications.google.com
 #其他
+#https://m.apkpure.com
+108.163.178.42 m.apkpure.com
+108.163.178.42 a.apkpure.com
+108.163.178.42 download.apkpure.com
+#
 52.84.7.141 getlantern.org
 23.235.43.133 raw.githubusercontent.com
 127.0.0.1 bcscdn.baidu.com
