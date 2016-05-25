@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160522
+#20160525
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3694,6 +3694,19 @@ ff02::2 ip6-allrouters
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+@down
+#laomaotao
+127.0.0.1 www.laomaotao.net
+127.0.0.1 down.laomaotao.net
+#diannaodian
+127.0.0.1 u.diannaodian.com
+127.0.0.1 down.diannaodian.com
+#dabaicai
+127.0.0.1 www.winbaicai.com
+127.0.0.1 down.winbaicai.com
+#fish
+127.0.0.1 baidupan.win
+127.0.0.1 d2.showself.com
 @errorpage
 #click
 127.0.0.1 aos.prf.hn
@@ -3702,6 +3715,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 router.gwdang.com
+127.0.0.1 wap.koudaitong.com
 #domain hijack
 127.0.0.1 ss.cnnic.cn
 #ok365.com
@@ -4135,7 +4149,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
-127.0.0.1 s.m.baidu.com
 #gentags.net
 127.0.0.1 clk.gentags.net
 127.0.0.1 sit.gentags.net
@@ -4272,12 +4285,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.irs01.com
 127.0.0.1 qq.irs01.com
 127.0.0.1 sohu.irs01.com
-#jd.com
-127.0.0.1 ads.union.jd.com
-127.0.0.1 ccc.x.jd.com
-127.0.0.1 u.x.jd.com
-127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
 #jiathis.com
 127.0.0.1 i.jiathis.com
 127.0.0.1 id.jiathis.com
@@ -4687,6 +4694,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
@@ -5057,6 +5065,7 @@ ff02::2 ip6-allrouters
 #www.ctfile.com
 127.0.0.1 doubleclick.tv002.com
 127.0.0.1 vip.xlingdi.com
+127.0.0.1 img.ynwqls.com
 #www.dedecms.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
@@ -5606,6 +5615,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sh.qihoo.com
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com
+127.0.0.1 c.appjiagu.com
 127.0.0.1 s.appjiagu.com
 #baidu
 127.0.0.1 a.baidu.com
@@ -5635,9 +5645,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 znsv.baidu.com
-#baidu/lbs
-127.0.0.1 lbsonline.pushct.baidu.com
-127.0.0.1 statsonline.pushct.baidu.com
 #baidu/music
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
@@ -5694,6 +5701,9 @@ ff02::2 ip6-allrouters
 #baidu-soft/cleaner
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
+#baidu-soft/down
+127.0.0.1 rj.baidu.com
+127.0.0.1 dlsw.br.baidu.com
 #baidu-soft/hao123
 127.0.0.1 update.123juzi.net
 #baidu-soft/pan
@@ -5701,6 +5711,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 update.pan.baidu.com
 #qq.com
 127.0.0.1 ac.o2.qq.com
+127.0.0.1 guanjia.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 l.qq.com
@@ -5795,6 +5806,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 util.nphoto.net
 #www.poco.cn
 127.0.0.1 a-m-s.poco.cn
+@web-cn/shopping
+#egou.com
+127.0.0.1 ad.egou.com
+#jd.com
+127.0.0.1 ads.union.jd.com
+127.0.0.1 ccc.x.jd.com
+127.0.0.1 u.x.jd.com
+127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
 @web-cn/sns
 #55bbs.com
 127.0.0.1 stat.55bbs.com
@@ -5891,9 +5911,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 rs.qiyou.com
 127.0.0.1 i.00oo00.com
 127.0.0.1 link.00oo00.com
-127.0.0.1 js883.cnbole.net
-127.0.0.1 js436.cnbole.net
+127.0.0.1 ji.cnbole.net
+127.0.0.1 js1116.cnbole.net
+127.0.0.1 js1210.cnbole.net
 127.0.0.1 js2294.cnbole.net
+127.0.0.1 js436.cnbole.net
+127.0.0.1 js883.cnbole.net
+127.0.0.1 js986.cnbole.net
 127.0.0.1 vip.yoyozz.net
 127.0.0.1 www.yoyozz.net
 127.0.0.1 dl.img80.net
@@ -6003,6 +6027,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 rc.juejdkio.com
 127.0.0.1 g.buka9.com
 127.0.0.1 www.ads8.cc
+127.0.0.1 a.tnlhy.com
+127.0.0.1 b.apzeyu.com
 #www.meizitu.com
 127.0.0.1 e.70e.com
 127.0.0.1 e.e708.net
@@ -6019,10 +6045,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.mmycl.com
-127.0.0.1 js986.cnbole.net
-127.0.0.1 js1116.cnbole.net
 127.0.0.1 js1116.anreson.net
-127.0.0.1 ji.cnbole.net
 #www.shuaitong5.net
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
@@ -6037,6 +6060,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.uzhiv.com
 127.0.0.1 azapp.whroses.com
 127.0.0.1 keydot.net
+127.0.0.1 img.21kas.com
 @web-pops/down
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
@@ -6382,3 +6406,8 @@ ff02::2 ip6-allrouters
 @sites-all/tools
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
+#
+127.0.0.1 www.lessplay.com
+127.0.0.1 image.37wan.cn
+127.0.0.1 cpc.haohaowan8.com
+127.0.0.1 img.xa9t.com
