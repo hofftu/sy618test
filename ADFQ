@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160525
+#20160526
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3490,6 +3490,23 @@
 68.232.44.251	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
+#tumblr.com
+66.6.41.30 www.tumblr.com
+66.6.42.30 www.tumblr.com
+66.6.43.30 www.tumblr.com
+66.6.42.30 secure.assets.tumblr.com
+66.6.42.30 px.srvcs.tumblr.com
+66.6.43.23 api.tumblr.com
+74.125.203.141 th-in-f141.1e100.net
+54.182.0.52 secure.static.tumblr.com
+66.6.43.34 ls.srvcs.tumblr.com
+54.182.4.222 65.media.tumblr.com
+93.184.216.98 66.media.tumblr.com
+66.6.41.34 saber.srvcs.tumblr.com
+54.182.4.222 31.media.tumblr.com
+93.184.216.98 46.media.tumblr.com
+209.197.3.20 67.media.tumblr.com
+54.230.74.179 vt.tumblr.com
 #####
 #谷歌图片域名
 220.255.2.153 lh1.google.com
@@ -3634,9 +3651,12 @@
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 adp.atm.youku.com
+127.0.0.1 api.gamex.mobile.youku.com
+127.0.0.1 c.yes.youku.com
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
+127.0.0.1 e.stat.ykimg.com
 127.0.0.1 e.stat.youku.com
 127.0.0.1 lstat.youku.com
 127.0.0.1 mb.atm.youku.com
@@ -3645,23 +3665,18 @@
 127.0.0.1 mo.atm.youku.com
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 mp.atm.youku.com
+127.0.0.1 p-log.ykimg.com
 127.0.0.1 passport-log.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 r.l.youku.com
-127.0.0.1 urchin.lstat.youku.com
-127.0.0.1 v.l.youku.com
-127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
+127.0.0.1 s.p.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com
+127.0.0.1 stat.youku.com
 127.0.0.1 test.gamex.mobile.youku.com
 127.0.0.1 test.sdk.gamex.mobile.youku.com
+127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 wan.youku.com
-127.0.0.1 e.stat.ykimg.com
-127.0.0.1 p-log.ykimg.com
-127.0.0.1 c.yes.youku.com
-127.0.0.1 stat.youku.com
-127.0.0.1 s.p.youku.com
-127.0.0.1 hudong.pl.youku.com
 @OS
 ::1     localhost
 ::1     localhost ip6-localhost ip6-loopback
@@ -5328,12 +5343,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 ana.stg8.com
 127.0.0.1 map.dxpmedia.com
 127.0.0.1 static.flv.uuzuonline.com
-127.0.0.1 player.lstat.youku.com
 127.0.0.1 m.yes.youku.com
-127.0.0.1 themis.ykimg.com
+127.0.0.1 player.lstat.youku.com
 127.0.0.1 val.atm.youku.com
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 vid.atm.youku.com
+127.0.0.1 themis.ykimg.com
+127.0.0.1 hudong.pl.youku.com
+127.0.0.1 v.l.youku.com
+127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 @web-cn/music
 #www.duomi.com
 127.0.0.1 service.ad.duomi.com
@@ -6228,11 +6246,17 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip.shuma2.com
 127.0.0.1 p.m5bn.com
 127.0.0.1 c.45io.com
-#www.dage123.com
 #www.dyfys.com/11tvb.com
 127.0.0.1 banmeng_1725.it760.com
 127.0.0.1 js.cyad.cc
 127.0.0.1 www.qdhongyushun.com
+#www.etdown.net
+127.0.0.1 cpc.haohaowan8.com
+127.0.0.1 tg.m.37.com
+127.0.0.1 dl.37wan.cn
+127.0.0.1 image.37wan.cn
+127.0.0.1 img.xa9t.com
+127.0.0.1 www.lessplay.com
 #www.id97.com
 127.0.0.1 c.jk2h.com
 127.0.0.1 p.imigame.com
@@ -6406,8 +6430,3 @@ ff02::2 ip6-allrouters
 @sites-all/tools
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
-#www.etdown.net
-127.0.0.1 www.lessplay.com
-127.0.0.1 image.37wan.cn
-127.0.0.1 cpc.haohaowan8.com
-127.0.0.1 img.xa9t.com
