@@ -3491,19 +3491,24 @@
 68.232.44.251	www.w3schools.com
 # W3schools End
 #tumblr.com
+66.6.42.30	tumblr.com
 66.6.41.30 www.tumblr.com
 66.6.42.30 www.tumblr.com
 66.6.43.30 www.tumblr.com
-66.6.42.30 secure.assets.tumblr.com
+66.6.42.34	mx.tumblr.com
+68.232.35.63 secure.assets.tumblr.com
 66.6.42.30 px.srvcs.tumblr.com
 66.6.43.23 api.tumblr.com
 74.125.203.141 th-in-f141.1e100.net
+66.6.42.34	assets.tumblr.com
 54.182.0.52 secure.static.tumblr.com
 66.6.43.34 ls.srvcs.tumblr.com
 54.182.4.222 65.media.tumblr.com
 93.184.216.98 66.media.tumblr.com
 66.6.41.34 saber.srvcs.tumblr.com
 54.182.4.222 31.media.tumblr.com
+54.192.98.136	32.media.tumblr.com
+209.197.3.20	33.media.tumblr.com
 93.184.216.98 46.media.tumblr.com
 209.197.3.20 67.media.tumblr.com
 54.230.74.179 vt.tumblr.com
@@ -3810,9 +3815,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mqqadr.reader.qq.com
-127.0.0.1 mtt.eve.mdt.qq.com
-127.0.0.1 oth.str.mdt.qq.com
-127.0.0.1 oth.eve.mdt.qq.com
 #wandoujia.com
 127.0.0.1 push.wandoujia.com
 #www.uc.cn
