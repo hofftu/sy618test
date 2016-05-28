@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160527
+#20160528
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -4099,17 +4099,34 @@ ff02::2 ip6-allrouters
 127.0.0.1 msnclick.wrating.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 163.wrating.com
-#alibaba
+#ali-mama
+127.0.0.1 a.alimama.cn
+127.0.0.1 img.alimama.cn
+127.0.0.1 afptrack.alimama.com
+#ali-taobao
+127.0.0.1 adash.m.taobao.com
+127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 ai.m.taobao.com
+127.0.0.1 re.m.taobao.com
+127.0.0.1 show.re.taobao.com
+127.0.0.1 click.mz.simba.taobao.com
+127.0.0.1 fav.simba.taobao.com
+127.0.0.1 m.simba.taobao.com
+127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 srd.simba.taobao.com
+127.0.0.1 textlink.simba.taobao.com
+127.0.0.1 tns.simba.taobao.com
+127.0.0.1 g.click.taobao.com
+127.0.0.1 i.click.taobao.com
+127.0.0.1 s.click.tmall.com
+127.0.0.1 click.aliyun.com
+#ali-baba
 127.0.0.1 aecpm.alicdn.com
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 gen.alicdn.com
-127.0.0.1 a.alimama.cn
-127.0.0.1 img.alimama.cn
-127.0.0.1 adash.m.taobao.com
-127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
@@ -4196,6 +4213,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 ht.www.sogou.com
 127.0.0.1 img.wan.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
@@ -4235,6 +4253,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ad7.com
 #admaster.com.cn
 127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
@@ -5512,6 +5531,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 games.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 stadig.ifeng.com
@@ -5580,6 +5600,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 crashlytics.163.com
 127.0.0.1 count.mail.163.com
 127.0.0.1 r.mail.163.com
+127.0.0.1 ir.mail.163.com
+127.0.0.1 irpmt.mail.163.com
 127.0.0.1 rec.g.163.com
 127.0.0.1 g.163.com
 127.0.0.1 g1.163.com
@@ -5610,17 +5632,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 impservice.dictvista.youdao.com
 127.0.0.1 impservice.dictweb.youdao.com
+127.0.0.1 impservice.mail.youdao.com
 127.0.0.1 impservice.union.youdao.com
 127.0.0.1 impservice2.youdao.com
 127.0.0.1 m.clkservice.youdao.com
-127.0.0.1 p.clkservice.youdao.com
-127.0.0.1 rlogs.youdao.com
-127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 nc004x.corp.youdao.com
 127.0.0.1 nc045x.corp.youdao.com
+127.0.0.1 p.clkservice.youdao.com
 127.0.0.1 qt002x.corp.youdao.com
+127.0.0.1 rlogs.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
 127.0.0.1 tb104x.corp.youdao.com
+127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 mini.eastday.com
 #360.cn
 127.0.0.1 ad.dev.360.cn
@@ -6094,6 +6117,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 keydot.net
 127.0.0.1 img.21kas.com
 127.0.0.1 s.taobaomayu.com
+127.0.0.1 a.xflnk.com
+127.0.0.1 www.keydot.net
+127.0.0.1 www.yanjiele8.club
 @web-pops/down
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
@@ -6102,15 +6128,29 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.7baike.com
 127.0.0.1 js.um0592.com
 127.0.0.1 www.um0592.com
+127.0.0.1 c.code222.com
+127.0.0.1 js3555.hongtaidichan.net
+127.0.0.1 z.xc0429.com
+127.0.0.1 imgcdn.sxxjdz.com
+127.0.0.1 img1.pszyzxh.org
+127.0.0.1 a.fhxcy.com
+127.0.0.1 a.wlcnd.com
+127.0.0.1 ad.dokrmob.com
+127.0.0.1 ams.51junpin.net
+127.0.0.1 okt.xcyjzs.net
+127.0.0.1 iospage.w0shishui.com
+127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 199.nord-raum.com
+127.0.0.1 js.jianbaimei.com
+127.0.0.1 js883.anreson.net
+127.0.0.1 la.qshxc.com
 #btkitty.ws
 127.0.0.1 ghavcb.520jr.com
 127.0.0.1 njs.myyage.com
 127.0.0.1 www.4wad.com
-127.0.0.1 199.nord-raum.com
 127.0.0.1 pic5.cstoa.com
 127.0.0.1 pic2.4001075656.com
 127.0.0.1 imgcdn.xixiwan.net
-127.0.0.1 la.qshxc.com
 127.0.0.1 ops.zibov.com
 127.0.0.1 v.dbncp.com
 127.0.0.1 jump1.pszyzxh.org
@@ -6127,13 +6167,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.yichum.com
 127.0.0.1 abc.tpd8.com
 127.0.0.1 a.tnlby.com
-127.0.0.1 njs.hcm94alliance.com
 127.0.0.1 i.uzhiv.com
 #btlibrary.net
 127.0.0.1 j.mainbx.com
-127.0.0.1 js.jianbaimei.com
 #diggbt.net
-127.0.0.1 js883.anreson.net
 127.0.0.1 1234xm.com
 127.0.0.1 aa.scw0.com
 127.0.0.1 bb.jw90.com
@@ -6445,3 +6482,4 @@ ff02::2 ip6-allrouters
 @sites-all/tools
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
+127.0.0.1 panel.adtify.pl
