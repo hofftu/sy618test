@@ -3490,6 +3490,7 @@
 68.232.44.251	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
+###
 #tumblr.com
 66.6.42.30	tumblr.com
 66.6.41.30 www.tumblr.com
@@ -3512,8 +3513,7 @@
 93.184.216.98 46.media.tumblr.com
 209.197.3.20 67.media.tumblr.com
 54.230.74.179 vt.tumblr.com
-#####
-#谷歌图片域名
+#google picture
 220.255.2.153 lh1.google.com
 220.255.2.153 lh0.google.com
 220.255.2.153 lh2.ggpht.com
@@ -3543,17 +3543,21 @@
 220.255.2.153 lh5.googleusercontent.com
 220.255.2.153 lh6.googleusercontent.com
 220.255.2.153 notifications.google.com
-#其他
-#
+#theinitium.com
+54.169.137.99 theinitium.com
 # m.apkpure.com
 108.163.178.42 m.apkpure.com
 108.163.178.42 a.apkpure.com
 108.163.178.42 download.apkpure.com
-#
+#landeng
 52.84.7.141 getlantern.org
+#github
 23.235.43.133 raw.githubusercontent.com
+#baidu
 127.0.0.1 bcscdn.baidu.com
+#uc
 127.0.0.1 u.uc123.com
+#liantong
 127.0.0.1 navi.gd.chinamobile.com
 ########## end#########
 #
