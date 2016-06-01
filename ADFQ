@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160531
+#20160602
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3490,6 +3490,7 @@
 68.232.44.251	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
+###
 #tumblr.com
 66.6.42.30	tumblr.com
 66.6.41.30 www.tumblr.com
@@ -3512,8 +3513,7 @@
 93.184.216.98 46.media.tumblr.com
 209.197.3.20 67.media.tumblr.com
 54.230.74.179 vt.tumblr.com
-#####
-#谷歌图片域名
+#google picture
 220.255.2.153 lh1.google.com
 220.255.2.153 lh0.google.com
 220.255.2.153 lh2.ggpht.com
@@ -3543,17 +3543,21 @@
 220.255.2.153 lh5.googleusercontent.com
 220.255.2.153 lh6.googleusercontent.com
 220.255.2.153 notifications.google.com
-#其他
-#
+#theinitium.com
+54.169.137.99 theinitium.com
 # m.apkpure.com
 108.163.178.42 m.apkpure.com
 108.163.178.42 a.apkpure.com
 108.163.178.42 download.apkpure.com
-#
+#landeng
 52.84.7.141 getlantern.org
+#github
 23.235.43.133 raw.githubusercontent.com
+#baidu
 127.0.0.1 bcscdn.baidu.com
+#uc
 127.0.0.1 u.uc123.com
+#liantong
 127.0.0.1 navi.gd.chinamobile.com
 ########## end#########
 #
@@ -4122,19 +4126,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 ai.m.taobao.com
-127.0.0.1 re.m.taobao.com
-127.0.0.1 show.re.taobao.com
-127.0.0.1 click.mz.simba.taobao.com
-127.0.0.1 fav.simba.taobao.com
-127.0.0.1 m.simba.taobao.com
-127.0.0.1 redirect.simba.taobao.com
-127.0.0.1 srd.simba.taobao.com
-127.0.0.1 textlink.simba.taobao.com
-127.0.0.1 tns.simba.taobao.com
-127.0.0.1 g.click.taobao.com
-127.0.0.1 i.click.taobao.com
-127.0.0.1 s.click.tmall.com
 127.0.0.1 click.aliyun.com
 #ali-baba
 127.0.0.1 aecpm.alicdn.com
@@ -5897,7 +5888,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 im-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
 @web-cn/sns
 #55bbs.com
 127.0.0.1 stat.55bbs.com
@@ -6518,3 +6508,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 panel.adtify.pl
+127.0.0.1 tt.snnnyy.com
