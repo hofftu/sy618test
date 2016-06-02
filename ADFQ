@@ -3912,7 +3912,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
-127.0.0.1 ti.qq.com
+#127.0.0.1 ti.qq.com
 127.0.0.1 updatecenter.qq.com
 #tencent-qq-down
 127.0.0.1 c.gj.qq.com
@@ -4794,6 +4794,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 assets.easou.com
 127.0.0.1 tjlog.easou.com
 127.0.0.1 tjlog.ps.easou.com
+#m.69shuwu.com
+127.0.0.1 tt.snnnyy.com
+127.0.0.1 img.jmlpshop.cn
 #shuqi.com
 127.0.0.1 ut2.shuqistat.com
 #www.qidian.com
@@ -6508,4 +6511,3 @@ ff02::2 ip6-allrouters
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 panel.adtify.pl
-127.0.0.1 tt.snnnyy.com
