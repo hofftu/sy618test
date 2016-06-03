@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160602
+#20160604
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3559,6 +3559,8 @@
 127.0.0.1 u.uc123.com
 #liantong
 127.0.0.1 navi.gd.chinamobile.com
+#chinaz.com
+36.250.79.84 ping.chinaz.com
 ########## end#########
 #
 @tvbox
