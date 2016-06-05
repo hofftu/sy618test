@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160604
+#20160605
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3586,42 +3586,49 @@
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
 #iqiyi
-127.0.0.1 v2.reachmax.cn
-127.0.0.1 api.cupid.qiyi.com
-127.0.0.1 msg.video.qiyi.com
-127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
-127.0.0.1 ckm.iqiyi.com
+127.0.0.1 cloudpush.iqiyi.com
+127.0.0.1 gamecenter.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 l.rcd.iqiyi.com
 127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
-127.0.0.1 nlwl.iqiyi.com
-127.0.0.1 cloudpush.iqiyi.com
+127.0.0.1 nl.rcd.iqiyi.com
+127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 static.g.ppstream.com
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am
-127.0.0.1 qosp.msg.71.am
-127.0.0.1 notice.iqiyi.com
-127.0.0.1 feedback.iqiyi.com
-127.0.0.1 game.pps.tv
-127.0.0.1 api.msg.pps.tv
-127.0.0.1 a.ckm.iqiyi.com
+127.0.0.1 api.cupid.qiyi.com
+127.0.0.1 meta.video.qiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
+127.0.0.1 static.g.ppstream.com
 127.0.0.1 ad.m.iqiyi.com
 127.0.0.1 data.store.iqiyi.com
+127.0.0.1 feedback.iqiyi.com
 127.0.0.1 mixer.cupid.iqiyi.com
+127.0.0.1 notice.iqiyi.com
+127.0.0.1 v2.reachmax.cn
+127.0.0.1 a.ckm.iqiyi.com
+127.0.0.1 api.msg.pps.tv
+127.0.0.1 ckm.iqiyi.com
+127.0.0.1 game.pps.tv
+127.0.0.1 qosp.msg.71.am
 #letv
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 msg.m.letv.com
 #sohu-video
+127.0.0.1 888.tv.sohu.com
 127.0.0.1 agn.aty.sohu.com
+127.0.0.1 api.store.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 download.wan.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
@@ -3632,8 +3639,6 @@
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 zz.m.sohu.com
 127.0.0.1 da.mmarket.com
-127.0.0.1 api.store.sohu.com
-127.0.0.1 download.wan.sohu.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com
@@ -3664,6 +3669,10 @@
 127.0.0.1 test.sdk.gamex.mobile.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 wan.youku.com
+
+
+127.0.0.1 app.adjust.com
+
 @OS
 ::1     localhost
 ::1     localhost ip6-localhost ip6-loopback
@@ -3799,6 +3808,27 @@ ff02::2 ip6-allrouters
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mqqadr.reader.qq.com
+127.0.0.1 fg.html5.qq.com
+127.0.0.1 game.html5.qq.com
+127.0.0.1 jpush.html5.qq.com
+127.0.0.1 mdc.html5.qq.com
+127.0.0.1 novelsns.html5.qq.com
+127.0.0.1 weblog.html5.qq.com
+127.0.0.1 fg.imtt.qq.com
+127.0.0.1 log.imtt.qq.com
+127.0.0.1 mdc.imtt.qq.com
+127.0.0.1 p.imtt.qq.com
+127.0.0.1 report.imtt.qq.com
+127.0.0.1 soft.imtt.qq.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 pms.mb.qq.com
+#migu.cmvideo.cn
+127.0.0.1 adxserver.ad.cmvideo.cn
+127.0.0.1 clientanalysis.cmvideo.cn
+127.0.0.1 dsp.ad.cmvideo.cn
+127.0.0.1 dspserver.ad.cmvideo.cn
+127.0.0.1 push.cmvideo.cn
+127.0.0.1 iflyad.bj.openstorage.cn
 #molitv.cn
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
@@ -3812,6 +3842,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.youku.com
 #tv.qq.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 vmat.gtimg.com
 #wandoujia.com
@@ -3848,6 +3880,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
+#wx.qq.com
+127.0.0.1 mtt.eve.mdt.qq.com
+127.0.0.1 mtt.str.mdt.qq.com
 #gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
@@ -4198,6 +4233,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 t11.baidu.com
 #gentags.net
 127.0.0.1 clk.gentags.net
 127.0.0.1 sit.gentags.net
@@ -4753,6 +4789,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cr.m.liebao.cn
 #miui-mi
 127.0.0.1 a.union.mi.com
+127.0.0.1 d.g.mi.com
 127.0.0.1 migc.g.mi.com
 127.0.0.1 migcreport.g.mi.com
 127.0.0.1 sg.a.stat.mi.com
@@ -5073,6 +5110,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsame.liba.com
 127.0.0.1 img.adsame.liba.com
 127.0.0.1 adsame.libaclub.com
+#www.zhihu.com
+127.0.0.1 sugar.zhihu.com
 @web-cn/it
 #android.18183.com
 127.0.0.1 eezdx.erc.18183.com
@@ -5291,6 +5330,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.fjtv.net
 #www.fun.tv
 127.0.0.1 adm.funshion.com
+127.0.0.1 pv.funshion.com
 127.0.0.1 stat.funshion.net
 #www.gdtv.cn
 127.0.0.1 adv.grtn.cn
@@ -5805,7 +5845,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
-127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 video.wap.mpush.qq.com
 127.0.0.1 vmind.qqvideo.tc.qq.com
 127.0.0.1 w.l.qq.com
@@ -5892,6 +5931,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 im-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
 @web-cn/sns
 #55bbs.com
 127.0.0.1 stat.55bbs.com
@@ -6039,6 +6079,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 tp.sphwq.net
 127.0.0.1 img.shentus.com
 127.0.0.1 slb.shentus.com
+#m.ddmm.cc
+127.0.0.1 u.yiiwoo.com
 #m.ranwen.org
 127.0.0.1 img.xsfrt.com
 127.0.0.1 s.druu.cc
@@ -6288,6 +6330,14 @@ ff02::2 ip6-allrouters
 #zimuzu.tv
 127.0.0.1 g.ousns.net
 127.0.0.1 www.lx167.com
+#henduo.tv
+127.0.0.1 cp.jiajv.net
+127.0.0.1 pv.cpc163.com
+127.0.0.1 s.5jjx.net
+127.0.0.1 t2.vbxx.net
+127.0.0.1 w2.docols.net
+127.0.0.1 www.ads80.com
+127.0.0.1 www1.boshipai.com
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 imgcdn.ynwqls.com
@@ -6300,6 +6350,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.tv508.com
 #m.kb20.cc
 127.0.0.1 i.zt-dq.com
+127.0.0.1 a.tnlfk.com
 #m.piaov.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
@@ -6513,4 +6564,4 @@ ff02::2 ip6-allrouters
 @sites-all/tools
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
-127.0.0.1 lives.l.qq.com
+127.0.0.1 panel.adtify.pl
