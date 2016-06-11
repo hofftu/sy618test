@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160610
+#20160611
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3623,6 +3623,7 @@
 127.0.0.1 api.store.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com
+127.0.0.1 hui.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
@@ -3810,6 +3811,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 soft.imtt.qq.com
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 pms.mb.qq.com
+127.0.0.1 cooperation.html5.qq.com
+127.0.0.1 zixuncooperation.html5.qq.com
 #migu.cmvideo.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 clientanalysis.cmvideo.cn
@@ -3835,6 +3838,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 vmat.gtimg.com
+#v.dopool.com
+127.0.0.1 ad-cache.dopool.com
+127.0.0.1 ad.dopool.com
+127.0.0.1 analytics3.dopool.com
+127.0.0.1 push.dopool.com
+127.0.0.1 ad-data.starschina.com
+127.0.0.1 test.ad.starschina.com
+127.0.0.1 test.adapi.starschina.com
 #wandoujia.com
 127.0.0.1 push.wandoujia.com
 #www.uc.cn
@@ -3869,9 +3880,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-#wx.qq.com
-127.0.0.1 mtt.eve.mdt.qq.com
-127.0.0.1 mtt.str.mdt.qq.com
 #gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
@@ -4055,8 +4063,12 @@ ff02::2 ip6-allrouters
 #yahoo
 127.0.0.1 ads.yahoo.com
 127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
+127.0.0.1 na.ads.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
+127.0.0.1 pr-bh.ybp.yahoo.com
+127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
 @union-cn-iframe
 #alibaba-cnzz
@@ -4177,6 +4189,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mlt01.com
 127.0.0.1 cm.mlt01.com
 127.0.0.1 dt.tongji.linezing.com
+127.0.0.1 img.tongji.linezing.com
 127.0.0.1 js.tongji.linezing.com
 127.0.0.1 tongji.linezing.com
 127.0.0.1 jxlog.istreamsche.com
@@ -4287,6 +4300,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
@@ -4297,6 +4311,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
 #adsame.com
+127.0.0.1 botuu.adsame.com
 127.0.0.1 caixin.adsame.com
 127.0.0.1 conde.adsame.com
 127.0.0.1 i.adsame.com
@@ -4369,6 +4384,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dmp.kejet.net
 127.0.0.1 m.kejet.net
 127.0.0.1 cmarket.kejet.net
+127.0.0.1 rtb-p.kejet.net
 #knet.cn
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
@@ -4480,6 +4496,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 aka-cdn-ns.adtechus.com
 127.0.0.1 aka-cdn.adtechus.com
+127.0.0.1 ums.adtechus.com
+127.0.0.1 ums.adtechjp.com
 #ad-survey.com
 127.0.0.1 sspservice.ad-survey.com
 127.0.0.1 tracking.ad-survey.com
@@ -4522,6 +4540,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aj-gb.mgid.com
 127.0.0.1 imgg.mgid.com
 127.0.0.1 jsc.mgid.com
+127.0.0.1 mgid.com
 127.0.0.1 www.mgid.com
 #quantserve.com
 127.0.0.1 edge.quantserve.com
@@ -4596,6 +4615,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 t4.agrantsem.com
 #cocounion.com
 127.0.0.1 config.cocounion.com
+127.0.0.1 m.cocounion.com
+127.0.0.1 service.cocounion.com
 127.0.0.1 stats.cocounion.com
 #coolguang.com
 127.0.0.1 api.coolguang.com
@@ -4649,7 +4670,14 @@ ff02::2 ip6-allrouters
 #maysunmedia.com
 127.0.0.1 s.think.cn.maysunmedia.com
 #meizu-flyme
+127.0.0.1 aider.meizu.com
+127.0.0.1 game.res.meizu.com
+127.0.0.1 servicecut.meizu.com
+127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
+127.0.0.1 u.meizu.com
+127.0.0.1 upush.res.meizu.com
+127.0.0.1 uxip.meizu.com
 #mdotm.com
 127.0.0.1 ads.mdotm.com
 127.0.0.1 cdn.mdotm.com
@@ -4737,6 +4765,7 @@ ff02::2 ip6-allrouters
 #xunfei
 127.0.0.1 agr.voiceads.cn
 127.0.0.1 bj.imp.voiceads.cn
+127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
 #youmi
 127.0.0.1 aos.gw.youmi.net
@@ -4756,6 +4785,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 folder.adfuture.cn
+127.0.0.1 fotacontrol.adfuture.cn
 #cm-adkmob
 127.0.0.1 cm.adkmob.com
 127.0.0.1 ssdk.adkmob.com
@@ -4765,6 +4795,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 folder.adsunflower.com
 #cm-advmob
 127.0.0.1 bigdata.advmob.cn
+127.0.0.1 folder.advmob.cn
 #cm-ijinshan
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
@@ -5402,18 +5433,20 @@ ff02::2 ip6-allrouters
 127.0.0.1 afm.pipi.cn
 #www.pptv.com
 127.0.0.1 ads.aplus.pptv.com
-127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
-127.0.0.1 m.g.pptv.com
 127.0.0.1 pub.aplus.pptv.com
+127.0.0.1 imagecache.g.pptv.com
+127.0.0.1 img1.g.pptv.com
+127.0.0.1 img2.g.pptv.com
+127.0.0.1 img3.g.pptv.com
+127.0.0.1 m.g.pptv.com
 127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 ads.data.pplive.com
-127.0.0.1 ppvabs.pplive.com
 127.0.0.1 asimgs.pplive.cn
-#www.tiantian.tv
-127.0.0.1 ad-data.starschina.com
-127.0.0.1 ad-cache.dopool.com
+127.0.0.1 ins.pplive.com
+127.0.0.1 ppvabs.pplive.com
+127.0.0.1 v2.reachmax.cn
 #www.uusee.com
 127.0.0.1 winvvv.com
 #www.v1.cn
@@ -5733,6 +5766,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 service.jiagu.360.cn
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.sd.360.cn
+127.0.0.1 stat.m.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 tf.360.cn
 127.0.0.1 e.tf.360.cn
@@ -5819,13 +5853,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 dl2.bav.baidu.com
 127.0.0.1 download.sd.baidu.com
 127.0.0.1 w.x.baidu.com
-#baidu-soft/bar
+#baidu-soft/bar-browser
 127.0.0.1 banlv.baidu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 dl.client.baidu.com
-127.0.0.1 toolbar.baidu.com
-#baidu-soft/browser
 127.0.0.1 j.br.baidu.com
+127.0.0.1 toolbar.baidu.com
 #baidu-soft/cleaner
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
@@ -6191,6 +6224,7 @@ ff02::2 ip6-allrouters
 #www.mmycl.com
 127.0.0.1 js1116.anreson.net
 #www.shuaitong5.net
+127.0.0.1 s.95105012.com
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
 127.0.0.1 ss.zzzkxx.com
@@ -6471,70 +6505,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.clicktale.net
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 clicktalecdn.sslcs.cdngc.net
-@web-for/pan
-#uploadshub.com
-127.0.0.1 callmd5map.com
-127.0.0.1 clksite.com
-127.0.0.1 eclkmpsa.com
-127.0.0.1 pl139095.puhtml.com
-127.0.0.1 servicegetbook.net
-127.0.0.1 d1635hfcvs8ero.cloudfront.net
-#userscloud.com
-127.0.0.1 d3al52d8cojds7.cloudfront.net
-@sites-all/netstorage
-#depositfiles.com
-127.0.0.1 ads8c.depositfiles.com
-127.0.0.1 api.solvemedia.com
-127.0.0.1 s.adverigo.com
-#uptobox.com
-127.0.0.1 ads.uptobox.com
-127.0.0.1 cdn.adikteev.com
-127.0.0.1 c.ad6media.fr
-127.0.0.1 www.tradeadexchange.com
-127.0.0.1 go.onclasrv.com
-127.0.0.1 go.padsdel.com
-127.0.0.1 go.padstm.com
-#www.masterkreatif.com
-127.0.0.1 resources.infolinks.com
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
-#dvworld.com.tw
-127.0.0.1 ads.dvworld.com.tw
-#tehparadox.com
-127.0.0.1 a.komoona.com
-127.0.0.1 cdn.komoona.com
-127.0.0.1 s.komoona.com
-127.0.0.1 stat.komoona.com
-127.0.0.1 ad.turn.com
-#xhamster.com
-127.0.0.1 ads.adsclean.com
-127.0.0.1 ads.adxpansion.com
-127.0.0.1 cs.adxpansion.com
-127.0.0.1 rotator.trafficstars.com
-127.0.0.1 syndication.traffichaus.com
-#www.rlslog.net
-127.0.0.1 jsc.dt07.net
-127.0.0.1 ecpmrocks.com
-127.0.0.1 www.advanpromo.com
-#www.seedpeer.eu
-127.0.0.1 a.rvttrack.com
-127.0.0.1 j.rvttrack.com
-127.0.0.1 sc.rvtlife.com
-127.0.0.1 www.fatremovement.com
-#www.solidfiles.com
-127.0.0.1 js.avstats.com
-127.0.0.1 cdn.engine.trklnks.com
-127.0.0.1 www.appsbodyupdate.com
-#www.tube8.com
-127.0.0.1 ss.phncdn.com
-127.0.0.1 media.trafficjunky.net
-#www.vn-zoom.com
-127.0.0.1 api.adtimaserver.vn
-127.0.0.1 log.adtimaserver.vn
-127.0.0.1 static.adtimaserver.vn
-127.0.0.1 j.microad.net
-127.0.0.1 cache.send.microadinc.com
-@sites-all/adult
+127.0.0.1 cdn.segment.com
+127.0.0.1 panel.adtify.pl
+@web-for/adult
 #91porn.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 bcp.crwdcntrl.net
@@ -6542,7 +6515,22 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.sitemaji.com
 127.0.0.1 ssl.sitemaji.com
 127.0.0.1 static.awempire.com
-@sites-all/bit2k
+#www.tube8.com
+127.0.0.1 ss.phncdn.com
+#xhamster.com
+127.0.0.1 vi2ishae.xhamster.com
+127.0.0.1 ads.adxpansion.com
+127.0.0.1 cs.adxpansion.com
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 media.trafficjunky.net
+127.0.0.1 pt.trafficjunky.net
+127.0.0.1 ads2.contentabc.com
+127.0.0.1 cdn11.contentabc.com
+127.0.0.1 ads.adsclean.com
+127.0.0.1 re.try9.com
+127.0.0.1 rotator.trafficstars.com
+127.0.0.1 syndication.traffichaus.com
+@web-for/bt2k
 #bts.ph
 127.0.0.1 mg.dt07.net
 #kat.cr
@@ -6554,7 +6542,35 @@ ff02::2 ip6-allrouters
 127.0.0.1 tr.cdnfile.com
 #www.mininova.org
 127.0.0.1 s.ato.mx
-@sites-all/image
+#www.rlslog.net
+127.0.0.1 jsc.dt07.net
+127.0.0.1 ecpmrocks.com
+127.0.0.1 www.advanpromo.com
+#www.seedpeer.eu
+127.0.0.1 a.rvttrack.com
+127.0.0.1 j.rvttrack.com
+127.0.0.1 sc.rvtlife.com
+127.0.0.1 www.fatremovement.com
+#www.vn-zoom.com
+127.0.0.1 api.adtimaserver.vn
+127.0.0.1 log.adtimaserver.vn
+127.0.0.1 media.adtimaserver.vn
+127.0.0.1 static.adtimaserver.vn
+127.0.0.1 admicro1.vcmedia.vn
+127.0.0.1 admicro4.vcmedia.vn
+127.0.0.1 admicro5.vcmedia.vn
+127.0.0.1 admicro6.vcmedia.vn
+127.0.0.1 lg.logging.admicro.vn
+127.0.0.1 lg1.logging.admicro.vn
+127.0.0.1 s.eclick.vn
+127.0.0.1 static.eclick.vn
+127.0.0.1 e-vcdn.anthill.vn
+127.0.0.1 f.novanet.vn
+127.0.0.1 static.novanet.vn
+127.0.0.1 j.microad.net
+127.0.0.1 cache.send.microadinc.com
+127.0.0.1 jgl.microad.net
+@web-for/image
 #freeimagehosting.net
 127.0.0.1 c.mnet-ad.net
 127.0.0.1 contextual.media.net
@@ -6578,11 +6594,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 mixpanel.com
 127.0.0.1 api.mixpanel.com
-@sites-all/tools
-127.0.0.1 staticxx.facebook.com
-127.0.0.1 syndication.twitter.com
-127.0.0.1 cdn.segment.com
-127.0.0.1 panel.adtify.pl
+@web-for/it
+#dvworld.com.tw
+127.0.0.1 ads.dvworld.com.tw
 #sourceforge.net
 127.0.0.1 a.collective-media.net
 127.0.0.1 ads.pro-market.net
@@ -6596,3 +6610,68 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.nexac.com
 127.0.0.1 rtd.tubemogul.com
 127.0.0.1 tag.crsspxl.com
+#www.masterkreatif.com
+127.0.0.1 resources.infolinks.com
+127.0.0.1 tapestry.tapad.com
+@web-for/news
+#www.ettoday.net
+127.0.0.1 ad.ettoday.net
+127.0.0.1 cdn1.ettoday.net
+127.0.0.1 dmp.tenmax.io
+127.0.0.1 rtb-asiamax.tenmax.io
+127.0.0.1 ssp.tenmax.io
+127.0.0.1 ic.tynt.com
+127.0.0.1 tcr.tynt.com
+127.0.0.1 r.popin.cc
+127.0.0.1 rlog.popin.cc
+127.0.0.1 bw.scupio.com
+127.0.0.1 img.scupio.com
+127.0.0.1 ads.doublemax.net
+127.0.0.1 agent.aralego.com
+127.0.0.1 cdnonead-onead.cdn.hinet.net
+127.0.0.1 sync.mathtag.com
+127.0.0.1 tenmax-static.cacafly.net
+@web-for/netstorage
+#depositfiles.com
+127.0.0.1 ads8c.depositfiles.com
+127.0.0.1 api.solvemedia.com
+127.0.0.1 s.adverigo.com
+#tehparadox.com
+127.0.0.1 a.komoona.com
+127.0.0.1 cdn.komoona.com
+127.0.0.1 s.komoona.com
+127.0.0.1 stat.komoona.com
+127.0.0.1 ad.turn.com
+127.0.0.1 cdn.turn.com
+127.0.0.1 c1.adform.net
+127.0.0.1 match.basebanner.com
+127.0.0.1 p.adsymptotic.com
+127.0.0.1 px.owneriq.net
+#uploadshub.com
+127.0.0.1 callmd5map.com
+127.0.0.1 clksite.com
+127.0.0.1 eclkmpsa.com
+127.0.0.1 pl139095.puhtml.com
+127.0.0.1 servicegetbook.net
+127.0.0.1 d1635hfcvs8ero.cloudfront.net
+#uptobox.com
+127.0.0.1 ads.uptobox.com
+127.0.0.1 cdn.adikteev.com
+127.0.0.1 c.ad6media.fr
+127.0.0.1 www.tradeadexchange.com
+127.0.0.1 go.onclasrv.com
+127.0.0.1 go.padsdel.com
+127.0.0.1 go.padstm.com
+#userscloud.com
+127.0.0.1 d3al52d8cojds7.cloudfront.net
+#www.solidfiles.com
+127.0.0.1 js.avstats.com
+127.0.0.1 cdn.engine.trklnks.com
+127.0.0.1 www.appsbodyupdate.com
+@web-for/sns
+#facebook-noads
+127.0.0.1 staticxx.facebook.com
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+#twitter-noads
+127.0.0.1 syndication.twitter.com
