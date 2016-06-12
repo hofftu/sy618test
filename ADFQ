@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160612
+#20160613
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3366,7 +3366,7 @@
 192.0.80.242	lb.gravatar.com
 192.0.80.242	secure.gravatar.com
 #192.0.81.250	botd2.wordpress.com
-66.155.9.238	dashboard.wordpress.com
+66.155.9.238 dashboard.wordpress.com
 66.155.9.238	en.blog.wordpress.com
 66.155.9.238	en.forums.wordpress.com
 66.155.9.238	forums.wordpress.com
@@ -3492,24 +3492,24 @@
 # W3schools End
 ###
 #tumblr.com
-66.6.42.30	tumblr.com
+66.6.42.30 tumblr.com
 66.6.41.30 www.tumblr.com
 66.6.42.30 www.tumblr.com
 66.6.43.30 www.tumblr.com
-66.6.42.34	mx.tumblr.com
+66.6.42.34 mx.tumblr.com
 68.232.35.63 secure.assets.tumblr.com
 66.6.42.30 px.srvcs.tumblr.com
 66.6.43.23 api.tumblr.com
 74.125.203.141 th-in-f141.1e100.net
-66.6.42.34	assets.tumblr.com
+66.6.42.34 assets.tumblr.com
 54.182.0.52 secure.static.tumblr.com
 66.6.43.34 ls.srvcs.tumblr.com
 54.182.4.222 65.media.tumblr.com
 93.184.216.98 66.media.tumblr.com
 66.6.41.34 saber.srvcs.tumblr.com
 54.182.4.222 31.media.tumblr.com
-54.192.98.136	32.media.tumblr.com
-209.197.3.20	33.media.tumblr.com
+54.192.98.136 32.media.tumblr.com
+209.197.3.20 33.media.tumblr.com
 93.184.216.98 46.media.tumblr.com
 209.197.3.20 67.media.tumblr.com
 54.230.74.179 vt.tumblr.com
@@ -3543,8 +3543,6 @@
 220.255.2.153 lh5.googleusercontent.com
 220.255.2.153 lh6.googleusercontent.com
 220.255.2.153 notifications.google.com
-#theinitium.com
-54.169.137.99 theinitium.com
 # m.apkpure.com
 108.163.178.42 m.apkpure.com
 108.163.178.42 a.apkpure.com
@@ -3690,13 +3688,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
-@direct
-#uvwxyz.xyz
-45.35.43.168 uvwxyz.xyz
-45.35.43.168 www.uvwxyz.xyz
-45.35.43.168 bbs.uvwxyz.xyz
-45.35.43.170 ipv6.uvwxyz.xyz
-@down
 #laomaotao
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
@@ -6223,6 +6214,7 @@ ff02::2 ip6-allrouters
 #www.mmycl.com
 127.0.0.1 js1116.anreson.net
 #www.shuaitong5.net
+127.0.0.1 uc.xiansuper.com
 127.0.0.1 s.95105012.com
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
@@ -6390,6 +6382,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www1.boshipai.com
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
+127.0.0.1 mimg.7791.com.cn
 127.0.0.1 imgcdn.ynwqls.com
 127.0.0.1 js1940.anreson.net
 127.0.0.1 imgcdn.mazaibang.com
