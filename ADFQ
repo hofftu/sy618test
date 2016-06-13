@@ -3488,7 +3488,7 @@
 # Github end
 # W3schools Start
 68.232.44.251	w3schools.com
-68.232.44.251 www.w3schools.com
+68.232.44.251	www.w3schools.com
 # W3schools End
 ###
 #tumblr.com
@@ -3688,6 +3688,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+@direct
+#uvwxyz.xyz
+45.35.43.168 uvwxyz.xyz
+45.35.43.168 www.uvwxyz.xyz
+45.35.43.168 bbs.uvwxyz.xyz
+45.35.43.170 ipv6.uvwxyz.xyz
+@down
 #laomaotao
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
@@ -3884,6 +3891,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+#yuedu.163.com
+127.0.0.1 push.yuedu.163.com
+127.0.0.1 analytics.hz.netease.com
+127.0.0.1 mr.da.netease.com
+127.0.0.1 pr.da.netease.com
+127.0.0.1 rd.da.netease.com
 @soft
 #bitcomment
 127.0.0.1 inside.bitcomet.com
@@ -5150,6 +5163,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 fast.cbsi.demdex.net
 127.0.0.1 in.ml314.com
 127.0.0.1 ml314.com
+#m.jb51.net
+127.0.0.1 a.cn.duoyi.com
+127.0.0.1 a.tnljx.com
+127.0.0.1 oz.cnzz.com
+127.0.0.1 www.51vipedu.com
 #safedog.cn
 127.0.0.1 404.safedog.cn
 #www.2345.com
@@ -5709,8 +5727,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 news.push.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 #163-netease
-127.0.0.1 mr.da.netease.com
-127.0.0.1 pr.da.netease.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 #163-youdao
