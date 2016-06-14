@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160613
+#20160614
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3730,6 +3730,8 @@ ff02::2 ip6-allrouters
 #wo.com.cn
 127.0.0.1 sd.kk3g.net
 127.0.0.1 wo.iuni.com.cn
+127.0.0.1 api.dreamfull.cn
+127.0.0.1 i.dreamfull.cn
 127.0.0.1 sddnserror2.wo.com.cn
 127.0.0.1 sddnserror3.wo.com.cn
 127.0.0.1 sddnserror4.wo.com.cn
@@ -3831,10 +3833,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.youku.com
 #tv.qq.com
-127.0.0.1 lives.l.qq.com
-127.0.0.1 video.mpush.qq.com
-127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 aiseet.atianqi.com
+127.0.0.1 aiseet.aa.atianqi.com
+127.0.0.1 lives.l.qq.com
 127.0.0.1 vmat.gtimg.com
 #v.dopool.com
 127.0.0.1 ad-cache.dopool.com
@@ -3961,8 +3962,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bla.gtimg.com
 127.0.0.1 ra.gtimg.com
 127.0.0.1 adsrich.qq.com
-127.0.0.1 jsqmt.qq.com
-127.0.0.1 like.video.qq.com
 127.0.0.1 tj.video.qq.com
 127.0.0.1 imc.l.qq.com
 127.0.0.1 l.qq.com
@@ -5208,7 +5207,6 @@ ff02::2 ip6-allrouters
 #www.ctfile.com
 127.0.0.1 doubleclick.tv002.com
 127.0.0.1 vip.xlingdi.com
-127.0.0.1 img.ynwqls.com
 #www.dedecms.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
@@ -5522,10 +5520,19 @@ ff02::2 ip6-allrouters
 127.0.0.1 tj.kugou.com
 127.0.0.1 kuaikaiapp.com
 #www.kuwo.cn
+127.0.0.1 apk.shouji.koowo.com
+127.0.0.1 g.koowo.com
+127.0.0.1 deliver.kuwo.cn
+127.0.0.1 log.kuwo.cn
+127.0.0.1 mobilead.kuwo.cn
+127.0.0.1 msphoneclick.kuwo.cn
 127.0.0.1 updatepage.kuwo.cn
 127.0.0.1 wa.kuwo.cn
 127.0.0.1 webstat.kuwo.cn
-127.0.0.1 g.koowo.com
+127.0.0.1 api.iimedia.cn
+127.0.0.1 iimedia.cn
+127.0.0.1 mfan.iclick.com.cn
+127.0.0.1 game.51yund.com
 #www.qingting.fm
 127.0.0.1 ad.qingting.fm
 127.0.0.1 admgr.qingting.fm
@@ -6080,9 +6087,17 @@ ff02::2 ip6-allrouters
 127.0.0.1 rs.qiyou.com
 127.0.0.1 i.00oo00.com
 127.0.0.1 link.00oo00.com
+127.0.0.1 img.ynwqls.com
+127.0.0.1 imgcdn.ynwqls.com
+127.0.0.1 js1116.anreson.net
+127.0.0.1 js1315.anreson.net
+127.0.0.1 js1940.anreson.net
+127.0.0.1 js2294.anreson.net
+127.0.0.1 js883.anreson.net
 127.0.0.1 ji.cnbole.net
 127.0.0.1 js1116.cnbole.net
 127.0.0.1 js1210.cnbole.net
+127.0.0.1 js1315.cnbole.net
 127.0.0.1 js2294.cnbole.net
 127.0.0.1 js436.cnbole.net
 127.0.0.1 js883.cnbole.net
@@ -6172,7 +6187,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.0563d.com
 127.0.0.1 a.xflnk.com
 127.0.0.1 s.yyhebse.com
-127.0.0.1 js2294.anreson.net
 127.0.0.1 www.guanta37w.com
 127.0.0.1 rc.yyhebse.com
 127.0.0.1 iii.mengmob.com
@@ -6227,8 +6241,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
-#www.mmycl.com
-127.0.0.1 js1116.anreson.net
 #www.shuaitong5.net
 127.0.0.1 uc.xiansuper.com
 127.0.0.1 s.95105012.com
@@ -6271,7 +6283,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 njs.hcm94alliance.com
 127.0.0.1 199.nord-raum.com
 127.0.0.1 js.jianbaimei.com
-127.0.0.1 js883.anreson.net
 127.0.0.1 la.qshxc.com
 127.0.0.1 r.xcycm.com
 127.0.0.1 s.xcfe.cn
@@ -6399,8 +6410,6 @@ ff02::2 ip6-allrouters
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
-127.0.0.1 imgcdn.ynwqls.com
-127.0.0.1 js1940.anreson.net
 127.0.0.1 imgcdn.mazaibang.com
 #m.dianying.fr
 127.0.0.1 w.3big.net
