@@ -1,5 +1,5 @@
 #                     去广告部分
-#你就得到纯去广告的hosts
+#此hosts已停更。
 #      by sy619
 #20160403终结
 127.0.0.1 localhost
@@ -31581,27 +31581,7 @@
 127.0.0.1 t100.qpic.cn
 127.0.0.1 i.7k7kimg.cn
 127.0.0.1 www.iqucai.com
-#qiche home
-127.0.0.1 img2.autoimg.cn
-127.0.0.1 adx.autohome.com.cn
-127.0.0.1 adm1.autoimg.cn
-127.0.0.1 adm3.autoimg.cn
-127.0.0.1 c.autohome.com.cn
-127.0.0.1 f1.p0y.cn
-127.0.0.1 rd.autohome.com.cn
-127.0.0.1 comm.app.api.autohome.com.cn
-#127.0.0.1 x.autoimg.cn
-#127.0.0.1 reply.autohome.com.cn
-127.0.0.1 super.api.autohome.com.cn
-127.0.0.1 hjk.api.autohome.com.cn
-127.0.0.1 pcd.autohome.com.cn
-127.0.0.1 app.autohome.com.cn
-#127.0.0.1 s.autoimg.cn
-#127.0.0.1 dwz.cn
-127.0.0.1 tinyurl.com
-#127.0.0.1 v.m.autohome.com.cn
-127.0.0.1 yc0.autoimg.cn
-127.0.0.1 yc.m.autohome.com.cn
+#
 #百度网盘搜索引擎http://pan.java1234.com/
 127.0.0.1 89.8ox.cn
 127.0.0.1 7.1qtv.com
@@ -31625,7 +31605,7 @@
 #qq浏览器
 127.0.0.1 adsense.html5.qq.com
 #
-#都怪我平时没练成记录域名来源的习惯～
+#
 127.0.0.1 img.feitian001.com
 127.0.0.1 lmcdn1.admin5.com
 127.0.0.1 stats.chinaz.com
