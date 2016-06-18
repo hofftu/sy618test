@@ -1,13 +1,12 @@
 #         【AD+ FQ】合集
 #
 # 酷安网 by sy619
-###本hosts专注于去国内广告、集成FQ功能。对于不喜欢折腾的朋友可以直接使用此hosts。
+###本hosts专注于去国内广告、集成FQ功能。适合他不喜欢折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 #
-###喜欢追新的，你可以自己合并以下源。
+###喜欢追新的，推荐使用以下源。
 #最强AD源（由@vokins创建并维护）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 #最新FQ源：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-#（以上源不可与其他国内广告源合用，两个选一个使用即可）
 ##############################
 #
 ####FQ部分####
@@ -3548,16 +3547,14 @@
 108.163.178.42 a.apkpure.com
 108.163.178.42 download.apkpure.com
 #landeng
-52.84.7.141 getlantern.org
+#52.84.7.141 getlantern.org
 #github
 23.235.43.133 raw.githubusercontent.com
 #baidu
 127.0.0.1 bcscdn.baidu.com
-#uc
-127.0.0.1 u.uc123.com
-#liantong
-127.0.0.1 navi.gd.chinamobile.com
 #chinaz.com
 36.250.79.84 ping.chinaz.com
+#btdb.in
+104.24.118.4 btdb.in
 ########## end#########
 #
