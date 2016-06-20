@@ -3772,6 +3772,8 @@ ff02::2 ip6-allrouters
 @mobile-cnapps
 #1kxun.com
 127.0.0.1 tcad.wedolook.com
+#app.myzaker.com
+127.0.0.1 ggs.myzaker.com
 #caiyunapp.com
 127.0.0.1 ad.caiyunapp.com
 #cm-wps
@@ -3796,6 +3798,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
 127.0.0.1 www.maibanu.com
+#inspect edit html live
+127.0.0.1 ads.rubiconproject.com
+127.0.0.1 www.appodealx.com
 #mb.qq.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
@@ -3987,6 +3992,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mm.cc
 @union
 #amazon
+127.0.0.1 amazon-adsystem.com
 127.0.0.1 aax-fe-pek.amazon-adsystem.com
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 aax-fe.amazon-adsystem.com
@@ -4628,6 +4634,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 static.t.agrantsem.com
 127.0.0.1 t4.agrantsem.com
+#applovin.com
+127.0.0.1 a.applovin.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 d.applovin.com
+127.0.0.1 img.applovin.com
+127.0.0.1 pdn.applovin.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 vid.applovin.com
 #cocounion.com
 127.0.0.1 config.cocounion.com
 127.0.0.1 m.cocounion.com
@@ -4667,11 +4681,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
+127.0.0.1 config.inmobi.com
 127.0.0.1 dock.inmobi.com
 127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 rules-ltvp.inmobi.com
 127.0.0.1 sdkm.w.inmobi.com
+127.0.0.1 www.inmobi.com
 127.0.0.1 i.l.inmobicdn.net
 #leadbolt.com
 127.0.0.1 ad.leadboltads.net
@@ -6270,6 +6286,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.shuaitong5.net
+127.0.0.1 s.376zf.com
 127.0.0.1 a.xhnlf.com
 127.0.0.1 w.whydqy.cn
 127.0.0.1 lin.internetofthings-china.com
@@ -6628,7 +6645,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 d.pixiv.org
 #photobucket.com
 127.0.0.1 b.photobucket.com
-127.0.0.1 ads.rubiconproject.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.heias.com
