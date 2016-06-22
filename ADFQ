@@ -1,15 +1,15 @@
 #         【AD+ FQ】合集
-#20160620
+#20160622
 # 酷安网 by sy619
-###本hosts专注于去国内广告、集成FQ功能。适合他不喜欢折腾的朋友使用。
+###本hosts专注于去国内广告、集成FQ功能。适合不喜欢折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 #
-###喜欢追新的，推荐使用以下源。
+###喜欢追新的，推荐使用以下源。注意：使用ADFQ就不需要再订阅以下源。
 #最强AD源（由@vokins创建并维护）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 #最新FQ源：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 ##############################
 #
-####FQ部分####
+####  FQ  ####
 # # Facebook start
 182.239.95.136	fb.me
 31.13.66.14	video.xx.fbcdn.net
@@ -3547,7 +3547,7 @@
 108.163.178.42 a.apkpure.com
 108.163.178.42 download.apkpure.com
 #landeng
-#52.84.7.141 getlantern.org
+52.84.7.141 getlantern.org
 #github
 23.235.43.133 raw.githubusercontent.com
 #baidu
@@ -3556,7 +3556,7 @@
 36.250.79.84 ping.chinaz.com
 #btdb.in
 104.24.118.4 btdb.in
-########## end#########
+##########FQ end#########
 #
 @tvbox
 #aliyun
@@ -3800,7 +3800,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.maibanu.com
 #inspect edit html live
 127.0.0.1 ads.rubiconproject.com
+127.0.0.1 api.appodeal.com
+127.0.0.1 api.mobads4app.com
 127.0.0.1 www.appodealx.com
+127.0.0.1 images.startappservice.com
+127.0.0.1 info.static.startappservice.com
+127.0.0.1 req.startappservice.com
+127.0.0.1 dts.akamai.startappexchange.com
+127.0.0.1 init.startappexchange.com
+127.0.0.1 www.startappexchange.com
 #mb.qq.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
@@ -4084,6 +4092,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
+127.0.0.1 yads.c.yimg.jp
+127.0.0.1 yads.yahoo.co.jp
 @union-cn-iframe
 #alibaba-cnzz
 127.0.0.1 js.adm.cnzz.net
@@ -5420,22 +5430,26 @@ ff02::2 ip6-allrouters
 127.0.0.1 gp.jstv.com
 127.0.0.1 adsys.chinacloudapp.cn
 #www.kankan.com
+127.0.0.1 biz4.sandai.net
 127.0.0.1 biz5.sandai.net
-127.0.0.1 float.sandai.net
 127.0.0.1 click.cm.sandai.net
 127.0.0.1 count.cpm.cm.sandai.net
+127.0.0.1 float.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 pv.cm.sandai.net
 127.0.0.1 biz5.co.kankan.com
 127.0.0.1 float.co.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 pad.stat.kankan.com
-127.0.0.1 pgv.m.xunlei.com
+127.0.0.1 dm.xiazaibao.xunlei.com
+127.0.0.1 h5.showapp.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
-127.0.0.1 biz4.sandai.net
+127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 msg.client.xunlei.com
 127.0.0.1 msg2.client.xunlei.com
+127.0.0.1 pgv.m.xunlei.com
+127.0.0.1 upgrade.m.xunlei.com
 #www.le.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
@@ -5990,7 +6004,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
-127.0.0.1 s.img.mix.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
@@ -6643,6 +6656,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 contextual.media.net
 #pixiv
 127.0.0.1 d.pixiv.org
+127.0.0.1 sh.adingo.jp
+127.0.0.1 dex.advg.jp
+127.0.0.1 y.one.impact-ad.jp
+127.0.0.1 js.mtburn.com
+127.0.0.1 spcnv.i-mobile.co.jp
+127.0.0.1 spdmg-backend.i-mobile.co.jp
+127.0.0.1 spdmg.i-mobile.co.jp
+127.0.0.1 assets.gunosy.com
 #photobucket.com
 127.0.0.1 b.photobucket.com
 127.0.0.1 optimized-by.rubiconproject.com
