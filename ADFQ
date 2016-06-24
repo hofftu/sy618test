@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160623
+#20160624
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。适合不喜欢折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3819,8 +3819,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 novelsns.html5.qq.com
-127.0.0.1 report.imtt.qq.com
-127.0.0.1 pms.mb.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
 #migu.cmvideo.cn
@@ -4273,7 +4271,6 @@ ff02::2 ip6-allrouters
 #qq-iframe
 127.0.0.1 swa.gtimg.com
 127.0.0.1 news.l.qq.com
-127.0.0.1 cm.e.qq.com
 127.0.0.1 mi.gdt.qq.com
 #sohu-iframe
 127.0.0.1 i.go.sohu.com
@@ -4748,7 +4745,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com
 #jpush.cn
-127.0.0.1 im.jpush.cn
+#127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn
 127.0.0.1 s.jpush.cn
 127.0.0.1 stats.jpush.cn
@@ -4784,11 +4781,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 feedback.whalecloud.com
-127.0.0.1 sns.whalecloud.com
+#127.0.0.1 sns.whalecloud.com
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
-127.0.0.1 log.umsns.com
+#127.0.0.1 log.umsns.com
 #tapjoy
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
@@ -5939,22 +5936,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 issuecdn.baidupcs.com
 127.0.0.1 update.pan.baidu.com
 #qq.com
-127.0.0.1 ac.o2.qq.com
 127.0.0.1 guanjia.qq.com
 127.0.0.1 jqmt.qq.com
-127.0.0.1 mapp.qzone.qq.com
-127.0.0.1 masdk.3g.qq.com
 127.0.0.1 mini2015.qq.com
-127.0.0.1 p.store.qq.com
-127.0.0.1 s.isdspeed.qq.com
-127.0.0.1 s.pcapps.qq.com
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 stdl.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
-127.0.0.1 video.wap.mpush.qq.com
-127.0.0.1 vmind.qqvideo.tc.qq.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 tui.gtimg.com
