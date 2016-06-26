@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160626
+#20160627
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。适合不喜欢折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3556,6 +3556,10 @@
 36.250.79.84 ping.chinaz.com
 #btdb.in
 104.24.118.4 btdb.in
+#chouti
+183.6.240.148 img2.chouti.com
+223.202.20.125 dig.chouti.com
+223.202.20.125 m.chouti.com
 #u2b video
 218.254.1.13      r1---sn-i3b7kn76.googlevideo.com
 218.254.1.13      r2---sn-i3b7kn76.googlevideo.com
