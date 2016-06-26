@@ -1,0 +1,4 @@
+! www.ithome.com
+|http://img.ithome.com/NewsUploadFiles/thumbnail/*
+! www.clouddront.net
+*.cloudfront.net
