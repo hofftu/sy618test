@@ -1,4 +1,6 @@
-! www.ithome.com
+!www.ithome.com
 |http://img.ithome.com/NewsUploadFiles/thumbnail/*
-! www.clouddront.net
-*.cloudfront.net
+!www.clouddront.net
+||cloudfront.net
+!m.caijing.com.cn
+|http://m.caijing.com.cn/templates/caijing/touch/images/*
