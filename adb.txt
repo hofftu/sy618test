@@ -1,8 +1,13 @@
 !www.ithome.com
-ithome.com##.related_buy
-ithome.com##.down_app
-ithome.com###a_ad
+ithome.com##.related_buy,.down_app,#a_ad
+!ithome.com##.down_app
+!ithome.com###a_ad
+
 !www.clouddront.net
 ||cloudfront.net
+
 !m.caijing.com.cn
-|http://m.caijing.com.cn/templates/caijing/touch/images/*
+m.caijing.com.cn##*.top bgBlue
+
+!zhihu.com
+www.zhihu.com##.AppPromotionBar
