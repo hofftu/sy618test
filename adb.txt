@@ -1,5 +1,5 @@
 !www.ithome.com
-|http://img.ithome.com/NewsUploadFiles/thumbnail/*
+ithome.com##.related_buy
 !www.clouddront.net
 ||cloudfront.net
 !m.caijing.com.cn
