@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160627
+#20160629
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。适合不喜欢折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -4996,6 +4996,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
+127.0.0.1 cm.admaster.com.cn
+127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
@@ -5572,6 +5574,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.jmlpshop.cn
 #shuqi.com
 127.0.0.1 ut2.shuqistat.com
+#itaoxiaoshuo.com
+127.0.0.1 api.itaoxiaoshuo.com
 #www.qidian.com
 127.0.0.1 a.game.qidian.com
 127.0.0.1 abc.if.qidian.com
@@ -6078,8 +6082,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.fjtv.net
 #www.fun.tv
 127.0.0.1 adm.funshion.com
-127.0.0.1 pv.funshion.com
-127.0.0.1 stat.funshion.net
+127.0.0.1 game.funshion.com
 #www.gdtv.cn
 127.0.0.1 adv.grtn.cn
 #www.gridsum.com
@@ -6592,6 +6595,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 banlv.baidu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 dl.client.baidu.com
+127.0.0.1 dzl.baidu.com
 127.0.0.1 j.br.baidu.com
 127.0.0.1 toolbar.baidu.com
 #baidu-soft/cleaner
@@ -6958,6 +6962,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.shuaitong5.net
+127.0.0.1 a.tnlbd.com
 127.0.0.1 s.ukeiae.com
 127.0.0.1 s.376zf.com
 127.0.0.1 a.xhnlf.com
