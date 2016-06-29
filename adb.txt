@@ -1,7 +1,7 @@
 !www.ithome.com
 ithome.com##.related_buy
 ithome.com##.down_app
-ithome.com##a#a_ad
+ithome.com###a_ad
 !www.clouddront.net
 ||cloudfront.net
 !m.caijing.com.cn
