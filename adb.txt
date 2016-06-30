@@ -4,8 +4,5 @@ ithome.com##.related_buy,.down_app,#a_ad
 !www.clouddront.net
 ||cloudfront.net
 
-!m.caijing.com.cn
-m.caijing.com.cn##.top^bgBlue,.downdiv
-
 !zhihu.com
 www.zhihu.com##.AppPromotionBar
