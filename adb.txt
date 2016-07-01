@@ -4,3 +4,5 @@ ithome.com##.related_buy,.down_app,#a_ad
 www.zhihu.com##.AppPromotionBar
 
 m.miaopai.com###v6_btn_open,.open_miaopai,.more_btn,#v6_btn_banner,.v6_btn_banner_class
+
+theinitium.com##.banner-title
