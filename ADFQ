@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160703
+#20160704
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。适合不喜欢折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3434,12 +3434,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 track.uc.cn
-127.0.0.1 wea.uc.cn
+#127.0.0.1 wea.uc.cn
 127.0.0.1 safe.ucweb.com
 127.0.0.1 uc.ucweb.com
 127.0.0.1 ucsec.ucweb.com
 127.0.0.1 ucsec1.ucweb.com
-127.0.0.1 ucus.ucweb.com
+#127.0.0.1 ucus.ucweb.com
 127.0.0.1 vs6.gzct.uc.ucweb.com
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
@@ -6360,3 +6360,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 dc.ads.linkedin.com
 #twitter-noads
 127.0.0.1 syndication.twitter.com
+127.0.0.1 img3.fy1g.com
