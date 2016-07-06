@@ -1,5 +1,5 @@
 #         【AD+ FQ】合集
-#20160704
+#20160706
 # 酷安网 by sy619
 ###本hosts专注于去国内广告、集成FQ功能。适合不喜欢折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -6362,3 +6362,5 @@ ff02::2 ip6-allrouters
 127.0.0.1 syndication.twitter.com
 127.0.0.1 img3.fy1g.com
 127.0.0.1 846.move7.com
+127.0.0.1 d.h5.coffeedak.cn
+127.0.0.1 cp.h5.coffeedak.cn
