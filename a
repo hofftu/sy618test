@@ -2444,9 +2444,10 @@
 220.255.2.153 lh6.googleusercontent.com
 220.255.2.153 notifications.google.com
 # m.apkpure.com
-108.163.178.42 m.apkpure.com
-108.163.178.42 a.apkpure.com
-108.163.178.42 download.apkpure.com
+46.17.101.80 static.apkpure.com
+46.17.101.80 m.apkpure.com
+46.17.101.80 a.apkpure.com
+46.17.101.80 download.apkpure.com
 #landeng
 52.84.7.141 getlantern.org
 #github
@@ -2458,9 +2459,9 @@
 #btdb.in
 104.24.118.4 btdb.in
 #chouti
-183.6.240.148 img2.chouti.com
-223.202.20.125 dig.chouti.com
-223.202.20.125 m.chouti.com
+#183.6.240.148 img2.chouti.com
+#223.202.20.125 dig.chouti.com
+#223.202.20.125 m.chouti.com
 #u2b video
 218.254.1.13      r1---sn-i3b7kn76.googlevideo.com
 218.254.1.13      r2---sn-i3b7kn76.googlevideo.com
