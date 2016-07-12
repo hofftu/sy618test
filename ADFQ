@@ -1,7 +1,7 @@
 #         【AD+ FQ】
 #20160712
 # coolapk.com by sy619
-###本hosts专注于去国内广告、集成FQ功能。适合不喜欢折腾的朋友使用。
+###本hosts专注于去国内广告、集成FQ功能。适合不折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 #
 ###喜欢追新的，推荐使用以下源。注意：使用ADFQ就不需要再订阅以下源。
@@ -6115,6 +6115,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.bizcn008.com
 127.0.0.1 img.52htx.com
 #m.xxshipin.com
+127.0.0.1 101.201.29.182
+127.0.0.1 img.ajapk.com
+127.0.0.1 mvip.zhuba8.com
+127.0.0.1 r.5207470.com
+127.0.0.1 z2.19950501.com
+127.0.0.1 vip.koukou7.com
+127.0.0.1 jx01bv.cdn.media8.cn
+127.0.0.1 tj.51ads.com
+127.0.0.1 www.51ads.com
 127.0.0.1 img.qj.media8.cn
 127.0.0.1 vip.7huoguo.com
 127.0.0.1 vip2.7huoguo.com
@@ -6123,9 +6132,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imgcdn.de92.com
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
-127.0.0.1 mvip.zhuba8.com
 127.0.0.1 vip.zhuba8.com
-127.0.0.1 vip.koukou7.com
 #m.zhizhucili.com
 127.0.0.1 go.88lmimg.com
 127.0.0.1 img.88lmimg.com
