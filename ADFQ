@@ -1,5 +1,5 @@
 #         【AD+ FQ】
-#20160718
+#20160718c
 # coolapk.com by sy619
 ###本hosts专注于去国内广告、集成FQ功能。适合不折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -6359,7 +6359,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dt.39photo.net
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 news.poxi5.com
-
 @web-for/all
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
@@ -6544,3 +6543,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 dc.ads.linkedin.com
 #twitter-noads
 127.0.0.1 syndication.twitter.com
+127.0.0.1 libs.useso.com
