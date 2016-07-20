@@ -1,7 +1,7 @@
-#         【AD+ FQ】
-#20160718c
+#         【ADFQ】
+#20160720
 # coolapk.com by sy619
-###本hosts专注于去国内广告、集成FQ功能。适合不折腾的朋友使用。
+###本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 #本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 #
 ###喜欢追新的，推荐使用以下源。注意：使用ADFQ就不需要再订阅以下源。
@@ -6351,7 +6351,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imgcdn.caolvch.com
 127.0.0.1 its.fugetech.com
 127.0.0.1 do.apkdo.com
-127.0.0.1 img.cnsofas.com
+#127.0.0.1 img.cnsofas.com
 127.0.0.1 pagead2.lxms2004.com
 127.0.0.1 www.lxms2004.com
 127.0.0.1 diaopic.14bobo.com
