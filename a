@@ -1,16 +1,15 @@
-#         【ADFQ】
-#
-# coolapk.com by sy619
-###本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
-#本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
-#
-###喜欢追新的，推荐使用以下源。注意：使用ADFQ就不需要再订阅以下源。
-#最强AD源（由@vokins创建并维护）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-#最新FQ源：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+##         【ADFQ】
+##
+## coolapk.com by sy619
+## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
+## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
+## 
+### 喜欢追新的，推荐使用以下源。注意：使用ADFQ就不需要再订阅以下源。
+## 最强AD源（由@vokins创建并维护）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+## 最新FQ源：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 ##############################
 #
-####  FQ  ####
-# # Facebook start
+#Facebook start
 182.239.95.136	fb.me
 31.13.66.14	video.xx.fbcdn.net
 31.13.66.9	scontent.xx.fbcdn.net
@@ -299,7 +298,6 @@
 96.45.83.209	help.duckduckgo.com
 # DuckDuckGo End
 #
-####### google  #########
 # mail web Start
 220.255.2.153	chatenabled.mail.google.com
 220.255.2.153	filetransferenabled.mail.google.com
@@ -1808,7 +1806,7 @@
 # Google:A-GPS Start
 64.233.171.192	supl.google.com
 # Google:A-GPS End
-##### Google End  #######
+#
 # imgur Start
 103.245.222.193	imgur.com
 103.245.222.193	www.imgur.com
@@ -2390,7 +2388,7 @@
 68.232.44.251	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
-###
+#
 #tumblr.com
 66.6.42.30 tumblr.com
 66.6.41.30 www.tumblr.com
@@ -3130,5 +3128,4 @@
 218.254.1.13      r5---sn-i3beln7z.gvt1.com
 218.254.1.13      r6---sn-i3beln7z.gvt1.com
 203.208.39.205 redirector.gvt1.com
-##########FQ end#########
 #
