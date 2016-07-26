@@ -1,5 +1,5 @@
 ##    【ADFQ】
-##20160725
+##20160726
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -794,7 +794,7 @@
 202.171.253.98 mts1.google.com
 202.171.253.98 mts2.google.com
 202.171.253.98 mts3.google.com
-202.171.253.98 mobilemaps.clients.google.com
+220.255.2.153 mobilemaps.clients.google.com
 202.171.253.98 music.google.com
 202.171.253.98 music.googleusercontent.com
 202.171.253.98 uploadsj.clients.google.com
@@ -948,7 +948,8 @@
 202.171.253.98 content.googleapis.com
 202.171.253.98 maps.googleapis.com
 202.171.253.98 origin-commondatastorage.googleapis.com
-202.171.253.98 play.googleapis.com
+172.217.25.202 storage.googleapis.com
+220.255.2.153 play.googleapis.com
 202.171.253.98 plus.googleapis.com
 202.171.253.98 redirector-bigcache.googleapis.com
 202.171.253.98 translate.googleapis.com
@@ -2373,6 +2374,7 @@
 23.235.43.133 raw.githubusercontent.com
 36.250.79.84 ping.chinaz.com
 104.24.118.4 btdb.in
+216.69.185.52 telegram.me
 202.171.253.98 r1---sn-i3b7kn76.googlevideo.com
 202.171.253.98 r2---sn-i3b7kn76.googlevideo.com
 202.171.253.98 r3---sn-i3b7kn76.googlevideo.com
@@ -3039,6 +3041,7 @@
 218.254.1.13 r5---sn-i3beln7z.gvt1.com
 218.254.1.13 r6---sn-i3beln7z.gvt1.com
 218.254.1.13 r2---sn-juh-h4hs.gvt1.com
+218.254.1.13 r7---sn-juh-h4hs.gvt1.com
 203.208.39.205 redirector.gvt1.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
@@ -3078,7 +3081,6 @@
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am
 127.0.0.1 api.cupid.qiyi.com
-127.0.0.1 meta.video.qiyi.com
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 static.g.ppstream.com
@@ -5390,6 +5392,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 extstat.com
+127.0.0.1 amiok.org
 127.0.0.1 img.aahtek.com
 127.0.0.1 s.ekeide.com
 127.0.0.1 qd.moutaihotel.cn
@@ -5895,3 +5899,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 syndication.twitter.com
+127.0.0.1 img.baidu9635.com
