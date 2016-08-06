@@ -1,5 +1,5 @@
 ##    【ADFQ】
-##20160802d
+##20160806
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3067,8 +3067,6 @@
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cloudpush.iqiyi.com
-127.0.0.1 cm.passport.iqiyi.com
-127.0.0.1 feedback.iqiyi.com
 127.0.0.1 gamecenter.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 iface2.qiyi.com
@@ -3094,7 +3092,6 @@
 127.0.0.1 msga.71.am
 127.0.0.1 afp.qiyi.com
 127.0.0.1 cupid.qiyi.com
-127.0.0.1 meta.video.qiyi.com
 127.0.0.1 ad.m.iqiyi.com
 127.0.0.1 cupid.iqiyi.com
 127.0.0.1 rcd.iqiyi.com
@@ -4637,7 +4634,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.aahtek.com
 127.0.0.1 qd.maskbaby.com.cn
 127.0.0.1 s.456juhd.com
-127.0.0.1 uc.xiansuper.com
 127.0.0.1 bigbos.top
 127.0.0.1 cc.bigbos.top
 127.0.0.1 kti.bigbos.top
@@ -4674,6 +4670,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 minfo.wps.cn
 127.0.0.1 moupdate10332052.wps.cn
 127.0.0.1 pcfg.wps.cn
+127.0.0.1 cloudservice13.kingsoft-office-service.com
+127.0.0.1 cloudservice15.kingsoft-office-service.com
+127.0.0.1 cloudservice19.kingsoft-office-service.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 cloudservice28.kingsoft-office-service.com
 127.0.0.1 rating6.kingsoft-office-service.com
 127.0.0.1 dfnews.rdtuijian.com
 127.0.0.1 img.particlenews.com
@@ -5575,6 +5576,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 simg.52zbz.com
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 z.moatads.com
 127.0.0.1 img.88duk.com
 127.0.0.1 s.ajuhd.com
 127.0.0.1 img.contx.cn
@@ -5739,6 +5741,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.sxytx.cn
 127.0.0.1 w.banlaa.com
 127.0.0.1 a.tnldt.com
+127.0.0.1 adimg.bbcss.com
+127.0.0.1 c1.sxxjdz.com
+127.0.0.1 e.dzairen.com
+127.0.0.1 g.chinapxg.com
+127.0.0.1 img.xinjunshi.com
+127.0.0.1 js4775.hongtaidichan.net
+127.0.0.1 k.zrwhcy.com
+127.0.0.1 p.chinapxg.com
+127.0.0.1 www.86kx.com
 127.0.0.1 js.chinaheh.com
 127.0.0.1 ss2p.uuxs.net
 127.0.0.1 pic.shaidouzi.com
@@ -5947,3 +5958,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.avstats.com
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 www.appsbodyupdate.com
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 serve.popads.net
+127.0.0.1 dr3k6qonw2kee.cloudfront.net
+127.0.0.1 img.fhxnx.com
