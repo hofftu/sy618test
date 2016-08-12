@@ -1,5 +1,5 @@
 ##    【ADFQ】
-##20160811
+##20160813
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -6047,3 +6047,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 c2.popads.net
 127.0.0.1 serve.popads.net
 127.0.0.1 dr3k6qonw2kee.cloudfront.net
+127.0.0.1 m.1680go.com
+127.0.0.1 api.tw06.xlmc.sandai.net
+127.0.0.1 material.ssp.xunlei.com
+127.0.0.1 jump2.niu.xunlei.com
+127.0.0.1 jifenshangcheng.m.xunlei.com
+127.0.0.1 scoremall.niu.xunlei.com
