@@ -1,5 +1,5 @@
 ##  【ADFQ】
-##20160814b
+##20160817
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -2423,24 +2423,6 @@
 151.101.48.133 raw.githubusercontent.com
 36.250.79.84 ping.chinaz.com
 104.24.118.4 btdb.in
-127.0.0.1 img.fhxnx.com
-127.0.0.1 img.tianqi777.com
-127.0.0.1 s.xxhrd.com
-127.0.0.1 sssd.rpayw.com
-127.0.0.1 un.winasdaq.com
-127.0.0.1 blb.winasdaq.com
-127.0.0.1 api.tw06.xlmc.sandai.net
-127.0.0.1 material.ssp.xunlei.com
-127.0.0.1 jump2.niu.xunlei.com
-127.0.0.1 jifenshangcheng.m.xunlei.com
-127.0.0.1 scoremall.niu.xunlei.com
-127.0.0.1 m.1680go.com
-127.0.0.1 www.billionfocus.com
-127.0.0.1 s5.0594003.com
-127.0.0.1 zz.bdstatic.com
-127.0.0.1 www.yodong.com
-127.0.0.1 e.0313413.com
-127.0.0.1 l5.fwt0.com
 202.171.253.98 r1---sn-i3b7kn76.googlevideo.com
 202.171.253.98 r2---sn-i3b7kn76.googlevideo.com
 202.171.253.98 r3---sn-i3b7kn76.googlevideo.com
@@ -3225,6 +3207,7 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 s.p.youku.com
+127.0.0.1 sdk.api.gamex.mobile.youku.com
 127.0.0.1 sdk.m.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com
 127.0.0.1 stat.youku.com
@@ -3237,6 +3220,14 @@
 127.0.0.1 test.sdk.m.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 wan.youku.com
+127.0.0.1 ykrec.youku.com
+127.0.0.1 ykrectab.youku.com
+127.0.0.1 211.151.146.65
+127.0.0.1 211.157.171.237
+127.0.0.1 b.smartvideo.youku.com
+127.0.0.1 hp.smiler-ad.com
+127.0.0.1 static8.pmadx.com
+127.0.0.1 www.bfshan.cn
 ::1     localhost
 ::1     localhost ip6-localhost ip6-loopback
 ff02::1 ip6-allnodes
@@ -3254,6 +3245,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
 127.0.0.1 www.bitsumactivationserver.com
+5.196.172.196 www.dxomark.com
+43.245.63.28 cdn.dxomark.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.linktech.cn
@@ -3785,6 +3778,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 down.diannaodian.com
 127.0.0.1 www.winbaicai.com
 127.0.0.1 down.winbaicai.com
+127.0.0.1 hao.qquu8.com
 127.0.0.1 js.1688988.com
 127.0.0.1 tz.1688988.com
 127.0.0.1 tj.u17t.com
@@ -3810,6 +3804,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apollo.caixin.com
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
+127.0.0.1 m.1680go.com
 127.0.0.1 ads.ce.cn
 127.0.0.1 logs.cnfol.com
 127.0.0.1 gg8888.cnfol.com
@@ -3857,12 +3852,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.qiyou.com
 127.0.0.1 s.00oo00.com
 127.0.0.1 cvda.17173.com
-127.0.0.1 images.17173.com
 127.0.0.1 log1.17173.com
 127.0.0.1 vda.17173.com
 127.0.0.1 s.17173cdn.com
 127.0.0.1 imgapp.yeyou.com
 127.0.0.1 ue.yeyoucdn.com
+127.0.0.1 17173im.qtmojo.com
 127.0.0.1 samba.adsame.com
 127.0.0.1 analytics.wanmei.com
 127.0.0.1 gg.stargame.com
@@ -3966,6 +3961,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
 127.0.0.1 stats.chinaz.com
+127.0.0.1 blb.winasdaq.com
+127.0.0.1 un.winasdaq.com
 127.0.0.1 pic.cnmo-img.com.cn
 127.0.0.1 icon.cnmo.com
 127.0.0.1 js.cnmo.com
@@ -4104,10 +4101,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
+127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 biz5.sandai.net
 127.0.0.1 float.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
+127.0.0.1 jump2.niu.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
+127.0.0.1 material.ssp.xunlei.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 biz5.kankan.com
 127.0.0.1 click.cm.kankan.com
@@ -4515,6 +4515,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 js1157.yongkang6.com
 127.0.0.1 s1.ynwqls.com
 127.0.0.1 img.baidu9635.com
+127.0.0.1 il728.caijuedian.com
+127.0.0.1 img.tianqi777.com
+127.0.0.1 sva88.czjiuding.cn
+127.0.0.1 a.xhnlf.com
+127.0.0.1 ag.nukefans.net
+127.0.0.1 cb.h5.coffeedak.cn
+127.0.0.1 s.ukeiae.com
+127.0.0.1 xt.xxwkjl.com
+127.0.0.1 s.xxhrd.com
+127.0.0.1 s.ekeide.com
 127.0.0.1 a.tnlbd.com
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 www.51vipedu.com
@@ -4602,7 +4612,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wuwho.cn
 127.0.0.1 1234xm.com
 127.0.0.1 55336.5ip9.com
-127.0.0.1 a.xhnlf.com
 127.0.0.1 c.code222.com
 127.0.0.1 ccg51.win
 127.0.0.1 code.jojomu.com
@@ -4635,7 +4644,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.jiajv.net
 127.0.0.1 i.9le.net
 127.0.0.1 a.ydlnt.com
-127.0.0.1 ag.nukefans.net
 127.0.0.1 ig.wlknb.com
 127.0.0.1 sg.keytui.com
 127.0.0.1 cp.jiajv.net
@@ -5038,7 +5046,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 m947.oadz.com
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
-127.0.0.1 17173im.qtmojo.com
 127.0.0.1 csdnim.qtmojo.com
 127.0.0.1 lejuim.qtmojo.com
 127.0.0.1 mmae.qtmojo.com
@@ -5333,6 +5340,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
+127.0.0.1 union.dbba.cn
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
@@ -5418,7 +5426,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
-127.0.0.1 znsv.baidu.com
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
 127.0.0.1 ttmsg.qianqian.com
@@ -5600,7 +5607,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.bx518.com
 127.0.0.1 download.m.37.com
 127.0.0.1 rc.toourbb.com
-127.0.0.1 static.sdg-china.com
 127.0.0.1 static.uuzu.com
 127.0.0.1 vda.m.youzu.com
 127.0.0.1 s.123juhd.com
@@ -5687,11 +5693,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.yy58ju.com
 127.0.0.1 extstat.com
 127.0.0.1 amiok.org
-127.0.0.1 s.ekeide.com
 127.0.0.1 qd.moutaihotel.cn
 127.0.0.1 sha.shazhouapparel.com
 127.0.0.1 s.chebse.com
-127.0.0.1 s.ukeiae.com
 127.0.0.1 s.376zf.com
 127.0.0.1 w.whydqy.cn
 127.0.0.1 lin.internetofthings-china.com
@@ -5814,8 +5818,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 bz.cnjianzhan.net
 127.0.0.1 scimg.27admin.com
 127.0.0.1 static.tv508.com
-127.0.0.1 i.zt-dq.com
+127.0.0.1 jssd.kb20.cc
 127.0.0.1 a.tnlfk.com
+127.0.0.1 csimg.zcxhl.com
+127.0.0.1 i.zt-dq.com
+127.0.0.1 sssd.qjcfzs.com
+127.0.0.1 sssd.rpayw.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com
@@ -5856,8 +5864,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.86kx.com
 127.0.0.1 js.chinaheh.com
 127.0.0.1 ss2p.uuxs.net
+127.0.0.1 e.0313413.com
+127.0.0.1 img3.doubanio.com
+127.0.0.1 l5.fwt0.com
 127.0.0.1 pic.shaidouzi.com
+127.0.0.1 s5.0594003.com
 127.0.0.1 w2.banlaa.com
+127.0.0.1 www.billionfocus.com
+127.0.0.1 www.yodong.com
+127.0.0.1 zz.bdstatic.com
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 u.1133.cc
 127.0.0.1 vip.shuma2.com
@@ -5880,6 +5895,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 down.bossbas.com
 127.0.0.1 a.baiy.net
 127.0.0.1 b.baiy.net
+127.0.0.1 img.fhxnx.com
 127.0.0.1 lmcdn1.admin5.com
 127.0.0.1 lm.admin5.com
 127.0.0.1 slb.tiangoutai.com
@@ -5917,6 +5933,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.sanlitang.cn
 127.0.0.1 img.jiayuannongye.cn
 127.0.0.1 s.lhusy.com
+127.0.0.1 cc.yfi052.pw
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 creative.wwwpromoter.com
@@ -5987,6 +6004,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 spdmg-backend.i-mobile.co.jp
 127.0.0.1 spdmg.i-mobile.co.jp
 127.0.0.1 assets.gunosy.com
+127.0.0.1 aladdin.genieesspv.jp
 127.0.0.1 b.photobucket.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 ads.pubmatic.com
@@ -6066,3 +6084,24 @@ ff02::2 ip6-allrouters
 127.0.0.1 c2.popads.net
 127.0.0.1 serve.popads.net
 127.0.0.1 dr3k6qonw2kee.cloudfront.net
+127.0.0.1 img.baotoushanghui.com
+127.0.0.1 i.rtkshealth.com
+127.0.0.1 s.staqnet.com
+127.0.0.1 s.fytza.cn
+127.0.0.1 www.cooolyi.com
+127.0.0.1 adp.s8bbs.com
+127.0.0.1 adv.s8bbs.com
+127.0.0.1 attach.s8bbs.com
+127.0.0.1 content.s8bbs.com
+127.0.0.1 img.s8bbs.com
+127.0.0.1 s1.s8tu.com
+127.0.0.1 7xp1b4.com1.z0.glb.clouddn.com
+127.0.0.1 t.91chs.com
+127.0.0.1 x.55peixun.com
+127.0.0.1 rc.xxhrd.com
+127.0.0.1 img.rqgsf.com
+127.0.0.1 img.qun89.com
+127.0.0.1 www.nbjjd.com
+127.0.0.1 id1.anreson.net
+127.0.0.1 www.iiad.com
+127.0.0.1 js3987.yzh360.com
