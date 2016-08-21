@@ -1,5 +1,5 @@
 ##  【ADFQ】
-##20160820
+##20160822
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3405,6 +3405,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 users.51.la
 127.0.0.1 web.51.la
 127.0.0.1 web1.51.la
+127.0.0.1 s4.55.la
 127.0.0.1 count25.51yes.com
 127.0.0.1 count32.51yes.com
 127.0.0.1 count46.51yes.com
@@ -4711,6 +4712,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 il728.caijuedian.com
 127.0.0.1 img.tianqi777.com
 127.0.0.1 sva88.czjiuding.cn
+127.0.0.1 il82.tlywgs.cn
+127.0.0.1 sva817.minjiadian.cn
 127.0.0.1 a.xhnlf.com
 127.0.0.1 ag.nukefans.net
 127.0.0.1 cb.h5.coffeedak.cn
@@ -5686,6 +5689,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 127.0.0.1 uc.xiansuper.com
+127.0.0.1 js.xiansuper.com
 127.0.0.1 z.moatads.com
 127.0.0.1 img.88duk.com
 127.0.0.1 s.ajuhd.com
@@ -6109,3 +6113,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.bxjpl.cn
 127.0.0.1 img.stgemini.com
 127.0.0.1 s.bxjpl.cn
+127.0.0.1 s.010xk.com
+127.0.0.1 rc.010xk.com
+127.0.0.1 img.nsywb.com
+127.0.0.1 img.xrtzf.com
+127.0.0.1 rc.szfaq.com
+127.0.0.1 s.szfaq.com
+127.0.0.1 s.bccyyc.com
+127.0.0.1 s.cooolyi.cn
