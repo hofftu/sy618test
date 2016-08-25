@@ -1,5 +1,5 @@
 ##  【ADFQ】
-##20160822b
+##20160825
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -3245,6 +3245,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
 127.0.0.1 www.bitsumactivationserver.com
+127.0.0.1 keystone.mwbsys.com
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
 127.0.0.1 c.duomai.com
@@ -4304,6 +4305,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jump2.niu.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.ssp.xunlei.com
+127.0.0.1 upgrade.m.xunlei.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 biz5.kankan.com
 127.0.0.1 click.cm.kankan.com
@@ -6126,3 +6128,5 @@ ff02::2 ip6-allrouters
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 img.tygws.com
 127.0.0.1 un.xlcun.com
+127.0.0.1 slb.gedawang.com
+127.0.0.1 slb.sxuantang.com
