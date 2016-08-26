@@ -1,5 +1,5 @@
 ##  【ADFQ】
-##20160825
+##20160826
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -7,7 +7,7 @@
 ### 喜欢追新的，推荐使用以下源。注意：使用ADFQ就不需要再订阅以下源。
 ## 最强AD源（由@vokins创建并维护）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 ## 最新FQ源：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-##############################
+#############################
 183.177.81.75 m.mg.mail.yahoo.com
 192.0.79.32 code.flickr.com
 121.101.144.112 api.flickr.com
@@ -773,7 +773,7 @@
 220.255.2.153 v3.cache1.c.docs.google.com
 220.255.2.153 domains.google.com
 220.255.2.153 dl-ssl.google.com
-220.255.2.153 dl.google.com
+203.208.39.205 dl.google.com
 220.255.2.153 earth.google.com
 220.255.2.153 auth.keyhole.com
 220.255.2.153 geoauth.google.com
