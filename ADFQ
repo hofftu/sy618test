@@ -1,5 +1,5 @@
 ##  【ADFQ】
-##20160826
+##20160828
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -7,7 +7,7 @@
 ### 喜欢追新的，推荐使用以下源。注意：使用ADFQ就不需要再订阅以下源。
 ## 最强AD源（由@vokins创建并维护）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 ## 最新FQ源：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-#############################
+##############################
 183.177.81.75 m.mg.mail.yahoo.com
 192.0.79.32 code.flickr.com
 121.101.144.112 api.flickr.com
@@ -3134,7 +3134,6 @@
 127.0.0.1 store.ptqy.gitv.tv
 127.0.0.1 msg.c002.ottcn.com
 127.0.0.1 api.cupid.qiyi.com
-127.0.0.1 meta.video.qiyi.com
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 count.game.pps.tv
@@ -3255,6 +3254,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wm.makeding.com
 127.0.0.1 router.gwdang.com
 127.0.0.1 ss.cnnic.cn
+127.0.0.1 hao549.com
 127.0.0.1 mm.dopa.com.cn
 127.0.0.1 pd.dopa.com.cn
 127.0.0.1 cloudcdn.yousee.com
@@ -6130,3 +6130,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 un.xlcun.com
 127.0.0.1 slb.gedawang.com
 127.0.0.1 slb.sxuantang.com
+127.0.0.1 js3555.rencai56.com
+127.0.0.1 www.youmsm.com
+127.0.0.1 kawa11.space
+127.0.0.1 qd.ywjxsp168.cn
+127.0.0.1 js.yinhaijuan.com
+127.0.0.1 api.g1.junfull.com
