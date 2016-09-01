@@ -1,5 +1,5 @@
 ##  【ADFQ】
-##20160830
+##20160901
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -2363,15 +2363,13 @@
 203.84.197.9 www.tumblr.com
 203.84.197.27 www.tumblr.com
 203.84.197.26 www.tumblr.com
-66.6.42.34 mx.tumblr.com
-68.232.35.63 secure.assets.tumblr.com
-66.6.42.30 px.srvcs.tumblr.com
-66.6.43.23 api.tumblr.com
+192.229.237.97 mx.tumblr.com
+209.197.3.35 secure.assets.tumblr.com
 74.125.203.141 th-in-f141.1e100.net
-66.6.42.34 assets.tumblr.com
+66.196.65.112 assets.tumblr.com
 54.182.0.52 secure.static.tumblr.com
 66.6.43.34 ls.srvcs.tumblr.com
-54.182.4.222 65.media.tumblr.com
+216.137.59.35 65.media.tumblr.com
 93.184.216.98 66.media.tumblr.com
 66.6.41.34 saber.srvcs.tumblr.com
 54.182.4.222 31.media.tumblr.com
@@ -2380,6 +2378,8 @@
 93.184.216.98 46.media.tumblr.com
 209.197.3.20 67.media.tumblr.com
 54.230.74.179 vt.tumblr.com
+66.6.42.30 px.srvcs.tumblr.com
+66.6.43.23 api.tumblr.com
 220.255.2.153 lh1.google.com
 220.255.2.153 lh0.google.com
 220.255.2.153 lh2.ggpht.com
@@ -3247,6 +3247,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 keystone.mwbsys.com
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
+127.0.0.1 download.qianka.com
+127.0.0.1 m.qianka.com
+127.0.0.1 71yb1.oss-cn-beijing.aliyuncs.com
+127.0.0.1 dl.xyymall.net
+127.0.0.1 download.2345.com
+127.0.0.1 soft.mifenggame.cn
+127.0.0.1 www.sxjinglong.cn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.linktech.cn
 127.0.0.1 p.yiqifa.com
@@ -3279,6 +3286,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 sddnserror4.wo.com.cn
 127.0.0.1 sddnserror7.wo.com.cn
 127.0.0.1 sddnserror9.wo.com.cn
+127.0.0.1 ax.ggfeng.com
+127.0.0.1 migu.kssws.ks-cdn.com
+127.0.0.1 sc.ggdoubi.com
+127.0.0.1 sc.ggfeng.com
+127.0.0.1 ssp.kss.ksyun.com
+127.0.0.1 stjzh.gdtarget.com
+127.0.0.1 api.g1.junfull.com
 127.0.0.1 ads.adinall.com
 127.0.0.1 cdn.adinall.com
 127.0.0.1 sspservice.ad-survey.com
@@ -5728,6 +5742,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.21kas.com
 127.0.0.1 s.taobaomayu.com
 127.0.0.1 www.keydot.net
+127.0.0.1 s.zzrcz.com
 127.0.0.1 www.yanjiele8.club
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
@@ -6142,4 +6157,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 kawa11.space
 127.0.0.1 qd.ywjxsp168.cn
 127.0.0.1 js.yinhaijuan.com
-127.0.0.1 api.g1.junfull.com
+127.0.0.1 dm532.dm530.net
