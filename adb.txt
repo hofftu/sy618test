@@ -8,3 +8,6 @@ m.miaopai.com###v6_btn_open,.open_miaopai,.more_btn,#v6_btn_banner,.v6_btn_banne
 video.weibo.com##.cover_ad,.h2_title,.arrow,.more,.box_inner,.box
 
 ||*.cloudfront.net
+
+||www.javbus.com/ads/*
+www.javbus.com##.ad-table,.ad-list
