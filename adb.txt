@@ -3,7 +3,7 @@ ithome.com##.related_buy,.down_app,#a_ad
 
 www.zhihu.com##.AppPromotionBar
 
-m.miaopai.com###v6_btn_open,.open_miaopai,.more_btn,#v6_btn_banner,.v6_btn_banner_class
+m.miaopai.com###v6_btn_open,.open_miaopai,.more_btn,#v6_btn_banner,.v6_btn_banner_class.other_vid,#section_hot,.comment_btn,#like_count,.video_wrapper_me,.menu clearfix,.cprt,.share_icon,.like_icon,.ts,.video_wrapper_hot,h3,.footer_banner
 ||wsacdn1.miaopai.com/upload-pic/*
 video.weibo.com##.cover_ad,.h2_title,.arrow,.more,.box_inner,.box
 
