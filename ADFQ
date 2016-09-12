@@ -1,5 +1,5 @@
 ##  【ADFQ】
-##20160910
+##20160912
 ## coolapk.com by sy619
 ## 本hosts专注于去国内广告、集成信仰加成。适合不折腾的朋友使用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -2431,10 +2431,6 @@
 151.101.48.133 raw.githubusercontent.com
 36.250.79.84 ping.chinaz.com
 104.24.118.4 btdb.in
-149.154.167.99 telegram.org
-149.154.167.99 desktop.telegram.org
-149.154.167.99 core.telegram.org
-149.154.167.99 macos.telegram.org
 172.217.4.241 m-dot-betaspike.appspot.com
 104.16.121.127 medium.com
 104.16.122.127 medium.com
@@ -2445,6 +2441,7 @@
 151.101.44.101 cdn-images-2.medium.com
 151.101.36.101 cdn-images-2.medium.com
 127.0.0.1 www.google-analytics.com
+50.31.162.95 www.digwebinterface.com
 202.171.253.98 r1---sn-i3b7kn76.googlevideo.com
 202.171.253.98 r2---sn-i3b7kn76.googlevideo.com
 202.171.253.98 r3---sn-i3b7kn76.googlevideo.com
@@ -3147,7 +3144,42 @@
 218.254.1.13 r3---sn-a5m7lne7.gvt1.com
 218.254.1.13 r4---sn-a5m7lne7.gvt1.com
 218.254.1.13 r5---sn-a5m7lne7.gvt1.com
-218.254.1.13 r6---sn-a5m7lne7.gvt1.com#version=20160909 001
+218.254.1.13 r6---sn-a5m7lne7.gvt1.com
+218.254.1.13 r1---sn-a5m7znel.gvt1.com
+218.254.1.13 r2---sn-a5m7znel.gvt1.com
+218.254.1.13 r3---sn-a5m7znel.gvt1.com
+218.254.1.13 r4---sn-a5m7znel.gvt1.com
+218.254.1.13 r5---sn-a5m7znel.gvt1.com
+218.254.1.13 r6---sn-a5m7znel.gvt1.com
+##0912
+218.254.1.13 r10---sn-a5m7lnes.gvt1.com
+218.254.1.13 r19---sn-a5m7lnes.gvt1.com
+218.254.1.13 r12---sn-a5m7lnel.gvt1.com
+218.254.1.13 r20---sn-a5m7lner.gvt1.com
+218.254.1.13 r10---sn-a5m7lnez.gvt1.com
+218.254.1.13 r12---sn-a5m7ln7d.gvt1.com
+218.254.1.13 r6---sn-a5m7ln7r.gvt1.com
+218.254.1.13 r7---sn-a5m7ln7k.gvt1.com
+218.254.1.13 r14---sn-a5m7ln7s.gvt1.com
+218.254.1.13 r12---sn-a5m7ln7y.gvt1.com
+218.254.1.13 r18---sn-a5m7ln7z.gvt1.com
+218.254.1.13 r11---sn-a5m7ln76.gvt1.com
+218.254.1.13 r18---sn-a5m7ln76.gvt1.com
+218.254.1.13 r18---sn-a5m7znez.gvt1.com
+218.254.1.13 r6---sn-a5meknee.gvt1.com
+218.254.1.13 r1---sn-a5meknes.gvt1.com
+218.254.1.13 r4---sn-a5meknes.gvt1.com
+218.254.1.13 r6---sn-a5mekne7.gvt1.com
+218.254.1.13 r4---sn-a5mekn7d.gvt1.com
+218.254.1.13 r3---sn-a5mekn7r.gvt1.com
+218.254.1.13 r2---sn-a5mekn7y.gvt1.com
+218.254.1.13 r6---sn-a5mekne7.gvt1.com
+218.254.1.13 r3---sn-a5mekned.gvt1.com
+218.254.1.13 r5---sn-a5mlrn76.gvt1.com
+218.254.1.13 r2---sn-a5mlrn7l.gvt1.com
+218.254.1.13 r3---sn-a5mlrn7s.gvt1.com
+218.254.1.13 r4---sn-a5mlrn7s.gvt1.com
+218.254.1.13 r3---sn-a5mlrn7z.gvt1.com#version=201609112154
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
 127.0.0.1 acdid.acdsystems.com
@@ -3485,6 +3517,7 @@
 127.0.0.1 sis.jpush.io
 127.0.0.1 cm.reachmax.cn
 127.0.0.1 m.reachmax.cn
+127.0.0.1 v2.reachmax.cn
 127.0.0.1 c.nz.gt.igexin.com
 127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
@@ -3709,6 +3742,7 @@
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 rd.da.netease.com
+127.0.0.1 ad.toutiao.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -4309,6 +4343,9 @@
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.youku.com
+127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 r.l.cp31.ott.cibntv.net
+127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 afm.pipi.cn
 127.0.0.1 allinone.pipi.cn
 127.0.0.1 game.pipi.cn
@@ -4337,6 +4374,12 @@
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 aiseet.aa.atianqi.com
 127.0.0.1 mcgi.play.aiseet.atianqi.com
+127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 p-l.play.aiseet.atianqi.com
+127.0.0.1 sdkconfig.play.aiseet.atianqi.com
+127.0.0.1 t-l.play.aiseet.atianqi.com
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 winvvv.com
 127.0.0.1 ad-cache.dopool.com
@@ -5007,12 +5050,14 @@
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
+127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
+127.0.0.1 rtb.admaster.com.cn 
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
@@ -5254,6 +5299,9 @@
 127.0.0.1 api7.tuisong.baidu.com
 127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 api9.tuisong.baidu.com
+127.0.0.1 duapps.com
+127.0.0.1 ad.duapps.com
+127.0.0.1 api.mobula.sdk.duapps.com
 127.0.0.1 v.behe.com
 127.0.0.1 rtb.behe.com
 127.0.0.1 www.behe.com
@@ -5386,6 +5434,7 @@
 127.0.0.1 snim.qtmojo.com
 127.0.0.1 wmdeal.qtmojo.com
 127.0.0.1 xiciim.qtmojo.com
+127.0.0.1 mon.xtgreat.com
 127.0.0.1 www.xtgreat.com
 127.0.0.1 res.icast.cn
 127.0.0.1 rs.sinajs.cn
@@ -5514,6 +5563,8 @@
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 qchannel01.cn
+127.0.0.1 www.qchannel01.cn
 127.0.0.1 api.game.letvstore.com
 127.0.0.1 msg.m.letv.com
 127.0.0.1 n.mark.letv.com
@@ -5798,6 +5849,8 @@
 127.0.0.1 img.56gmz.com
 127.0.0.1 c.8l8l.com
 127.0.0.1 tt.twzui6.com
+127.0.0.1 img.balaiyani.com
+127.0.0.1 img.hai61.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
 127.0.0.1 ucuc.baiducu.com
@@ -5817,7 +5870,6 @@
 127.0.0.1 cp.5jjx.net
 127.0.0.1 vip.xjidian.com
 127.0.0.1 idxhy8s.xxbiquge.com
-127.0.0.1 img.hai61.com
 127.0.0.1 s.xhsxgmt.cn
 127.0.0.1 alibaba.zhihei.com
 127.0.0.1 c.bccyyc.com
