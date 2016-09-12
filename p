@@ -710,4 +710,33 @@
 218.254.1.13 r4---sn-a5m7znel.gvt1.com
 218.254.1.13 r5---sn-a5m7znel.gvt1.com
 218.254.1.13 r6---sn-a5m7znel.gvt1.com
+##0912
+218.254.1.13 r10---sn-a5m7lnes.gvt1.com
+218.254.1.13 r19---sn-a5m7lnes.gvt1.com
+218.254.1.13 r12---sn-a5m7lnel.gvt1.com
+218.254.1.13 r20---sn-a5m7lner.gvt1.com
+218.254.1.13 r10---sn-a5m7lnez.gvt1.com
+218.254.1.13 r12---sn-a5m7ln7d.gvt1.com
+218.254.1.13 r6---sn-a5m7ln7r.gvt1.com
+218.254.1.13 r7---sn-a5m7ln7k.gvt1.com
+218.254.1.13 r14---sn-a5m7ln7s.gvt1.com
+218.254.1.13 r12---sn-a5m7ln7y.gvt1.com
+218.254.1.13 r18---sn-a5m7ln7z.gvt1.com
+218.254.1.13 r11---sn-a5m7ln76.gvt1.com
+218.254.1.13 r18---sn-a5m7ln76.gvt1.com
+218.254.1.13 r18---sn-a5m7znez.gvt1.com
+218.254.1.13 r6---sn-a5meknee.gvt1.com
+218.254.1.13 r1---sn-a5meknes.gvt1.com
+218.254.1.13 r4---sn-a5meknes.gvt1.com
+218.254.1.13 r6---sn-a5mekne7.gvt1.com
+218.254.1.13 r4---sn-a5mekn7d.gvt1.com
+218.254.1.13 r3---sn-a5mekn7r.gvt1.com
+218.254.1.13 r2---sn-a5mekn7y.gvt1.com
+218.254.1.13 r6---sn-a5mekne7.gvt1.com
+218.254.1.13 r3---sn-a5mekned.gvt1.com
+218.254.1.13 r5---sn-a5mlrn76.gvt1.com
+218.254.1.13 r2---sn-a5mlrn7l.gvt1.com
+218.254.1.13 r3---sn-a5mlrn7s.gvt1.com
+218.254.1.13 r4---sn-a5mlrn7s.gvt1.com
+218.254.1.13 r3---sn-a5mlrn7z.gvt1.com
 #
