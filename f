@@ -2506,3 +2506,18 @@
 127.0.0.1 www.google-analytics.com
 #www.digwebinterface.com
 50.31.162.95 www.digwebinterface.com
+#Flipboard
+54.164.65.195 fbprod.flipboard.com
+52.201.120.212 beacon.flipboard.com
+54.182.6.253 cdn.flipboard.com
+52.3.22.61 flipboard.com
+54.192.145.23 s.flipboard.com
+50.18.174.65 flipboard.helpshift.com
+54.210.215.157 ue.flipboard.com
+52.84.1.161 cdn.flipboard.com
+52.22.25.255 beacon.flipboard.com
+54.230.53.166 cdn.flipboard.com
+52.4.129.197 fbprod.flipboard.com
+50.18.156.209 flipboard.helpshift.com
+184.169.136.38 flipboard.helpshift.com
+#
