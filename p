@@ -704,4 +704,10 @@
 218.254.1.13 r4---sn-a5m7lne7.gvt1.com
 218.254.1.13 r5---sn-a5m7lne7.gvt1.com
 218.254.1.13 r6---sn-a5m7lne7.gvt1.com
+218.254.1.13 r1---sn-a5m7znel.gvt1.com
+218.254.1.13 r2---sn-a5m7znel.gvt1.com
+218.254.1.13 r3---sn-a5m7znel.gvt1.com
+218.254.1.13 r4---sn-a5m7znel.gvt1.com
+218.254.1.13 r5---sn-a5m7znel.gvt1.com
+218.254.1.13 r6---sn-a5m7znel.gvt1.com
 #

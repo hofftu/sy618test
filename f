@@ -2491,11 +2491,6 @@
 36.250.79.84 ping.chinaz.com
 #btdb.in
 104.24.118.4 btdb.in
-#telegram
-149.154.167.99 telegram.org
-149.154.167.99 desktop.telegram.org
-149.154.167.99 core.telegram.org
-149.154.167.99 macos.telegram.org
 #Ingress
 172.217.4.241 m-dot-betaspike.appspot.com
 #medium.com
@@ -2509,3 +2504,5 @@
 151.101.36.101 cdn-images-2.medium.com
 #google analytics
 127.0.0.1 www.google-analytics.com
+#www.digwebinterface.com
+50.31.162.95 www.digwebinterface.com
