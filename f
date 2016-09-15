@@ -2362,6 +2362,8 @@
 208.80.154.224 eu.wikipedia.org
 208.80.154.224 zh.wikipedia.org
 208.80.154.224 zh.m.wikipedia.org
+91.198.174.192 zh.wikipedia.org
+91.198.174.192 zh.m.wikipedia.org
 # WordPress
 68.232.44.121 www.gravatar.com
 68.232.44.121 0.gravatar.com
