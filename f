@@ -2484,7 +2484,8 @@
 46.17.101.80 a.apkpure.com
 46.17.101.80 download.apkpure.com
 #github
-192.30.252.141 gist.github.com
+192.30.253.118 gist.github.com
+192.30.253.119 gist.github.com
 23.235.43.133 raw.githubusercontent.com
 151.101.32.133 raw.githubusercontent.com
 151.101.16.133 raw.githubusercontent.com
