@@ -769,6 +769,20 @@
 202.171.253.98 r4---sn-juh-h4hz.gvt1.com
 202.171.253.98 r5---sn-juh-h4hz.gvt1.com
 202.171.253.98 r6---sn-juh-h4hz.gvt1.com
+202.171.253.98 r7---sn-juh-h4hz.gvt1.com
+202.171.253.98 r8---sn-juh-h4hz.gvt1.com
+202.171.253.98 r9---sn-juh-h4hz.gvt1.com
+202.171.253.98 r10---sn-juh-h4hz.gvt1.com
+202.171.253.98 r11---sn-juh-h4hz.gvt1.com
+202.171.253.98 r12---sn-juh-h4hz.gvt1.com
+202.171.253.98 r13---sn-juh-h4hz.gvt1.com
+202.171.253.98 r14---sn-juh-h4hz.gvt1.com
+202.171.253.98 r15---sn-juh-h4hz.gvt1.com
+202.171.253.98 r16---sn-juh-h4hz.gvt1.com
+202.171.253.98 r17---sn-juh-h4hz.gvt1.com
+202.171.253.98 r18---sn-juh-h4hz.gvt1.com
+202.171.253.98 r19---sn-juh-h4hz.gvt1.com
+202.171.253.98 r20---sn-juh-h4hz.gvt1.com
 #
 #@np
 #npoe7n76

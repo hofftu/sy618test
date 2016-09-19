@@ -995,7 +995,7 @@
 # Googleapis
 220.255.2.153 chart.apis.google.com
 220.255.2.153 googleapis.com
-220.255.2.153 www.googleapis.com
+172.217.4.106 www.googleapis.com
 220.255.2.153 ajax.googleapis.com
 220.255.2.153 android.googleapis.com
 220.255.2.153 bigcache.googleapis.com
@@ -1140,7 +1140,7 @@
 220.255.2.153 spreadsheets.l.google.com
 220.255.2.153 spreadsheets-china.l.google.com
 220.255.2.153 sslvideo-upload.l.google.com
-#220.255.2.153 ssl-google-analytics.l.google.com
+127.0.0.1 ssl-google-analytics.l.google.com
 220.255.2.153 static.cache.l.google.com
 220.255.2.153 suggestqueries.l.google.com
 220.255.2.153 tbn.l.google.com
@@ -2302,9 +2302,9 @@
 31.216.147.135 eu.api.mega.co.nz
 154.53.224.130 eu.static.mega.co.nz
 117.18.237.188 g.cdn1.mega.co.nz
-154.53.224.150 mega.co.nz
-154.53.224.166 mega.nz
-31.216.147.130 w.api.mega.co.nz
+154.53.224.118 mega.co.nz
+154.53.224.158 mega.nz
+31.216.147.156 w.api.mega.co.nz
 31.216.147.132 g.api.mega.co.nz
 31.216.147.132 lu1.api.mega.nz
 31.216.147.133 lu2.api.mega.nz
