@@ -384,6 +384,18 @@
 202.171.253.98 r6---sn-juh-h4hz.googlevideo.com
 202.171.253.98 r7---sn-juh-h4hz.googlevideo.com
 202.171.253.98 r8---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r9---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r10---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r11---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r12---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r13---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r14---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r15---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r16---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r17---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r18---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r19---sn-juh-h4hz.googlevideo.com
+202.171.253.98 r20---sn-juh-h4hz.googlevideo.com
 #juh-h4hs
 202.171.253.98 r1---sn-juh-h4hs.googlevideo.com
 202.171.253.98 r2---sn-juh-h4hs.googlevideo.com
@@ -393,6 +405,18 @@
 202.171.253.98 r6---sn-juh-h4hs.googlevideo.com
 202.171.253.98 r7---sn-juh-h4hs.googlevideo.com
 202.171.253.98 r8---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r9---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r10---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r11---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r12---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r13---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r14---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r15---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r16---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r17---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r18---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r19---sn-juh-h4hs.googlevideo.com
+202.171.253.98 r20---sn-juh-h4hs.googlevideo.com
 #
 #-----------play down-----------
 203.208.39.205 redirector.gvt1.com
@@ -755,13 +779,26 @@
 #@ju
 #?juh-h4h?
 #juh-h4hs
-202.171.253.98 r2---sn-juh-h4hs.gvt1.com
-202.171.253.98 r7---sn-juh-h4hs.gvt1.com
 202.171.253.98 r1---sn-juh-h4hs.gvt1.com
+202.171.253.98 r2---sn-juh-h4hs.gvt1.com
 202.171.253.98 r3---sn-juh-h4hs.gvt1.com
 202.171.253.98 r4---sn-juh-h4hs.gvt1.com
 202.171.253.98 r5---sn-juh-h4hs.gvt1.com
 202.171.253.98 r6---sn-juh-h4hs.gvt1.com
+202.171.253.98 r7---sn-juh-h4hs.gvt1.com
+202.171.253.98 r8---sn-juh-h4hs.gvt1.com
+202.171.253.98 r9---sn-juh-h4hs.gvt1.com
+202.171.253.98 r10---sn-juh-h4hs.gvt1.com
+202.171.253.98 r11---sn-juh-h4hs.gvt1.com
+202.171.253.98 r12---sn-juh-h4hs.gvt1.com
+202.171.253.98 r13---sn-juh-h4hs.gvt1.com
+202.171.253.98 r14---sn-juh-h4hs.gvt1.com
+202.171.253.98 r15---sn-juh-h4hs.gvt1.com
+202.171.253.98 r16---sn-juh-h4hs.gvt1.com
+202.171.253.98 r17---sn-juh-h4hs.gvt1.com
+202.171.253.98 r18---sn-juh-h4hs.gvt1.com
+202.171.253.98 r19---sn-juh-h4hs.gvt1.com
+202.171.253.98 r20---sn-juh-h4hs.gvt1.com
 #juh-h4hz
 202.171.253.98 r1---sn-juh-h4hz.gvt1.com
 202.171.253.98 r2---sn-juh-h4hz.gvt1.com
