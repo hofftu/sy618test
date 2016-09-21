@@ -1103,6 +1103,7 @@
 220.255.2.153 history.l.google.com
 220.255.2.153 id.l.google.com
 220.255.2.153 images.l.google.com
+220.255.2.153 ipv4.google.com
 220.255.2.153 ipv4.l.google.com
 220.255.2.153 keyhole.l.google.com
 220.255.2.153 kh.l.google.com
