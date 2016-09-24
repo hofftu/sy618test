@@ -1,3 +1,4 @@
+##temporary.txt
 #@视频网
 #itv.hnr.cn
 127.0.0.1 zjs.roowap.com
