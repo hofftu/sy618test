@@ -2527,4 +2527,7 @@
 52.4.129.197 fbprod.flipboard.com
 50.18.156.209 flipboard.helpshift.com
 184.169.136.38 flipboard.helpshift.com
+#dns.xsico.cn
+119.188.35.38 dns.xsico.cn
+42.48.109.247 dns.xsico.cn
 #
