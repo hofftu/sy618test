@@ -2470,7 +2470,7 @@
 220.255.2.153 lh0.googleusercontent.com
 220.255.2.153 lh1.googleusercontent.com
 220.255.2.153 lh2.googleusercontent.com
-220.255.2.153 lh3.googleusercontent.com
+172.217.4.225 lh3.googleusercontent.com
 220.255.2.153 lh4.googleusercontent.com
 220.255.2.153 lh5.googleusercontent.com
 220.255.2.153 lh6.googleusercontent.com
@@ -2525,6 +2525,8 @@
 52.4.129.197 fbprod.flipboard.com
 50.18.156.209 flipboard.helpshift.com
 184.169.136.38 flipboard.helpshift.com
+#theinitium.com
+202.171.253.98 theinitium.com
 #dns.xsico.cn
 119.188.35.38 dns.xsico.cn
 42.48.109.247 dns.xsico.cn
