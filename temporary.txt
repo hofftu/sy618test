@@ -16,12 +16,13 @@
 #@小说网
 #m.biquge.la
 127.0.0.1 llsp.gfd80.com
-#谷歌广告
+#@谷歌广告
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 video-ad-stats.googlesyndication.com
+#@音乐
 #spotofy
 127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 adeventtracker.spotify.com
