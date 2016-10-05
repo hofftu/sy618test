@@ -1921,6 +1921,11 @@
 64.233.189.188 gcm-preprod.googleapis.com
 # Google:A-GPS
 64.233.171.192 supl.google.com
+#google madeby
+220.255.2.153 madeby.google.com
+#google duo\allo
+220.255.2.153 cloudconfig.googleapis.com
+220.255.2.153 instantmessaging-pa.googleapis.com
 #
 # imgur
 103.245.222.193 imgur.com
@@ -2437,12 +2442,18 @@
 68.232.35.98 66.media.tumblr.com
 66.6.41.34 saber.srvcs.tumblr.com
 54.182.4.222 31.media.tumblr.com
+69.147.71.151 31.media.tumblr.com
 54.192.98.136 32.media.tumblr.com
 209.197.3.20 33.media.tumblr.com
 93.184.216.98 46.media.tumblr.com
 209.197.3.20 67.media.tumblr.com
-54.230.198.51 vt.tumblr.com
 54.230.74.179 vt.tumblr.com
+54.182.6.6 vt.tumblr.com
+54.182.6.163 vt.tumblr.com
+54.182.6.201 vt.tumblr.com
+54.182.6.188 vt.tumblr.com
+216.115.100.126 vtt.tumblr.com
+69.147.86.13 vtt.tumblr.com
 66.6.42.30 px.srvcs.tumblr.com
 66.6.32.151 api.tumblr.com
 #google picture
@@ -2498,6 +2509,19 @@
 104.24.118.4 btdb.in
 #Ingress
 172.217.4.241 m-dot-betaspike.appspot.com
+172.217.17.49 m-dot-betaspike.appspot.com
+202.171.253.98 api.crittercism.com
+202.171.253.98 appload.ingest.crittercism.com
+202.171.253.98 txn.ingest.crittercism.com
+169.46.12.74 bootstrap.upsight-api.com
+37.58.73.182 bootstrap.upsight-api.com
+159.8.228.153 bootstrap.upsight-api.com
+119.81.248.34 single.upsight-api.com
+169.46.12.88 single.upsight-api.com
+172.217.4.241 m-dot-betaspike.appspot.com
+172.217.17.49 m-dot-betaspike.appspot.com
+169.46.12.69 batch.upsight-api.com
+169.46.12.88 batch.upsight-api.com
 #medium.com
 104.16.121.127 medium.com
 104.16.122.127 medium.com

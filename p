@@ -1,8 +1,8 @@
 #sy619 coolapk.com
 #----------u2b--------
-202.171.253.98 redirector.googlevideo.com
-202.171.253.98 redirector.c.youtube.com
-202.171.253.98 manifest.googlevideo.com
+#202.171.253.98 redirector.googlevideo.com
+#202.171.253.98 redirector.c.youtube.com
+#202.171.253.98 manifest.googlevideo.com
 #
 #@i3
 #i3b7kn76
@@ -947,7 +947,6 @@
 #
 #
 #-----------play down-----------
-203.208.39.205 redirector.gvt1.com
 #218#254#1#13
 #@i3
 #?i3b7kne?
