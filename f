@@ -986,7 +986,7 @@
 # Googleapis
 220.255.2.153 chart.apis.google.com
 220.255.2.153 googleapis.com
-202.171.253.98 www.googleapis.com
+172.217.17.74 www.googleapis.com
 64.233.188.214 ajax.googleapis.com
 220.255.2.153 android.googleapis.com
 220.255.2.153 bigcache.googleapis.com
@@ -2467,7 +2467,7 @@
 220.255.2.153 lh0.googleusercontent.com
 220.255.2.153 lh1.googleusercontent.com
 220.255.2.153 lh2.googleusercontent.com
-202.171.253.98 lh3.googleusercontent.com
+172.217.22.97 lh3.googleusercontent.com
 220.255.2.153 lh4.googleusercontent.com
 220.255.2.153 lh5.googleusercontent.com
 220.255.2.153 lh6.googleusercontent.com
