@@ -986,8 +986,8 @@
 # Googleapis
 220.255.2.153 chart.apis.google.com
 220.255.2.153 googleapis.com
-172.217.4.225 www.googleapis.com
-220.255.2.153 ajax.googleapis.com
+202.171.253.98 www.googleapis.com
+64.233.188.214 ajax.googleapis.com
 220.255.2.153 android.googleapis.com
 220.255.2.153 bigcache.googleapis.com
 220.255.2.153 chart.googleapis.com
@@ -2467,7 +2467,7 @@
 220.255.2.153 lh0.googleusercontent.com
 220.255.2.153 lh1.googleusercontent.com
 220.255.2.153 lh2.googleusercontent.com
-172.217.4.225 lh3.googleusercontent.com
+202.171.253.98 lh3.googleusercontent.com
 220.255.2.153 lh4.googleusercontent.com
 220.255.2.153 lh5.googleusercontent.com
 220.255.2.153 lh6.googleusercontent.com
@@ -2494,7 +2494,7 @@
 #btdb.in
 104.24.118.4 btdb.in
 #Ingress
-172.217.4.225 m-dot-betaspike.appspot.com
+202.171.253.98 m-dot-betaspike.appspot.com
 172.217.17.49 m-dot-betaspike.appspot.com
 202.171.253.98 api.crittercism.com
 202.171.253.98 appload.ingest.crittercism.com
@@ -2504,7 +2504,7 @@
 159.8.228.153 bootstrap.upsight-api.com
 119.81.248.34 single.upsight-api.com
 169.46.12.88 single.upsight-api.com
-172.217.4.225 m-dot-betaspike.appspot.com
+202.171.253.98 m-dot-betaspike.appspot.com
 172.217.17.49 m-dot-betaspike.appspot.com
 169.46.12.69 batch.upsight-api.com
 169.46.12.88 batch.upsight-api.com
