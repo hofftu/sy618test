@@ -2489,8 +2489,6 @@
 151.101.100.133 raw.githubusercontent.com
 151.101.44.133 raw.githubusercontent.com
 151.101.48.133 raw.githubusercontent.com
-#chinaz.com
-36.250.79.84 ping.chinaz.com
 #btdb.in
 104.24.118.4 btdb.in
 #Ingress
