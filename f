@@ -2472,6 +2472,10 @@
 220.255.2.153 lh5.googleusercontent.com
 220.255.2.153 lh6.googleusercontent.com
 220.255.2.153 notifications.google.com
+#google Y2B
+202.171.253.98 redirector.googlevideo.com
+202.171.253.98 redirector.c.youtube.com
+202.171.253.98 manifest.googlevideo.com
 # m.apkpure.com
 46.17.101.80 static.apkpure.com
 108.163.178.42 translate.apkpure.com
