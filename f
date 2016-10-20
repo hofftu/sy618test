@@ -987,7 +987,7 @@
 220.255.2.153 chart.apis.google.com
 220.255.2.153 googleapis.com
 172.217.17.74 www.googleapis.com
-64.233.188.214 ajax.googleapis.com
+172.217.6.106 ajax.googleapis.com
 220.255.2.153 android.googleapis.com
 220.255.2.153 bigcache.googleapis.com
 220.255.2.153 chart.googleapis.com
@@ -2477,7 +2477,7 @@
 202.171.253.98 redirector.googlevideo.com
 202.171.253.98 redirector.c.youtube.com
 202.171.253.98 manifest.googlevideo.com
-203.208.43.73 redirector.gvt1.com
+202.171.253.98 redirector.gvt1.com
 # m.apkpure.com
 46.17.101.80 static.apkpure.com
 108.163.178.42 translate.apkpure.com
