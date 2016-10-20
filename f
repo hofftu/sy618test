@@ -71,7 +71,7 @@
 218.254.1.13 dropbox.com
 218.254.1.13 m.dropbox.com
 218.254.1.13 www.v.dropbox.com
-162.125.66.1 www.dropbox.com
+218.254.1.13 www.dropbox.com
 108.160.172.193 d.dropbox.com
 108.160.172.193 d.v.dropbox.com
 108.160.172.193 api-d.dropbox.com
@@ -198,10 +198,10 @@
 192.0.78.12 managingbias.fb.com
 192.0.78.12 rightsmanager.fb.com
 192.0.78.12 instantarticles.fb.com
-192.0.66.2  messengerplatform.fb.com
-199.201.64.67   threatexchange.fb.com
-31.13.95.6  snaptu-z.facebook.com
-31.13.95.6  snaptu-p1.facebook.com
+192.0.66.2 messengerplatform.fb.com
+199.201.64.67 threatexchange.fb.com
+31.13.95.6 snaptu-z.facebook.com
+31.13.95.6 snaptu-p1.facebook.com
 31.13.95.40 snaptu-p2.facebook.com
 31.13.78.17 external.xx.fbcdn.net
 31.13.78.17 staticxx.facebook.com
@@ -382,7 +382,7 @@
 54.240.226.19 ap-southeast-1.console.aws.amazon.com
 54.240.195.197 ap-southeast-2.console.aws.amazon.com
 176.32.100.36 aws.amazon.com
-72.21.194.168 console.aws.amazon.com
+54.239.31.91 console.aws.amazon.com
 54.239.54.107 eu-central-1.console.aws.amazon.com
 202.171.253.98 eu-west-1.console.aws.amazon.com
 54.231.66.16 s3.amazonaws.com
@@ -772,7 +772,7 @@
 220.255.2.153 v3.cache1.c.docs.google.com
 220.255.2.153 domains.google.com
 220.255.2.153 dl-ssl.google.com
-203.208.39.205 dl.google.com
+220.255.2.153 dl.google.com
 220.255.2.153 earth.google.com
 220.255.2.153 auth.keyhole.com
 220.255.2.153 geoauth.google.com
@@ -2421,14 +2421,13 @@
 209.197.3.35 secure.assets.tumblr.com
 66.196.65.112 assets.tumblr.com
 54.182.0.52 secure.static.tumblr.com
-202.171.253.98 ls.srvcs.tumblr.com
 52.84.28.123 65.media.tumblr.com
 52.84.60.21 65.media.tumblr.com
 192.229.237.98 66.media.tumblr.com
 68.232.35.98 66.media.tumblr.com
-202.171.253.98 saber.srvcs.tumblr.com
-54.182.4.222 31.media.tumblr.com
+69.147.86.13 31.media.tumblr.com
 216.115.100.126 31.media.tumblr.com
+54.182.4.222 31.media.tumblr.com
 54.192.98.136 32.media.tumblr.com
 209.197.3.20 33.media.tumblr.com
 93.184.216.98 46.media.tumblr.com
@@ -2440,8 +2439,10 @@
 54.182.6.188 vt.tumblr.com
 216.115.100.126 vtt.tumblr.com
 69.147.86.13 vtt.tumblr.com
+202.171.253.98 saber.srvcs.tumblr.com
 202.171.253.98 px.srvcs.tumblr.com
 202.171.253.98 api.tumblr.com
+202.171.253.98 ls.srvcs.tumblr.com
 #google picture
 220.255.2.153 lh1.google.com
 220.255.2.153 lh0.google.com
@@ -2472,10 +2473,11 @@
 220.255.2.153 lh5.googleusercontent.com
 220.255.2.153 lh6.googleusercontent.com
 220.255.2.153 notifications.google.com
-#google Y2B
+#google 
 202.171.253.98 redirector.googlevideo.com
 202.171.253.98 redirector.c.youtube.com
 202.171.253.98 manifest.googlevideo.com
+203.208.43.73 redirector.gvt1.com
 # m.apkpure.com
 46.17.101.80 static.apkpure.com
 108.163.178.42 translate.apkpure.com
@@ -2486,7 +2488,6 @@
 #github
 192.30.253.118 gist.github.com
 192.30.253.119 gist.github.com
-23.235.43.133 raw.githubusercontent.com
 151.101.32.133 raw.githubusercontent.com
 151.101.16.133 raw.githubusercontent.com
 151.101.12.133 raw.githubusercontent.com
