@@ -1861,6 +1861,7 @@
 64.233.188.16 pop.googlemail.com
 64.233.188.109 gmail-smtp-msa.l.google.com
 64.233.188.27 gmail-smtp-in.l.google.com
+64.233.189.27 gmail-smtp-in.l.google.com
 64.233.188.14 gmr-smtp-in.l.google.com
 64.233.188.109 mail-settings.google.com
 # Google:stun Server
