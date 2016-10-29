@@ -1129,6 +1129,50 @@
 202.171.253.98 r5---sn-ogueln7z.googlevideo.com
 202.171.253.98 r6---sn-ogueln7z.googlevideo.com
 #
+#?oguelne?
+#oguelned
+202.171.253.98 r1---sn-oguelned.googlevideo.com
+202.171.253.98 r2---sn-oguelned.googlevideo.com
+202.171.253.98 r3---sn-oguelned.googlevideo.com
+202.171.253.98 r4---sn-oguelned.googlevideo.com
+202.171.253.98 r5---sn-oguelned.googlevideo.com
+202.171.253.98 r6---sn-oguelned.googlevideo.com
+202.171.253.98 r7---sn-oguelned.googlevideo.com
+202.171.253.98 r8---sn-oguelned.googlevideo.com
+202.171.253.98 r9---sn-oguelned.googlevideo.com
+202.171.253.98 r10---sn-oguelned.googlevideo.com
+202.171.253.98 r11---sn-oguelned.googlevideo.com
+202.171.253.98 r12---sn-oguelned.googlevideo.com
+202.171.253.98 r13---sn-oguelned.googlevideo.com
+202.171.253.98 r14---sn-oguelned.googlevideo.com
+202.171.253.98 r15---sn-oguelned.googlevideo.com
+202.171.253.98 r16---sn-oguelned.googlevideo.com
+202.171.253.98 r17---sn-oguelned.googlevideo.com
+202.171.253.98 r18---sn-oguelned.googlevideo.com
+202.171.253.98 r19---sn-oguelned.googlevideo.com
+202.171.253.98 r20---sn-oguelned.googlevideo.com
+#oguelne7
+202.171.253.98 r1---sn-oguelne7.googlevideo.com
+202.171.253.98 r2---sn-oguelne7.googlevideo.com
+202.171.253.98 r3---sn-oguelne7.googlevideo.com
+202.171.253.98 r4---sn-oguelne7.googlevideo.com
+202.171.253.98 r5---sn-oguelne7.googlevideo.com
+202.171.253.98 r6---sn-oguelne7.googlevideo.com
+202.171.253.98 r7---sn-oguelne7.googlevideo.com
+202.171.253.98 r8---sn-oguelne7.googlevideo.com
+202.171.253.98 r9---sn-oguelne7.googlevideo.com
+202.171.253.98 r10---sn-oguelne7.googlevideo.com
+202.171.253.98 r11---sn-oguelne7.googlevideo.com
+202.171.253.98 r12---sn-oguelne7.googlevideo.com
+202.171.253.98 r13---sn-oguelne7.googlevideo.com
+202.171.253.98 r14---sn-oguelne7.googlevideo.com
+202.171.253.98 r15---sn-oguelne7.googlevideo.com
+202.171.253.98 r16---sn-oguelne7.googlevideo.com
+202.171.253.98 r17---sn-oguelne7.googlevideo.com
+202.171.253.98 r18---sn-oguelne7.googlevideo.com
+202.171.253.98 r19---sn-oguelne7.googlevideo.com
+202.171.253.98 r20---sn-oguelne7.googlevideo.com
+#
 #?oguesn7?
 #oguesn76
 202.171.253.98 r1---sn-oguesn76.googlevideo.com
