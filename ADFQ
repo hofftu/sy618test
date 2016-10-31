@@ -1,5 +1,5 @@
 ##  【ADFQ】
-## 20161030b
+## 20161101
 ##  by sy619 （coolapk.com  adaway）
 ## 本hosts同步使用vokins的纯AD源，集成自己调校信仰。懒人专用。
 ## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
@@ -394,7 +394,11 @@
 127.0.0.1 ad.leadboltads.net
 127.0.0.1 ad.leadboltmobile.net
 127.0.0.1 ad.madserving.com
+127.0.0.1 ads.static.madserving.com
 127.0.0.1 adv.madserving.com
+127.0.0.1 ae.madserving.com
+127.0.0.1 appsrv1.madserving.com
+127.0.0.1 appsrv4.madserving.com
 127.0.0.1 clk.madserving.com
 127.0.0.1 clk.pdb.madserving.com
 127.0.0.1 imp.madserving.com
@@ -684,6 +688,7 @@
 127.0.0.1 att.stargame.com
 127.0.0.1 appsupport.stargame.com
 127.0.0.1 x.vamaker.com
+127.0.0.1 ad.jiemian.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -740,7 +745,6 @@
 127.0.0.1 cb.baidu.com
 127.0.0.1 charge.adapp.baidu.com
 127.0.0.1 dxp.baidu.com
-127.0.0.1 gsp1.baidu.com
 127.0.0.1 hdj.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 imageplus.baidu.com
@@ -2538,7 +2542,6 @@
 127.0.0.1 paopao1.qiyipic.com
 127.0.0.1 paopao2.qiyipic.com
 127.0.0.1 paopao3.qiyipic.com
-127.0.0.1 subscription.iqiyi.com
 127.0.0.1 tracker.sns.iqiyi.com
 127.0.0.1 count.game.pps.tv
 127.0.0.1 game.pps.tv
@@ -2881,6 +2884,7 @@
 127.0.0.1 img.hai61.com
 127.0.0.1 llsp.gfd80.com
 127.0.0.1 kiki.ykjmy.com
+127.0.0.1 myjj.pyzkk.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
 127.0.0.1 ucuc.baiducu.com
@@ -3541,6 +3545,10 @@
 127.0.0.1 alxsite.com
 127.0.0.1 www.bnhtml.com
 127.0.0.1 www.urldelivery.com
+127.0.0.1 ioa.hdkrs.com
+127.0.0.1 cycy.kxrxh.com
+127.0.0.1 mimg2.hao76.com
+127.0.0.1 mimg1.hao76.com
 202.171.253.98 r1---sn-i3b7knez.gvt1.com
 202.171.253.98 r2---sn-i3b7knez.gvt1.com
 202.171.253.98 r3---sn-i3b7knez.gvt1.com
@@ -5001,7 +5009,6 @@
 202.171.253.98 r4---sn-oguesnzz.gvt1.com
 202.171.253.98 r5---sn-oguesnzz.gvt1.com
 202.171.253.98 r6---sn-oguesnzz.gvt1.com
-##—————u2b—————
 202.171.253.98 r1---sn-i3b7knez.googlevideo.com
 202.171.253.98 r2---sn-i3b7knez.googlevideo.com
 202.171.253.98 r3---sn-i3b7knez.googlevideo.com
