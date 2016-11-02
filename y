@@ -404,6 +404,30 @@
 202.171.253.98 r19---sn-juh-h4hz.googlevideo.com
 202.171.253.98 r20---sn-juh-h4hz.googlevideo.com
 #
+#@jn
+#?jna-i3b?
+#jna-i3b6
+202.171.253.98 r1---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r2---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r3---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r4---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r5---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r6---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r7---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r8---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r9---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r10---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r11---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r12---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r13---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r14---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r15---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r16---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r17---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r18---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r19---sn-jna-i3b6.googlevideo.com
+202.171.253.98 r20---sn-jna-i3b6.googlevideo.com
+#
 #@np
 #?npoe7n7?
 #npoe7n76
