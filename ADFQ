@@ -1,14 +1,16 @@
 ##  【ADFQ】
-## 20161102b1
+## 20161106
 ##  by sy619 （coolapk.com  adaway）
-## 本hosts同步使用vokins的纯AD源，集成自己调校信仰。懒人专用。
-## 本hosts源：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
+## 本hosts同步使用vokins的纯AD源，集成信仰。懒人专用。
+## https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 ## 路由器订阅方法：https://raw.githubusercontent.com/sy618/hosts/master/Set the router to automatically update hosts.txt
 ##
 ### 优秀源推荐：建议直接使用以下源，不要使用ADFQ。
 ## 纯AD源（@vokins）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 ## 纯FQ源（@racaljk）：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 ##############################
+#version=201611032128
+#url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
 5.196.172.196 www.dxomark.com
@@ -523,6 +525,7 @@
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
@@ -715,7 +718,6 @@
 127.0.0.1 wr.da.netease.com
 127.0.0.1 a.youdao.com
 127.0.0.1 b.clkservice.youdao.com
-127.0.0.1 c.youdao.com
 127.0.0.1 clkservice.youdao.com
 127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com
@@ -802,23 +804,45 @@
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 wl.hd.sohu.com
 127.0.0.1 cm.dmp.sina.cn
+127.0.0.1 r.dmp.sina.cn
+127.0.0.1 sax.sina.cn
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
+127.0.0.1 slog.sina.cn
 127.0.0.1 wapwbclick.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
+127.0.0.1 adm.leju.sina.com.cn
+127.0.0.1 beacon.sina.com.cn
+127.0.0.1 d0.sina.com.cn
+127.0.0.1 d00.sina.com.cn
+127.0.0.1 d1.sina.com.cn
+127.0.0.1 d2.sina.com.cn
+127.0.0.1 d3.sina.com.cn
+127.0.0.1 d4.sina.com.cn
+127.0.0.1 d5.sina.com.cn
+127.0.0.1 d6.sina.com.cn
+127.0.0.1 d7.sina.com.cn
+127.0.0.1 d8.sina.com.cn
+127.0.0.1 d9.sina.com.cn
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 img.amp.ad.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
 127.0.0.1 log.mix.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
 127.0.0.1 mg.games.sina.com.cn
+127.0.0.1 motu.p4p.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
+127.0.0.1 sax.sina.com.cn
+127.0.0.1 slog.sina.com.cn
+127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
 127.0.0.1 dd.iaskgo.com
+127.0.0.1 whn.star-media.cn
 127.0.0.1 qiye11.ejunshi.net
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 rack.ra.icast.cn
+127.0.0.1 res.icast.cn
 127.0.0.1 rmtx.ra.icast.cn
 127.0.0.1 track.ra.icast.cn
 127.0.0.1 click.uve.mobile.sina.cn
@@ -1463,7 +1487,11 @@
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
+127.0.0.1 ids.deliver.ifeng.com
+127.0.0.1 iis3g.deliver.ifeng.com
+127.0.0.1 api2.analysys.cn
 127.0.0.1 c1.ifengimg.com
+127.0.0.1 api.newad.ifeng.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 games.ifeng.com
@@ -1725,10 +1753,6 @@
 127.0.0.1 js.avstats.com
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 www.appsbodyupdate.com
-127.0.0.1 c1.popads.net
-127.0.0.1 c2.popads.net
-127.0.0.1 serve.popads.net
-127.0.0.1 dr3k6qonw2kee.cloudfront.net
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 ca.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
@@ -1911,6 +1935,7 @@
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
+127.0.0.1 commercial.shouji.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
@@ -2005,6 +2030,7 @@
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
 127.0.0.1 strip.alicdn.com
+127.0.0.1 promotion.aliyun.com
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
@@ -2101,6 +2127,7 @@
 127.0.0.1 ope.tanx.com
 127.0.0.1 opendsp.tanx.com
 127.0.0.1 p.tanx.com
+127.0.0.1 phs.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 agoodm.m.taobao.com
@@ -2358,29 +2385,8 @@
 127.0.0.1 xiciim.qtmojo.com
 127.0.0.1 mon.xtgreat.com
 127.0.0.1 www.xtgreat.com
-127.0.0.1 res.icast.cn
 127.0.0.1 rs.sinajs.cn
-127.0.0.1 r.dmp.sina.cn
-127.0.0.1 sax.sina.cn
-127.0.0.1 slog.sina.cn
-127.0.0.1 beacon.sina.com.cn
-127.0.0.1 d0.sina.com.cn
-127.0.0.1 d00.sina.com.cn
-127.0.0.1 d1.sina.com.cn
-127.0.0.1 d2.sina.com.cn
-127.0.0.1 d3.sina.com.cn
-127.0.0.1 d4.sina.com.cn
-127.0.0.1 d5.sina.com.cn
-127.0.0.1 d6.sina.com.cn
-127.0.0.1 d7.sina.com.cn
-127.0.0.1 d8.sina.com.cn
-127.0.0.1 d9.sina.com.cn
-127.0.0.1 sax.sina.com.cn
-127.0.0.1 slog.sina.com.cn
-127.0.0.1 motu.p4p.sina.com.cn
 127.0.0.1 sina.wrating.com
-127.0.0.1 adm.leju.sina.com.cn
-127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 cdn.innity.net
 127.0.0.1 cast.innity.com
 127.0.0.1 avn.innity.com
@@ -3046,6 +3052,10 @@
 127.0.0.1 u.1133.cc
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 serve.popads.net
+127.0.0.1 dr3k6qonw2kee.cloudfront.net
 127.0.0.1 serv.clicksor.net
 127.0.0.1 www.predictivadvertising.com
 127.0.0.1 t.linkpage.cn
@@ -3345,6 +3355,7 @@
 127.0.0.1 www.mbai.cn
 127.0.0.1 img.jiayuannongye.cn
 127.0.0.1 s.lhusy.com
+127.0.0.1 jake.80s.tw
 127.0.0.1 c.top267.com
 127.0.0.1 c8.top267.com
 127.0.0.1 ias816.ujikdd041o.cn
@@ -3476,6 +3487,7 @@
 127.0.0.1 s.sxytx.cn
 127.0.0.1 d.h5.coffeedak.cn
 127.0.0.1 cp.h5.coffeedak.cn
+127.0.0.1 iskdpg.com
 127.0.0.1 s.iuuff.com
 127.0.0.1 un.xlcun.com
 127.0.0.1 bdjs.2344.com
@@ -3553,7 +3565,7 @@
 127.0.0.1 www.urldelivery.com
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 cycy.kxrxh.com
-127.0.0.1 www.vipkdy.com
+127.0.0.1 www.100fenlm.com
 202.171.253.98 r1---sn-i3b7knez.gvt1.com
 202.171.253.98 r2---sn-i3b7knez.gvt1.com
 202.171.253.98 r3---sn-i3b7knez.gvt1.com
@@ -6906,7 +6918,8 @@
 110.4.24.170 m.googlemail.com
 110.4.24.170 mail.google.com
 110.4.24.170 www.gmail.com
- 110.4.24.170check.googlezip.net
+110.4.24.170 fonts.gstatic.com
+110.4.24.170 check.googlezip.net
 110.4.24.170 ogs.google.com
 110.4.24.170 www.google.com
 110.4.24.170 google.com
@@ -8918,11 +8931,7 @@
 46.17.101.80 download.apkpure.com
 192.30.253.118 gist.github.com
 192.30.253.119 gist.github.com
-151.101.32.133 raw.githubusercontent.com
-151.101.16.133 raw.githubusercontent.com
-151.101.12.133 raw.githubusercontent.com
 151.101.100.133 raw.githubusercontent.com
-151.101.44.133 raw.githubusercontent.com
 151.101.48.133 raw.githubusercontent.com
 104.24.118.4 btdb.in
 169.46.12.74 bootstrap.upsight-api.com
