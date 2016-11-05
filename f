@@ -403,7 +403,8 @@
 74.125.20.144 mail.google.com
 74.125.20.144 www.gmail.com
 # Google
- 74.125.20.144check.googlezip.net
+74.125.20.144 fonts.gstatic.com
+74.125.20.144 check.googlezip.net
 74.125.20.144 ogs.google.com
 74.125.20.144 www.google.com
 74.125.20.144 google.com
