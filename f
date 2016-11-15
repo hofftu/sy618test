@@ -358,7 +358,7 @@
 54.239.54.107 eu-central-1.console.aws.amazon.com
 #54.239.38.102 eu-west-1.console.aws.amazon.com
 54.231.66.16 s3.amazonaws.com
-54.231.229.10 s3-ap-northeast-1.amazonaws.com
+#54.231.229.10 s3-ap-northeast-1.amazonaws.com
 54.231.243.166 s3-ap-southeast-1.amazonaws.com
 54.231.251.9 s3-ap-southeast-2.amazonaws.com
 54.239.31.175 s3-console-us-standard.console.aws.amazon.com
@@ -2401,7 +2401,6 @@
 52.84.60.21 65.media.tumblr.com
 192.229.237.98 66.media.tumblr.com
 68.232.35.98 66.media.tumblr.com
-54.182.4.222 31.media.tumblr.com
 69.147.86.13 31.media.tumblr.com
 216.115.100.126 31.media.tumblr.com
 54.192.98.136 32.media.tumblr.com
@@ -2505,5 +2504,6 @@
 202.171.253.98 flipboard.helpshift.com
 202.171.253.98 ue.flipboard.com
 #theinitium.com
-202.171.253.98 theinitium.com
+104.28.31.251 theinitium.com
+104.28.30.251 theinitium.com
 #
