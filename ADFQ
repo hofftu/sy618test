@@ -1,9 +1,9 @@
 ##  【ADFQ】
-## 20161107b
+## 20161115
 ##  by sy619 （coolapk.com  adaway）
 ## https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 ##############################
-#version=201611071748
+#version=20161115
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -440,6 +440,7 @@
 127.0.0.1 t.soquair.com
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
+127.0.0.1 log.umtrack.com
 127.0.0.1 www.umeng.co
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.apk.umeng.com
@@ -453,6 +454,7 @@
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
+127.0.0.1 alog.umengcloud.com
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn
 127.0.0.1 appcdn.wapx.cn
@@ -633,6 +635,8 @@
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
 127.0.0.1 huichuan.sm.cn
+127.0.0.1 gj.applog.uc.cn
+127.0.0.1 cms.ucweb.com
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
 127.0.0.1 rmw.jdburl.com
@@ -690,6 +694,8 @@
 127.0.0.1 x.vamaker.com
 127.0.0.1 ad.jiemian.com
 127.0.0.1 ad.api.moji.com
+127.0.0.1 s.trafficjam.cn  
+127.0.0.1 sdk.cdnmaster.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -1494,6 +1500,7 @@
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 stadig.ifeng.com
+127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 x.infzm.com
 127.0.0.1 g3.iqilu.com
 127.0.0.1 g4.iqilu.com
@@ -2414,6 +2421,11 @@
 127.0.0.1 wangmeng.sogou.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
+127.0.0.1 cap.touclick.com
+127.0.0.1 captcha-static.touclick.com
+127.0.0.1 cdnjs.touclick.com
+127.0.0.1 ver.touclick.com
+127.0.0.1 www.touclick.com
 127.0.0.1 g.usingde.com
 127.0.0.1 pic.usingde.com
 127.0.0.1 ads.vamaker.com
@@ -2677,6 +2689,7 @@
 127.0.0.1 js1116.cnbole.net
 127.0.0.1 js1210.cnbole.net
 127.0.0.1 js1315.cnbole.net
+127.0.0.1 js4110.cnbole.net
 127.0.0.1 js2294.cnbole.net
 127.0.0.1 js436.cnbole.net
 127.0.0.1 js883.cnbole.net
@@ -2767,6 +2780,7 @@
 127.0.0.1 pic.pxstda.com
 127.0.0.1 js986.cnbole.net
 127.0.0.1 rc.andmejs.com
+127.0.0.1 p.andmejs.com
 127.0.0.1 media-static.jointreport-switch.com
 127.0.0.1 vip.7huoguo.com
 127.0.0.1 jjhd47.115seo.com
@@ -2880,6 +2894,9 @@
 127.0.0.1 s.zzrcz.com
 127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
+127.0.0.1 5568.gjghy.com
+127.0.0.1 gggo.xmbhj.com
+127.0.0.1 cycy.kxrxh.com
 127.0.0.1 g.hw6.com
 127.0.0.1 img.hunlimishu.com
 127.0.0.1 t.91chs.com
@@ -2933,6 +2950,11 @@
 127.0.0.1 t.cnsjx.net
 127.0.0.1 wwwimg.86sjx.com
 127.0.0.1 material.jusha.com
+127.0.0.1 s.ybnrm.com
+127.0.0.1 s.mxmrt
+127.0.0.1 www.punuomisi.cn
+127.0.0.1 pic.51vipedu.com
+127.0.0.1 www.jx8888.win
 127.0.0.1 uc.xiansuper.com
 127.0.0.1 js.xiansuper.com
 127.0.0.1 z.moatads.com
@@ -3080,6 +3102,16 @@
 127.0.0.1 13pic.jdlhg.com
 127.0.0.1 199.nord-raum.com
 127.0.0.1 wuwho.cn
+127.0.0.1 js.jianbaimei.com
+127.0.0.1 h.ju33.com
+127.0.0.1 kaf.hnoka.com
+127.0.0.1 s.ryre.cn
+127.0.0.1 s1.idaguang.com
+127.0.0.1 s1.limeishang.com
+127.0.0.1 stats.anreson.net
+127.0.0.1 t16119.bafuhotel.com
+127.0.0.1 t6.ljzwlj.com
+127.0.0.1 www.bncmf.com
 127.0.0.1 55336.5ip9.com
 127.0.0.1 ccg51.win
 127.0.0.1 code.jojomu.com
@@ -3108,9 +3140,7 @@
 127.0.0.1 cip6.czpush.com
 127.0.0.1 cloud.zyiis.net
 127.0.0.1 do.apkdo.com
-127.0.0.1 h.ju33.com
 127.0.0.1 img1.pszyzxh.org
-127.0.0.1 js.jianbaimei.com
 127.0.0.1 js3555.alitianxia168.com
 127.0.0.1 js883.yongkang6.com
 127.0.0.1 js883.yongkang6.com:81
@@ -3285,6 +3315,8 @@
 127.0.0.1 sssd.rpayw.com
 127.0.0.1 m.cartekj.com
 127.0.0.1 pic1.59wd.com
+127.0.0.1 m.snow001.com
+127.0.0.1 img.sankezhi.cn
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com
@@ -3317,6 +3349,7 @@
 127.0.0.1 e.a907907.com
 127.0.0.1 s1.kutongji.com
 127.0.0.1 i.qihaoqu.com
+127.0.0.1 j.qihaoqu.com
 127.0.0.1 t.qihaoqu.com
 127.0.0.1 p.whytoss.com
 127.0.0.1 x.892155.com
@@ -3386,6 +3419,10 @@
 127.0.0.1 a.tnldt.com
 127.0.0.1 i.jiajv.net
 127.0.0.1 vip.jisucn.com
+127.0.0.1 s.mxmrt.com
+127.0.0.1 s.ybnrm.com
+127.0.0.1 rc.ybnrm.com
+127.0.0.1 rc.mxmrt.com
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
 127.0.0.1 f.chunqiu360.com
@@ -3501,8 +3538,12 @@
 127.0.0.1 ww.ao29.com
 127.0.0.1 www.88cncc.com
 127.0.0.1 www.6604.org
+127.0.0.1 www.symmz.com
 127.0.0.1 img.tygws.com
 127.0.0.1 alipay.dajiadou6.com
+127.0.0.1 js.kqy1.com
+127.0.0.1 lz.kqy1.com
+127.0.0.1 img.kqy1.com
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
 127.0.0.1 imgcdn.mazaibang.com
@@ -3539,6 +3580,9 @@
 127.0.0.1 zjs.roowap.com
 127.0.0.1 www.youfumei.com
 127.0.0.1 code.gutun.net
+127.0.0.1 sa.xalongli.cn
+127.0.0.1 di.xalongli.cn
+127.0.0.1 vip.jisucn.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
 127.0.0.1 jishi.sfloushi.com
@@ -3564,13 +3608,15 @@
 127.0.0.1 www.bnhtml.com
 127.0.0.1 www.urldelivery.com
 127.0.0.1 ioa.hdkrs.com
-127.0.0.1 cycy.kxrxh.com
 127.0.0.1 www.100fenlm.com
 127.0.0.1 www.beibeigoudai.com
 127.0.0.1 www.koudai6.com
 127.0.0.1 die.ytguowang.com
 127.0.0.1 ruby.emkfl.com
 127.0.0.1 c.wangsufast.com
+##temporary.txt
+127.0.0.1 nnd.xyssp.com
+127.0.0.1 ad.12306.cn
 202.171.253.98 r1---sn-i3b7knez.gvt1.com
 202.171.253.98 r2---sn-i3b7knez.gvt1.com
 202.171.253.98 r3---sn-i3b7knez.gvt1.com
@@ -6884,7 +6930,6 @@
 54.239.31.91 console.aws.amazon.com
 54.239.54.107 eu-central-1.console.aws.amazon.com
 54.231.66.16 s3.amazonaws.com
-54.231.229.10 s3-ap-northeast-1.amazonaws.com
 54.231.243.166 s3-ap-southeast-1.amazonaws.com
 54.231.251.9 s3-ap-southeast-2.amazonaws.com
 54.239.31.175 s3-console-us-standard.console.aws.amazon.com
@@ -8876,7 +8921,6 @@
 52.84.60.21 65.media.tumblr.com
 192.229.237.98 66.media.tumblr.com
 68.232.35.98 66.media.tumblr.com
-54.182.4.222 31.media.tumblr.com
 69.147.86.13 31.media.tumblr.com
 216.115.100.126 31.media.tumblr.com
 54.192.98.136 32.media.tumblr.com
@@ -8969,5 +9013,6 @@
 202.171.253.98 flipboard.com
 202.171.253.98 flipboard.helpshift.com
 202.171.253.98 ue.flipboard.com
-202.171.253.98 theinitium.com
+104.28.31.251 theinitium.com
+104.28.30.251 theinitium.com
 #
