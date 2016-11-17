@@ -1,9 +1,9 @@
 ##  【ADFQ】
-## 20161116
+## 2016.11.18
 ##  by sy619 （coolapk.com  adaway）
 ## https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 ##############################
-#version=20161115
+#version=20161118
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3614,9 +3614,19 @@
 127.0.0.1 die.ytguowang.com
 127.0.0.1 ruby.emkfl.com
 127.0.0.1 c.wangsufast.com
-##temporary.txt
 127.0.0.1 nnd.xyssp.com
+127.0.0.1 baidu.shu008.com
+127.0.0.1 w.aidizi.com
+127.0.0.1 tmall.shu008.com
+127.0.0.1 js.ojj258.com
+127.0.0.1 tu.njflfd.com
+127.0.0.1 tu.jstztk.com
+127.0.0.1 www.xiaoyq.com
+127.0.0.1 j.jqbee.com
 127.0.0.1 ad.12306.cn
+127.0.0.1 tubie.bthengyuan.com
+127.0.0.1 s.shbywsd.cn
+127.0.0.1 qqzy1.cc
 202.171.253.98 r1---sn-i3b7knez.gvt1.com
 202.171.253.98 r2---sn-i3b7knez.gvt1.com
 202.171.253.98 r3---sn-i3b7knez.gvt1.com
