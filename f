@@ -403,7 +403,6 @@
 110.4.24.178 mail.google.com
 110.4.24.178 www.gmail.com
 # Google
-110.4.24.178 fonts.gstatic.com
 110.4.24.178 check.googlezip.net
 110.4.24.178 ogs.google.com
 110.4.24.178 www.google.com
@@ -923,6 +922,8 @@
 110.4.24.178 nt1.ggpht.com
 110.4.24.178 nt2.ggpht.com
 110.4.24.178 nt3.ggpht.com
+110.4.24.178 fonts.gstatic.com
+110.4.24.178 csi.gstatic.com
 110.4.24.178 accounts.gstatic.com
 110.4.24.178 maps.gstatic.com
 110.4.24.178 ssl.gstatic.com
@@ -959,6 +960,7 @@
 110.4.24.178 t2.gstatic.com
 110.4.24.178 t3.gstatic.com
 # Googleapis
+110.4.24.178 safebrowsing.googleapis.com
 110.4.24.178 ajax.googleapis.com
 110.4.24.178 chart.apis.google.com
 110.4.24.178 googleapis.com
@@ -975,6 +977,7 @@
 110.4.24.178 redirector-bigcache.googleapis.com
 110.4.24.178 translate.googleapis.com
 110.4.24.178 youtube.googleapis.com
+110.4.24.178 youtubei.googleapis.com
 110.4.24.178 mt0.googleapis.com
 110.4.24.178 mt1.googleapis.com
 110.4.24.178 mt2.googleapis.com
@@ -1879,6 +1882,7 @@
 # Google:gcm
 64.233.189.188 mobile-gtalk.l.google.com
 64.233.189.188 mtalk.google.com
+173.194.210.188 alt8-mtalk.google.com
 64.233.189.188 gcm.googleapis.com
 64.233.189.188 gcm.l.google.com
 64.233.189.188 gcm-xmpp.googleapis.com
