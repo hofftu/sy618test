@@ -1,9 +1,9 @@
 ##  【ADFQ】
-## 2016.11.18
+## 2016.11.21
 ##  by sy619 （coolapk.com  adaway）
 ## https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 ##############################
-#version=20161118
+#version=20161121
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3423,6 +3423,7 @@
 127.0.0.1 s.ybnrm.com
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 rc.mxmrt.com
+127.0.0.1 in.xnjpg.com
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
 127.0.0.1 f.chunqiu360.com
@@ -3614,6 +3615,7 @@
 127.0.0.1 die.ytguowang.com
 127.0.0.1 ruby.emkfl.com
 127.0.0.1 c.wangsufast.com
+##temporary.txt
 127.0.0.1 nnd.xyssp.com
 127.0.0.1 baidu.shu008.com
 127.0.0.1 w.aidizi.com
@@ -3627,6 +3629,7 @@
 127.0.0.1 tubie.bthengyuan.com
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 qqzy1.cc
+127.0.0.1 nexus.ensighten.com
 202.171.253.98 r1---sn-i3b7knez.gvt1.com
 202.171.253.98 r2---sn-i3b7knez.gvt1.com
 202.171.253.98 r3---sn-i3b7knez.gvt1.com
@@ -6976,7 +6979,6 @@
 110.4.24.178 m.googlemail.com
 110.4.24.178 mail.google.com
 110.4.24.178 www.gmail.com
-110.4.24.178 fonts.gstatic.com
 110.4.24.178 check.googlezip.net
 110.4.24.178 ogs.google.com
 110.4.24.178 www.google.com
@@ -7490,6 +7492,8 @@
 110.4.24.178 nt1.ggpht.com
 110.4.24.178 nt2.ggpht.com
 110.4.24.178 nt3.ggpht.com
+110.4.24.178 fonts.gstatic.com
+110.4.24.178 csi.gstatic.com
 110.4.24.178 accounts.gstatic.com
 110.4.24.178 maps.gstatic.com
 110.4.24.178 ssl.gstatic.com
@@ -7525,6 +7529,7 @@
 110.4.24.178 t1.gstatic.com
 110.4.24.178 t2.gstatic.com
 110.4.24.178 t3.gstatic.com
+110.4.24.178 safebrowsing.googleapis.com
 110.4.24.178 ajax.googleapis.com
 110.4.24.178 chart.apis.google.com
 110.4.24.178 googleapis.com
@@ -7541,6 +7546,7 @@
 110.4.24.178 redirector-bigcache.googleapis.com
 110.4.24.178 translate.googleapis.com
 110.4.24.178 youtube.googleapis.com
+110.4.24.178 youtubei.googleapis.com
 110.4.24.178 mt0.googleapis.com
 110.4.24.178 mt1.googleapis.com
 110.4.24.178 mt2.googleapis.com
@@ -8426,6 +8432,7 @@
 64.233.188.121 news.dartlang.org
 64.233.189.188 mobile-gtalk.l.google.com
 64.233.189.188 mtalk.google.com
+173.194.210.188 alt8-mtalk.google.com
 64.233.189.188 gcm.googleapis.com
 64.233.189.188 gcm.l.google.com
 64.233.189.188 gcm-xmpp.googleapis.com
