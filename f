@@ -2478,8 +2478,8 @@
 46.17.101.80 a.apkpure.com
 46.17.101.80 download.apkpure.com
 #github
-192.30.253.118 gist.github.com
-192.30.253.119 gist.github.com
+151.101.76.249 github.global.ssl.fastly.net
+151.101.100.133 assets-cdn.github.com
 151.101.100.133 raw.githubusercontent.com
 151.101.48.133 raw.githubusercontent.com
 #btdb.in
