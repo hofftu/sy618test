@@ -2322,8 +2322,8 @@
 72.21.91.96 style.sndcdn.com
 72.21.91.127 visuals.soundcloud.com
 54.230.86.73 wis.sndcdn.com
-202.171.253.98 eventgateway.soundcloud.com
-202.171.253.98 telemetry.soundcloud.com
+219.76.4.4 eventgateway.soundcloud.com
+219.76.4.4 telemetry.soundcloud.com
 # Startpage
 37.0.88.36 startpage.com
 37.0.88.36 eu.startpage.com
@@ -2466,10 +2466,10 @@
 110.4.24.178 lh6.googleusercontent.com
 110.4.24.178 notifications.google.com
 #google 
-202.171.253.98 redirector.googlevideo.com
-202.171.253.98 redirector.c.youtube.com
-202.171.253.98 manifest.googlevideo.com
-202.171.253.98 redirector.gvt1.com
+219.76.4.4 redirector.googlevideo.com
+219.76.4.4 redirector.c.youtube.com
+219.76.4.4 manifest.googlevideo.com
+219.76.4.4 redirector.gvt1.com
 # m.apkpure.com
 46.17.101.80 static.apkpure.com
 108.163.178.42 translate.apkpure.com
@@ -2492,10 +2492,10 @@
 169.46.12.88 single.upsight-api.com
 169.46.12.69 batch.upsight-api.com
 169.46.12.88 batch.upsight-api.com
-202.171.253.98 m-dot-betaspike.appspot.com
-202.171.253.98 api.crittercism.com
-202.171.253.98 appload.ingest.crittercism.com
-202.171.253.98 txn.ingest.crittercism.com
+219.76.4.4 m-dot-betaspike.appspot.com
+219.76.4.4 api.crittercism.com
+219.76.4.4 appload.ingest.crittercism.com
+219.76.4.4 txn.ingest.crittercism.com
 #medium.com
 104.16.121.145 api.medium.com
 104.16.121.127 medium.com
@@ -2515,11 +2515,11 @@
 54.182.6.253 cdn.flipboard.com
 52.84.1.161 cdn.flipboard.com
 54.230.53.166 cdn.flipboard.com
-202.171.253.98 fbprod.flipboard.com
-202.171.253.98 beacon.flipboard.com
-202.171.253.98 flipboard.com
-202.171.253.98 flipboard.helpshift.com
-202.171.253.98 ue.flipboard.com
+219.76.4.4 fbprod.flipboard.com
+219.76.4.4 beacon.flipboard.com
+219.76.4.4 flipboard.com
+219.76.4.4 flipboard.helpshift.com
+219.76.4.4 ue.flipboard.com
 #theinitium.com
 104.28.31.251 theinitium.com
 104.28.30.251 theinitium.com
