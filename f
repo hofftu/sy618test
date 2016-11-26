@@ -30,7 +30,7 @@
 119.160.254.215 h.yimg.com
 106.10.199.10 hk.news.yahoo.com
 106.10.138.240 hk.yahoo.com
-206.190.39.139 hsrd.yahoo.com
+106.10.136.146 hsrd.yahoo.com
 106.10.193.20 hk-mg61.mail.yahoo.com
 119.160.254.197 l.yimg.com
 119.160.254.215 l.yimg.com
@@ -67,11 +67,11 @@
 106.10.150.156 android.smtp.mail.yahoo.com
 106.10.193.20 hk-mg61.mail.yahoo.com
 #Dropbox Start
-162.125.82.1 db.tt
-162.125.82.1 dropbox.com
-162.125.82.1 m.dropbox.com
-162.125.82.1 www.v.dropbox.com
-162.125.82.1 www.dropbox.com
+110.4.24.178 db.tt
+110.4.24.178 dropbox.com
+110.4.24.178 m.dropbox.com
+110.4.24.178 www.v.dropbox.com
+110.4.24.178 www.dropbox.com
 108.160.172.193 d.dropbox.com
 108.160.172.193 d.v.dropbox.com
 108.160.172.193 api-d.dropbox.com
@@ -93,7 +93,7 @@
 54.230.214.100 cf.dropboxstatic.com
 54.192.108.33 client-cf.dropbox.com
 45.58.69.38 dl.dropbox.com
-219.76.4.4 dl-web.dropbox.com
+110.4.24.178 dl-web.dropbox.com
 45.58.69.37 dl.dropboxusercontent.com
 162.125.18.2 photos-1.dropbox.com
 162.125.18.2 photos-2.dropbox.com
@@ -112,8 +112,8 @@
 108.160.172.236 client-web.dropbox.com
 108.160.172.236 client.dropbox.com
 108.160.172.236 client.v.dropbox.com
-219.76.4.4 dl-debug.dropbox.com
-219.76.4.4 log.getdropbox.com
+110.4.24.178 dl-debug.dropbox.com
+110.4.24.178 log.getdropbox.com
 #Facebook
 157.240.2.36 m.me
 157.240.2.36 fb.com
@@ -422,6 +422,7 @@
 110.4.24.178 clients5.google.com
 110.4.24.178 clients6.google.com
 110.4.24.178 clients7.google.com
+110.4.24.178 reminders-pa.clients6.google.com
 110.4.24.178 contributor.google.com
 110.4.24.178 desktop.google.com
 110.4.24.178 desktop2.google.com
@@ -962,6 +963,7 @@
 # Googleapis
 110.4.24.178 safebrowsing.googleapis.com
 110.4.24.178 ajax.googleapis.com
+110.4.24.178 fonts.googleapis.com
 110.4.24.178 chart.apis.google.com
 110.4.24.178 googleapis.com
 110.4.24.178 www.googleapis.com
@@ -1607,7 +1609,7 @@
 110.4.24.178 google.vg
 110.4.24.178 google.vu
 110.4.24.178 google.ws
-#110.4.24.178 www.google.ad
+110.4.24.178 www.google.ad
 110.4.24.178 www.google.ae
 110.4.24.178 www.google.al
 110.4.24.178 www.google.am
@@ -2322,8 +2324,8 @@
 72.21.91.96 style.sndcdn.com
 72.21.91.127 visuals.soundcloud.com
 54.230.86.73 wis.sndcdn.com
-219.76.4.4 eventgateway.soundcloud.com
-219.76.4.4 telemetry.soundcloud.com
+110.4.24.178 eventgateway.soundcloud.com
+110.4.24.178 telemetry.soundcloud.com
 # Startpage
 37.0.88.36 startpage.com
 37.0.88.36 eu.startpage.com
@@ -2374,20 +2376,6 @@
 192.0.78.13 zh.wordpress.com
 192.0.78.13 zh-cn.wordpress.com
 192.0.78.13 zh-sg.wordpress.com
-# XDA
-68.232.44.229 cdn.www.xda-developers.com
-93.184.216.96 cdn.xda-developers.com
-93.184.216.96 cdn1.xda-developers.com
-93.184.216.96 cdn2.xda-developers.com
-93.184.216.96 cdn3.xda-developers.com
-93.184.216.96 cdn4.xda-developers.com
-192.229.144.96 cdn-img.xda-developers.com
-192.229.144.96 cdn-www.xda-developers.com
-192.229.144.96 cs261.wac.edgecastcdn.net
-207.244.72.9 forum.xda-developers.com
-68.232.44.229 wac.8244.edgecastcdn.net
-207.244.73.44 www.xda-developers.com
-207.244.73.44 xda-developers.com
 # Appannie
 69.167.138.64 www.appannie.com
 69.167.138.64 appannie.com
@@ -2417,14 +2405,14 @@
 209.197.3.20 67.media.tumblr.com
 124.108.101.59 68.media.tumblr.com
 119.161.14.19 68.media.tumblr.com
+66.6.33.30 www.tumblr.com
 203.84.197.9 tumblr.com
 203.84.197.9 www.tumblr.com
-203.84.197.27 www.tumblr.com
+66.6.33.158 www.tumblr.com
 192.229.237.97 mx.tumblr.com
 209.197.3.35 secure.assets.tumblr.com
 66.196.65.112 assets.tumblr.com
 54.182.0.52 secure.static.tumblr.com
-54.230.74.179 vt.tumblr.com
 54.182.6.6 vt.tumblr.com
 54.182.6.163 vt.tumblr.com
 54.182.6.201 vt.tumblr.com
@@ -2466,10 +2454,10 @@
 110.4.24.178 lh6.googleusercontent.com
 110.4.24.178 notifications.google.com
 #google 
-219.76.4.4 redirector.googlevideo.com
-219.76.4.4 redirector.c.youtube.com
-219.76.4.4 manifest.googlevideo.com
-219.76.4.4 redirector.gvt1.com
+110.4.24.178 redirector.googlevideo.com
+110.4.24.178 redirector.c.youtube.com
+110.4.24.178 manifest.googlevideo.com
+110.4.24.178 redirector.gvt1.com
 # m.apkpure.com
 46.17.101.80 static.apkpure.com
 108.163.178.42 translate.apkpure.com
@@ -2492,10 +2480,10 @@
 169.46.12.88 single.upsight-api.com
 169.46.12.69 batch.upsight-api.com
 169.46.12.88 batch.upsight-api.com
-219.76.4.4 m-dot-betaspike.appspot.com
-219.76.4.4 api.crittercism.com
-219.76.4.4 appload.ingest.crittercism.com
-219.76.4.4 txn.ingest.crittercism.com
+110.4.24.178 m-dot-betaspike.appspot.com
+110.4.24.178 api.crittercism.com
+110.4.24.178 appload.ingest.crittercism.com
+110.4.24.178 txn.ingest.crittercism.com
 #medium.com
 104.16.121.145 api.medium.com
 104.16.121.127 medium.com
@@ -2515,11 +2503,11 @@
 54.182.6.253 cdn.flipboard.com
 52.84.1.161 cdn.flipboard.com
 54.230.53.166 cdn.flipboard.com
-219.76.4.4 fbprod.flipboard.com
-219.76.4.4 beacon.flipboard.com
-219.76.4.4 flipboard.com
-219.76.4.4 flipboard.helpshift.com
-219.76.4.4 ue.flipboard.com
+110.4.24.178 fbprod.flipboard.com
+110.4.24.178 beacon.flipboard.com
+110.4.24.178 flipboard.com
+110.4.24.178 flipboard.helpshift.com
+110.4.24.178 ue.flipboard.com
 #theinitium.com
 104.28.31.251 theinitium.com
 104.28.30.251 theinitium.com
