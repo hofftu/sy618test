@@ -1,9 +1,9 @@
 ##  【ADFQ】
-## 20161123
+## 20161127
 ##  by sy619 （coolapk.com  adaway）
 ## https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 ##############################
-#version=201611231357
+#version=201611251232
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -432,7 +432,9 @@
 127.0.0.1 cm.reachmax.cn
 127.0.0.1 m.reachmax.cn
 127.0.0.1 v2.reachmax.cn
+127.0.0.1 m2374.oadz.com
 127.0.0.1 c.nz.gt.igexin.com
+127.0.0.1 c.sz.gt.igexin.com
 127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
 127.0.0.1 talk.nz.igexin.com
@@ -1211,20 +1213,29 @@
 127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
+127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 biz5.sandai.net
 127.0.0.1 float.sandai.net
+127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 m.down.sandai.net
 127.0.0.1 analytics-union.xunlei.com
 127.0.0.1 analytics.xunlei.com
 127.0.0.1 cop.my.xunlei.com
+127.0.0.1 ct.niu.xunlei.com
+127.0.0.1 dy.niu.xunlei.com
 127.0.0.1 hezuo.down.xunlei.com
+127.0.0.1 jump.niu.xunlei.com
 127.0.0.1 jump2.niu.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.ssp.xunlei.com
+127.0.0.1 niu.xunlei.com
 127.0.0.1 pv.xmp.stat.xunlei.com
 127.0.0.1 stat.download.xunlei.com
+127.0.0.1 static2.ssp.xunlei.com
+127.0.0.1 sys7.msg.xunlei.com
 127.0.0.1 thunderqtypv.union.xunlei.com
+127.0.0.1 tips.v.xunlei.com
 127.0.0.1 upgrade.m.xunlei.com
 127.0.0.1 hezuo.downxunlei.com
 127.0.0.1 shoulei.downxunlei.com
@@ -1238,12 +1249,7 @@
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 www.155.com
-127.0.0.1 tips.v.xunlei.com
-127.0.0.1 jump.niu.xunlei.com
-127.0.0.1 niu.xunlei.com
 127.0.0.1 www.6998cdn.com
-127.0.0.1 api.tw06.xlmc.sandai.net
-127.0.0.1 static2.ssp.xunlei.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
 127.0.0.1 g3.letv.com
@@ -2906,7 +2912,11 @@
 127.0.0.1 s.zzrcz.com
 127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
+127.0.0.1 gog9.qzdfc.com
+127.0.0.1 ttkx.qyctj.com
+127.0.0.1 download.350.com
 127.0.0.1 nnd.xyssp.com
+127.0.0.1 9990.spqsd.com
 127.0.0.1 5568.gjghy.com
 127.0.0.1 gggo.xmbhj.com
 127.0.0.1 cycy.kxrxh.com
@@ -3635,6 +3645,15 @@
 127.0.0.1 c.wangsufast.com
 127.0.0.1 js.lpshl.com
 127.0.0.1 ujake.shouji56.com
+127.0.0.1 h.kfxyyy.com
+127.0.0.1 s.xnjpg.com
+127.0.0.1 txt.dongyihongbei.com
+127.0.0.1 v.meiti1.net
+127.0.0.1 v1.meiti1.net
+127.0.0.1 vvv.weixindmp.com
+127.0.0.1 www.founseezb.cn
+127.0.0.1 hh.livehapp.com
+127.0.0.1 tie.hibianji.com
 110.4.24.178 r1---sn-i3b7knez.gvt1.com
 110.4.24.178 r2---sn-i3b7knez.gvt1.com
 110.4.24.178 r3---sn-i3b7knez.gvt1.com
@@ -6666,7 +6685,7 @@
 119.160.254.215 h.yimg.com
 106.10.199.10 hk.news.yahoo.com
 106.10.138.240 hk.yahoo.com
-206.190.39.139 hsrd.yahoo.com
+106.10.136.146 hsrd.yahoo.com
 106.10.193.20 hk-mg61.mail.yahoo.com
 119.160.254.197 l.yimg.com
 119.160.254.215 l.yimg.com
@@ -6701,11 +6720,11 @@
 27.123.207.149 android.imap.mail.yahoo.com
 106.10.150.156 android.smtp.mail.yahoo.com
 106.10.193.20 hk-mg61.mail.yahoo.com
-162.125.82.1 db.tt
-162.125.82.1 dropbox.com
-162.125.82.1 m.dropbox.com
-162.125.82.1 www.v.dropbox.com
-162.125.82.1 www.dropbox.com
+110.4.24.178 db.tt
+110.4.24.178 dropbox.com
+110.4.24.178 m.dropbox.com
+110.4.24.178 www.v.dropbox.com
+110.4.24.178 www.dropbox.com
 108.160.172.193 d.dropbox.com
 108.160.172.193 d.v.dropbox.com
 108.160.172.193 api-d.dropbox.com
@@ -7043,6 +7062,7 @@
 110.4.24.178 clients5.google.com
 110.4.24.178 clients6.google.com
 110.4.24.178 clients7.google.com
+110.4.24.178 reminders-pa.clients6.google.com
 110.4.24.178 contributor.google.com
 110.4.24.178 desktop.google.com
 110.4.24.178 desktop2.google.com
@@ -7576,6 +7596,7 @@
 110.4.24.178 t3.gstatic.com
 110.4.24.178 safebrowsing.googleapis.com
 110.4.24.178 ajax.googleapis.com
+110.4.24.178 fonts.googleapis.com
 110.4.24.178 chart.apis.google.com
 110.4.24.178 googleapis.com
 110.4.24.178 www.googleapis.com
@@ -8208,6 +8229,7 @@
 110.4.24.178 google.vg
 110.4.24.178 google.vu
 110.4.24.178 google.ws
+110.4.24.178 www.google.ad
 110.4.24.178 www.google.ae
 110.4.24.178 www.google.al
 110.4.24.178 www.google.am
@@ -8956,19 +8978,6 @@
 192.0.78.13 zh.wordpress.com
 192.0.78.13 zh-cn.wordpress.com
 192.0.78.13 zh-sg.wordpress.com
-68.232.44.229 cdn.www.xda-developers.com
-93.184.216.96 cdn.xda-developers.com
-93.184.216.96 cdn1.xda-developers.com
-93.184.216.96 cdn2.xda-developers.com
-93.184.216.96 cdn3.xda-developers.com
-93.184.216.96 cdn4.xda-developers.com
-192.229.144.96 cdn-img.xda-developers.com
-192.229.144.96 cdn-www.xda-developers.com
-192.229.144.96 cs261.wac.edgecastcdn.net
-207.244.72.9 forum.xda-developers.com
-68.232.44.229 wac.8244.edgecastcdn.net
-207.244.73.44 www.xda-developers.com
-207.244.73.44 xda-developers.com
 69.167.138.64 www.appannie.com
 69.167.138.64 appannie.com
 185.31.17.184 travis-ci-org.global.ssl.fastly.net
@@ -8995,14 +9004,14 @@
 209.197.3.20 67.media.tumblr.com
 124.108.101.59 68.media.tumblr.com
 119.161.14.19 68.media.tumblr.com
+66.6.33.30 www.tumblr.com
 203.84.197.9 tumblr.com
 203.84.197.9 www.tumblr.com
-203.84.197.27 www.tumblr.com
+66.6.33.158 www.tumblr.com
 192.229.237.97 mx.tumblr.com
 209.197.3.35 secure.assets.tumblr.com
 66.196.65.112 assets.tumblr.com
 54.182.0.52 secure.static.tumblr.com
-54.230.74.179 vt.tumblr.com
 54.182.6.6 vt.tumblr.com
 54.182.6.163 vt.tumblr.com
 54.182.6.201 vt.tumblr.com
