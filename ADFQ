@@ -1,9 +1,9 @@
 ##  【ADFQ】
-## 20161127
+## 20161202
 ##  by sy619 （coolapk.com  adaway）
 ## https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 ##############################
-#version=201611251232
+#version=20161202
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -59,7 +59,6 @@
 127.0.0.1 toolbar.baidu.com
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
-127.0.0.1 downapp.baidu.com
 127.0.0.1 dl.ops.baidu.com
 127.0.0.1 rj.baidu.com
 127.0.0.1 dlsw.br.baidu.com
@@ -669,6 +668,7 @@
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 rd.da.netease.com
+127.0.0.1 www.qchannel04.cn
 127.0.0.1 ad.toutiao.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 push.mobile.meituan.com
@@ -927,6 +927,7 @@
 127.0.0.1 adcount.yoka.com
 127.0.0.1 yokaimedia.qtmojo.com
 127.0.0.1 ad.thsi.cn
+127.0.0.1 adm.10jqka.com.cn
 127.0.0.1 xc.macd.cn
 127.0.0.1 caixin.adsame.com
 127.0.0.1 2012.8684.com
@@ -1313,7 +1314,6 @@
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
-127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 img1.g.pptv.com
 127.0.0.1 img2.g.pptv.com
 127.0.0.1 img3.g.pptv.com
@@ -2153,6 +2153,7 @@
 127.0.0.1 ai.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 click.aliyun.com
+127.0.0.1 err.taobao.com
 127.0.0.1 ff.win.taobao.com
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
@@ -2169,6 +2170,9 @@
 127.0.0.1 oc.umeng.com
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
+127.0.0.1 ex.mobmore.com
+127.0.0.1 ex.puata.info
+127.0.0.1 ex.umengcloud.com
 127.0.0.1 163.wrating.com
 127.0.0.1 c.wrating.com
 127.0.0.1 click.wrating.com
@@ -2301,6 +2305,9 @@
 127.0.0.1 pic.fastapi.net
 127.0.0.1 s.fastapi.net
 127.0.0.1 clk.gentags.net
+127.0.0.1 cmpp.gentags.net
+127.0.0.1 image.gentags.com
+127.0.0.1 pmptrack-yidianzixunxm.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 irs01.net
 127.0.0.1 irs01.com
@@ -2344,6 +2351,7 @@
 127.0.0.1 static-ssl.mediav.com
 127.0.0.1 static.mediav.com
 127.0.0.1 tran.mediav.com
+127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
@@ -2646,6 +2654,9 @@
 127.0.0.1 qr.youku.com
 127.0.0.1 guanggaoad.youku.com
 127.0.0.1 cmstool.youku.com
+127.0.0.1 cms.laifeng.com
+127.0.0.1 ld.kuaigames.com
+127.0.0.1 rd.kuaigames.com
 127.0.0.1 211.151.146.65
 127.0.0.1 211.157.171.237
 127.0.0.1 b.smartvideo.youku.com
@@ -3511,6 +3522,7 @@
 127.0.0.1 pylfi.flash.hxh999.com
 127.0.0.1 xiazai.cdren.com
 127.0.0.1 www.schborg.com
+127.0.0.1 js3743.yongkang6.com
 127.0.0.1 sjkmio.812920.top
 127.0.0.1 dl.kinbest.cn
 127.0.0.1 down.by8974.com
