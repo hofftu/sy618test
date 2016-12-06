@@ -66,22 +66,21 @@
 27.123.207.149 android.imap.mail.yahoo.com
 106.10.150.156 android.smtp.mail.yahoo.com
 106.10.193.20 hk-mg61.mail.yahoo.com
-#Dropbox Start
+#Dropbox
 110.4.24.178 db.tt
 110.4.24.178 dropbox.com
 110.4.24.178 m.dropbox.com
 110.4.24.178 www.v.dropbox.com
 110.4.24.178 www.dropbox.com
-110.4.24.178 d.dropbox.com
-110.4.24.178 d.v.dropbox.com
-110.4.24.178 api-d.dropbox.com
-110.4.24.178 api.dropboxapi.com
-110.4.24.178 api.dropbox.com
-110.4.24.178 api.v.dropbox.com
-110.4.24.178 api-notify.dropbox.com
-110.4.24.178 www.dropboxstatic.com
+108.160.172.225 d.dropbox.com
+108.160.172.225 d.v.dropbox.com
+108.160.172.225 api-d.dropbox.com
+108.160.172.225 api.dropboxapi.com
+108.160.172.225 api.dropbox.com
+108.160.172.225 api.v.dropbox.com
+108.160.172.225 api-notify.dropbox.com
+108.160.172.225 www.dropboxstatic.com
 104.16.100.29 cfl.dropboxstatic.com
-110.4.24.178 dbxlocal.dropboxstatic.com
 199.47.217.36 api-content.dropbox.com
 199.47.217.36 api-content-photos.dropbox.com
 108.160.172.207 photos.dropbox.com
@@ -93,7 +92,7 @@
 54.230.214.100 cf.dropboxstatic.com
 54.192.108.33 client-cf.dropbox.com
 45.58.69.38 dl.dropbox.com
-110.4.24.178 dl-web.dropbox.com
+45.58.74.133 dl-web.dropbox.com
 45.58.69.37 dl.dropboxusercontent.com
 162.125.18.2 photos-1.dropbox.com
 162.125.18.2 photos-2.dropbox.com
@@ -112,6 +111,7 @@
 108.160.172.236 client-web.dropbox.com
 108.160.172.236 client.dropbox.com
 108.160.172.236 client.v.dropbox.com
+108.160.172.229 dbxlocal.dropboxstatic.com
 110.4.24.178 dl-debug.dropbox.com
 110.4.24.178 log.getdropbox.com
 #Facebook
@@ -1858,6 +1858,7 @@
 64.233.189.188 gcm-preprod.l.google.com
 64.233.189.188 gcm-preprod.googleapis.com
 # Google:A-GPS
+64.233.171.192 supl.google.com
 110.4.24.178 supl.google.com
 #google madeby
 110.4.24.178 madeby.google.com
@@ -2348,7 +2349,7 @@
 69.167.138.64 appannie.com
 # Travis CI fastly CDN
 185.31.17.184 travis-ci-org.global.ssl.fastly.net
-#   tumblr.com
+#   tumblr
 54.239.176.79 media.tumblr.com
 124.108.101.59 31.media.tumblr.com
 119.161.14.19 31.media.tumblr.com
@@ -2389,8 +2390,8 @@
 54.182.6.163 vt.tumblr.com
 54.182.6.201 vt.tumblr.com
 54.182.6.188 vt.tumblr.com
-206.190.61.104 vtt.tumblr.com
-69.147.86.13 vtt.tumblr.com
+206.190.61.103 vtt.tumblr.com
+216.115.96.179 vtt.tumblr.com
 66.6.32.162 saber.srvcs.tumblr.com
 66.6.33.34 px.srvcs.tumblr.com
 66.6.32.23 api.tumblr.com
@@ -2462,7 +2463,7 @@
 110.4.24.178 redirector.c.youtube.com
 110.4.24.178 manifest.googlevideo.com
 110.4.24.178 redirector.gvt1.com
-# m.apkpure.com
+# apkpure
 46.17.101.80 static.apkpure.com
 108.163.178.42 translate.apkpure.com
 46.17.101.80 m.apkpure.com
@@ -2488,7 +2489,7 @@
 110.4.24.178 api.crittercism.com
 110.4.24.178 appload.ingest.crittercism.com
 110.4.24.178 txn.ingest.crittercism.com
-#medium.com
+#medium
 104.16.121.145 api.medium.com
 104.16.121.127 medium.com
 104.16.122.127 medium.com
@@ -2512,7 +2513,7 @@
 110.4.24.178 flipboard.com
 110.4.24.178 flipboard.helpshift.com
 110.4.24.178 ue.flipboard.com
-#theinitium.com
+#theinitium
 104.28.31.251 theinitium.com
 104.28.30.251 theinitium.com
 #
