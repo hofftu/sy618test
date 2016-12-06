@@ -1,9 +1,9 @@
 ##  【ADFQ】
-## 20161206
+## 2016.12.07
 ##  by sy619 （coolapk.com  adaway）
 ## https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 ##############################
-#version=201612042205
+#version=201612062054
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3691,6 +3691,21 @@
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
 127.0.0.1 bobo.xmwty.com
+127.0.0.1 changan.bama555.com
+127.0.0.1 119.29.240.147
+127.0.0.1 www.5345ll.com
+127.0.0.1 d.soxoo.cc
+127.0.0.1 e.liuliu666.com
+127.0.0.1 m.eddong.com
+127.0.0.1 pic.9doo.cn
+127.0.0.1 s.wyttech.cn
+127.0.0.1 www.eddong.com
+127.0.0.1 m.wufu.info
+127.0.0.1 q.0451106.com
+127.0.0.1 www.5634.com
+127.0.0.1 www.888zr022.com
+127.0.0.1 xj40666.vip
+127.0.0.1 js4163.yongkang6.com
 110.4.24.178 r1---sn-i3b7knez.gvt1.com
 110.4.24.178 r2---sn-i3b7knez.gvt1.com
 110.4.24.178 r3---sn-i3b7knez.gvt1.com
@@ -6762,16 +6777,15 @@
 110.4.24.178 m.dropbox.com
 110.4.24.178 www.v.dropbox.com
 110.4.24.178 www.dropbox.com
-110.4.24.178 d.dropbox.com
-110.4.24.178 d.v.dropbox.com
-110.4.24.178 api-d.dropbox.com
-110.4.24.178 api.dropboxapi.com
-110.4.24.178 api.dropbox.com
-110.4.24.178 api.v.dropbox.com
-110.4.24.178 api-notify.dropbox.com
-110.4.24.178 www.dropboxstatic.com
+108.160.172.225 d.dropbox.com
+108.160.172.225 d.v.dropbox.com
+108.160.172.225 api-d.dropbox.com
+108.160.172.225 api.dropboxapi.com
+108.160.172.225 api.dropbox.com
+108.160.172.225 api.v.dropbox.com
+108.160.172.225 api-notify.dropbox.com
+108.160.172.225 www.dropboxstatic.com
 104.16.100.29 cfl.dropboxstatic.com
-110.4.24.178 dbxlocal.dropboxstatic.com
 199.47.217.36 api-content.dropbox.com
 199.47.217.36 api-content-photos.dropbox.com
 108.160.172.207 photos.dropbox.com
@@ -6783,7 +6797,7 @@
 54.230.214.100 cf.dropboxstatic.com
 54.192.108.33 client-cf.dropbox.com
 45.58.69.38 dl.dropbox.com
-110.4.24.178 dl-web.dropbox.com
+45.58.74.133 dl-web.dropbox.com
 45.58.69.37 dl.dropboxusercontent.com
 162.125.18.2 photos-1.dropbox.com
 162.125.18.2 photos-2.dropbox.com
@@ -6802,6 +6816,7 @@
 108.160.172.236 client-web.dropbox.com
 108.160.172.236 client.dropbox.com
 108.160.172.236 client.v.dropbox.com
+108.160.172.229 dbxlocal.dropboxstatic.com
 110.4.24.178 dl-debug.dropbox.com
 110.4.24.178 log.getdropbox.com
 157.240.2.36 m.me
@@ -8511,6 +8526,7 @@
 64.233.189.188 gcm-xmpp.googleapis.com
 64.233.189.188 gcm-preprod.l.google.com
 64.233.189.188 gcm-preprod.googleapis.com
+64.233.171.192 supl.google.com
 110.4.24.178 supl.google.com
 110.4.24.178 madeby.google.com
 110.4.24.178 cloudconfig.googleapis.com
@@ -9027,8 +9043,8 @@
 54.182.6.163 vt.tumblr.com
 54.182.6.201 vt.tumblr.com
 54.182.6.188 vt.tumblr.com
-206.190.61.104 vtt.tumblr.com
-69.147.86.13 vtt.tumblr.com
+206.190.61.103 vtt.tumblr.com
+216.115.96.179 vtt.tumblr.com
 66.6.32.162 saber.srvcs.tumblr.com
 66.6.33.34 px.srvcs.tumblr.com
 66.6.32.23 api.tumblr.com
