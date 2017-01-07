@@ -1,0 +1,31 @@
+主程序下载：http://www.coolapk.com/apk/net.dinglisch.android.taskerm
+
+
+下载脚本配置
+关于脚本：
+”安卓hosts自动更新Tasker配置.xml“：由酷安网友@城晓 分享的Tasker基础配置文件，群管理cu@xingjuned修改。
+
+“ADFQhosts自动更新2.xml”：由酷安网@sy619重写，增加去空行、去注释、隐藏hosts权限等功能。推荐使用。
+
+
+导入脚本配置：
+打开软件Tasker，设置-数据-还原-手工备份-选择已下载的配置文件.xml
+导入即可
+
+任务：
+脚本内建了四种不同任务，按自己需求使用。
+1.ADFQ四合一。即以下2+3合并的数据。推荐
+2.纯AD：使用vokins的yhosts
+AD hosts。
+3.纯FQ：使用的是racaljk的基础数据+sy618的play与YouTube数据
+。
+4.老ADFQ，sy618 FQ hosts+vokins AD hosts，若四合一不能用可尝试用这个。
+
+默认配置文件特点 ：在WiFi下每隔三天自动更新ADFQ数据。
+（有其他需求的自己去调配。）
+
+
+其他信息，原贴：http://www.coolapk.com/feed/2355499
+
+
+
