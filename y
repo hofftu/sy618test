@@ -395,6 +395,12 @@
 110.4.24.178 r4---sn-npoe7n76.googlevideo.com
 110.4.24.178 r5---sn-npoe7n76.googlevideo.com
 110.4.24.178 r6---sn-npoe7n76.googlevideo.com
+110.4.24.178 r2---sn-npoe7n7r.googlevideo.com
+110.4.24.178 r1---sn-npoe7n7r.googlevideo.com
+110.4.24.178 r3---sn-npoe7n7r.googlevideo.com
+110.4.24.178 r4---sn-npoe7n7r.googlevideo.com
+110.4.24.178 r5---sn-npoe7n7r.googlevideo.com
+110.4.24.178 r6---sn-npoe7n7r.googlevideo.com
 110.4.24.178 r1---sn-npoe7n7z.googlevideo.com
 110.4.24.178 r2---sn-npoe7n7z.googlevideo.com
 110.4.24.178 r3---sn-npoe7n7z.googlevideo.com
@@ -455,6 +461,12 @@
 110.4.24.178 r18---sn-npoe7n7y.googlevideo.com
 110.4.24.178 r19---sn-npoe7n7y.googlevideo.com
 110.4.24.178 r20---sn-npoe7n7y.googlevideo.com
+110.4.24.178 r1---sn-npoeen7r.googlevideo.com
+110.4.24.178 r2---sn-npoeen7r.googlevideo.com
+110.4.24.178 r3---sn-npoeen7r.googlevideo.com
+110.4.24.178 r4---sn-npoeen7r.googlevideo.com
+110.4.24.178 r5---sn-npoeen7r.googlevideo.com
+110.4.24.178 r6---sn-npoeen7r.googlevideo.com
 110.4.24.178 r1---sn-npoeen7d.googlevideo.com
 110.4.24.178 r2---sn-npoeen7d.googlevideo.com
 110.4.24.178 r3---sn-npoeen7d.googlevideo.com
