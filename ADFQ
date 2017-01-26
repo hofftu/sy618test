@@ -1,9 +1,9 @@
-## update：2017-01-25 13:57:49
+## update：2017-01-26 22:05:52
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 ##############################
-##AD：2017-01-25 13:29:23
-#version=201701242350
+##AD：2017-01-26 22:05:26
+#version=201701261951
 127.0.0.1 localhost
 ::1             ip6-localhost
 127.0.0.1 acdid.acdsystems.com
@@ -1015,6 +1015,7 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+127.0.0.1 s.nmqbg.com
 127.0.0.1 sss.jusha.com
 127.0.0.1 s.ybnrm.com
 127.0.0.1 s.mxmrt
@@ -1252,7 +1253,6 @@
 127.0.0.1 f.e719.net
 127.0.0.1 cpc.haohaowan8.com
 127.0.0.1 www.baigm.com
-127.0.0.1 good.ta80.com
 127.0.0.1 z.top267.com
 127.0.0.1 dougou88.com
 127.0.0.1 v.6dvip.com
@@ -1412,6 +1412,8 @@
 127.0.0.1 rc.fthcz.com
 127.0.0.1 s.fthcz.com
 127.0.0.1 rc.mgwcn.com
+127.0.0.1 rc.3ygww.com
+127.0.0.1 js.jermr.com
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com
 127.0.0.1 jssd.kb20.cc
@@ -1426,6 +1428,7 @@
 127.0.0.1 e.0313413.com
 127.0.0.1 img2.cs153.com
 127.0.0.1 img.yingkeduo.cn
+127.0.0.1 v.xiucm.com
 127.0.0.1 slb.gedawang.com
 127.0.0.1 js.chinaheh.com
 127.0.0.1 m.hfsteel.net
@@ -1442,6 +1445,13 @@
 127.0.0.1 s.bizcn008.com
 127.0.0.1 img.52htx.com
 127.0.0.1 kiss.cncy8.com
+127.0.0.1 img3.km.com
+127.0.0.1 img2.km.com
+127.0.0.1 img1.km.com
+127.0.0.1 dx01.daomengad.com
+127.0.0.1 v.360daidai.net
+127.0.0.1 www.bjyjytz.com
+127.0.0.1 m.wuhcontrol.com
 127.0.0.1 vvv.sqjgdx.com
 127.0.0.1 h.51scj.com
 127.0.0.1 s.mxmrt.com
@@ -1616,7 +1626,6 @@
 127.0.0.1 ja.gamersky.com
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 ujake.shouji56.com
-127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 p.tamenshuo.com
 127.0.0.1 hl.quw18.com
 127.0.0.1 uqd168.shouji56.com
@@ -1740,7 +1749,6 @@
 127.0.0.1 ca.cbsi.com.cn
 127.0.0.1 data.cbsi.com.cn
 127.0.0.1 dmp.cbsi.com.cn
-127.0.0.1 dw.cbsi.com
 127.0.0.1 dw.cbsi.com.cn
 127.0.0.1 stat.cbsi.com.cn
 127.0.0.1 ca.w8.com.cn
@@ -1783,6 +1791,8 @@
 127.0.0.1 fe0s.nuion.cn
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
+127.0.0.1 ggr.yxdown.com
+127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 ad.egou.com
@@ -2522,7 +2532,12 @@
 127.0.0.1 alipay.dajiadou6.com
 127.0.0.1 lz.kqy1.com
 127.0.0.1 img.kqy1.com
+127.0.0.1 js.139y.com
+127.0.0.1 image.139y.com
+127.0.0.1 malacca.inveno.com
+127.0.0.1 ssplog.geekwide.cn
 127.0.0.1 js.lpshl.com
+127.0.0.1 feng.zzsx8.com
 127.0.0.1 rc.szfaq.com
 127.0.0.1 rc.cdnny.com
 127.0.0.1 ppco.trwba.com
@@ -2571,7 +2586,6 @@
 127.0.0.1 sy.flash.mytanwan.com
 127.0.0.1 sy.code.mytanwan.com
 127.0.0.1 rrr.youle55.com
-127.0.0.1 js.ta80.com
 127.0.0.1 s5.keydot.net
 127.0.0.1 imgcdn.ynwqls.com
 127.0.0.1 vip.yoyozz.net
@@ -2735,7 +2749,6 @@
 127.0.0.1 images.xibei70.com
 127.0.0.1 r.5207470.com
 127.0.0.1 mob.huimee.net
-127.0.0.1 ggr.yxdown.com
 127.0.0.1 q.0451106.com
 127.0.0.1 ad.thinkmedia.cn
 127.0.0.1 erebor.douban.com
@@ -2939,7 +2952,6 @@
 127.0.0.1 rec.g.163.com
 127.0.0.1 g.163.com
 127.0.0.1 g1.163.com
-127.0.0.1 temp.163.com
 127.0.0.1 analytics.ws.126.net
 127.0.0.1 android.push.126.net
 127.0.0.1 img1.126.net
@@ -3269,6 +3281,7 @@
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.apk.umeng.com
 127.0.0.1 au.umeng.com
+127.0.0.1 at.umeng.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
@@ -3786,6 +3799,8 @@
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
+127.0.0.1 js.ta80.com
+127.0.0.1 good.ta80.com
 127.0.0.1 cap.touclick.com
 127.0.0.1 captcha-static.touclick.com
 127.0.0.1 cdnjs.touclick.com
@@ -4056,6 +4071,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 pb3.pstatp.com
+127.0.0.1 by.sy619.com
 127.0.0.1 api.map.baidu.com
 127.0.0.1 ps.map.baidu.com
 127.0.0.1 sv.map.baidu.com
@@ -4065,7 +4081,7 @@
 127.0.0.1 newloc.map.n.shifen.com
 127.0.0.1 ssl-google-analytics.l.google.com
 127.0.0.1 www.google-analytics.com
-##2017-01-25 13:57:49
+##2017-01-26 22:05:51
 119.161.14.18 m.mg.mail.yahoo.com
 124.108.101.10 m.mg.mail.yahoo.com
 119.161.8.149 info.yahoo.com
@@ -4098,6 +4114,7 @@
 74.6.47.80 gq1.farm6.staticflickr.com
 98.138.4.56 ne1.farm7.staticflickr.com
 69.147.76.173 flickr.com
+119.160.242.41 geo.query.yahoo.com
 106.10.137.175 geo.query.yahoo.com
 119.161.14.18 geo.yahoo.com
 119.160.254.215 h.yimg.com
@@ -4279,7 +4296,7 @@
 31.13.91.6 scontent-a.xx.fbcdn.net
 31.13.91.6 scontent-b.xx.fbcdn.net
 31.13.91.6 scontent-c.xx.fbcdn.net
-31.13.95.13 video.xx.fbcdn.net
+31.13.92.11 video.xx.fbcdn.net
 157.240.7.20 static.facebook.com
 157.240.7.20 s-static.facebook.com
 157.240.7.20 static.thefacebook.com
@@ -6436,51 +6453,38 @@
 110.4.24.178 ue.flipboard.com
 104.28.31.251 theinitium.com
 104.28.30.251 theinitium.com
+119.161.8.100 www.tumblr.com
+119.161.8.100 tumblr.com
+119.161.8.100 heartbeat.flickr.com
+119.161.8.100 31.media.tumblr.com
+119.161.8.100 33.media.tumblr.com
+119.161.8.100 37.media.tumblr.com
+119.161.8.100 38.media.tumblr.com
+119.161.8.100 68.media.tumblr.com
+119.161.8.100 vt.media.tumblr.com
+119.161.8.100 vt.tumblr.com
+119.161.8.100 vtt.tumblr.com
 54.239.176.79 media.tumblr.com
-124.108.101.59 31.media.tumblr.com
-119.161.14.19 31.media.tumblr.com
 54.239.176.79 32.media.tumblr.com
-54.192.98.136 32.media.tumblr.com
-124.108.101.58 33.media.tumblr.com
-119.161.14.20 33.media.tumblr.com
 54.239.176.79 36.media.tumblr.com
-54.192.198.11 36.media.tumblr.com
-119.161.14.20 37.media.tumblr.com
-124.108.101.59 37.media.tumblr.com
-124.108.101.58 38.media.tumblr.com
-119.161.14.20 38.media.tumblr.com
+54.239.176.79 65.media.tumblr.com
 192.229.237.98 40.media.tumblr.com
 192.229.237.98 46.media.tumblr.com
-93.184.216.98 46.media.tumblr.com
-54.239.176.79 65.media.tumblr.com
-52.84.60.21 65.media.tumblr.com
 192.229.237.98 66.media.tumblr.com
-68.232.35.98 66.media.tumblr.com
 209.197.3.20 67.media.tumblr.com
-124.108.101.59 68.media.tumblr.com
-119.161.14.19 68.media.tumblr.com
 106.10.198.33 cookiex.ngd.yahoo.com
 119.160.242.41 geo.query.yahoo.com
 68.142.242.184 real-min-ruler.secure.yahoo.com
 192.229.237.97 mx.tumblr.com
-209.197.3.35 secure.assets.tumblr.com
-119.160.254.215 assets.tumblr.com
+119.161.8.99 assets.tumblr.com
+119.161.8.99 secure.assets.tumblr.com
 52.222.211.243 secure.static.tumblr.com
 54.182.0.52 secure.static.tumblr.com
-119.161.14.20 vt.media.tumblr.com
-54.182.6.6 vt.tumblr.com
-54.182.6.163 vt.tumblr.com
-54.182.6.201 vt.tumblr.com
-54.182.6.188 vt.tumblr.com
-216.115.96.179 vtt.tumblr.com
-203.84.197.9 tumblr.com
-203.84.197.9 www.tumblr.com
-87.248.116.203 www.tumblr.com
-69.147.83.16 www.tumblr.com
+66.6.32.162 t.umblr.com
 66.6.32.162 saber.srvcs.tumblr.com
-66.6.33.34 px.srvcs.tumblr.com
+66.6.32.162 px.srvcs.tumblr.com
+66.6.32.162 ls.srvcs.tumblr.com
 66.6.32.23 api.tumblr.com
-66.6.33.34 ls.srvcs.tumblr.com
 64.4.16.215 account.live.com
 64.4.16.15 people.live.com
 64.4.16.15 profile.live.com
