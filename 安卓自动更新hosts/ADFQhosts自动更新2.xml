@@ -1,7 +1,7 @@
-<TaskerData sr="" dvi="1" tv="4.9u2m">
+<TaskerData sr="" dvi="1" tv="4.9u3m">
 	<Profile sr="prof14" ve="2">
 		<cdate>1482847630573</cdate>
-		<edate>1483815107426</edate>
+		<edate>1485594530037</edate>
 		<id>14</id>
 		<mid0>8</mid0>
 		<nme>在WiFi下每隔三天更新</nme>
@@ -28,7 +28,7 @@
 		<cdate>1482824845945</cdate>
 		<name>ADFQhosts自动更新</name>
 		<pids>14</pids>
-		<tids>7,11,8,6</tids>
+		<tids>6,11,8,7</tids>
 		<Kid sr="Kid">
 			<feat0>android.hardware.wifi:y</feat0>
 			<launchID>8</launchID>
@@ -39,9 +39,9 @@
 	</Project>
 	<Task sr="task11">
 		<cdate>1483812594195</cdate>
-		<edate>1483814911688</edate>
+		<edate>1485594515334</edate>
 		<id>11</id>
-		<nme>老ADFQ</nme>
+		<nme>老ADFQ（二合一，vokins+sy618）</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -83,7 +83,7 @@
 		</Action>
 		<Action sr="act3" ve="7">
 			<code>123</code>
-			<label>老ADFQ，四合一不能用的试试这个</label>
+			<label>自用老ADFQ，四合一不能用的试试这个。有问题可以找我</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
 mount -o rw,remount /system
@@ -105,7 +105,7 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task6">
 		<cdate>1482050889292</cdate>
-		<edate>1483815099847</edate>
+		<edate>1485594317183</edate>
 		<id>6</id>
 		<nme>纯AD （vokins）</nme>
 		<pri>100</pri>
@@ -152,7 +152,7 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task7">
 		<cdate>1482051798178</cdate>
-		<edate>1483815077223</edate>
+		<edate>1485593806111</edate>
 		<id>7</id>
 		<nme>纯FQ （racaljk+sy618）</nme>
 		<pri>100</pri>
@@ -229,9 +229,9 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task8">
 		<cdate>1482825534204</cdate>
-		<edate>1483814786875</edate>
+		<edate>1485594500195</edate>
 		<id>8</id>
-		<nme>ADFQ（四合一，推荐）</nme>
+		<nme>ADFQ（四合一，推荐大众使用）</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -301,12 +301,12 @@ mount -o ro,remount /system</Str>
 		</Action>
 		<Action sr="act5" ve="7">
 			<code>123</code>
-			<label>四合一，hosts最新最全。推荐使用</label>
+			<label>四合一，最全最新的ADFQhosts</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
-sed -i -e '/^#.*201.*$/! s/^#.*$//' -e '/^ *$/d' racaljk
 mount -o rw,remount /system
 cat ad racaljk p y &gt; /system/etc/hosts
+sed -i -e '/^#.*201.*$|^#ver.*$/! s/^#.*$//' -e '/^ *$/d' /system/etc/hosts
 sed -i "1 i\##$(date "+%Y-%m-%d %H:%M:%S")" /system/etc/hosts
 chmod 600 /system/etc/hosts
 mount -o ro,remount /system</Str>
