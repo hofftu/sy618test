@@ -1,11 +1,11 @@
-## update：2017-02-03 19:53:05
+## update：2017-02-04 20:30:45
 ## by sy619 & vokins
 ## http://www.coolapk.com/apk/org.adaway
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 ##############################
-##AD:vokins 2017-02-03 19:53:00
-#version=201702031123
+##AD:vokins 2017-02-04 20:30:41
+#version=201702041835
 127.0.0.1 localhost
 ::1             ip6-localhost
 127.0.0.1 acdid.acdsystems.com
@@ -649,7 +649,6 @@
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
 127.0.0.1 st.holalauncher.com
-127.0.0.1 a.holaworld.cn
 127.0.0.1 dh.holaworld.cn
 127.0.0.1 dr.holaworld.cn
 127.0.0.1 st.holaworld.cn
@@ -1111,6 +1110,10 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 cz2.rhgyg.com
+127.0.0.1 jsecdn123.86666608.com
+127.0.0.1 js3610.51weidashi.com
+127.0.0.1 qjfcdn1220.0101122.com
 127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
 127.0.0.1 js-agent.newrelic.com
@@ -1803,7 +1806,6 @@
 127.0.0.1 counter.yesky.com
 127.0.0.1 yeskyimedia.qtmojo.com
 127.0.0.1 media.tianjimedia.com
-127.0.0.1 94776.zdfans.com
 127.0.0.1 am.zdnet.com.cn
 127.0.0.1 imp.zdnet.com.cn
 127.0.0.1 pv.zdnet.com.cn
@@ -4188,7 +4190,7 @@
 127.0.0.1 newloc.map.n.shifen.com
 127.0.0.1 ssl-google-analytics.l.google.com
 127.0.0.1 www.google-analytics.com
-##sy619：2017-02-03 19:53:05
+##sy619：2017-02-04 20:30:45
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 110.4.24.178 0-focus-opensocial.googleusercontent.com
