@@ -1,4 +1,4 @@
-##sy619：2017-02-05 19:02:37
+##sy619：2017-02-06 22:03:44
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 110.4.24.178 0-focus-opensocial.googleusercontent.com
@@ -197,7 +197,9 @@
 110.4.24.178 adwords.l.google.com
 110.4.24.178 afd.l.google.com
 110.4.24.178 ajax.googleapis.com
+110.4.24.178 alt1-mtalk.google.com
 110.4.24.178 alt1-safebrowsing.google.com
+110.4.24.178 alt1.mobile-gtalk.l.google.com
 64.233.177.127 alt1.stun.l.google.com
 64.233.188.125 alt1.talk.l.google.com
 64.233.177.127 alt2.stun.l.google.com
@@ -448,6 +450,7 @@
 110.4.24.178 clients6.googleusercontent.com
 61.91.161.217 clients7.google.com
 110.4.24.178 clients7.googleusercontent.com
+110.4.24.178 clientservices.googleapis.com
 110.4.24.178 closure-library.googlecode.com
 110.4.24.178 cloud.google.com
 110.4.24.178 cloudconfig.googleapis.com
@@ -479,6 +482,7 @@
 173.252.105.21 d.facebook.com
 110.4.24.178 d.v.dropbox.com
 119.160.254.215 d.yimg.com
+110.4.24.178 datasaver.googleapis.com
 110.4.24.178 db.tt
 110.4.24.178 dbxlocal.dropboxstatic.com
 203.188.200.67 de.yahoo.com
