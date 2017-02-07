@@ -1,11 +1,11 @@
-## update：2017-02-06 22:03:44
+## update：2017-02-07 23:28:40
 ## by sy619 & vokins
 ## http://www.coolapk.com/apk/org.adaway
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 ##############################
-##AD:vokins 2017-02-06 22:00:59
-#version=201702061047
+##AD:vokins 2017-02-07 23:28:35
+#version=201702071949
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -909,6 +909,7 @@
 127.0.0.1 z67.zzhyyj.com
 127.0.0.1 im.opiuat.com
 127.0.0.1 jk.pingao.com
+127.0.0.1 js2254.szfm1.com
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 titi.18tzx.com
 127.0.0.1 mm.ttlowe.com
@@ -1275,7 +1276,6 @@
 127.0.0.1 xd.code.tanwanyx.com
 127.0.0.1 hv.code.tanwanyx.com
 127.0.0.1 s1.keytui.com
-127.0.0.1 js1151.zhudiaosz.com
 127.0.0.1 t8.dnvus.com
 127.0.0.1 js1151.yongkang6.com
 127.0.0.1 qj906nc.cdn.media8.cn
@@ -1422,7 +1422,6 @@
 127.0.0.1 img2.hrccb.com
 127.0.0.1 js1597.51weidashi.com
 127.0.0.1 m.yooli.com
-127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
@@ -2836,6 +2835,9 @@
 127.0.0.1 s1.idaguang.com
 127.0.0.1 s1.limeishang.com
 127.0.0.1 zs0105.zuodianshangmao.com
+127.0.0.1 js453.zhudiaosz.com
+127.0.0.1 js1151.zhudiaosz.com
+127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 www.iiad.com
 127.0.0.1 c.top267.com
 127.0.0.1 static-two.ffwap.com
@@ -3171,12 +3173,13 @@
 127.0.0.1 web2.51.la
 127.0.0.1 www.51.la
 127.0.0.1 s4.55.la
+127.0.0.1 count14.51yes.com
 127.0.0.1 count20.51yes.com
+127.0.0.1 count21.51yes.com
 127.0.0.1 count25.51yes.com
 127.0.0.1 count32.51yes.com
 127.0.0.1 count46.51yes.com
 127.0.0.1 count51.51yes.com
-127.0.0.1 count14.51yes.com
 127.0.0.1 count7.51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 countt.51yes.com
@@ -3628,6 +3631,12 @@
 127.0.0.1 js883.cnbole.net
 127.0.0.1 js986.cnbole.net
 127.0.0.1 stat1.cnbole.net
+127.0.0.1 adimg.cpmchina.co
+127.0.0.1 click.cpmchina.co
+127.0.0.1 click.onesoft.im
+127.0.0.1 r.cpmchina.co
+127.0.0.1 www.cpmchina.co
+127.0.0.1 www.cpmchina.co
 127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com
 127.0.0.1 et.emarbox.com
@@ -4211,7 +4220,7 @@
 127.0.0.1 newloc.map.n.shifen.com
 127.0.0.1 ssl-google-analytics.l.google.com
 127.0.0.1 www.google-analytics.com
-##sy619：2017-02-06 22:03:44
+##sy619：2017-02-07 23:28:40
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 110.4.24.178 0-focus-opensocial.googleusercontent.com
@@ -4410,7 +4419,7 @@
 110.4.24.178 adwords.l.google.com
 110.4.24.178 afd.l.google.com
 110.4.24.178 ajax.googleapis.com
-110.4.24.178 alt1-mtalk.google.com
+64.233.188.188 alt1-mtalk.google.com
 110.4.24.178 alt1-safebrowsing.google.com
 110.4.24.178 alt1.mobile-gtalk.l.google.com
 64.233.177.127 alt1.stun.l.google.com
@@ -4419,7 +4428,7 @@
 64.233.177.127 alt3.stun.l.google.com
 64.233.177.127 alt4.stun.l.google.com
 64.233.177.127 alt5.stun.l.google.com
-173.194.210.188 alt8-mtalk.google.com
+64.233.188.188 alt8-mtalk.google.com
 110.4.24.178 analytics.twitter.com
 110.4.24.178 android-china.l.google.com
 110.4.24.178 android-market.l.google.com
@@ -4464,14 +4473,12 @@
 110.4.24.178 app-measurement.com
 178.162.216.180 app.adjust.com
 74.112.184.70 app.box.com
-69.167.138.64 appannie.com
 110.4.24.178 appengine.google.com
 110.4.24.178 appload.ingest.crittercism.com
 157.240.7.20 apps.facebook.com
 110.4.24.178 apps.google.com
 110.4.24.178 apps.twitter.com
 110.4.24.178 appspot.l.google.com
-72.32.41.105 asm.ca.com
 110.4.24.178 aspmx.l.google.com
 151.101.100.133 assets-cdn.github.com
 119.161.8.99 assets.tumblr.com
@@ -4544,7 +4551,6 @@
 31.13.95.48 blog.instagram.com
 110.4.24.178 blog.orkut.com
 110.4.24.178 blog.panoramio.com
-37.0.88.36 blog.startpage.com
 110.4.24.178 blog.twitter.com
 64.233.188.121 blog.webmproject.org
 110.4.24.178 blogger.com
@@ -4816,7 +4822,6 @@
 157.240.7.20 ent-c.xx.fbcdn.net
 157.240.7.20 ent-e.xx.fbcdn.net
 54.239.54.107 eu-central-1.console.aws.amazon.com
-37.0.88.36 eu.startpage.com
 208.80.154.224 eu.wikipedia.org
 110.4.24.178 eventgateway.soundcloud.com
 110.4.24.178 events.google.com
@@ -4914,11 +4919,11 @@
 110.4.24.178 g7.gstatic.com
 110.4.24.178 gadgets.l.google.com
 110.4.24.178 gadgets.l.googleusercontent.com
-64.233.189.188 gcm-preprod.googleapis.com
-64.233.189.188 gcm-preprod.l.google.com
-64.233.189.188 gcm-xmpp.googleapis.com
-64.233.189.188 gcm.googleapis.com
-64.233.189.188 gcm.l.google.com
+64.233.188.188 gcm-preprod.googleapis.com
+64.233.188.188 gcm-preprod.l.google.com
+64.233.188.188 gcm-xmpp.googleapis.com
+64.233.188.188 gcm.googleapis.com
+64.233.188.188 gcm.l.google.com
 110.4.24.178 gcr.io
 110.4.24.178 gdata.youtube.com
 119.160.242.41 geo.query.yahoo.com
@@ -5609,7 +5614,7 @@
 192.0.66.2 messengerplatform.fb.com
 203.84.197.27 mg.mail.yahoo.com
 106.10.193.20 mlogin.yahoo.com
-64.233.189.188 mobile-gtalk.l.google.com
+64.233.188.188 mobile-gtalk.l.google.com
 110.4.24.178 mobile.google.com
 110.4.24.178 mobile.google.com.hk
 110.4.24.178 mobile.l.google.com
@@ -5635,7 +5640,11 @@
 110.4.24.178 mt5.gstatic.com
 110.4.24.178 mt6.gstatic.com
 110.4.24.178 mt7.gstatic.com
-64.233.189.188 mtalk.google.com
+64.233.188.188 mtalk.google.com
+64.233.188.188 mtalk1.google.com
+64.233.188.188 mtalk2.google.com
+64.233.188.188 mtalk3.google.com
+64.233.188.188 mtalk4.google.com
 110.4.24.178 mts.google.com
 110.4.24.178 mts.l.google.com
 110.4.24.178 mts0.google.com
@@ -5701,6 +5710,7 @@
 110.4.24.178 panoramio.com
 110.4.24.178 partnerpage.google.com
 110.4.24.178 passwords.google.com
+110.4.24.178 payments.google.com
 104.244.43.167 pbs.twimg.com
 110.4.24.178 peering.google.com
 110.4.24.178 people-pa.googleapis.com
@@ -5875,7 +5885,6 @@
 157.55.109.232 skyapi.onedrive.live.com
 151.101.77.133 skyfire.vimeocdn.com
 64.233.188.121 slides.html5rocks.com
-103.20.93.138 slideshare.net
 110.4.24.178 smartypins.withgoogle.com
 173.194.193.108 smtp-out.google.com
 173.194.193.108 smtp-out3.google.com
@@ -5926,7 +5935,6 @@
 110.4.24.178 stage.gdata.youtube.com
 157.240.7.20 star.c10r.facebook.com
 157.240.7.20 star.facebook.com
-37.0.88.36 startpage.com
 219.76.10.49 static.ak.facebook.com
 219.76.10.49 static.ak.fbcdn.net
 219.76.14.9 static.ak.instagram.com
@@ -5963,8 +5971,8 @@
 104.218.203.34 support.box.com
 185.12.83.2 support.bundlestars.com
 110.4.24.178 support.google.com
-37.0.88.36 support.startpage.com
 110.4.24.178 support.twitter.com
+1.2.4.8 sy619.com
 104.244.43.167 syndication-o.twimg.com
 104.244.43.167 syndication.twimg.com
 110.4.24.178 t.co
@@ -6327,7 +6335,6 @@
 64.233.188.121 www.20thingsilearned.com
 64.233.188.121 www.agoogleaday.com
 110.4.24.178 www.android.com
-69.167.138.64 www.appannie.com
 110.4.24.178 www.blogblog.com
 110.4.24.178 www.blogger.com
 110.4.24.178 www.blogspot.com
@@ -6340,11 +6347,9 @@
 110.4.24.178 www.chromium.org
 64.233.188.121 www.creativelab5.com
 110.4.24.178 www.data-vocabulary.org
-50.31.162.95 www.digwebinterface.com
 110.4.24.178 www.dropbox.com
 110.4.24.178 www.dropboxstatic.com
 46.51.218.82 www.duckduckgo.com
-61.213.168.33 www.elperiodico.cat
 157.240.7.20 www.facebook.com
 157.240.7.20 www.fb.com
 110.4.24.178 www.feedburner.com
@@ -6575,8 +6580,6 @@
 110.4.24.178 www.panoramio.com
 110.4.24.178 www.polymer-project.org
 110.4.24.178 www.recaptcha.net
-103.20.93.138 www.slideshare.net
-37.0.88.36 www.startpage.com
 110.4.24.178 www.teachparentstech.org
 110.4.24.178 www.textcube.com
 157.240.7.20 www.thefacebook.com
