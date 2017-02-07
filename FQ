@@ -1,4 +1,4 @@
-##sy619：2017-02-08 00:52:43
+##sy619：2017-02-08 02:12:55
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 110.4.24.178 0-focus-opensocial.googleusercontent.com
@@ -616,10 +616,10 @@
 106.10.137.23 farm7.staticflickr.com
 106.10.137.23 farm8.staticflickr.com
 106.10.137.23 farm9.staticflickr.com
-175.45.42.202 fb-l-a-a.akamaihd.net
-175.45.42.202 fb-l-b-a.akamaihd.net
-175.45.42.202 fb-l-c-a.akamaihd.net
-175.45.42.202 fb-l-d-a.akamaihd.net
+219.76.10.49 fb-l-a-a.akamaihd.net
+219.76.10.49 fb-l-b-a.akamaihd.net
+219.76.10.49 fb-l-c-a.akamaihd.net
+219.76.10.49 fb-l-d-a.akamaihd.net
 23.2.16.19 fb-s-a-a.akamaihd.net
 23.2.16.19 fb-s-b-a.akamaihd.net
 23.2.16.19 fb-s-c-a.akamaihd.net
@@ -1272,6 +1272,7 @@
 110.4.24.178 insgruene.withgoogle.com
 110.4.24.178 insight.youtube.com
 31.13.95.48 instagram.com
+177.184.128.160 instagram.ffor1-1.fna.fbcdn.net
 219.76.14.9 instagramimages-a.akamaihd.net
 219.76.14.9 instagramstatic-a.akamaihd.net
 192.0.78.12 instantarticles.fb.com
@@ -1867,7 +1868,7 @@
 110.4.24.178 video.googleusercontent.com
 110.4.24.178 video.l.google.com
 104.244.43.167 video.twimg.com
-31.13.78.14 video.xx.fbcdn.net
+157.240.7.20 video.xx.fbcdn.net
 219.76.14.9 videos-a-0.ak.instagram.com
 219.76.14.9 videos-a-1.ak.instagram.com
 219.76.14.9 videos-a-10.ak.instagram.com
