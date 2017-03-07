@@ -8,9 +8,8 @@
 #订阅纯AD hosts【推荐】：
 0 0 * * * cd /etc/storage/dnsmasq;rm -rf hosts;wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
-#订阅ADFQ hosts：
+#订阅ADFQ hosts：（不建议）
 0 0 * * * cd /etc/storage/dnsmasq;rm -rf hosts;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/ADFQ -O hosts
-
 
 ###多个源合用写法
 #比如要订阅这两个源：
@@ -20,9 +19,10 @@
 0 0 * * * cd /etc/storage/dnsmasq;sudo rm -rf hosts;wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts;wget --no-check-certifica https://raw.githubusercontent.com/racaljk/hosts/master/hosts -O 123;cat 123 >> hosts;sudo rm -rf 123
 
 #整句命令意思是：每天零点更新、重定向hosts路径、删除旧hosts、下载源1“hosts”、下载源2hosts并改名为“123”、把“123”文件合并入“hosts”文件、删除临时文件“123”。
-#添加更多以此推类
-！
+#添加更多以此类推！
 
+
+##################################
 （其他路由器的设置方法欢迎大家分享与提供补充完善！！）
 ###（由@chonghua提供）openwrt路由器合并多个hosts并转换为dnsmasq格式的写法，欢迎指正。
 ##/etc/init.d/dnsmasq restart为重启dnsmasq服务以便生效。
