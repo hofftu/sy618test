@@ -1,9 +1,8 @@
 <TaskerData sr="" dvi="1" tv="4.9u3m">
 	<Profile sr="prof14" ve="2">
 		<cdate>1482847630573</cdate>
-		<edate>1487322727659</edate>
+		<edate>1488967032208</edate>
 		<id>14</id>
-		<limit>true</limit>
 		<mid0>11</mid0>
 		<nme>在WiFi下每隔三天更新</nme>
 		<Day sr="con0">
@@ -29,7 +28,7 @@
 		<cdate>1482824845945</cdate>
 		<name>ADFQhosts自动更新2</name>
 		<pids>14</pids>
-		<tids>11,8,6,7</tids>
+		<tids>7,11,6,8</tids>
 		<Kid sr="Kid">
 			<feat0>android.hardware.wifi:y</feat0>
 			<launchID>8</launchID>
@@ -40,9 +39,9 @@
 	</Project>
 	<Task sr="task11">
 		<cdate>1483812594195</cdate>
-		<edate>1488856271945</edate>
+		<edate>1488967058692</edate>
 		<id>11</id>
-		<nme>ADFQ方案一：二合一</nme>
+		<nme>ADFQ方案一：二合一（建议）</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -87,12 +86,11 @@
 			<label>二合一，自用并维护ADFQ。有问题可以找我</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
+cat ad FQ &gt; hosts
+sed -i -e '/^ *$/d' hosts
+sed -i "1 i\## ADFQ：$(date "+%Y-%m-%d %H:%M:%S")" hosts
 mount -o rw,remount /system
-cat ad FQ &gt; hosts2
-sed -i "1 i\##$(date "+%Y-%m-%d %H:%M:%S")" hosts2
-awk '!a[$0]++' hosts2 &gt; hosts
-rm hosts2
-cat hosts &gt; /system/etc/hosts
+cp -f hosts /system/etc/hosts
 chmod 600 /system/etc/hosts
 mount -o ro,remount /system</Str>
 			<Int sr="arg1" val="0"/>
@@ -233,9 +231,9 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task8">
 		<cdate>1482825534204</cdate>
-		<edate>1488856265149</edate>
+		<edate>1488967103743</edate>
 		<id>8</id>
-		<nme>ADFQ方案二：四合一</nme>
+		<nme>方案二：四合一</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -308,13 +306,11 @@ mount -o ro,remount /system</Str>
 			<label>四合一，最全最新的hosts，用了github上热门racaljk Google项目</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
+cat ad racaljk p y &gt; hosts
+sed -i -e '/^##\|^#.*201\|^#.*licensed\|^#.*https/! s/^#.*$//' -i -e '/^ *$/d' hosts
+sed -i "1 i\##$(date "+%Y-%m-%d %H:%M:%S")" hosts
 mount -o rw,remount /system
-cat ad racaljk p y &gt; hosts2
-sed -i -e '/^##\|^#.*201\|^#.*licensed\|^#.*https/! s/^#.*$//' -e '/^ *$/d' hosts2
-sed -i "1 i\##$(date "+%Y-%m-%d %H:%M:%S")" hosts2
-awk '!a[$0]++' hosts2 &gt; hosts
-rm hosts2
-cat hosts &gt; /system/etc/hosts
+cp -f hosts /system/etc/hosts
 chmod 600 /system/etc/hosts
 mount -o ro,remount /system</Str>
 			<Int sr="arg1" val="0"/>

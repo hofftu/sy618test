@@ -3,7 +3,7 @@
 
 下载脚本配置：“ADFQhosts自动更新2.prj.xml”
 
-导入脚本配置：打开软件Tasker，设置-数据-还原-手工备份-选择已下载的“脚本文件.xml”导入即可
+导入脚本配置：打开软件Tasker，设置菜单-数据-还原-手工备份-选择已下载的“ADFQhosts自动更新2.prj.xml”脚本文件导入即可。
 
 
 “ADFQhosts自动更新2.prj.xml”说明：
@@ -12,11 +12,9 @@
 2.纯FQ：使用的是racaljk的基础数据+sy618的play+YouTube数据
 3.ADFQ方案二。四合一，即以上1+2合并的数据，追求hosts大而全的可以使用这个。
 
-*4.ADFQ方案一。二合一，sy618 FQ hosts+vokins AD hosts，自用并维护。使用有问题可以找我。
-（自动去空行、去注释、隐藏hosts权限、去重复、合并等功能。）
+*4.ADFQ方案一（推荐）。二合一，sy618 FQ hosts+vokins AD hosts，自用并维护。使用后有问题可以找我。
 
-默认配置：在WiFi下每隔三天自动更新ADFQ方案一数据。
-（有其他需求的自己去调配。）
+默认配置：在WiFi下每隔三天自动更新ADFQ方案一。（有其他需求的可自己去调配。）
 
 
 原贴：http://www.coolapk.com/feed/2355499
