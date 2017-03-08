@@ -12,8 +12,9 @@
 * 二合一hosts：[AD](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)+ [FQ](https://raw.githubusercontent.com/sy618/hosts/master/FQ)
 * https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * https://raw.githubusercontent.com/sy618/hosts/master/FQ
-* 懒人版（已合并）：[ADFQ](https://raw.githubusercontent.com/sy618/hosts/master/ADFQ)
-* 自用并维护的hosts
+* 自用并维护的hosts！
+* 懒人版（已合并）：
+* [ADFQ](https://raw.githubusercontent.com/sy618/hosts/master/ADFQ)：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 
 ##方案二
 * 四合一hosts：AD(vokins)+FQ(racaljk)+play+YouTube
@@ -29,4 +30,4 @@
 * [路由器自动更新hosts教程](https://github.com/sy618/hosts/blob/master/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts%E6%95%99%E7%A8%8B.txt)
 
 ##China AD hosts
-* 项目共产，有兴趣参与维护AD hosts与贡献数据的可以[加入与之支持我们](https://github.com/vokins/yhosts/)。
+* 项目共产，有兴趣参与维护AD hosts与贡献数据的可以[加入与支持我们](https://github.com/vokins/yhosts/)。
