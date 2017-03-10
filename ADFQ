@@ -1,12 +1,12 @@
-## update：2017-03-09 10:01:02
+## update：2017-03-10 11:51:59
 ## ————————————————————————————————————————
 ## by sy619 & vokins                                  
 ## http://www.coolapk.com/apk/org.adaway
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-03-09 10:00:55
-#version=201703081135
+## 2017-03-10 11:51:50
+#version=20170310 839
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1543,15 +1543,18 @@
 127.0.0.1 img.88lmimg.com
 127.0.0.1 static.88lmimg.com
 127.0.0.1 alm1.tongyuanhejishu.com
+127.0.0.1 go1.justsoftware.cn
 127.0.0.1 js1151.zhudiaosz.com
 127.0.0.1 js3743.dgxinhuan.com
 127.0.0.1 js3743.tongqing2015.com
 127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 js453.zhudiaosz.com
 127.0.0.1 p.shagent.com
+127.0.0.1 s1.huiqituan.com
 127.0.0.1 s1.idaguang.com
 127.0.0.1 s1.limeishang.com
 127.0.0.1 s2.limeishang.com
+127.0.0.1 s3.limeishang.com
 127.0.0.1 zs0105.zuodianshangmao.com
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
@@ -4524,7 +4527,7 @@
 127.0.0.1 ulog.imap.baidu.com
 127.0.0.1 newloc.map.n.shifen.com
 127.0.0.1 www.google-analytics.com
-## sy619：2017-03-09 10:01:00
+## sy619：2017-03-10 11:51:57
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -4686,6 +4689,8 @@
 219.76.4.14 9.client-channel.google.com
 219.76.4.14 9.docs.google.com
 219.76.4.14 9.drive.google.com
+192.229.237.98 97.media.tumblr.com
+209.197.3.20 99.media.tumblr.com
 219.76.4.14 a-fc-opensocial.googleusercontent.com
 219.76.4.14 a-oz-opensocial.googleusercontent.com
 54.230.86.121 a-v2.sndcdn.com
@@ -4766,6 +4771,7 @@
 31.13.95.48 api.instagram.com
 104.16.121.145 api.medium.com
 204.79.197.213 api.onedrive.com
+23.219.134.110 api.pinterest.com
 104.25.68.113 api.pureapk.com
 219.76.4.14 api.recaptcha.net
 72.21.91.127 api.soundcloud.com
@@ -5488,6 +5494,7 @@
 74.6.47.80 gq1.farm4.staticflickr.com
 74.6.47.80 gq1.farm5.staticflickr.com
 74.6.47.80 gq1.farm6.staticflickr.com
+157.240.7.20 graph.accountkit.com
 157.240.7.20 graph.facebook.com
 31.13.95.48 graph.instagram.com
 157.240.7.20 graph2.facebook.com
@@ -5524,6 +5531,7 @@
 104.20.83.194 i.apkpure.com
 103.245.222.193 i.imgur.com
 31.13.95.48 i.instagram.com
+23.219.134.110 i.pinimg.com
 151.101.77.133 i.vimeocdn.com
 219.76.4.14 i.ytimg.com
 54.230.86.121 i1.sndcdn.com
@@ -5888,6 +5896,7 @@
 219.76.4.14 pack.google.com
 219.76.4.14 panoramio.com
 219.76.4.14 partnerpage.google.com
+23.219.134.110 passets-cdn.pinterest.com
 219.76.4.14 passwords.google.com
 219.76.4.14 payments.google.com
 104.244.43.167 pbs.twimg.com
@@ -5956,6 +5965,7 @@
 64.233.188.109 pop.gmail.com
 64.233.188.16 pop.googlemail.com
 157.240.7.20 portal.fb.com
+35.167.147.170 post.pinterest.com
 219.76.4.14 pr.vp.video.l.google.com
 219.76.4.14 producer.googleusercontent.com
 219.76.4.14 productforums.google.com
@@ -5984,11 +5994,13 @@
 219.76.4.14 ru.youtube.com
 157.240.7.20 rupload.facebook.com
 157.240.7.20 s-external.ak.fbcdn.net
+23.219.134.110 s-media-cache-ak0.pinimg.com
 219.76.10.49 s-static.ak.facebook.com
 219.76.10.49 s-static.ak.fbcdn.net
 157.240.7.20 s-static.facebook.com
 52.222.211.227 s.flipboard.com
 103.245.222.193 s.imgur.com
+23.219.134.110 s.pinimg.com
 219.76.4.14 s.twitter.com
 119.161.8.149 s.yimg.com
 182.22.31.252 s.yimg.jp
@@ -6218,6 +6230,7 @@
 219.76.4.14 translate.googleusercontent.com
 219.76.4.14 trends.google.com
 219.76.4.14 trendstw.withgoogle.com
+52.3.8.5 trk.pinterest.com
 119.161.8.150 tumblr.com
 106.10.199.11 tw.news.yahoo.com
 106.10.138.240 tw.yahoo.com
@@ -6644,6 +6657,7 @@
 219.76.4.14 www.orkut.com
 219.76.4.14 www.orkut.gmodules.com
 219.76.4.14 www.panoramio.com
+23.219.134.110 www.pinterest.com
 219.76.4.14 www.polymer-project.org
 219.76.4.14 www.recaptcha.net
 219.76.4.14 www.teachparentstech.org
