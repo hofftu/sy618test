@@ -22,8 +22,11 @@
 * play down： https://raw.githubusercontent.com/sy618/hosts/master/p
 * YouTube  ：  https://raw.githubusercontent.com/sy618/hosts/master/y
 * fq(racaljk)：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-* 适合大众使用！订阅以上四个，你就得到最新最全的hosts。方案二内的fq数据引用了github上最热门项目racaljk的谷歌hosts，使用后有任何的FQ问题都请直接到[racaljk](https://github.com/racaljk/hosts)反馈。
+* 适合大众使用！订阅以上四个，你就得到最新最全的hosts。方案二内的fq数据引用了github上最热门与优秀项目racaljk的谷歌hosts，使用后有任何的FQ问题都请直接到[racaljk](https://github.com/racaljk/hosts)反馈。
 
+```javascript
+* 方案一与方案二的区别仅在于FQ数据与fq(racaljk)数据，两者不可混合使用。
+```
 
 ###自动更新hosts
 * [安卓手机自动更新hosts脚本与教程](https://github.com/sy618/hosts/tree/master/%E5%AE%89%E5%8D%93%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts)
