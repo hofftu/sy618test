@@ -1,5 +1,5 @@
 
-# Amazon AWS
+# Amazon
 52.218.48.12 s3-eu-west-1.amazonaws.com
 52.92.74.14 s3-sa-east-1.amazonaws.com
 54.231.177.4 s3-us-west-2.amazonaws.com
@@ -17,6 +17,11 @@
 54.240.226.19 ap-southeast-1.console.aws.amazon.com
 176.32.100.36 aws.amazon.com
 177.72.244.68 sa-east-1.console.aws.amazon.com
+176.32.114.59 us-west-1.console.aws.amazon.com
+54.231.229.10 s3-ap-northeast-1.amazonaws.com
+54.231.243.166 s3-ap-southeast-1.amazonaws.com
+54.239.38.102 eu-west-1.console.aws.amazon.com
+54.240.254.239 us-west-2.console.aws.amazon.com
 
 # Box.com    
 74.112.184.70 app.box.com
@@ -238,13 +243,6 @@
 69.167.138.64 www.appannie.com
 69.167.138.64 appannie.com
 
-#amazon.com
-176.32.114.59 us-west-1.console.aws.amazon.com
-54.231.229.10 s3-ap-northeast-1.amazonaws.com
-54.231.243.166 s3-ap-southeast-1.amazonaws.com
-54.239.38.102 eu-west-1.console.aws.amazon.com
-54.240.254.239 us-west-2.console.aws.amazon.com
-
 # BundleStars
 23.253.146.21 bundlestars.com
 54.192.232.60 cdn-images.bundlestars.com
@@ -330,3 +328,15 @@
 203.208.41.176 mt2.google.cn
 203.208.41.176 mt3.google.cn
 
+#pinterest                
+151.101.192.84 www.pinterest.com
+151.101.192.84 pinterest.com
+151.101.192.84 api.pinterest.com
+151.101.192.84 nl.pinterest.com
+151.101.192.84 s.pinimg.com
+151.101.192.84 i.pinimg.com
+151.101.192.84 v.pinimg.com
+151.101.192.84 s-media-cache-ak0.pinimg.com
+151.101.192.84 passets-cdn.pinterest.com
+35.167.147.170 post.pinterest.com
+52.3.8.5 trk.pinterest.com

@@ -1,11 +1,10 @@
 ###hosts说明:
 * 1. [p](https://raw.githubusercontent.com/sy618/hosts/master/p) ：play商店下载数据
 * 2. [y](https://raw.githubusercontent.com/sy618/hosts/master/y) ：YouTube播放视频数据
-* 3. [f](https://raw.githubusercontent.com/sy618/hosts/master/f)  ：fq数据（部分）
+* 3. [f](https://raw.githubusercontent.com/sy618/hosts/master/f) ： fq数据
 * 4. [AD](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)：vokins的中国广告hosts，有广告或误杀问题请集中[到这里](https://github.com/vokins/yhosts/)反馈。
 * 5. [FQ](https://raw.githubusercontent.com/sy618/hosts/master/FQ)： 完整FQ数据。合并了fq+play+YouTube
 * 6. [ADFQ](https://raw.githubusercontent.com/sy618/hosts/master/ADFQ)：合并了以上[AD](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)与[FQ](https://raw.githubusercontent.com/sy618/hosts/master/FQ)
-
 
 ###订阅hosts搭配方案推荐：
 
@@ -22,10 +21,11 @@
 * play down： https://raw.githubusercontent.com/sy618/hosts/master/p
 * YouTube  ：  https://raw.githubusercontent.com/sy618/hosts/master/y
 * fq(racaljk)：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-* 适合大众使用！订阅以上四个，你就得到最新最全的hosts。方案二内的fq数据引用了github上最热门与优秀项目racaljk的谷歌hosts，使用后有任何的FQ问题都请直接到[racaljk](https://github.com/racaljk/hosts)反馈。
+* 订阅以上四个就能得到最新最全的hosts，适合大众使用！
+* 方案二内的fq数据引用了github上最热门与优秀项目racaljk的谷歌hosts，使用后有任何的FQ问题请直接到[racaljk](https://github.com/racaljk/hosts)反馈。
 
 ```javascript
-* 方案一与方案二的区别仅在于FQ数据与fq(racaljk)数据，两者不可混合使用。
+* 注：方案一与方案二的区别仅在于FQ数据与fq(racaljk)数据，两者不可混合使用。本页面只维护方案一。
 ```
 
 ###自动更新hosts

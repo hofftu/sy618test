@@ -1,11 +1,11 @@
-## update：2017-03-11 19:28:02
+## update：2017-03-12 13:46:23
 ## ————————————————————————————————————————
 ## by sy619 & vokins                                  
 ## http://www.coolapk.com/apk/org.adaway
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-03-11 19:27:56
+## 2017-03-12 13:46:09
 #version=201703101903
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
@@ -4540,7 +4540,7 @@
 127.0.0.1 newloc.map.n.shifen.com
 127.0.0.1 vps.ucweb.com
 127.0.0.1 www.google-analytics.com
-## sy619：2017-03-11 19:28:00
+## sy619：2017-03-12 13:46:20
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -5881,6 +5881,7 @@
 219.76.4.14 news.l.google.com
 182.22.24.252 news.yahoo.co.jp
 219.76.4.14 newsstand.googleusercontent.com
+23.219.134.110 nl.pinterest.com
 192.0.78.12 nonprofits.fb.com
 219.76.4.14 notifications.google.com
 162.125.17.3 notify.dropbox.com
@@ -5983,7 +5984,7 @@
 64.233.188.109 pop.gmail.com
 64.233.188.16 pop.googlemail.com
 157.240.7.20 portal.fb.com
-35.167.147.170 post.pinterest.com
+23.219.134.110 post.pinterest.com
 219.76.4.14 pr.vp.video.l.google.com
 219.76.4.14 producer.googleusercontent.com
 219.76.4.14 productforums.google.com
@@ -6249,7 +6250,7 @@
 219.76.4.14 translate.googleusercontent.com
 219.76.4.14 trends.google.com
 219.76.4.14 trendstw.withgoogle.com
-52.3.8.5 trk.pinterest.com
+23.219.134.110 trk.pinterest.com
 119.161.8.150 tumblr.com
 106.10.199.11 tw.news.yahoo.com
 106.10.138.240 tw.yahoo.com
@@ -6286,6 +6287,7 @@
 23.62.109.75 us.js2.yimg.com
 106.10.138.240 us.yahoo.com
 219.76.4.14 userstream.twitter.com
+23.219.134.110 v.pinimg.com
 219.76.4.14 v3.cache1.c.docs.google.com
 54.230.86.121 va.sndcdn.com
 219.76.4.14 video-analytics.l.google.com
