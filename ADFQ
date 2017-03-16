@@ -1,4 +1,4 @@
-## update：2017-03-16 19:38:12
+## update：2017-03-16 20:55:05
 ## ————————————————————————————————————————
 ## 【ADFQ】
 ##  by sy619 & vokins                              
@@ -6,8 +6,8 @@
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-03-16 19:38:04
-#version=201703141456
+## 2017-03-16 20:54:59
+#version=201703162048
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -975,6 +975,7 @@
 127.0.0.1 b.7788xs.net
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
+127.0.0.1 di.zymro.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
 127.0.0.1 e.968lele.com
@@ -1277,6 +1278,17 @@
 127.0.0.1 jsecdn123.86666608.com
 127.0.0.1 js3610.51weidashi.com
 127.0.0.1 qjfcdn1220.0101122.com
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 servicer.adskeeper.co.uk
+127.0.0.1 jsc.adskeeper.co.uk
+127.0.0.1 affiliategroove.com
+127.0.0.1 www.hvfzshrpfueb.com
+127.0.0.1 hvfzshrpfueb.com
+127.0.0.1 www.kfwpyyctzmpk.com
+127.0.0.1 kfwpyyctzmpk.com
+127.0.0.1 ap76rmx3.accountant
+127.0.0.1 go.onclasrv.com
 127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
 127.0.0.1 js-agent.newrelic.com
@@ -2136,6 +2148,13 @@
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 127.0.0.1 wap.zgqlxw.com
+127.0.0.1 www.7080555.com
+127.0.0.1 www.3388pjdc.com
+127.0.0.1 www.5675146.com
+127.0.0.1 www.8066hg.com
+127.0.0.1 www.4207008.com
+127.0.0.1 www-777563.com
+127.0.0.1 www.222627.com
 127.0.0.1 changan.bama555.com
 127.0.0.1 www.5345ll.com
 127.0.0.1 d.soxoo.cc
@@ -2469,8 +2488,10 @@
 127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 m.down.sandai.net
+127.0.0.1 adsp.xunlei.com
 127.0.0.1 analytics-union.xunlei.com
 127.0.0.1 analytics.xunlei.com
+127.0.0.1 api-shoulei-ssl.xunlei.com
 127.0.0.1 cop.my.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 dy.niu.xunlei.com
@@ -2507,9 +2528,11 @@
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
+127.0.0.1 static.m.sjzhushou.com
+127.0.0.1 img.momocdn.com
+127.0.0.1 www.155.com
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com
-127.0.0.1 www.155.com
 127.0.0.1 www.6998cdn.com
 127.0.0.1 vi0.mzy2014.com
 127.0.0.1 vi1.mzy2014.com
@@ -3484,8 +3507,10 @@
 127.0.0.1 www.51.la
 127.0.0.1 s4.55.la
 127.0.0.1 count14.51yes.com
+127.0.0.1 count2.51yes.com
 127.0.0.1 count20.51yes.com
 127.0.0.1 count21.51yes.com
+127.0.0.1 count23.51yes.com
 127.0.0.1 count25.51yes.com
 127.0.0.1 count32.51yes.com
 127.0.0.1 count46.51yes.com
@@ -4578,23 +4603,9 @@
 127.0.0.1 newvector.map.baidu.com
 127.0.0.1 ulog.imap.baidu.com
 127.0.0.1 newloc.map.n.shifen.com
-127.0.0.1 img.momocdn.com
-127.0.0.1 adsp.xunlei.com
-127.0.0.1 static.m.sjzhushou.com
-127.0.0.1 api-shoulei-ssl.xunlei.com
+127.0.0.1 dl.k.sogou.com
 127.0.0.1 www.google-analytics.com
-127.0.0.1 c1.popads.net
-127.0.0.1 c2.popads.net
-127.0.0.1 servicer.adskeeper.co.uk
-127.0.0.1 jsc.adskeeper.co.uk
-127.0.0.1 affiliategroove.com
-127.0.0.1 www.hvfzshrpfueb.com
-127.0.0.1 hvfzshrpfueb.com
-127.0.0.1 www.kfwpyyctzmpk.com
-127.0.0.1 kfwpyyctzmpk.com
-127.0.0.1 ap76rmx3.accountant
-127.0.0.1 go.onclasrv.com
-## sy619：2017-03-16 19:38:11
+## sy619：2017-03-16 20:55:04
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
