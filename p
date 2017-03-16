@@ -1,13 +1,13 @@
 ##—————play—————
+219.76.4.11 r6---sn-i3b7knez.gvt1.com
 219.76.4.11 r1---sn-i3b7knez.gvt1.com
+219.76.4.11 r9---sn-i3b7knez.gvt1.com
 219.76.4.11 r2---sn-i3b7knez.gvt1.com
 219.76.4.11 r3---sn-i3b7knez.gvt1.com
 219.76.4.11 r4---sn-i3b7knez.gvt1.com
 219.76.4.11 r5---sn-i3b7knez.gvt1.com
-219.76.4.11 r6---sn-i3b7knez.gvt1.com
 219.76.4.11 r7---sn-i3b7knez.gvt1.com
 219.76.4.11 r8---sn-i3b7knez.gvt1.com
-219.76.4.11 r9---sn-i3b7knez.gvt1.com
 219.76.4.11 r10---sn-i3b7knez.gvt1.com
 219.76.4.11 r11---sn-i3b7knez.gvt1.com
 219.76.4.11 r12---sn-i3b7knez.gvt1.com
@@ -22,8 +22,8 @@
 219.76.4.11 r1---sn-i3b7knel.gvt1.com
 219.76.4.11 r2---sn-i3b7knel.gvt1.com
 219.76.4.11 r3---sn-i3b7knel.gvt1.com
-219.76.4.11 r4---sn-i3b7knel.gvt1.com
 219.76.4.11 r5---sn-i3b7knel.gvt1.com
+219.76.4.11 r4---sn-i3b7knel.gvt1.com
 219.76.4.11 r6---sn-i3b7knel.gvt1.com
 219.76.4.11 r7---sn-i3b7knel.gvt1.com
 219.76.4.11 r8---sn-i3b7knel.gvt1.com
@@ -42,8 +42,8 @@
 219.76.4.11 r1---sn-i3b7kner.gvt1.com
 219.76.4.11 r2---sn-i3b7kner.gvt1.com
 219.76.4.11 r3---sn-i3b7kner.gvt1.com
-219.76.4.11 r4---sn-i3b7kner.gvt1.com
 219.76.4.11 r5---sn-i3b7kner.gvt1.com
+219.76.4.11 r4---sn-i3b7kner.gvt1.com
 219.76.4.11 r6---sn-i3b7kner.gvt1.com
 219.76.4.11 r7---sn-i3b7kner.gvt1.com
 219.76.4.11 r8---sn-i3b7kner.gvt1.com
@@ -62,8 +62,8 @@
 219.76.4.11 r1---sn-i3b7knes.gvt1.com
 219.76.4.11 r2---sn-i3b7knes.gvt1.com
 219.76.4.11 r3---sn-i3b7knes.gvt1.com
-219.76.4.11 r4---sn-i3b7knes.gvt1.com
 219.76.4.11 r5---sn-i3b7knes.gvt1.com
+219.76.4.11 r4---sn-i3b7knes.gvt1.com
 219.76.4.11 r6---sn-i3b7knes.gvt1.com
 219.76.4.11 r7---sn-i3b7knes.gvt1.com
 219.76.4.11 r8---sn-i3b7knes.gvt1.com
@@ -1714,6 +1714,6 @@
 219.76.4.11 r1---sn-oguesnzz.gvt1.com
 219.76.4.11 r2---sn-oguesnzz.gvt1.com
 219.76.4.11 r3---sn-oguesnzz.gvt1.com
-219.76.4.11 r4---sn-oguesnzz.gvt1.com
 219.76.4.11 r5---sn-oguesnzz.gvt1.com
+219.76.4.11 r4---sn-oguesnzz.gvt1.com
 219.76.4.11 r6---sn-oguesnzz.gvt1.com

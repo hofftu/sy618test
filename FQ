@@ -1,4 +1,4 @@
-## sy619：2017-03-13 14:40:17
+## sy619：2017-03-16 19:38:11
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -178,6 +178,7 @@
 104.244.43.167 abs.twimg.com
 46.51.218.82 ac.duckduckgo.com
 219.76.4.14 accelerate.withgoogle.com
+107.152.25.197 account.box.com
 64.4.16.215 account.live.com
 219.76.4.14 accounts-cctld.l.google.com
 219.76.4.14 accounts.blogger.com
@@ -204,10 +205,16 @@
 219.76.4.14 alt1.mobile-gtalk.l.google.com
 64.233.177.127 alt1.stun.l.google.com
 64.233.188.125 alt1.talk.l.google.com
+64.233.188.188 alt2-mtalk.google.com
 64.233.177.127 alt2.stun.l.google.com
+64.233.188.188 alt3-mtalk.google.com
 64.233.177.127 alt3.stun.l.google.com
+64.233.188.188 alt4-mtalk.google.com
 64.233.177.127 alt4.stun.l.google.com
+64.233.188.188 alt5-mtalk.google.com
 64.233.177.127 alt5.stun.l.google.com
+64.233.188.188 alt6-mtalk.google.com
+64.233.188.188 alt7-mtalk.google.com
 64.233.188.188 alt8-mtalk.google.com
 219.76.4.14 analytics.twitter.com
 219.76.4.14 android-china.l.google.com
@@ -234,6 +241,7 @@
 157.240.7.20 api-read.facebook.com
 219.76.4.14 api-secure.recaptcha.net
 72.21.91.127 api-v2.soundcloud.com
+107.152.25.197 api.box.com
 54.241.32.8 api.crittercism.com
 162.125.82.7 api.dropbox.com
 162.125.82.7 api.dropboxapi.com
@@ -257,7 +265,7 @@
 219.76.4.14 apis.google.com
 104.20.83.194 apkpure.com
 219.76.4.14 app-measurement.com
-74.112.184.70 app.box.com
+107.152.25.198 app.box.com
 219.76.4.14 appengine.google.com
 54.241.32.8 appload.ingest.crittercism.com
 157.240.7.20 apps.facebook.com
@@ -358,7 +366,7 @@
 219.76.4.14 books.google.com.tw
 219.76.4.14 books.googleusercontent.com
 119.81.248.34 bootstrap.upsight-api.com
-74.112.184.90 box.com
+107.152.25.196 box.com
 219.76.4.14 bp0.blogger.com
 219.76.4.14 bp1.blogger.com
 219.76.4.14 bp2.blogger.com
@@ -397,6 +405,7 @@
 52.84.49.209 cdn.flipboard.com
 219.76.4.14 cdn.syndication.twimg.com
 219.76.4.14 cdn.syndication.twitter.com
+104.16.26.3 cdn01.boxcdn.net
 219.76.4.14 certificate-transparency.org
 54.192.127.227 cf-media.sndcdn.com
 52.84.202.185 cf.dropboxstatic.com
@@ -525,6 +534,7 @@
 162.125.82.6 dl.dropboxusercontent.com
 219.76.4.14 dl.google.com
 219.76.4.14 dl.l.google.com
+52.8.235.188 dl3.boxcloud.com
 219.76.4.14 doc-00-00-docs.googleusercontent.com
 219.76.4.14 doc-00-2g-3dwarehouse.googleusercontent.com
 219.76.4.14 doc-04-2g-3dwarehouse.googleusercontent.com
@@ -1228,7 +1238,7 @@
 66.6.32.162 ls.srvcs.tumblr.com
 219.76.4.14 m-dot-betaspike.appspot.com
 104.20.83.194 m.apkpure.com
-74.112.184.85 m.box.com
+107.152.25.197 m.box.com
 219.76.4.14 m.dropbox.com
 157.240.7.20 m.facebook.com
 119.161.8.149 m.flickr.com
@@ -1272,6 +1282,7 @@
 54.192.72.202 marketing.dropbox.com
 219.76.4.14 mars.google.com
 157.240.7.20 mbasic.facebook.com
+219.76.4.14 mclients.googleapis.com
 54.239.176.79 media.tumblr.com
 104.16.121.127 medium.com
 157.240.7.20 messenger.com
@@ -1317,6 +1328,12 @@
 219.76.4.14 mts2.googleapis.com
 219.76.4.14 mts3.google.com
 219.76.4.14 mts3.googleapis.com
+219.76.4.14 mua1.googleusercontent.com
+219.76.4.14 mua2.googleusercontent.com
+219.76.4.14 mua3.googleusercontent.com
+219.76.4.14 mua4.googleusercontent.com
+219.76.4.14 mua5.googleusercontent.com
+219.76.4.14 mua6.googleusercontent.com
 219.76.4.14 music-china.l.google.com
 219.76.4.14 music-onebox.googleusercontent.com
 219.76.4.14 music-streaming.l.google.com
@@ -1341,6 +1358,7 @@
 219.76.4.14 newsstand.googleusercontent.com
 23.219.134.110 nl.pinterest.com
 192.0.78.12 nonprofits.fb.com
+107.152.25.207 notes.services.box.com
 219.76.4.14 notifications.google.com
 162.125.17.3 notify.dropbox.com
 219.76.4.14 nt0.ggpht.com
@@ -1453,6 +1471,7 @@
 72.21.91.127 promoted.soundcloud.com
 219.76.4.14 proxy-dev.googlezip.net
 219.76.4.14 proxy.googlezip.net
+107.152.25.200 public.boxcloud.com
 66.6.32.162 px.srvcs.tumblr.com
 219.76.4.14 qwqy.vp.video.l.google.com
 104.244.43.167 r.twimg.com
@@ -1495,7 +1514,7 @@
 52.92.74.14 s3-sa-east-1.amazonaws.com
 54.231.237.85 s3-us-west-1.amazonaws.com
 54.231.177.4 s3-us-west-2.amazonaws.com
-54.231.66.16 s3.amazonaws.com
+52.216.226.51 s3.amazonaws.com
 219.76.4.14 s3.googleusercontent.com
 219.76.4.14 s4.googleusercontent.com
 219.76.4.14 s5.googleusercontent.com
@@ -1725,6 +1744,7 @@
 219.76.4.14 uk.youtube.com
 119.161.8.149 up.flickr.com
 219.76.4.14 update.googleapis.com
+107.152.25.197 upload.box.com
 219.76.4.14 upload.client.google.com
 219.76.4.14 upload.clients.google.com
 219.76.4.14 upload.docs.google.com
@@ -1897,8 +1917,8 @@
 219.76.4.14 www.blogblog.com
 219.76.4.14 www.blogger.com
 219.76.4.14 www.blogspot.com
-74.112.184.85 www.box.com
-74.112.184.80 www.box.net
+107.152.25.197 www.box.com
+107.152.25.193 www.box.net
 219.76.4.14 www.certificate-transparency.org
 219.76.4.14 www.chrome.com
 64.233.188.121 www.chromeexperiments.com
@@ -2121,6 +2141,7 @@
 219.76.4.14 www.googlemashups.com
 219.76.4.14 www.googlesource.com
 219.76.4.14 www.googlestore.com
+219.76.4.14 www.googletagmanager.com
 219.76.4.14 www.googleusercontent.com
 64.233.188.121 www.googlezeitgeist.com
 64.233.188.121 www.gosetsuden.jp
@@ -2198,15 +2219,15 @@
 198.35.26.96 zh.m.wikipedia.org
 198.35.26.96 zh.wikipedia.org
 ##—————play—————
+219.76.4.11 r6---sn-i3b7knez.gvt1.com
 219.76.4.11 r1---sn-i3b7knez.gvt1.com
+219.76.4.11 r9---sn-i3b7knez.gvt1.com
 219.76.4.11 r2---sn-i3b7knez.gvt1.com
 219.76.4.11 r3---sn-i3b7knez.gvt1.com
 219.76.4.11 r4---sn-i3b7knez.gvt1.com
 219.76.4.11 r5---sn-i3b7knez.gvt1.com
-219.76.4.11 r6---sn-i3b7knez.gvt1.com
 219.76.4.11 r7---sn-i3b7knez.gvt1.com
 219.76.4.11 r8---sn-i3b7knez.gvt1.com
-219.76.4.11 r9---sn-i3b7knez.gvt1.com
 219.76.4.11 r10---sn-i3b7knez.gvt1.com
 219.76.4.11 r11---sn-i3b7knez.gvt1.com
 219.76.4.11 r12---sn-i3b7knez.gvt1.com
@@ -2221,8 +2242,8 @@
 219.76.4.11 r1---sn-i3b7knel.gvt1.com
 219.76.4.11 r2---sn-i3b7knel.gvt1.com
 219.76.4.11 r3---sn-i3b7knel.gvt1.com
-219.76.4.11 r4---sn-i3b7knel.gvt1.com
 219.76.4.11 r5---sn-i3b7knel.gvt1.com
+219.76.4.11 r4---sn-i3b7knel.gvt1.com
 219.76.4.11 r6---sn-i3b7knel.gvt1.com
 219.76.4.11 r7---sn-i3b7knel.gvt1.com
 219.76.4.11 r8---sn-i3b7knel.gvt1.com
@@ -2241,8 +2262,8 @@
 219.76.4.11 r1---sn-i3b7kner.gvt1.com
 219.76.4.11 r2---sn-i3b7kner.gvt1.com
 219.76.4.11 r3---sn-i3b7kner.gvt1.com
-219.76.4.11 r4---sn-i3b7kner.gvt1.com
 219.76.4.11 r5---sn-i3b7kner.gvt1.com
+219.76.4.11 r4---sn-i3b7kner.gvt1.com
 219.76.4.11 r6---sn-i3b7kner.gvt1.com
 219.76.4.11 r7---sn-i3b7kner.gvt1.com
 219.76.4.11 r8---sn-i3b7kner.gvt1.com
@@ -2261,8 +2282,8 @@
 219.76.4.11 r1---sn-i3b7knes.gvt1.com
 219.76.4.11 r2---sn-i3b7knes.gvt1.com
 219.76.4.11 r3---sn-i3b7knes.gvt1.com
-219.76.4.11 r4---sn-i3b7knes.gvt1.com
 219.76.4.11 r5---sn-i3b7knes.gvt1.com
+219.76.4.11 r4---sn-i3b7knes.gvt1.com
 219.76.4.11 r6---sn-i3b7knes.gvt1.com
 219.76.4.11 r7---sn-i3b7knes.gvt1.com
 219.76.4.11 r8---sn-i3b7knes.gvt1.com
@@ -3913,19 +3934,19 @@
 219.76.4.11 r1---sn-oguesnzz.gvt1.com
 219.76.4.11 r2---sn-oguesnzz.gvt1.com
 219.76.4.11 r3---sn-oguesnzz.gvt1.com
-219.76.4.11 r4---sn-oguesnzz.gvt1.com
 219.76.4.11 r5---sn-oguesnzz.gvt1.com
+219.76.4.11 r4---sn-oguesnzz.gvt1.com
 219.76.4.11 r6---sn-oguesnzz.gvt1.com
 ##—————youtube—————
+219.76.4.11 r6---sn-i3b7knez.googlevideo.com
 219.76.4.11 r1---sn-i3b7knez.googlevideo.com
+219.76.4.11 r9---sn-i3b7knez.googlevideo.com
 219.76.4.11 r2---sn-i3b7knez.googlevideo.com
 219.76.4.11 r3---sn-i3b7knez.googlevideo.com
 219.76.4.11 r4---sn-i3b7knez.googlevideo.com
 219.76.4.11 r5---sn-i3b7knez.googlevideo.com
-219.76.4.11 r6---sn-i3b7knez.googlevideo.com
 219.76.4.11 r7---sn-i3b7knez.googlevideo.com
 219.76.4.11 r8---sn-i3b7knez.googlevideo.com
-219.76.4.11 r9---sn-i3b7knez.googlevideo.com
 219.76.4.11 r10---sn-i3b7knez.googlevideo.com
 219.76.4.11 r11---sn-i3b7knez.googlevideo.com
 219.76.4.11 r12---sn-i3b7knez.googlevideo.com
@@ -3940,8 +3961,8 @@
 219.76.4.11 r1---sn-i3b7knel.googlevideo.com
 219.76.4.11 r2---sn-i3b7knel.googlevideo.com
 219.76.4.11 r3---sn-i3b7knel.googlevideo.com
-219.76.4.11 r4---sn-i3b7knel.googlevideo.com
 219.76.4.11 r5---sn-i3b7knel.googlevideo.com
+219.76.4.11 r4---sn-i3b7knel.googlevideo.com
 219.76.4.11 r6---sn-i3b7knel.googlevideo.com
 219.76.4.11 r7---sn-i3b7knel.googlevideo.com
 219.76.4.11 r8---sn-i3b7knel.googlevideo.com
@@ -3960,8 +3981,8 @@
 219.76.4.11 r1---sn-i3b7kner.googlevideo.com
 219.76.4.11 r2---sn-i3b7kner.googlevideo.com
 219.76.4.11 r3---sn-i3b7kner.googlevideo.com
-219.76.4.11 r4---sn-i3b7kner.googlevideo.com
 219.76.4.11 r5---sn-i3b7kner.googlevideo.com
+219.76.4.11 r4---sn-i3b7kner.googlevideo.com
 219.76.4.11 r6---sn-i3b7kner.googlevideo.com
 219.76.4.11 r7---sn-i3b7kner.googlevideo.com
 219.76.4.11 r8---sn-i3b7kner.googlevideo.com
@@ -3980,8 +4001,8 @@
 219.76.4.11 r1---sn-i3b7knes.googlevideo.com
 219.76.4.11 r2---sn-i3b7knes.googlevideo.com
 219.76.4.11 r3---sn-i3b7knes.googlevideo.com
-219.76.4.11 r4---sn-i3b7knes.googlevideo.com
 219.76.4.11 r5---sn-i3b7knes.googlevideo.com
+219.76.4.11 r4---sn-i3b7knes.googlevideo.com
 219.76.4.11 r6---sn-i3b7knes.googlevideo.com
 219.76.4.11 r7---sn-i3b7knes.googlevideo.com
 219.76.4.11 r8---sn-i3b7knes.googlevideo.com
@@ -5632,6 +5653,6 @@
 219.76.4.11 r1---sn-oguesnzz.googlevideo.com
 219.76.4.11 r2---sn-oguesnzz.googlevideo.com
 219.76.4.11 r3---sn-oguesnzz.googlevideo.com
-219.76.4.11 r4---sn-oguesnzz.googlevideo.com
 219.76.4.11 r5---sn-oguesnzz.googlevideo.com
+219.76.4.11 r4---sn-oguesnzz.googlevideo.com
 219.76.4.11 r6---sn-oguesnzz.googlevideo.com
