@@ -1,13 +1,13 @@
-## update：2017-03-16 20:55:05
+## update：2017-03-18 11:51:20
 ## ————————————————————————————————————————
 ## 【ADFQ】
 ##  by sy619 & vokins                              
-## http://www.coolapk.com/apk/org.adaway
+## https://github.com/sy618/hosts
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-03-16 20:54:59
-#version=201703162048
+## 2017-03-18 11:49:06
+#version=201703171642
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -153,9 +153,10 @@
 127.0.0.1 onclkds.com
 127.0.0.1 xiazai.downok.com
 127.0.0.1 downlaod.xiaocen.com
-127.0.0.1 cdn.img.liuxingyul.cn
+127.0.0.1 cdn.app.kachapt.cn
 127.0.0.1 cdn.app.liuxingyul.cn
 127.0.0.1 cdn.img.kachapt.cn
+127.0.0.1 cdn.img.liuxingyul.cn
 127.0.0.1 hwt.player888.cn
 127.0.0.1 cs.wanwandou.com
 127.0.0.1 ad.sojoyo.com
@@ -184,6 +185,7 @@
 127.0.0.1 go.fcwr8.com
 127.0.0.1 www.tigerbrokers.com
 127.0.0.1 pro.yyhudong.com
+127.0.0.1 marketres.feidee.com
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tl.771tao.com
 127.0.0.1 tuku.jkys5.com
@@ -2673,6 +2675,10 @@
 127.0.0.1 ww.xiaopiaoyou.com
 127.0.0.1 api.oneyuan.nagezan.net
 127.0.0.1 yiyuan.nagezan.net
+127.0.0.1 log.xigua.com
+127.0.0.1 ad1.62seo.com
+127.0.0.1 guoguo.client51.com
+127.0.0.1 down1.bcibc.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 themis.ykimg.com
 127.0.0.1 hudong.pl.youku.com
@@ -3994,10 +4000,14 @@
 127.0.0.1 d.emarbox.com
 127.0.0.1 et.emarbox.com
 127.0.0.1 s.emarbox.com
+127.0.0.1 a.eqxiu.com
 127.0.0.1 as.eqxiu.com
 127.0.0.1 da.eqxiu.com
+127.0.0.1 as.eqh5.com
 127.0.0.1 lib.eqh5.com
+127.0.0.1 res.eqh5.com
 127.0.0.1 res1.eqh5.com
+127.0.0.1 res2.eqh5.com
 127.0.0.1 cm.fastapi.net
 127.0.0.1 g.fastapi.net
 127.0.0.1 l.fastapi.net
@@ -4605,8 +4615,7 @@
 127.0.0.1 newloc.map.n.shifen.com
 127.0.0.1 dl.k.sogou.com
 127.0.0.1 www.google-analytics.com
-## sy619：2017-03-16 20:55:04
-## https://github.com/sy618/hosts
+## sy619：2017-03-18 11:51:19
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
@@ -5192,7 +5201,7 @@
 157.240.7.20 edge-chat.facebook.com
 157.240.7.20 edge-chat.messenger.com
 157.240.7.20 edge-mqtt.facebook.com
-98.139.21.169 edit.yahoo.com
+106.10.193.20 edit.yahoo.com
 219.76.4.14 edudirectory.withgoogle.com
 219.76.4.14 eduproducts.withgoogle.com
 219.76.4.14 en.blog.orkut.com
@@ -5341,7 +5350,7 @@
 64.233.188.121 ghs46.google.com
 64.233.188.121 ghs46.l.google.com
 52.216.225.136 github-cloud.s3.amazonaws.com
-54.231.41.83 github-com.s3.amazonaws.com
+54.231.81.128 github-com.s3.amazonaws.com
 219.76.4.14 gm0.ggpht.com
 219.76.4.14 gm1.ggpht.com
 219.76.4.14 gm2.ggpht.com
@@ -6119,8 +6128,8 @@
 54.231.192.41 s3-eu-central-1.amazonaws.com
 52.218.48.12 s3-eu-west-1.amazonaws.com
 52.92.74.14 s3-sa-east-1.amazonaws.com
-54.231.237.85 s3-us-west-1.amazonaws.com
-54.231.177.4 s3-us-west-2.amazonaws.com
+54.231.237.69 s3-us-west-1.amazonaws.com
+52.218.128.0 s3-us-west-2.amazonaws.com
 52.216.226.51 s3.amazonaws.com
 219.76.4.14 s3.googleusercontent.com
 219.76.4.14 s4.googleusercontent.com
