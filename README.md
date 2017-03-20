@@ -24,7 +24,7 @@
 
 ```javascript
 * 注1：方案一与方案二的区别仅在于FQ数据与fq(racaljk)数据，两者不可混合使用。本页面只维护方案一。
-* 2.[This work is licensed under a CC BY 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
+* 2.This work is licensed under a CC BY 4.0 International License.
 ```
 
 ###自动更新hosts
