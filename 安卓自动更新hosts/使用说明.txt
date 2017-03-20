@@ -10,9 +10,8 @@
 脚本内建了四种不同任务，可按自己需求使用。
 1.纯AD：使用vokins的yhosts AD hosts。
 2.纯FQ：使用的是racaljk的基础数据+sy618的play+YouTube数据
-3.ADFQ方案二。四合一，即以上1+2合并的数据，追求hosts大而全的可以使用这个。
-
-*4.ADFQ方案一（推荐）。二合一，sy618 FQ hosts+vokins AD hosts，自用并维护。使用后有问题可以找我。
+3.方案一（推荐）。ADFQ，sy618 FQ hosts+vokins AD hosts，自用并维护。使用后有问题可以找我。
+4.备用方案二。即以上1+2合并的数据。
 
 默认配置：在WiFi下每隔三天自动更新ADFQ方案一。（有其他需求的可自己去调配。）
 

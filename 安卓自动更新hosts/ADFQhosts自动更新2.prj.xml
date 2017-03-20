@@ -1,21 +1,21 @@
 <TaskerData sr="" dvi="1" tv="4.9u3m">
 	<Profile sr="prof14" ve="2">
 		<cdate>1482847630573</cdate>
-		<edate>1488967032208</edate>
+		<edate>1490003821893</edate>
 		<id>14</id>
 		<mid0>11</mid0>
 		<nme>在WiFi下每隔三天更新</nme>
 		<Day sr="con0">
-			<mday0>1</mday0>
-			<mday1>16</mday1>
+			<mday0>16</mday0>
+			<mday1>1</mday1>
 			<mday2>19</mday2>
 			<mday3>4</mday3>
-			<mday4>7</mday4>
-			<mday5>22</mday5>
+			<mday4>22</mday4>
+			<mday5>7</mday5>
 			<mday6>25</mday6>
 			<mday7>10</mday7>
-			<mday8>13</mday8>
-			<mday9>28</mday9>
+			<mday8>28</mday8>
+			<mday9>13</mday9>
 		</Day>
 		<State sr="con1" ve="2">
 			<code>160</code>
@@ -28,7 +28,7 @@
 		<cdate>1482824845945</cdate>
 		<name>ADFQhosts自动更新2</name>
 		<pids>14</pids>
-		<tids>7,11,6,8</tids>
+		<tids>11,6,7,8</tids>
 		<Kid sr="Kid">
 			<feat0>android.hardware.wifi:y</feat0>
 			<launchID>8</launchID>
@@ -39,9 +39,9 @@
 	</Project>
 	<Task sr="task11">
 		<cdate>1483812594195</cdate>
-		<edate>1488967058692</edate>
+		<edate>1490003814299</edate>
 		<id>11</id>
-		<nme>ADFQ方案一：二合一（建议）</nme>
+		<nme>方案一ADFQ</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -83,7 +83,7 @@
 		</Action>
 		<Action sr="act3" ve="7">
 			<code>123</code>
-			<label>二合一，自用并维护ADFQ。有问题可以找我</label>
+			<label>有问题可以找我</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
 cat ad FQ &gt; hosts
@@ -107,7 +107,7 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task6">
 		<cdate>1482050889292</cdate>
-		<edate>1488224083895</edate>
+		<edate>1490003812266</edate>
 		<id>6</id>
 		<nme>纯AD （vokins）</nme>
 		<pri>100</pri>
@@ -154,7 +154,7 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task7">
 		<cdate>1482051798178</cdate>
-		<edate>1488224082132</edate>
+		<edate>1490003809750</edate>
 		<id>7</id>
 		<nme>纯FQ （racaljk+sy618）</nme>
 		<pri>100</pri>
@@ -231,9 +231,9 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task8">
 		<cdate>1482825534204</cdate>
-		<edate>1488967103743</edate>
+		<edate>1490003801935</edate>
 		<id>8</id>
-		<nme>方案二：四合一</nme>
+		<nme>备用方案二</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -303,7 +303,7 @@ mount -o ro,remount /system</Str>
 		</Action>
 		<Action sr="act5" ve="7">
 			<code>123</code>
-			<label>四合一，最全最新的hosts，用了github上热门racaljk Google项目</label>
+			<label>方案一用不了就试试这个</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
 cat ad racaljk p y &gt; hosts
