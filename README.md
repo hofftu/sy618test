@@ -23,8 +23,8 @@
 * 方案二内的fq数据引用了github上最热门与优秀的公共谷歌racaljk hosts项目，使用后有任何的FQ问题请直接到[racaljk](https://github.com/racaljk/hosts)反馈。
 
 ```javascript
-* 注1：方案一与方案二的区别仅在于FQ数据与fq(racaljk)数据，两者不可混合使用。本页面只维护方案一。
-* 2.This work is licensed under a CC BY 4.0 International License.
+* 注1 .方案一与方案二的区别仅在于FQ数据与fq(racaljk)数据，两者不可混合使用。本页面只维护方案一。
+*   2 . [This work is licensed under a CC BY 4.0 International License.](https://creativecommons.org/licenses/by/4.0/deed.zh)
 ```
 
 ###自动更新hosts
