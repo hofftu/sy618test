@@ -1,4 +1,4 @@
-## sy619：2017-03-22 00:16:18
+## sy619：2017-03-23 00:51:10
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -166,8 +166,10 @@
 219.76.4.14 a-oz-opensocial.googleusercontent.com
 54.230.86.121 a-v2.sndcdn.com
 104.20.83.194 a.apkpure.com
+151.101.24.249 a.disquscdn.com
 219.76.4.14 a.orkut.gmodules.com
 104.244.43.167 a0.twimg.com
+151.101.77.164 a1.nyt.com
 54.230.86.121 a1.sndcdn.com
 104.244.43.167 a1.twimg.com
 104.244.43.167 a2.twimg.com
@@ -255,6 +257,7 @@
 104.25.68.113 api.pureapk.com
 219.76.4.14 api.recaptcha.net
 72.21.91.127 api.soundcloud.com
+104.28.31.251 api.theinitium.com
 119.161.8.150 api.tumblr.com
 219.76.4.14 api.tweetdeck.com
 219.76.4.14 api.twitter.com
@@ -380,6 +383,7 @@
 219.76.4.14 buttons.blogger.com
 219.76.4.14 buzz.blogger.com
 219.76.4.14 buzz.google.com
+104.16.80.166 c.disquscdn.com
 157.240.7.20 c.facebook.com
 202.43.194.205 c5.ah.yahoo.com
 219.76.4.14 ca.youtube.com
@@ -468,6 +472,8 @@
 219.76.4.14 cloud.google.com
 219.76.4.14 cloudconfig.googleapis.com
 219.76.4.14 cloudssh.developers.google.com
+54.230.213.29 cn.nytimes.com
+54.230.213.29 cn.nytstyle.com
 219.76.4.14 code-opensocial.googleusercontent.com
 157.240.7.20 code.facebook.com
 192.0.79.32 code.flickr.com
@@ -492,11 +498,13 @@
 219.76.4.14 cse.google.com
 219.76.4.14 csi.gstatic.com
 219.76.4.14 csi.l.google.com
+151.101.77.164 css.nyt.com
 162.125.82.7 d.dropbox.com
 157.240.7.20 d.facebook.com
 162.125.82.7 d.v.dropbox.com
 119.161.8.149 d.yimg.com
-149.56.18.88 d1.winudf.com
+104.25.68.113 d0.winudf.com
+104.25.68.113 d1.winudf.com
 219.76.4.14 datasaver.googleapis.com
 219.76.4.14 dbxlocal.dropboxstatic.com
 203.188.200.67 de.yahoo.com
@@ -519,6 +527,7 @@
 219.76.4.14 developers.google.com
 219.76.4.14 dir.google.com
 219.76.4.14 directory.google.com
+151.101.192.134 disqus.com
 219.76.10.49 distilleryimage0.ak.instagram.com
 219.76.10.49 distilleryimage1.ak.instagram.com
 219.76.10.49 distilleryimage2.ak.instagram.com
@@ -611,6 +620,7 @@
 157.240.7.20 ent-b.xx.fbcdn.net
 157.240.7.20 ent-c.xx.fbcdn.net
 157.240.7.20 ent-e.xx.fbcdn.net
+52.0.122.192 et.nytimes.com
 54.239.54.107 eu-central-1.console.aws.amazon.com
 198.35.26.96 eu.wikipedia.org
 52.16.188.121 eventgateway.soundcloud.com
@@ -752,7 +762,7 @@
 64.233.188.14 gmr-smtp-in.l.google.com
 219.76.4.14 go.googlesource.com
 219.76.4.14 golang.org
-219.76.4.14 goo.gl
+61.91.161.217 goo.gl
 219.76.4.14 google-code-feed-gadget.googlecode.com
 219.76.4.14 google-code-prettify.googlecode.com
 219.76.4.14 google.ad
@@ -983,6 +993,7 @@
 157.240.7.20 graph.facebook.com
 31.13.95.48 graph.instagram.com
 157.240.7.20 graph2.facebook.com
+151.101.77.164 graphics8.nytimes.com
 219.76.4.14 groups-beta.google.com
 219.76.4.14 groups.google.co.jp
 219.76.4.14 groups.google.com
@@ -1019,6 +1030,7 @@
 23.219.134.110 i.pinimg.com
 151.101.77.133 i.vimeocdn.com
 219.76.4.14 i.ytimg.com
+151.101.77.164 i1.nyt.com
 54.230.86.121 i1.sndcdn.com
 219.76.4.14 i1.ytimg.com
 54.230.86.121 i2.sndcdn.com
@@ -1027,6 +1039,7 @@
 219.76.4.14 i3.ytimg.com
 54.192.138.234 i4.sndcdn.com
 219.76.4.14 i4.ytimg.com
+208.100.17.183 ic.tynt.com
 52.77.181.198 icons.duckduckgo.com
 219.76.4.14 id.google.co.nz
 219.76.4.14 id.google.com
@@ -1095,7 +1108,7 @@
 219.76.10.49 igcdn-videos-h-4-a.akamaihd.net
 104.244.43.167 image-proxy-origin.twimg.com
 219.76.4.14 image.google.com
-149.56.18.88 image.winudf.com
+104.25.68.113 image.winudf.com
 219.76.4.14 images-blogger-opensocial.googleusercontent.com
 219.76.4.14 images-docs-opensocial.googleusercontent.com
 219.76.4.14 images-focus-opensocial.googleusercontent.com
@@ -1141,6 +1154,7 @@
 219.76.4.14 images9-hangout-opensocial.googleusercontent.com
 64.233.188.109 imap.gmail.com
 64.233.188.16 imap.googlemail.com
+219.76.4.14 imasdk.googleapis.com
 219.76.4.14 img.blogblog.com
 219.76.4.14 img.youtube.com
 219.76.4.14 img0.gmodules.com
@@ -1162,6 +1176,7 @@
 219.76.4.14 impactchallenge.withgoogle.com
 219.76.4.14 inbox.google.com
 119.161.8.149 info.yahoo.com
+23.227.38.32 initiummall.com
 219.76.4.14 inputtools.google.com
 219.76.4.14 insgruene.withgoogle.com
 219.76.4.14 insight.youtube.com
@@ -1170,6 +1185,7 @@
 219.76.10.49 instagramstatic-a.akamaihd.net
 192.0.78.12 instantarticles.fb.com
 219.76.4.14 instantmessaging-pa.googleapis.com
+151.101.77.164 int.nyt.com
 219.76.4.14 interstellar.withgoogle.com
 219.76.4.14 investor.google.com
 219.76.4.14 ipv4.google.com
@@ -1179,6 +1195,8 @@
 64.233.188.121 javascript-blocker.toggleable.com
 219.76.4.14 jmt0.google.com
 219.76.4.14 jp.youtube.com
+151.101.77.164 js.nyt.com
+151.101.77.164 json8.nytimes.com
 219.76.4.14 keep.google.com
 219.76.4.14 kernel.googlesource.com
 219.76.4.14 keyhole.l.google.com
@@ -1202,6 +1220,7 @@
 219.76.4.14 knol.google.com
 157.240.7.20 l.facebook.com
 119.161.8.149 l.yimg.com
+122.152.169.5 l0.cn.nytimes.com
 219.76.4.14 large-uploads.l.google.com
 219.76.4.14 lh0.ggpht.com
 219.76.4.14 lh0.google.com
@@ -1239,6 +1258,8 @@
 219.76.4.14 m-dot-betaspike.appspot.com
 104.20.83.194 m.apkpure.com
 107.152.25.197 m.box.com
+54.230.213.29 m.cn.nytimes.com
+52.192.30.67 m.cn.nytstyle.com
 219.76.4.14 m.dropbox.com
 157.240.7.20 m.facebook.com
 119.161.8.149 m.flickr.com
@@ -1285,11 +1306,13 @@
 219.76.4.14 mclients.googleapis.com
 54.239.176.79 media.tumblr.com
 104.16.121.127 medium.com
+107.23.6.161 messaging-sub.api.nytimes.com
 157.240.7.20 messenger.com
 192.0.66.2 messengerplatform.fb.com
 198.35.26.96 meta.m.wikimedia.org
 119.161.8.149 mg.mail.yahoo.com
 106.10.193.20 mlogin.yahoo.com
+151.101.77.164 mobile-feedlocator.nytimes.com
 64.233.188.188 mobile-gtalk.l.google.com
 219.76.4.14 mobile.google.com
 219.76.4.14 mobile.google.com.hk
@@ -1365,6 +1388,9 @@
 219.76.4.14 nt1.ggpht.com
 219.76.4.14 nt2.ggpht.com
 219.76.4.14 nt3.ggpht.com
+50.19.127.24 nytab.nytimes.com
+151.101.24.134 nytchinese.disqus.com
+151.101.77.164 nytimes.com
 219.76.4.14 nz.vp.video.l.google.com
 219.76.4.14 nztdug.vp.video.l.google.com
 104.244.43.167 o.twimg.com
@@ -1483,6 +1509,7 @@
 219.76.4.14 redirector.c.youtube.com
 219.76.4.14 redirector.googlevideo.com
 219.76.4.14 redirector.gvt1.com
+151.101.24.134 referrer.disqus.com
 219.76.4.14 relay.google.com
 219.76.4.14 reminders-pa.clients6.google.com
 219.76.4.14 research.google.com
@@ -1503,7 +1530,9 @@
 219.76.4.14 s.youtube.com
 219.76.4.14 s.ytimg.com
 219.76.4.14 s0-2mdn-net.l.google.com
+52.216.0.248 s1-nyt-com.s3.amazonaws.com
 219.76.4.14 s1.googleusercontent.com
+151.101.77.164 s1.nyt.com
 119.161.8.149 s1.yimg.com
 219.76.4.14 s2.googleusercontent.com
 219.76.4.14 s2.youtube.com
@@ -1527,6 +1556,7 @@
 219.76.4.14 safebrowsing.clients.google.com
 219.76.4.14 safebrowsing.google.com
 219.76.4.14 safebrowsing.googleapis.com
+54.201.1.68 samizdat.nytimes.com
 219.76.4.14 sandbox.google.com
 219.76.4.14 sandbox.l.google.com
 219.76.4.14 sb-ssl.google.com
@@ -1622,6 +1652,7 @@
 157.240.7.20 ssl.facebook.com
 219.76.4.14 ssl.gstatic.com
 219.76.4.14 sslvideo-upload.l.google.com
+54.65.44.114 sso.nytcn.me
 219.76.4.14 stage.gdata.youtube.com
 157.240.7.20 star.c10r.facebook.com
 157.240.7.20 star.facebook.com
@@ -1637,6 +1668,12 @@
 157.240.7.20 static.thefacebook.com
 219.76.4.14 static.twitter.com
 157.240.7.20 static.xx.fbcdn.net
+151.101.77.164 static01.nyt.com
+151.101.77.164 static02.nyt.com
+151.101.77.164 static03.nyt.com
+151.101.77.164 static04.nyt.com
+151.101.77.164 static05.nyt.com
+151.101.77.164 static06.nyt.com
 219.76.4.14 static1.orkut.com
 219.76.4.14 static2.orkut.com
 219.76.4.14 static3.orkut.com
@@ -1645,6 +1682,7 @@
 219.76.4.14 status.blogger.com
 54.192.72.202 status.dropbox.com
 219.76.4.14 status.twitter.com
+52.76.148.61 stigma.theinitium.com
 219.76.4.14 storage-ugc.l.googleusercontent.com
 216.58.199.16 storage.googleapis.com
 219.76.4.14 storage.l.googleusercontent.com
@@ -1675,6 +1713,7 @@
 219.76.4.14 t5.gstatic.com
 219.76.4.14 t6.gstatic.com
 219.76.4.14 t7.gstatic.com
+107.21.119.15 tagx.nytimes.com
 64.233.188.125 talk.google.com
 64.233.188.125 talk.l.google.com
 219.76.4.14 talkgadget.google.com
@@ -1737,12 +1776,15 @@
 173.236.110.98 twitpic.com
 219.76.4.14 twitter.com
 54.193.253.0 txn.ingest.crittercism.com
+151.101.77.164 typeface.nyt.com
+151.101.77.164 typeface.nytimes.com
 219.76.4.14 uberproxy.corp.google.com
 219.76.4.14 uberproxy.l.google.com
 54.164.65.195 ue.flipboard.com
 219.76.4.14 ug.vp.video.l.google.com
 219.76.4.14 uk.youtube.com
 119.161.8.149 up.flickr.com
+151.101.77.164 up.nytimes.com
 219.76.4.14 update.googleapis.com
 107.152.25.197 upload.box.com
 219.76.4.14 upload.client.google.com
@@ -2154,6 +2196,7 @@
 219.76.4.14 www.l.google.com
 157.240.7.20 www.m.me
 157.240.7.20 www.messenger.com
+151.101.77.164 www.nytimes.com
 219.76.4.14 www.oneworldmanystories.com
 219.76.4.14 www.orkut.com
 219.76.4.14 www.orkut.gmodules.com
