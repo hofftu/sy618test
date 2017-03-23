@@ -1,4 +1,4 @@
-## sy619：2017-03-23 22:16:21
+## sy619：2017-03-23 23:02:00
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -248,7 +248,7 @@
 162.125.82.7 api.dropbox.com
 162.125.82.7 api.dropboxapi.com
 157.240.7.20 api.facebook.com
-119.161.8.149 api.flickr.com
+119.161.14.17 api.flickr.com
 103.245.222.193 api.imgur.com
 31.13.95.48 api.instagram.com
 104.16.121.145 api.medium.com
@@ -413,7 +413,7 @@
 219.76.4.14 certificate-transparency.org
 54.192.127.227 cf-media.sndcdn.com
 52.84.202.185 cf.dropboxstatic.com
-104.16.99.29 cfl.dropboxstatic.com
+104.16.100.29 cfl.dropboxstatic.com
 219.76.4.14 chart.apis.google.com
 219.76.4.14 chart.googleapis.com
 157.240.7.20 chat.facebook.com
@@ -503,7 +503,7 @@
 162.125.82.7 d.dropbox.com
 157.240.7.20 d.facebook.com
 162.125.82.7 d.v.dropbox.com
-119.161.8.149 d.yimg.com
+119.161.14.17 d.yimg.com
 104.25.68.113 d0.winudf.com
 104.25.68.113 d1.winudf.com
 219.76.4.14 datasaver.googleapis.com
@@ -587,7 +587,7 @@
 219.76.4.14 drivenotepad.appspot.com
 219.76.4.14 dropbox.com
 46.51.218.82 duckduckgo.com
-119.161.8.149 e.yimg.com
+119.161.14.17 e.yimg.com
 219.76.4.14 earth-api-samples.googlecode.com
 219.76.4.14 earth.google.com
 68.232.45.67 ec-media.soundcloud.com
@@ -729,7 +729,7 @@
 219.76.4.14 gcr.io
 219.76.4.14 gdata.youtube.com
 119.160.242.41 geo.query.yahoo.com
-119.161.8.149 geo.yahoo.com
+119.161.14.17 geo.yahoo.com
 219.76.4.14 geo0.ggpht.com
 219.76.4.14 geo1.ggpht.com
 219.76.4.14 geo2.ggpht.com
@@ -1009,7 +1009,7 @@
 219.76.4.14 gxc.google.com.hk
 219.76.4.14 gxc.google.com.sg
 219.76.4.14 gxc.google.com.tw
-119.161.8.149 h.yimg.com
+119.161.14.17 h.yimg.com
 219.76.4.14 hangout.google.com
 219.76.4.14 hangouts.google.com
 219.76.4.14 health.google.com
@@ -1176,7 +1176,7 @@
 103.245.222.193 imgur.com
 219.76.4.14 impactchallenge.withgoogle.com
 219.76.4.14 inbox.google.com
-119.161.8.149 info.yahoo.com
+119.161.14.17 info.yahoo.com
 23.227.38.32 initiummall.com
 219.76.4.14 inputtools.google.com
 219.76.4.14 insgruene.withgoogle.com
@@ -1220,7 +1220,7 @@
 219.76.4.14 kickwithchrome.withgoogle.com
 219.76.4.14 knol.google.com
 157.240.7.20 l.facebook.com
-119.161.8.149 l.yimg.com
+119.161.14.17 l.yimg.com
 122.152.169.5 l0.cn.nytimes.com
 219.76.4.14 large-uploads.l.google.com
 219.76.4.14 lh0.ggpht.com
@@ -1263,7 +1263,7 @@
 52.192.30.67 m.cn.nytstyle.com
 219.76.4.14 m.dropbox.com
 157.240.7.20 m.facebook.com
-119.161.8.149 m.flickr.com
+119.161.14.17 m.flickr.com
 219.76.4.14 m.gmail.com
 219.76.4.14 m.google.com
 219.76.4.14 m.google.com.co.jp
@@ -1273,7 +1273,7 @@
 219.76.4.14 m.googlemail.com
 103.245.222.193 m.imgur.com
 157.240.7.20 m.me
-119.161.8.149 m.mg.mail.yahoo.com
+119.161.14.17 m.mg.mail.yahoo.com
 72.21.91.127 m.soundcloud.com
 219.76.4.14 m.youtube.com
 173.236.110.98 m1.twitpic.com
@@ -1311,7 +1311,7 @@
 157.240.7.20 messenger.com
 192.0.66.2 messengerplatform.fb.com
 198.35.26.96 meta.m.wikimedia.org
-119.161.8.149 mg.mail.yahoo.com
+119.161.14.17 mg.mail.yahoo.com
 106.10.193.20 mlogin.yahoo.com
 151.101.77.164 mobile-feedlocator.nytimes.com
 64.233.188.188 mobile-gtalk.l.google.com
@@ -1413,7 +1413,7 @@
 219.76.4.14 p.gmodules.com
 103.245.222.193 p.imgur.com
 104.244.43.167 p.twimg.com
-119.161.8.149 p.yimg.com
+119.161.14.17 p.yimg.com
 219.76.4.14 pack.google.com
 219.76.4.14 panoramio.com
 219.76.4.14 partnerpage.google.com
@@ -1482,7 +1482,7 @@
 219.76.4.14 plus.url.google.com.sg
 219.76.4.14 plus.url.google.com.tw
 219.76.4.14 plusone.google.com
-119.161.8.149 policies.yahoo.com
+119.161.14.17 policies.yahoo.com
 219.76.4.14 polymer-project.org
 64.233.188.109 pop.gmail.com
 64.233.188.16 pop.googlemail.com
@@ -1526,7 +1526,7 @@
 103.245.222.193 s.imgur.com
 23.219.134.110 s.pinimg.com
 219.76.4.14 s.twitter.com
-119.161.8.149 s.yimg.com
+119.161.14.17 s.yimg.com
 182.22.31.252 s.yimg.jp
 219.76.4.14 s.youtube.com
 219.76.4.14 s.ytimg.com
@@ -1534,7 +1534,7 @@
 52.216.0.248 s1-nyt-com.s3.amazonaws.com
 219.76.4.14 s1.googleusercontent.com
 151.101.77.164 s1.nyt.com
-119.161.8.149 s1.yimg.com
+119.161.14.17 s1.yimg.com
 219.76.4.14 s2.googleusercontent.com
 219.76.4.14 s2.youtube.com
 54.231.251.9 s3-ap-southeast-2.amazonaws.com
@@ -1731,7 +1731,7 @@
 219.76.4.14 tdweb.twitter.com
 192.0.78.12 techprep.fb.com
 66.220.148.145 telegraph-ash.instagram.com
-34.195.59.147 telegraph-tiproxy.instagram.com
+52.4.195.22 telegraph-tiproxy.instagram.com
 52.16.188.121 telemetry.soundcloud.com
 157.240.7.20 thefacebook.com
 104.28.31.251 theinitium.com
@@ -1784,7 +1784,7 @@
 54.164.65.195 ue.flipboard.com
 219.76.4.14 ug.vp.video.l.google.com
 219.76.4.14 uk.youtube.com
-119.161.8.149 up.flickr.com
+119.161.14.17 up.flickr.com
 151.101.77.164 up.nytimes.com
 219.76.4.14 update.googleapis.com
 107.152.25.197 upload.box.com
@@ -1975,7 +1975,7 @@
 157.240.7.20 www.facebook.com
 157.240.7.20 www.fb.com
 219.76.4.14 www.feedburner.com
-119.161.8.149 www.flickr.com
+119.161.14.17 www.flickr.com
 219.76.4.14 www.gcr.io
 219.76.4.14 www.gmail.com
 219.76.4.14 www.gmodules.com
@@ -2236,7 +2236,7 @@
 219.76.4.14 www4-china.l.google.com
 219.76.4.14 www4.l.google.com
 106.10.138.240 yahoo.com
-119.161.8.149 ying.com
+119.161.14.17 ying.com
 219.76.4.14 youtu.be
 219.76.4.14 youtube-ui.l.google.com
 219.76.4.14 youtube.com
