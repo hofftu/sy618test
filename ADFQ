@@ -1,4 +1,4 @@
-## update：2017-03-23 00:51:11
+## update：2017-03-23 22:16:23
 ## ————————————————————————————————————————
 ## 【ADFQ】
 ##  by sy619 & vokins                              
@@ -6,7 +6,7 @@
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-03-23 00:51:01
+## 2017-03-23 22:16:14
 #version=201703221648
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
@@ -4662,8 +4662,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 pb3.pstatp.com
-127.0.0.1 www.google-analytics.com
-## sy619：2017-03-23 00:51:10
+## sy619：2017-03-23 22:16:21
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
@@ -4765,19 +4764,19 @@
 219.76.4.14 3.ig.gmodules.com
 219.76.4.14 30-wave-opensocial.googleusercontent.com
 219.76.4.14 31-wave-opensocial.googleusercontent.com
-119.161.8.150 31.media.tumblr.com
+119.161.14.17 31.media.tumblr.com
 219.76.4.14 32-wave-opensocial.googleusercontent.com
 54.239.176.79 32.media.tumblr.com
 219.76.4.14 33-wave-opensocial.googleusercontent.com
-119.161.8.150 33.media.tumblr.com
+119.161.14.17 33.media.tumblr.com
 219.76.4.14 34-wave-opensocial.googleusercontent.com
 219.76.4.14 35-wave-opensocial.googleusercontent.com
 219.76.4.14 36-wave-opensocial.googleusercontent.com
 54.239.176.79 36.media.tumblr.com
 219.76.4.14 37-wave-opensocial.googleusercontent.com
-119.161.8.150 37.media.tumblr.com
+119.161.14.17 37.media.tumblr.com
 219.76.4.14 38-wave-opensocial.googleusercontent.com
-119.161.8.150 38.media.tumblr.com
+119.161.14.17 38.media.tumblr.com
 219.76.4.14 39-wave-opensocial.googleusercontent.com
 157.240.7.20 4-edge-chat.facebook.com
 157.240.7.20 4-edge-chat.messenger.com
@@ -4808,7 +4807,7 @@
 219.76.4.14 6.ig.gmodules.com
 54.239.176.79 65.media.tumblr.com
 192.229.237.98 66.media.tumblr.com
-119.161.8.150 68.media.tumblr.com
+119.161.14.17 68.media.tumblr.com
 157.240.7.20 7-edge-chat.messenger.com
 219.76.4.14 7-wave-opensocial.googleusercontent.com
 219.76.4.14 7.client-channel.google.com
@@ -4922,7 +4921,7 @@
 219.76.4.14 api.recaptcha.net
 72.21.91.127 api.soundcloud.com
 104.28.31.251 api.theinitium.com
-119.161.8.150 api.tumblr.com
+119.161.14.17 api.tumblr.com
 219.76.4.14 api.tweetdeck.com
 219.76.4.14 api.twitter.com
 162.125.82.7 api.v.dropbox.com
@@ -4940,7 +4939,7 @@
 219.76.4.14 apps.twitter.com
 219.76.4.14 appspot.l.google.com
 219.76.4.14 aspmx.l.google.com
-119.161.8.99 assets.tumblr.com
+119.161.14.17 assets.tumblr.com
 219.76.4.14 assets0.twitter.com
 219.76.4.14 assets1.twitter.com
 219.76.4.14 assets2.twitter.com
@@ -5080,6 +5079,7 @@
 104.16.99.29 cfl.dropboxstatic.com
 219.76.4.14 chart.apis.google.com
 219.76.4.14 chart.googleapis.com
+157.240.7.20 chat.facebook.com
 219.76.4.14 chatenabled.mail.google.com
 219.76.4.14 check.googlezip.net
 157.240.7.20 check4.facebook.com
@@ -6255,7 +6255,7 @@
 219.76.4.14 script.google.com
 219.76.4.14 search.twitter.com
 182.22.24.252 search.yahoo.co.jp
-119.161.8.99 secure.assets.tumblr.com
+119.161.14.17 secure.assets.tumblr.com
 157.240.7.20 secure.facebook.com
 68.142.240.50 secure.flickr.com
 52.222.211.243 secure.static.tumblr.com
@@ -6431,7 +6431,7 @@
 219.76.4.14 trends.google.com
 219.76.4.14 trendstw.withgoogle.com
 23.219.134.110 trk.pinterest.com
-119.161.8.150 tumblr.com
+119.161.14.17 tumblr.com
 106.10.199.11 tw.news.yahoo.com
 106.10.138.240 tw.yahoo.com
 219.76.4.14 tw.youtube.com
@@ -6562,10 +6562,10 @@
 219.76.4.14 vp19.video.l.google.com
 219.76.4.14 vp20.video.l.google.com
 64.233.188.121 vr.chromeexperiments.com
-119.161.8.150 vt.media.tumblr.com
-119.161.8.150 vt.tumblr.com
+119.161.14.17 vt.media.tumblr.com
+119.161.14.17 vt.tumblr.com
 219.76.10.49 vthumb.ak.fbcdn.net
-119.161.8.150 vtt.tumblr.com
+119.161.14.17 vtt.tumblr.com
 157.240.7.20 vupload.facebook.com
 157.240.7.20 vupload2.vvv.facebook.com
 219.76.4.14 wallet.google.com
@@ -6874,7 +6874,7 @@
 64.233.188.121 www.thegobridgeoglepuzzle.com
 64.233.188.121 www.thegooglepuzzle.com
 219.76.4.14 www.thinkwithgoogle.com
-119.161.8.150 www.tumblr.com
+119.161.14.17 www.tumblr.com
 219.76.4.14 www.tweetdeck.com
 219.76.4.14 www.twitter.com
 219.76.4.14 www.v.dropbox.com
