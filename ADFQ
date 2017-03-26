@@ -1,4 +1,4 @@
-## update：2017-03-24 20:59:38
+## update：2017-03-27 00:12:56
 ## ————————————————————————————————————————
 ## 【ADFQ】
 ##  by sy619 & vokins                              
@@ -6,8 +6,8 @@
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-03-24 20:59:20
-#version=201703221648
+## 2017-03-27 00:12:47
+#version=201703262147
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -104,7 +104,6 @@
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
 127.0.0.1 www.ahhjyl.cn
-127.0.0.1 hk.jtsh123.com
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
 127.0.0.1 107.wuwho.cn
@@ -171,6 +170,7 @@
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 url.tudown.com
+127.0.0.1 ccb.uncle-ad.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
@@ -285,6 +285,7 @@
 127.0.0.1 hao.qquu8.com
 127.0.0.1 hao549.com
 127.0.0.1 www.i1236.net
+127.0.0.1 hk.jtsh123.com
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com
 127.0.0.1 abc.xtyx918.com
@@ -355,6 +356,7 @@
 127.0.0.1 sta.jcjk0451.com
 127.0.0.1 1.yhzm.cc
 127.0.0.1 www.hao934.com
+127.0.0.1 www.1680go.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -824,6 +826,7 @@
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
 127.0.0.1 ut2.shuqistat.com
+127.0.0.1 ad.bayescom.com
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
@@ -932,6 +935,7 @@
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
+127.0.0.1 irdna.izazamall.com
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
 127.0.0.1 afpimages.eastday.com
@@ -1026,6 +1030,7 @@
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 m.flowcodeapp.com
+127.0.0.1 wan.yigyx.com
 127.0.0.1 hai.yzygo.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
@@ -1099,6 +1104,9 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.hnctsm.com
+127.0.0.1 m.aishiguolong.com
+127.0.0.1 e.aishiguolong.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
 127.0.0.1 m.guoshennet.com
@@ -1179,6 +1187,8 @@
 127.0.0.1 e.mingysh.com
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
+127.0.0.1 tyu.m.dingdianzw.com
+127.0.0.1 sj2.sscefsol.com.cn 
 127.0.0.1 cgi.chenyigo.cn
 127.0.0.1 img.shangxize.cn
 127.0.0.1 p4.95558000.com
@@ -1193,6 +1203,7 @@
 127.0.0.1 18.dingdianzw.com
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
+127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
@@ -1271,6 +1282,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 js.cnscdj.com
 127.0.0.1 js7274.qsbz2011.com
 127.0.0.1 s.qzkxt.com
 127.0.0.1 api.ahjinshu.com
@@ -1976,6 +1988,7 @@
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
 127.0.0.1 www.a0b11.com
+127.0.0.1 j.12365chia.com
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 www.esptj.com
 127.0.0.1 js3810.yzh360.com
@@ -2541,6 +2554,7 @@
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
+127.0.0.1 1.chcx.cn
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 trace.m1905.cn
@@ -4593,7 +4607,6 @@
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.ott.hd.sohu.com
 127.0.0.1 um.hd.sohu.com
-127.0.0.1 usr.mb.hd.sohu.com
 127.0.0.1 wl.hd.sohu.com
 127.0.0.1 api.k.sohu.com
 127.0.0.1 count.vrs.sohu.com
@@ -4662,7 +4675,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 pb3.pstatp.com
-## sy619：2017-03-24 20:59:35
+## sy619：2017-03-27 00:12:52
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
@@ -5209,7 +5222,6 @@
 162.125.82.6 dl.dropboxusercontent.com
 219.76.4.14 dl.google.com
 219.76.4.14 dl.l.google.com
-52.52.16.13 dl3.boxcloud.com
 219.76.4.14 doc-00-00-docs.googleusercontent.com
 219.76.4.14 doc-00-2g-3dwarehouse.googleusercontent.com
 219.76.4.14 doc-04-2g-3dwarehouse.googleusercontent.com
@@ -6133,6 +6145,7 @@
 219.76.10.49 platform.ak.fbcdn.net
 31.13.95.48 platform.instagram.com
 219.76.4.14 platform.twitter.com
+219.76.4.14 play-music.gstatic.com
 219.76.4.14 play.golang.org
 219.76.4.14 play.google.com
 219.76.4.14 play.googleapis.com
