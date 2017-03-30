@@ -1,10 +1,10 @@
-## 2017-03-30 19:31:11
+## 2017-03-31 01:33:41
 ## https://github.com/sy618/hosts
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-03-30 19:31:03
-#version=20170330 938
+## 2017-03-31 01:20:21
+#version=201703302109
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -559,7 +559,6 @@
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
-127.0.0.1 log.voicecloud.cn
 127.0.0.1 aos.gw.youmi.net
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 au.youmi.net
@@ -4683,7 +4682,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 pb3.pstatp.com
-## 2017-03-30 19:31:07
+## 2017-03-31 01:33:40
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
@@ -4976,8 +4975,8 @@
 219.76.4.14 au.youtube.com
 219.76.4.14 auth.keyhole.com
 176.32.100.36 aws.amazon.com
-157.240.7.20 b-api.facebook.com
-157.240.7.20 b-graph.facebook.com
+157.240.2.36 b-api.facebook.com
+157.240.2.36 b-graph.facebook.com
 157.240.7.20 b-www.facebook.com
 219.76.4.14 b.googlemail.l.google.com
 219.76.10.49 b.static.ak.facebook.com
@@ -5279,7 +5278,7 @@
 68.232.46.220 ec-rtmp-media.soundcloud.com
 157.240.7.20 edge-chat.facebook.com
 157.240.7.20 edge-chat.messenger.com
-157.240.7.20 edge-mqtt.facebook.com
+31.13.95.5 edge-mqtt.facebook.com
 106.10.193.20 edit.yahoo.com
 219.76.4.14 edudirectory.withgoogle.com
 219.76.4.14 eduproducts.withgoogle.com
@@ -5657,7 +5656,7 @@
 74.6.47.80 gq1.farm5.staticflickr.com
 74.6.47.80 gq1.farm6.staticflickr.com
 157.240.7.20 graph.accountkit.com
-157.240.7.20 graph.facebook.com
+157.240.11.17 graph.facebook.com
 31.13.95.48 graph.instagram.com
 157.240.7.20 graph2.facebook.com
 151.101.77.164 graphics8.nytimes.com
@@ -6153,7 +6152,7 @@
 219.76.4.14 polymer-project.org
 64.233.188.109 pop.gmail.com
 64.233.188.16 pop.googlemail.com
-157.240.7.20 portal.fb.com
+157.240.11.17 portal.fb.com
 23.219.134.110 post.pinterest.com
 219.76.4.14 pr.vp.video.l.google.com
 219.76.4.14 producer.googleusercontent.com
