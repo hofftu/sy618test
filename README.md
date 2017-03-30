@@ -3,8 +3,8 @@
 ## 方案一：AD+FQ
 * https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * https://raw.githubusercontent.com/sy618/hosts/master/FQ
-* 自用并维护的hosts，小范围内使用，保持数据可靠性。
-* 懒人版ADFQ（已合并）： https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
+* 自用并维护的hosts。
+* 已合并： https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 
 ## 备用方案二
 * AD(vokins)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
@@ -31,5 +31,4 @@
 * [路由器自动更新hosts教程](https://github.com/sy618/hosts/blob/master/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts%E6%95%99%E7%A8%8B.txt)
 
 ## About hosts
-* 项目共产，有兴趣参与维护China AD hosts与贡献数据的可以[加入与支持我们](https://github.com/vokins/yhosts/)。
 * [This work is licensed under a CC BY 4.0 International License.](https://creativecommons.org/licenses/by/4.0/deed.zh)

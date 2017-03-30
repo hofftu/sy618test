@@ -40,6 +40,54 @@
 52.77.181.198 images.duckduckgo.com
 #96.45.82.53 help.duckduckgo.com
 
+##Dropbox
+162.125.82.6 dl.dropboxusercontent.com
+162.125.82.6 dl.dropbox.com
+162.125.82.6 dl-doc.dropbox.com
+162.125.82.6 dl-web.dropbox.com
+219.76.4.14 dropbox.com
+219.76.4.14 www.dropbox.com
+219.76.4.14 www.v.dropbox.com
+162.125.82.3 client-cf.dropbox.com
+54.192.72.202 blogs.dropbox.com
+54.192.72.202 forums.dropbox.com
+54.192.72.202 marketing.dropbox.com
+54.192.72.202 snapengage.dropbox.com
+54.192.72.202 status.dropbox.com
+52.84.202.185 cf.dropboxstatic.com
+104.16.100.29 cfl.dropboxstatic.com
+219.76.4.14 photos.dropbox.com
+162.125.82.7 api-d.dropbox.com
+162.125.82.7 api-notify.dropbox.com
+162.125.82.7 api.dropbox.com
+162.125.82.7 api.dropboxapi.com
+162.125.82.7 api.v.dropbox.com
+162.125.82.7 d.dropbox.com
+162.125.82.7 d.v.dropbox.com
+162.125.82.7 www.dropboxstatic.com
+108.160.172.195 log.getdropbox.com
+219.76.4.14 dbxlocal.dropboxstatic.com
+219.76.4.14 client-lb.dropbox.com
+219.76.4.14 client-web.dropbox.com
+219.76.4.14 client.dropbox.com
+219.76.4.14 client.v.dropbox.com
+34.197.140.43 dl-debug.dropbox.com
+219.76.4.14 m.dropbox.com
+162.125.17.1 photos-thumb.dropbox.com
+162.125.17.1 photos-thumb.x.dropbox.com
+162.125.18.130 photos-1.dropbox.com
+162.125.18.130 photos-2.dropbox.com
+162.125.18.130 photos-3.dropbox.com
+162.125.18.130 photos-4.dropbox.com
+162.125.18.130 photos-5.dropbox.com
+162.125.18.130 photos-6.dropbox.com 
+162.125.17.3 notify.dropbox.com
+162.125.17.3 bolt.dropbox.com
+162.125.17.1 api-content-photos.dropbox.com
+162.125.17.1 api-content.dropbox.com
+45.58.69.97 block.dropbox.com
+45.58.69.97 block.v.dropbox.com
+
 ## imgur
 103.245.222.193 imgur.com
 103.245.222.193 m.imgur.com
@@ -67,8 +115,6 @@
 104.20.83.194 download.apkpure.com
 104.20.83.194 translate.apkpure.com
 104.25.68.113 api.pureapk.com
-149.56.18.88 image.winudf.com
-149.56.18.88 d1.winudf.com
 
 ## medium       
 104.16.121.127 medium.com
@@ -78,9 +124,11 @@
 104.16.117.145 cdn-images-1.medium.com
 151.101.44.101 cdn-images-2.medium.com
 
-## theinitium端传媒新闻
+## theinitium端传媒
+52.76.148.61 stigma.theinitium.com
 104.28.31.251 theinitium.com
-#104.28.30.251 theinitium.com
+104.28.31.251 api.theinitium.com
+23.227.38.32 initiummall.com
 
 ## OneDrive      
 64.4.16.215 account.live.com
@@ -150,23 +198,23 @@
 202.43.194.205 c5.ah.yahoo.com
 203.188.200.67 de.yahoo.com
 216.39.54.12 overview.mail.yahoo.com
-119.161.8.149 mg.mail.yahoo.com
-119.161.8.149 geo.yahoo.com
-119.161.8.149 m.mg.mail.yahoo.com
-119.161.8.149 info.yahoo.com
-119.161.8.149 policies.yahoo.com
-119.161.8.149 m.flickr.com
-119.161.8.149 www.flickr.com
-119.161.8.149 api.flickr.com
-119.161.8.149 up.flickr.com
-119.161.8.149 l.yimg.com
-119.161.8.149 d.yimg.com
-119.161.8.149 e.yimg.com
-119.161.8.149 h.yimg.com
-119.161.8.149 p.yimg.com
-119.161.8.149 ying.com
-119.161.8.149 s.yimg.com
-119.161.8.149 s1.yimg.com
+119.161.8.100 mg.mail.yahoo.com
+119.161.8.100 geo.yahoo.com
+119.161.8.100 m.mg.mail.yahoo.com
+119.161.8.100 info.yahoo.com
+119.161.8.100 policies.yahoo.com
+119.161.8.100 m.flickr.com
+119.161.8.100 www.flickr.com
+119.161.8.100 api.flickr.com
+119.161.8.100 up.flickr.com
+119.161.8.100 l.yimg.com
+119.161.8.100 d.yimg.com
+119.161.8.100 e.yimg.com
+119.161.8.100 h.yimg.com
+119.161.8.100 p.yimg.com
+119.161.8.100 ying.com
+119.161.8.100 s.yimg.com
+119.161.8.100 s1.yimg.com
 23.62.109.75 us.js2.yimg.com
 183.177.81.75 downloadr.flickr.com
 192.0.79.32 code.flickr.com
@@ -193,7 +241,6 @@
 98.138.4.56 ne1.farm7.staticflickr.com
 
 ## twitch
-#！每个视频都使用不同域名，所以没添加视频解析。
 23.42.166.171 www.twitch.tv
 23.42.166.171 static-cdn.jtvnw.net
 35.163.126.238 spade.twitch.tv
@@ -205,7 +252,7 @@
 161.202.1.25 api.mixpanel.com
 52.89.192.68 irc-ws.chat.twitch.tv
 
-## Ingress虚拟现实
+## Ingress
 54.241.32.15 api.crittercism.com
 54.241.32.22 appload.ingest.crittercism.com
 54.193.253.1 txn.ingest.crittercism.com
@@ -214,7 +261,6 @@
 169.46.12.88 batch.upsight-api.com
 
 ## tapatalk
-#！由于一些域名不走https，部分功能不能完美使用。
 52.200.150.15 www.tapatalk.com
 168.61.42.209 rss-spider.tapatalk.com
 40.76.222.184 rss.tapatalk.com
@@ -231,7 +277,7 @@
 104.27.153.130 media.tapatalk-cdn.com
 104.27.153.130 uploads.tapatalk-cdn.com
 
-## MEGA网盘
+## MEGA
 31.216.147.135 eu.api.mega.co.nz
 154.53.224.130 eu.static.mega.co.nz
 117.18.237.188 g.cdn1.mega.co.nz
@@ -248,17 +294,15 @@
 ## pinterest                
 151.101.192.84 www.pinterest.com
 151.101.192.84 pinterest.com
-151.101.192.84 api.pinterest.com
 151.101.192.84 nl.pinterest.com
+151.101.192.84 api.pinterest.com
 151.101.192.84 s.pinimg.com
 151.101.192.84 i.pinimg.com
 151.101.192.84 v.pinimg.com
 151.101.192.84 s-media-cache-ak0.pinimg.com
 151.101.192.84 passets-cdn.pinterest.com
-35.167.147.170 post.pinterest.com
-52.3.8.5 trk.pinterest.com
-
-
+151.101.192.84 trk.pinterest.com
+151.101.192.84 post.pinterest.com
 
 # SoundCloud  
 72.21.91.96 style.sndcdn.com
@@ -284,59 +328,75 @@
 52.16.188.121 eventgateway.soundcloud.com
 52.16.188.121 telemetry.soundcloud.com
 
-# WordPress
-68.232.44.121 www.gravatar.com
-68.232.44.121 0.gravatar.com
-68.232.44.121 1.gravatar.com
-68.232.44.121 2.gravatar.com
-68.232.44.121 s.gravatar.com
-192.0.80.242 lb.gravatar.com
-192.0.80.242 secure.gravatar.com
-192.0.81.250 botd2.wordpress.com
-192.0.78.13 dashboard.wordpress.com
-192.0.78.13 en.blog.wordpress.com
-192.0.78.13 en.forums.wordpress.com
-192.0.78.13 forums.wordpress.com
-192.0.77.2 i0.wp.com
-192.0.77.2 i1.wp.com
-192.0.77.2 i2.wp.com
-192.0.78.13 lb.wordpress.com
-192.0.78.13 lucifr.wordpress.com
-192.0.81.250 r-login.wordpress.com
-68.232.44.119 s.stats.wordpress.com
-192.229.144.127 s.w.org
-192.0.77.32 s.wordpress.com
-192.0.77.32 s.wordpress.org
-192.0.77.32 s0.wp.com
-192.0.77.32 s1.wordpress.com
-192.0.77.32 s1.wp.com
-192.0.77.32 s2.wordpress.com
-192.0.77.32 s2.wp.com
-192.0.77.32 s3.wordpress.com
-192.0.78.13 stats.wordpress.com
-192.0.78.9 wordpress.com
-192.0.78.13 wpcom.wordpress.com
-192.0.78.13 zh.wordpress.com
-192.0.78.13 zh-cn.wordpress.com
-192.0.78.13 zh-sg.wordpress.com
+# Twitter
+219.76.4.14 t.co
+219.76.4.14 twitter.com
+219.76.4.14 www.twitter.com
+219.76.4.14 api.twitter.com
+219.76.4.14 mobile.twitter.com
+219.76.4.14 support.twitter.com
+219.76.4.14 upload.twitter.com
+219.76.4.14 tweetdeck.twitter.com
+219.76.4.14 platform.twitter.com
+219.76.4.14 about.twitter.com
+219.76.4.14 blog.twitter.com
+219.76.4.14 betastream.twitter.com
+219.76.4.14 dev.twitter.com
+219.76.4.14 pic.twitter.com
+219.76.4.14 search.twitter.com
+219.76.4.14 status.twitter.com
+219.76.4.14 assets0.twitter.com
+219.76.4.14 assets1.twitter.com
+219.76.4.14 assets2.twitter.com
+219.76.4.14 assets3.twitter.com
+219.76.4.14 assets4.twitter.com
+219.76.4.14 static.twitter.com
+219.76.4.14 help.twitter.com
+219.76.4.14 ton.twitter.com
+219.76.4.14 s.twitter.com
+219.76.4.14 analytics.twitter.com
+219.76.4.14 urls-real.api.twitter.com
+219.76.4.14 userstream.twitter.com
+219.76.4.14 sitestream.twitter.com
+219.76.4.14 stream.twitter.com
+219.76.4.14 tdweb.twitter.com
+219.76.4.14 cdn.syndication.twimg.com
+219.76.4.14 cdn.syndication.twitter.com
+219.76.4.14 apps.twitter.com
+219.76.4.14 debates.twitter.com
+219.76.4.14 tweetdeck.com
+219.76.4.14 api.tweetdeck.com
+219.76.4.14 web.tweetdeck.com
+219.76.4.14 www.tweetdeck.com
+219.76.4.14 downloads.tweetdeck.com
+173.236.110.98 m1.twitpic.com
+173.236.110.98 twitpic.com
+173.236.110.98 web1.twitpic.com
+173.236.110.98 web10.twitpic.com
+173.236.110.98 web2.twitpic.com
+173.236.110.98 web3.twitpic.com
+173.236.110.98 web4.twitpic.com
+173.236.110.98 web5.twitpic.com
+173.236.110.98 web6.twitpic.com
+173.236.110.98 web7.twitpic.com
+173.236.110.98 web8.twitpic.com
+173.236.110.98 web9.twitpic.com
+104.244.43.167 a0.twimg.com
+104.244.43.167 a1.twimg.com
+104.244.43.167 a2.twimg.com
+104.244.43.167 a3.twimg.com
+104.244.43.167 a4.twimg.com
+104.244.43.167 a5.twimg.com
+104.244.43.167 abs.twimg.com
+104.244.43.167 g.twimg.com
+104.244.43.167 image-proxy-origin.twimg.com
+104.244.43.167 ma.twimg.com
+104.244.43.167 o.twimg.com
+104.244.43.167 p.twimg.com
+104.244.43.167 pbs.twimg.com
+104.244.43.167 r.twimg.com
+104.244.43.167 syndication-o.twimg.com
+104.244.43.167 syndication.twimg.com
+104.244.43.167 ton.twimg.com
+104.244.43.167 video.twimg.com
 
-# Appannie
-69.167.138.64 www.appannie.com
-69.167.138.64 appannie.com
-
-# BundleStars
-23.253.146.21 bundlestars.com
-54.192.232.60 cdn-images.bundlestars.com
-185.12.83.2 support.bundlestars.com
-
-# Startpage
-37.0.88.36 startpage.com
-37.0.88.36 eu.startpage.com
-37.0.88.36 www.startpage.com
-37.0.88.36 support.startpage.com
-37.0.88.36 blog.startpage.com
-
-# slideshare
-103.20.93.138 slideshare.net
-103.20.93.138 www.slideshare.net
-61.213.168.33 www.elperiodico.cat
