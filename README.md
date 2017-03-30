@@ -31,9 +31,9 @@
 * [路由器自动更新hosts教程](https://github.com/sy618/hosts/blob/master/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts%E6%95%99%E7%A8%8B.txt)
 * [PC端自动更新hosts软件uphosts.exe，作者：阿起](https://raw.githubusercontent.com/vokins/yhosts/master/win/uphosts.exe)
 
-# China AD hosts，by vokins
+### China AD hosts，by vokins
 * 有广告或误杀问题请集中到以下地址反馈！
 * https://github.com/vokins/yhosts/
 
-# licensed
+### licensed
 * [This work is licensed under a CC BY 4.0 International License.](https://creativecommons.org/licenses/by/4.0/deed.zh)
