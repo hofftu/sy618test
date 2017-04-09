@@ -1,4 +1,4 @@
-## 2017-04-09 07:01:22
+## 2017-04-09 21:42:28
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -1172,6 +1172,7 @@
 219.76.4.14 login.corp.google.com
 157.240.7.20 login.facebook.com
 131.253.61.64 login.live.com
+198.35.26.96 login.wikimedia.org
 106.10.193.20 login.yahoo.com
 66.6.32.162 ls.srvcs.tumblr.com
 219.76.10.49 lumiere-a.akamaihd.net
