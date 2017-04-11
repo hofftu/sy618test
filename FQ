@@ -1,4 +1,4 @@
-## 2017-04-09 21:42:28
+## 2017-04-11 21:41:50
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -313,9 +313,6 @@
 219.76.4.14 beacons.gvt2.com
 219.76.4.14 beta.blogger.com
 219.76.4.14 betastream.twitter.com
-63.250.200.72 bf1.farm3.staticflickr.com
-63.250.200.72 bf1.farm6.staticflickr.com
-63.250.200.72 bf1.farm7.staticflickr.com
 219.76.4.14 bigcache.googleapis.com
 157.240.7.20 bigzipfiles.facebook.com
 219.76.4.14 bks0.books.google.com
@@ -627,19 +624,11 @@
 198.35.26.96 eu.wikipedia.org
 52.16.188.121 eventgateway.soundcloud.com
 219.76.4.14 events.google.com
+219.76.4.14 events.withgoogle.com
 219.76.10.49 external.ak.fbcdn.net
 157.240.7.20 external.xx.fbcdn.net
 151.101.77.133 f.vimeocdn.com
 157.240.7.20 facebook.com
-106.10.137.23 farm1.staticflickr.com
-106.10.137.23 farm2.staticflickr.com
-106.10.137.23 farm3.staticflickr.com
-106.10.137.23 farm4.staticflickr.com
-106.10.137.23 farm5.staticflickr.com
-106.10.137.23 farm6.staticflickr.com
-106.10.137.23 farm7.staticflickr.com
-106.10.137.23 farm8.staticflickr.com
-106.10.137.23 farm9.staticflickr.com
 219.76.10.49 fb-l-a-a.akamaihd.net
 219.76.10.49 fb-l-b-a.akamaihd.net
 219.76.10.49 fb-l-c-a.akamaihd.net
@@ -951,10 +940,6 @@
 219.76.4.14 gp4.googleusercontent.com
 219.76.4.14 gp5.googleusercontent.com
 219.76.4.14 gp6.googleusercontent.com
-74.6.47.80 gq1.farm3.staticflickr.com
-74.6.47.80 gq1.farm4.staticflickr.com
-74.6.47.80 gq1.farm5.staticflickr.com
-74.6.47.80 gq1.farm6.staticflickr.com
 157.240.7.20 graph.accountkit.com
 157.240.11.17 graph.facebook.com
 31.13.95.48 graph.instagram.com
@@ -1292,7 +1277,6 @@
 192.229.237.97 mx.tumblr.com
 219.76.4.14 myaccount.google.com
 106.10.193.20 na.edit.yahoo.com
-98.138.4.56 ne1.farm7.staticflickr.com
 64.233.188.121 news.dartlang.org
 219.76.4.14 news.google.co.jp
 219.76.4.14 news.google.com
@@ -1336,9 +1320,6 @@
 103.245.222.193 p.imgur.com
 104.244.43.167 p.twimg.com
 119.161.8.100 p.yimg.com
-119.161.8.100 p1.staticflickr.com
-119.161.8.100 p2.staticflickr.com
-119.161.8.100 p3.staticflickr.com
 219.76.4.14 pack.google.com
 219.76.4.14 panoramio.com
 219.76.4.14 partnerpage.google.com
@@ -1570,7 +1551,7 @@
 157.240.7.20 ssl.facebook.com
 61.91.161.217 ssl.gstatic.com
 219.76.4.14 sslvideo-upload.l.google.com
-54.65.44.114 sso.nytcn.me
+54.64.135.49 sso.nytcn.me
 219.76.4.14 stage.gdata.youtube.com
 157.240.7.20 star.c10r.facebook.com
 157.240.7.20 star.facebook.com
