@@ -1,12 +1,12 @@
-### 订阅hosts搭配方案推荐：
+### 订阅hosts/dnsmasq搭配方案推荐：
 
-## 方案一
+## hosts方案一
 * https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * https://raw.githubusercontent.com/sy618/hosts/master/FQ
 * 自用并维护的hosts。
 * 已合并： https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 
-## 方案二
+## hosts方案二
 * AD(vokins)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * play down： https://raw.githubusercontent.com/sy618/hosts/master/p
 * YouTube  ：  https://raw.githubusercontent.com/sy618/hosts/master/y
