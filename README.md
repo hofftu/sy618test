@@ -1,12 +1,13 @@
-## 订阅hosts/dnsmasq搭配方案推荐：
+## hosts/dnsmasq订阅搭配方案推荐：
 
-### [两个hosts订阅方案.txt](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
-### [路由器dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)
+### [两个hosts订阅方案](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
+
+## [路由器dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)
 * dnsad：屏蔽广告家族
 * dnsfq：FQ专用，这个需要大家共同努力完善。
 * dnsip：屏蔽运营商劫持与一些广告IP（如何查看是否被劫持，输入nslookup baiduiiii.com，若返回IP就是劫持，请把那个IP发给我收集一下）
 * hosts：默认使用的是vokins的完整AD hosts。如PC需看视频的，请自行更换为不带屏蔽视频广告的hosts.txt规则，https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-* 如何使用、脚本等更多请看 [说明](https://github.com/sy618/hosts/blob/master/dnsmasq/dnsmasq%E8%AF%B4%E6%98%8E.md) 文件。
+* [如何使用、脚本等更多请看](https://github.com/sy618/hosts/blob/master/dnsmasq/dnsmasq%E8%AF%B4%E6%98%8E.md) 
 
 ### [hosts文件说明](https://github.com/sy618/hosts/blob/master/md/hosts%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E.md)
 
