@@ -1,9 +1,9 @@
-## 2017-04-12 22:16:12
+## 2017-04-14 16:37:01
 ## https://github.com/sy618/hosts
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-04-12 22:16:04
+## 2017-04-14 16:36:47
 #version=201704112309
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
@@ -3545,7 +3545,12 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 pb3.pstatp.com
-## 2017-04-12 22:16:10
+127.0.0.1 qzonestyle.gtimg.cn
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 stat.googleanalysis.mobi
+127.0.0.1 ad.googleanalysis.mobi 
+## 2017-04-14 16:36:59
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
