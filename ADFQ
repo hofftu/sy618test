@@ -1,9 +1,9 @@
-## 2017-04-14 16:42:05
+## 2017-04-14 17:25:30
 ## https://github.com/sy618/hosts
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-04-14 16:41:51
+## 2017-04-14 17:25:21
 #version=201704112309
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
@@ -3550,7 +3550,7 @@
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 stat.googleanalysis.mobi
 127.0.0.1 ad.googleanalysis.mobi 
-## 2017-04-14 16:42:01
+## 2017-04-14 17:25:27
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
@@ -3729,7 +3729,7 @@
 104.244.43.231 a3.twimg.com
 104.244.43.231 a4.twimg.com
 104.244.43.231 a5.twimg.com
-219.76.4.14 about.twitter.com
+104.244.45.255 about.twitter.com
 104.244.43.231 abs.twimg.com
 46.51.218.82 ac.duckduckgo.com
 219.76.4.14 accelerate.withgoogle.com
@@ -3771,7 +3771,7 @@
 64.233.188.188 alt6-mtalk.google.com
 64.233.188.188 alt7-mtalk.google.com
 64.233.188.188 alt8-mtalk.google.com
-219.76.4.14 analytics.twitter.com
+104.244.45.255 analytics.twitter.com
 219.76.4.14 android-china.l.google.com
 219.76.4.14 android-market.l.google.com
 219.76.4.14 android-review.googlesource.com
@@ -3812,8 +3812,8 @@
 72.21.91.127 api.soundcloud.com
 104.28.31.251 api.theinitium.com
 119.161.8.100 api.tumblr.com
-219.76.4.14 api.tweetdeck.com
-219.76.4.14 api.twitter.com
+104.244.45.255 api.tweetdeck.com
+104.244.45.255 api.twitter.com
 162.125.82.7 api.v.dropbox.com
 23.235.37.217 api.vimeo.com
 157.240.7.20 api2.facebook.com
@@ -3826,15 +3826,15 @@
 54.241.32.8 appload.ingest.crittercism.com
 157.240.7.20 apps.facebook.com
 219.76.4.14 apps.google.com
-219.76.4.14 apps.twitter.com
+104.244.45.255 apps.twitter.com
 219.76.4.14 appspot.l.google.com
 219.76.4.14 aspmx.l.google.com
 119.161.8.100 assets.tumblr.com
-219.76.4.14 assets0.twitter.com
-219.76.4.14 assets1.twitter.com
-219.76.4.14 assets2.twitter.com
-219.76.4.14 assets3.twitter.com
-219.76.4.14 assets4.twitter.com
+104.244.45.255 assets0.twitter.com
+104.244.45.255 assets1.twitter.com
+104.244.45.255 assets2.twitter.com
+104.244.45.255 assets3.twitter.com
+104.244.45.255 assets4.twitter.com
 183.79.249.124 assist.search.yahooapis.jp
 219.76.4.14 atmosphere.withgoogle.com
 219.76.4.14 atmospheretokyo.withgoogle.com
@@ -3863,7 +3863,7 @@
 54.164.65.195 beacon.flipboard.com
 219.76.4.14 beacons.gvt2.com
 219.76.4.14 beta.blogger.com
-219.76.4.14 betastream.twitter.com
+104.244.45.255 betastream.twitter.com
 219.76.4.14 bigcache.googleapis.com
 157.240.7.20 bigzipfiles.facebook.com
 219.76.4.14 bks0.books.google.com
@@ -3897,7 +3897,7 @@
 31.13.95.48 blog.instagram.com
 219.76.4.14 blog.orkut.com
 219.76.4.14 blog.panoramio.com
-219.76.4.14 blog.twitter.com
+104.244.45.255 blog.twitter.com
 64.233.188.121 blog.webmproject.org
 219.76.4.14 blogger.com
 219.76.4.14 blogger.google.com
@@ -3957,8 +3957,8 @@
 104.16.121.145 cdn-static-2.medium.com
 157.240.7.20 cdn.fbsbx.com
 52.84.49.209 cdn.flipboard.com
-219.76.4.14 cdn.syndication.twimg.com
-219.76.4.14 cdn.syndication.twitter.com
+104.244.45.255 cdn.syndication.twimg.com
+104.244.45.255 cdn.syndication.twitter.com
 104.16.26.3 cdn01.boxcdn.net
 151.101.77.164 cdn1.nyt.com
 219.76.4.14 certificate-transparency.org
@@ -4061,7 +4061,7 @@
 219.76.4.14 dbxlocal.dropboxstatic.com
 203.188.200.67 de.yahoo.com
 219.76.4.14 de.youtube.com
-219.76.4.14 debates.twitter.com
+104.244.45.255 debates.twitter.com
 219.76.4.14 desktop.google.co.jp
 219.76.4.14 desktop.google.com
 219.76.4.14 desktop.google.com.hk
@@ -4071,7 +4071,7 @@
 219.76.4.14 desktop2.google.com
 219.76.4.14 dev.android.com
 219.76.4.14 dev.chromium.org
-219.76.4.14 dev.twitter.com
+104.244.45.255 dev.twitter.com
 219.76.4.14 developer.android.com
 219.76.4.14 developer.chrome.com
 157.240.7.20 developer.facebook.com
@@ -4120,7 +4120,7 @@
 219.76.4.14 download-chromium.appspot.com
 104.20.83.194 download.apkpure.com
 183.177.81.75 downloadr.flickr.com
-219.76.4.14 downloads.tweetdeck.com
+104.244.45.255 downloads.tweetdeck.com
 219.76.4.14 draft.blogger.com
 219.76.4.14 drive.google.com
 219.76.4.14 drive0.google.com
@@ -4518,7 +4518,7 @@
 219.76.4.14 help.blogger.com
 31.13.95.48 help.instagram.com
 219.76.4.14 help.orkut.com
-219.76.4.14 help.twitter.com
+104.244.45.255 help.twitter.com
 219.76.4.14 help.youtube.com
 219.76.4.14 history.google.com
 219.76.4.14 history.l.google.com
@@ -4776,7 +4776,7 @@
 219.76.4.14 mobile.google.com.hk
 219.76.4.14 mobile.l.google.com
 151.101.77.164 mobile.nytimes.com
-219.76.4.14 mobile.twitter.com
+104.244.45.255 mobile.twitter.com
 219.76.4.14 mobilemaps.clients.google.com
 31.13.95.34 mqtt-mini.facebook.com
 157.240.7.20 mqtt.facebook.com
@@ -4906,7 +4906,7 @@
 219.76.4.14 photos.dropbox.com
 219.76.4.14 photos.google.com
 219.76.4.14 photos1.blogger.com
-219.76.4.14 pic.twitter.com
+104.244.45.255 pic.twitter.com
 219.76.4.14 picasa.google.com
 219.76.4.14 picasaweb.google.co.jp
 219.76.4.14 picasaweb.google.com
@@ -4920,7 +4920,7 @@
 219.76.4.14 places.google.com
 219.76.10.49 platform.ak.fbcdn.net
 31.13.95.48 platform.instagram.com
-219.76.4.14 platform.twitter.com
+104.244.45.255 platform.twitter.com
 219.76.4.14 play-music.gstatic.com
 219.76.4.14 play.golang.org
 219.76.4.14 play.google.com
@@ -4980,7 +4980,7 @@
 52.222.211.227 s.flipboard.com
 103.245.222.193 s.imgur.com
 151.101.76.84 s.pinimg.com
-219.76.4.14 s.twitter.com
+104.244.45.255 s.twitter.com
 119.161.8.100 s.yimg.com
 182.22.31.252 s.yimg.jp
 219.76.4.14 s.youtube.com
@@ -5045,7 +5045,7 @@
 157.240.7.20 scontent.facebook.com
 157.240.7.20 scontent.xx.fbcdn.net
 219.76.4.14 script.google.com
-219.76.4.14 search.twitter.com
+104.244.45.255 search.twitter.com
 182.22.24.252 search.yahoo.co.jp
 119.161.8.100 secure.assets.tumblr.com
 157.240.7.20 secure.facebook.com
@@ -5055,7 +5055,7 @@
 219.76.4.14 services.google.com
 119.81.248.34 single.upsight-api.com
 219.76.4.14 sites.google.com
-219.76.4.14 sitestream.twitter.com
+104.244.45.255 sitestream.twitter.com
 219.76.4.14 sketchup.google.com
 219.76.4.14 sketchup.l.google.com
 219.76.4.14 skins.gmodules.com
@@ -5117,7 +5117,7 @@
 219.76.4.14 static.panoramio.com
 54.230.213.29 static.sxzhchina.com
 157.240.7.20 static.thefacebook.com
-219.76.4.14 static.twitter.com
+104.244.45.255 static.twitter.com
 157.240.7.20 static.xx.fbcdn.net
 151.101.77.164 static01.nyt.com
 151.101.77.164 static02.nyt.com
@@ -5132,7 +5132,7 @@
 157.240.7.20 staticxx.facebook.com
 219.76.4.14 status.blogger.com
 54.192.72.202 status.dropbox.com
-219.76.4.14 status.twitter.com
+104.244.45.255 status.twitter.com
 52.76.148.61 stigma.theinitium.com
 219.76.4.14 storage-ugc.l.googleusercontent.com
 219.76.4.14 storage.googleapis.com
@@ -5140,7 +5140,7 @@
 134.170.111.176 storage.live.com
 219.76.4.14 store.google.com
 103.245.222.193 store.imgur.com
-219.76.4.14 stream.twitter.com
+104.244.45.255 stream.twitter.com
 219.76.4.14 streetart.withgoogle.com
 64.233.188.121 studio.html5rocks.com
 64.233.177.127 stun.l.google.com
@@ -5150,10 +5150,11 @@
 219.76.4.14 supl.google.com
 104.218.203.34 support.box.com
 219.76.4.14 support.google.com
-219.76.4.14 support.twitter.com
+104.244.45.255 support.twitter.com
 104.244.43.231 syndication-o.twimg.com
 104.244.43.231 syndication.twimg.com
-219.76.4.14 t.co
+104.244.45.255 syndication.twitter.com
+104.244.45.255 t.co
 219.76.4.14 t.doc-0-0-sj.sj.googleusercontent.com
 66.6.32.162 t.umblr.com
 219.76.4.14 t0.gstatic.com
@@ -5178,7 +5179,7 @@
 219.76.4.14 tbn4.google.com
 219.76.4.14 tbn5.google.com
 219.76.4.14 tbn6.google.com
-219.76.4.14 tdweb.twitter.com
+104.244.45.255 tdweb.twitter.com
 192.0.78.12 techprep.fb.com
 66.220.148.145 telegraph-ash.instagram.com
 52.4.195.22 telegraph-tiproxy.instagram.com
@@ -5189,7 +5190,7 @@
 192.0.66.2 threatexchange.fb.com
 219.76.4.14 tip.golang.org
 104.244.43.231 ton.twimg.com
-219.76.4.14 ton.twitter.com
+104.244.45.255 ton.twitter.com
 219.76.4.14 toolbar.google.co.jp
 219.76.4.14 toolbar.google.com
 219.76.4.14 toolbar.google.com.hk
@@ -5221,10 +5222,10 @@
 106.10.199.11 tw.news.yahoo.com
 106.10.138.240 tw.yahoo.com
 219.76.4.14 tw.youtube.com
-219.76.4.14 tweetdeck.com
-219.76.4.14 tweetdeck.twitter.com
+104.244.45.255 tweetdeck.com
+104.244.45.255 tweetdeck.twitter.com
 173.236.110.98 twitpic.com
-219.76.4.14 twitter.com
+104.244.45.255 twitter.com
 54.193.253.0 txn.ingest.crittercism.com
 151.101.77.164 typeface.nyt.com
 151.101.77.164 typeface.nytimes.com
@@ -5244,7 +5245,7 @@
 157.240.7.20 upload.facebook.com
 219.76.4.14 upload.google.com
 219.76.4.14 upload.photos.google.com
-219.76.4.14 upload.twitter.com
+104.244.45.255 upload.twitter.com
 219.76.4.14 upload.video.google.com
 198.35.26.112 upload.wikimedia.org
 219.76.4.14 upload.youtube.com
@@ -5253,10 +5254,10 @@
 219.76.4.14 uploads.code.google.com
 219.76.4.14 uploads.stage.gdata.youtube.com
 219.76.4.14 uploadsj.clients.google.com
-219.76.4.14 urls-real.api.twitter.com
+104.244.45.255 urls-real.api.twitter.com
 23.62.109.75 us.js2.yimg.com
 106.10.138.240 us.yahoo.com
-219.76.4.14 userstream.twitter.com
+104.244.45.255 userstream.twitter.com
 151.101.76.84 v.pinimg.com
 219.76.4.14 v3.cache1.c.docs.google.com
 54.230.86.121 va.sndcdn.com
@@ -5322,7 +5323,7 @@
 219.76.4.14 wave0.google.com
 219.76.4.14 wave1.google.com
 157.240.7.20 web.facebook.com
-219.76.4.14 web.tweetdeck.com
+104.244.45.255 web.tweetdeck.com
 173.236.110.98 web1.twitpic.com
 173.236.110.98 web10.twitpic.com
 173.236.110.98 web2.twitpic.com
@@ -5622,8 +5623,8 @@
 64.233.188.121 www.thegooglepuzzle.com
 219.76.4.14 www.thinkwithgoogle.com
 119.161.8.100 www.tumblr.com
-219.76.4.14 www.tweetdeck.com
-219.76.4.14 www.twitter.com
+104.244.45.255 www.tweetdeck.com
+104.244.45.255 www.twitter.com
 219.76.4.14 www.v.dropbox.com
 64.233.188.121 www.waveprotocol.org
 219.76.4.14 www.webmproject.org

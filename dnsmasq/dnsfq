@@ -1,4 +1,4 @@
-## 2017-04-14 16:36:47
+## 2017-04-14 17:25:21
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY 4.0 International License.
 # https://creativecommons.org/licenses/by/4.0/
@@ -189,11 +189,11 @@ address=/stigma.theinitium.com/52.76.148.61
 address=/theinitium.com/104.28.31.251
 
 ## Twitter
-address=/t.co/219.76.4.70
-address=/tweetdeck.com/219.76.4.70
+address=/t.co/104.244.45.255
+address=/tweetdeck.com/104.244.45.255
 address=/twimg.com/104.244.43.231
 address=/twitpic.com/173.236.110.98
-address=/twitter.com/219.76.4.70
+address=/twitter.com/104.244.45.255
 
 ## Vimeo   
 address=/vimeo.com/23.235.37.217
