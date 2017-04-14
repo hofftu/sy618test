@@ -1,4 +1,4 @@
-## 2017-04-14 16:36:59
+## 2017-04-14 16:42:01
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -170,16 +170,16 @@
 151.101.24.249 a.disquscdn.com
 219.76.10.49 a.dolimg.com
 219.76.4.14 a.orkut.gmodules.com
-104.244.43.167 a0.twimg.com
+104.244.43.231 a0.twimg.com
 151.101.77.164 a1.nyt.com
 54.230.86.121 a1.sndcdn.com
-104.244.43.167 a1.twimg.com
-104.244.43.167 a2.twimg.com
-104.244.43.167 a3.twimg.com
-104.244.43.167 a4.twimg.com
-104.244.43.167 a5.twimg.com
+104.244.43.231 a1.twimg.com
+104.244.43.231 a2.twimg.com
+104.244.43.231 a3.twimg.com
+104.244.43.231 a4.twimg.com
+104.244.43.231 a5.twimg.com
 219.76.4.14 about.twitter.com
-104.244.43.167 abs.twimg.com
+104.244.43.231 abs.twimg.com
 46.51.218.82 ac.duckduckgo.com
 219.76.4.14 accelerate.withgoogle.com
 107.152.25.197 account.box.com
@@ -663,7 +663,7 @@
 219.76.4.14 friendconnect.gmodules.com
 219.76.4.14 fusion.google.com
 219.76.4.14 g.co
-104.244.43.167 g.twimg.com
+104.244.43.231 g.twimg.com
 219.76.4.14 g0.gstatic.com
 219.76.4.14 g1.gstatic.com
 219.76.4.14 g2.gstatic.com
@@ -1009,7 +1009,7 @@
 219.76.10.49 ig-s-d-a.akamaihd.net
 219.76.4.14 ig.gmodules.com
 219.76.4.14 ig.ig.gmodules.com
-104.244.43.167 image-proxy-origin.twimg.com
+104.244.43.231 image-proxy-origin.twimg.com
 219.76.4.14 image.google.com
 104.25.68.113 image.winudf.com
 219.76.4.14 images-blogger-opensocial.googleusercontent.com
@@ -1182,7 +1182,7 @@
 72.21.91.127 m.soundcloud.com
 219.76.4.14 m.youtube.com
 173.236.110.98 m1.twitpic.com
-104.244.43.167 ma.twimg.com
+104.244.43.231 ma.twimg.com
 219.76.4.14 madeby.google.com
 219.76.4.14 mail-attachment.googleusercontent.com
 64.233.188.109 mail-settings.google.com
@@ -1300,7 +1300,7 @@
 151.101.77.164 nytimes.com
 219.76.4.14 nz.vp.video.l.google.com
 219.76.4.14 nztdug.vp.video.l.google.com
-104.244.43.167 o.twimg.com
+104.244.43.231 o.twimg.com
 219.76.4.14 oauth.googleusercontent.com
 219.76.4.14 ogs.google.com
 204.79.197.217 onedrive.live.com
@@ -1318,7 +1318,7 @@
 216.39.54.12 overview.mail.yahoo.com
 219.76.4.14 p.gmodules.com
 103.245.222.193 p.imgur.com
-104.244.43.167 p.twimg.com
+104.244.43.231 p.twimg.com
 119.161.8.100 p.yimg.com
 219.76.4.14 pack.google.com
 219.76.4.14 panoramio.com
@@ -1326,7 +1326,7 @@
 151.101.76.84 passets-cdn.pinterest.com
 219.76.4.14 passwords.google.com
 219.76.4.14 payments.google.com
-104.244.43.167 pbs.twimg.com
+104.244.43.231 pbs.twimg.com
 219.76.4.14 peering.google.com
 219.76.4.14 people-pa.googleapis.com
 64.4.16.15 people.live.com
@@ -1405,7 +1405,7 @@
 107.152.25.200 public.boxcloud.com
 66.6.32.162 px.srvcs.tumblr.com
 219.76.4.14 qwqy.vp.video.l.google.com
-104.244.43.167 r.twimg.com
+104.244.43.231 r.twimg.com
 103.6.87.114 radar.cedexis.com
 219.76.4.14 reader.google.com
 219.76.4.14 reader.googleusercontent.com
@@ -1600,8 +1600,8 @@
 104.218.203.34 support.box.com
 219.76.4.14 support.google.com
 219.76.4.14 support.twitter.com
-104.244.43.167 syndication-o.twimg.com
-104.244.43.167 syndication.twimg.com
+104.244.43.231 syndication-o.twimg.com
+104.244.43.231 syndication.twimg.com
 219.76.4.14 t.co
 219.76.4.14 t.doc-0-0-sj.sj.googleusercontent.com
 66.6.32.162 t.umblr.com
@@ -1637,7 +1637,7 @@
 219.76.4.14 themes.googleusercontent.com
 192.0.66.2 threatexchange.fb.com
 219.76.4.14 tip.golang.org
-104.244.43.167 ton.twimg.com
+104.244.43.231 ton.twimg.com
 219.76.4.14 ton.twitter.com
 219.76.4.14 toolbar.google.co.jp
 219.76.4.14 toolbar.google.com
@@ -1728,7 +1728,7 @@
 219.76.4.14 video.google.com.tw
 219.76.4.14 video.googleusercontent.com
 219.76.4.14 video.l.google.com
-104.244.43.167 video.twimg.com
+104.244.43.231 video.twimg.com
 157.240.7.20 video.xx.fbcdn.net
 23.235.37.217 vimeo.com
 219.76.4.14 virustotalcloud.appspot.com
