@@ -1,4 +1,4 @@
-## 2017-04-15 22:35:22
+## 2017-04-15 22:57:08
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY 4.0 International License.
 # https://creativecommons.org/licenses/by/4.0/
@@ -34,7 +34,7 @@ address=/dl-doc.dropbox.com/162.125.82.6
 address=/dl-web.dropbox.com/162.125.82.6
 address=/dl.dropbox.com/162.125.82.6
 address=/dl.dropboxusercontent.com/162.125.82.6
-address=/dropbox.com/162.125.3.1
+address=/dropbox.com/219.76.4.70
 address=/dropboxstatic.com/219.76.4.70
 address=/getdropbox.com/108.160.172.195
 address=/www.dropboxstatic.com/162.125.82.7
