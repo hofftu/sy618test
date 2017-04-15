@@ -1,4 +1,4 @@
-## 2017-04-14 17:25:21
+## 2017-04-15 22:05:41
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY 4.0 International License.
 # https://creativecommons.org/licenses/by/4.0/
@@ -34,7 +34,7 @@ address=/dl-doc.dropbox.com/162.125.82.6
 address=/dl-web.dropbox.com/162.125.82.6
 address=/dl.dropbox.com/162.125.82.6
 address=/dl.dropboxusercontent.com/162.125.82.6
-address=/dropbox.com/219.76.4.70
+address=/dropbox.com/162.125.3.1
 address=/dropboxstatic.com/219.76.4.70
 address=/getdropbox.com/108.160.172.195
 address=/www.dropboxstatic.com/162.125.82.7
@@ -53,6 +53,7 @@ address=/ak.instagram.com/219.76.10.49
 address=/cdninstagram.com/31.13.95.48
 address=/edge-mqtt.facebook.com/31.13.95.5
 address=/facebook.com/157.240.7.20
+address=/facebook.net/157.240.7.20
 address=/fb.com/157.240.7.20
 address=/fbsbx.com/157.240.7.20
 address=/giphy.com/151.101.25.127
@@ -62,7 +63,7 @@ address=/messenger.com/157.240.7.20
 address=/scontentxxfbcdn.net/157.240.7.20
 address=/telegraph-ash.instagram.com/66.220.148.145
 address=/thefacebook.com/157.240.7.20
-address=/xx.fbcdn.net/157.240.7.20
+address=/fbcdn.net/157.240.7.20
 
 ## Flipboard    
 address=/s.flipboard.com/52.222.211.227
@@ -102,6 +103,7 @@ address=/goo.gl/61.91.161.217
 address=/google.co.jp/219.76.4.70
 address=/google.co.kr/219.76.4.70
 address=/google.co.nz/219.76.4.70
+address=/google.co.uk/219.76.4.70
 address=/google.com.gi/219.76.4.70
 address=/google.com.hk/219.76.4.70
 address=/google.com.sg/219.76.4.70
@@ -112,6 +114,7 @@ address=/googleapis.com/219.76.4.70
 address=/googleapps.com/219.76.4.70
 address=/googlechinawebmaster.com/219.76.4.70
 address=/googlecode.com/219.76.4.70
+address=/googlecommerce.com/219.76.4.70
 address=/googledrive.com/219.76.4.70
 address=/googlegroups.com/219.76.4.70
 address=/googlehosted.com/219.76.4.70
@@ -119,7 +122,6 @@ address=/googleinsidesearch.com/219.76.4.70
 address=/googlemashups.com/219.76.4.70
 address=/googlesource.com/219.76.4.70
 address=/googlestore.com/219.76.4.70
-address=/googlesyndication.com/219.76.4.70
 address=/googletagmanager.com/219.76.4.70
 address=/googleusercontent.com/219.76.4.70
 address=/googlevideo.com/219.76.4.69
@@ -145,10 +147,12 @@ address=/teachparentstech.org/219.76.4.70
 address=/thegooglepuzzle.com/219.76.4.70
 address=/transparency.org/219.76.4.70
 address=/translate.googleapis.com/203.208.43.105
+address=/urchin.com/219.76.4.70
 address=/webmproject.org/219.76.4.70
 address=/withgoogle.com/219.76.4.70
-address=/.ytimg.com/219.76.4.70
+address=/ytimg.com/219.76.4.70
 address=/youtu.be/219.76.4.70
+address=/youtubeeducation.com/219.76.4.70
 address=/youtube-nocookie.com/219.76.4.70
 address=/youtube.co/219.76.4.70
 address=/youtube.com/219.76.4.70
@@ -184,8 +188,7 @@ address=/pinterest.com/151.101.76.84
 address=/pinimg.com/151.101.76.84
 
 ## Theinitium
-address=/initiummall.com/23.227.38.32
-address=/stigma.theinitium.com/52.76.148.61
+address=/initiummall.com/104.28.31.251
 address=/theinitium.com/104.28.31.251
 
 ## Twitter
@@ -234,6 +237,7 @@ address=/ls.srvcs.tumblr.com/66.6.32.162
 address=/mg.mail.yahoo.com/119.161.8.100
 address=/media.tumblr.com/54.239.176.79
 address=/mx.tumblr.com/192.229.237.97
+address=/msb-mobile.m.yahoo.com/119.161.8.100
 address=/news.yahoo.com/106.10.199.10
 address=/overview.mail.yahoo.com/216.39.54.12
 address=/policies.yahoo.com/119.161.8.100
@@ -252,4 +256,4 @@ address=/yahoo.co.jp/182.22.24.252
 address=/yahooapis.jp/183.79.249.124
 address=/yimg.com/119.161.8.100
 address=/yimg.jp/182.22.31.252
-
+msb-mobile.m.yahoo.com

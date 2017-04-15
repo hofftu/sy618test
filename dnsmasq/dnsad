@@ -3,8 +3,8 @@
 address=/.cnzz.com/127.0.0.1
 address=/.umeng.com/127.0.0.1
 address=/.umengcloud.com/127.0.0.1
-#address=/.popads.net/127.0.0.1
-address=/.g.doubleclick.net/127.0.0.1
+address=/.doubleclick.net/127.0.0.1
+address=/.googlesyndication.com/127.0.0.1
 address=/.tuisong.baidu.com/127.0.0.1
 address=/.51yes.com/127.0.0.1
 address=/.admaster.com.cn/127.0.0.1
