@@ -1,4 +1,4 @@
-## 2017-04-15 22:06:04
+## 2017-04-19 21:54:43
 ## https://github.com/sy618/hosts
 157.240.7.20 0-edge-chat.facebook.com
 157.240.7.20 0-edge-chat.messenger.com
@@ -250,7 +250,7 @@
 162.125.82.7 api.dropbox.com
 162.125.82.7 api.dropboxapi.com
 157.240.7.20 api.facebook.com
-119.161.8.100 api.flickr.com
+119.161.9.99 api.flickr.com
 103.245.222.193 api.imgur.com
 31.13.95.48 api.instagram.com
 104.16.121.145 api.medium.com
@@ -503,7 +503,7 @@
 162.125.82.7 d.dropbox.com
 157.240.7.20 d.facebook.com
 162.125.82.7 d.v.dropbox.com
-119.161.8.100 d.yimg.com
+119.161.9.99 d.yimg.com
 104.25.68.113 d0.winudf.com
 104.25.68.113 d1.winudf.com
 219.76.4.14 datasaver.googleapis.com
@@ -583,9 +583,9 @@
 219.76.4.14 drive8.google.com
 219.76.4.14 drive9.google.com
 219.76.4.14 drivenotepad.appspot.com
-162.125.3.1 dropbox.com
+219.76.4.14 dropbox.com
 46.51.218.82 duckduckgo.com
-119.161.8.100 e.yimg.com
+119.161.9.99 e.yimg.com
 219.76.4.14 earth-api-samples.googlecode.com
 219.76.4.14 earth.google.com
 68.232.45.67 ec-media.soundcloud.com
@@ -684,7 +684,7 @@
 219.76.4.14 gcr.io
 219.76.4.14 gdata.youtube.com
 119.160.242.41 geo.query.yahoo.com
-119.161.8.100 geo.yahoo.com
+119.161.9.99 geo.yahoo.com
 219.76.4.14 geo0.ggpht.com
 219.76.4.14 geo1.ggpht.com
 219.76.4.14 geo2.ggpht.com
@@ -960,7 +960,7 @@
 219.76.4.14 gxc.google.com.hk
 219.76.4.14 gxc.google.com.sg
 219.76.4.14 gxc.google.com.tw
-119.161.8.100 h.yimg.com
+119.161.9.99 h.yimg.com
 219.76.4.14 hangout.google.com
 219.76.4.14 hangouts.google.com
 219.76.4.14 health.google.com
@@ -1079,7 +1079,7 @@
 103.245.222.193 imgur.com
 219.76.4.14 impactchallenge.withgoogle.com
 219.76.4.14 inbox.google.com
-119.161.8.100 info.yahoo.com
+119.161.9.99 info.yahoo.com
 104.28.31.251 initiummall.com
 219.76.4.14 inputtools.google.com
 219.76.4.14 insgruene.withgoogle.com
@@ -1123,10 +1123,10 @@
 219.76.4.14 kickwithchrome.withgoogle.com
 219.76.4.14 knol.google.com
 157.240.7.20 l.facebook.com
-119.161.8.100 l.yimg.com
+119.161.9.99 l.yimg.com
 122.152.169.5 l0.cn.nytimes.com
 219.76.4.14 large-uploads.l.google.com
-119.161.8.100 lh.secure.yahoo.com
+119.161.9.99 lh.secure.yahoo.com
 219.76.4.14 lh0.ggpht.com
 219.76.4.14 lh0.google.com
 219.76.4.14 lh0.googleusercontent.com
@@ -1171,7 +1171,7 @@
 52.192.30.67 m.cn.nytstyle.com
 219.76.4.14 m.dropbox.com
 157.240.7.20 m.facebook.com
-119.161.8.100 m.flickr.com
+119.161.9.99 m.flickr.com
 219.76.4.14 m.gmail.com
 219.76.4.14 m.google.com
 219.76.4.14 m.google.com.co.jp
@@ -1181,7 +1181,7 @@
 219.76.4.14 m.googlemail.com
 103.245.222.193 m.imgur.com
 157.240.7.20 m.me
-119.161.8.100 m.mg.mail.yahoo.com
+119.161.9.99 m.mg.mail.yahoo.com
 72.21.91.127 m.soundcloud.com
 219.76.4.14 m.youtube.com
 173.236.110.98 m1.twitpic.com
@@ -1220,7 +1220,7 @@
 157.240.7.20 messenger.com
 192.0.66.2 messengerplatform.fb.com
 198.35.26.96 meta.m.wikimedia.org
-119.161.8.100 mg.mail.yahoo.com
+119.161.9.99 mg.mail.yahoo.com
 106.10.193.20 mlogin.yahoo.com
 151.101.77.164 mobile-feedlocator.nytimes.com
 64.233.188.188 mobile-gtalk.l.google.com
@@ -1323,7 +1323,7 @@
 219.76.4.14 p.gmodules.com
 103.245.222.193 p.imgur.com
 104.244.43.231 p.twimg.com
-119.161.8.100 p.yimg.com
+119.161.9.99 p.yimg.com
 219.76.4.14 pack.google.com
 219.76.4.14 panoramio.com
 219.76.4.14 partnerpage.google.com
@@ -1391,7 +1391,7 @@
 219.76.4.14 plus.url.google.com.sg
 219.76.4.14 plus.url.google.com.tw
 219.76.4.14 plusone.google.com
-119.161.8.100 policies.yahoo.com
+119.161.9.99 policies.yahoo.com
 219.76.4.14 polymer-project.org
 64.233.188.109 pop.gmail.com
 64.233.188.16 pop.googlemail.com
@@ -1435,7 +1435,7 @@
 103.245.222.193 s.imgur.com
 151.101.76.84 s.pinimg.com
 104.244.45.255 s.twitter.com
-119.161.8.100 s.yimg.com
+119.161.9.99 s.yimg.com
 182.22.31.252 s.yimg.jp
 219.76.4.14 s.youtube.com
 219.76.4.14 s.ytimg.com
@@ -1443,7 +1443,7 @@
 52.216.0.248 s1-nyt-com.s3.amazonaws.com
 219.76.4.14 s1.googleusercontent.com
 151.101.77.164 s1.nyt.com
-119.161.8.100 s1.yimg.com
+119.161.9.99 s1.yimg.com
 219.76.4.14 s2.googleusercontent.com
 219.76.4.14 s2.youtube.com
 54.231.251.9 s3-ap-southeast-2.amazonaws.com
@@ -1691,7 +1691,7 @@
 54.164.65.195 ue.flipboard.com
 219.76.4.14 ug.vp.video.l.google.com
 219.76.4.14 uk.youtube.com
-119.161.8.100 up.flickr.com
+119.161.9.99 up.flickr.com
 151.101.77.164 up.nytimes.com
 219.76.4.14 update.googleapis.com
 107.152.25.197 upload.box.com
@@ -1843,7 +1843,7 @@
 157.240.7.20 www.facebook.com
 157.240.7.20 www.fb.com
 219.76.4.14 www.feedburner.com
-119.161.8.100 www.flickr.com
+119.161.9.99 www.flickr.com
 219.76.4.14 www.gcr.io
 219.76.4.14 www.gmail.com
 219.76.4.14 www.gmodules.com
@@ -2104,7 +2104,7 @@
 219.76.4.14 www4-china.l.google.com
 219.76.4.14 www4.l.google.com
 106.10.138.240 yahoo.com
-119.161.8.100 ying.com
+119.161.9.99 ying.com
 219.76.4.14 youtu.be
 219.76.4.14 youtube-ui.l.google.com
 219.76.4.14 youtube.com
@@ -2151,15 +2151,15 @@
 219.76.4.11 r18---sn-5uh5o-f5f6.gvt1.com
 219.76.4.11 r19---sn-5uh5o-f5f6.gvt1.com
 219.76.4.11 r20---sn-5uh5o-f5f6.gvt1.com
-219.76.4.11 r6---sn-i3b7knez.gvt1.com
 219.76.4.11 r1---sn-i3b7knez.gvt1.com
-219.76.4.11 r9---sn-i3b7knez.gvt1.com
 219.76.4.11 r2---sn-i3b7knez.gvt1.com
 219.76.4.11 r3---sn-i3b7knez.gvt1.com
 219.76.4.11 r4---sn-i3b7knez.gvt1.com
 219.76.4.11 r5---sn-i3b7knez.gvt1.com
+219.76.4.11 r6---sn-i3b7knez.gvt1.com
 219.76.4.11 r7---sn-i3b7knez.gvt1.com
 219.76.4.11 r8---sn-i3b7knez.gvt1.com
+219.76.4.11 r9---sn-i3b7knez.gvt1.com
 219.76.4.11 r10---sn-i3b7knez.gvt1.com
 219.76.4.11 r11---sn-i3b7knez.gvt1.com
 219.76.4.11 r12---sn-i3b7knez.gvt1.com
@@ -3910,15 +3910,15 @@
 219.76.4.11 r18---sn-5uh5o-f5f6.googlevideo.com
 219.76.4.11 r19---sn-5uh5o-f5f6.googlevideo.com
 219.76.4.11 r20---sn-5uh5o-f5f6.googlevideo.com
-219.76.4.11 r6---sn-i3b7knez.googlevideo.com
 219.76.4.11 r1---sn-i3b7knez.googlevideo.com
-219.76.4.11 r9---sn-i3b7knez.googlevideo.com
 219.76.4.11 r2---sn-i3b7knez.googlevideo.com
 219.76.4.11 r3---sn-i3b7knez.googlevideo.com
 219.76.4.11 r4---sn-i3b7knez.googlevideo.com
 219.76.4.11 r5---sn-i3b7knez.googlevideo.com
+219.76.4.11 r6---sn-i3b7knez.googlevideo.com
 219.76.4.11 r7---sn-i3b7knez.googlevideo.com
 219.76.4.11 r8---sn-i3b7knez.googlevideo.com
+219.76.4.11 r9---sn-i3b7knez.googlevideo.com
 219.76.4.11 r10---sn-i3b7knez.googlevideo.com
 219.76.4.11 r11---sn-i3b7knez.googlevideo.com
 219.76.4.11 r12---sn-i3b7knez.googlevideo.com

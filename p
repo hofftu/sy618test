@@ -19,15 +19,15 @@
 219.76.4.11 r18---sn-5uh5o-f5f6.gvt1.com
 219.76.4.11 r19---sn-5uh5o-f5f6.gvt1.com
 219.76.4.11 r20---sn-5uh5o-f5f6.gvt1.com
-219.76.4.11 r6---sn-i3b7knez.gvt1.com
 219.76.4.11 r1---sn-i3b7knez.gvt1.com
-219.76.4.11 r9---sn-i3b7knez.gvt1.com
 219.76.4.11 r2---sn-i3b7knez.gvt1.com
 219.76.4.11 r3---sn-i3b7knez.gvt1.com
 219.76.4.11 r4---sn-i3b7knez.gvt1.com
 219.76.4.11 r5---sn-i3b7knez.gvt1.com
+219.76.4.11 r6---sn-i3b7knez.gvt1.com
 219.76.4.11 r7---sn-i3b7knez.gvt1.com
 219.76.4.11 r8---sn-i3b7knez.gvt1.com
+219.76.4.11 r9---sn-i3b7knez.gvt1.com
 219.76.4.11 r10---sn-i3b7knez.gvt1.com
 219.76.4.11 r11---sn-i3b7knez.gvt1.com
 219.76.4.11 r12---sn-i3b7knez.gvt1.com
