@@ -1,4 +1,4 @@
-## 2017-04-19 21:52:19
+## 2017-04-20 15:39:29
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY 4.0 International License.
 # https://creativecommons.org/licenses/by/4.0/
@@ -30,10 +30,10 @@ address=/cfl.dropboxstatic.com/104.16.100.29
 address=/client-cf.dropbox.com/162.125.82.3
 address=/d.dropbox.com/162.125.82.7
 address=/d.v.dropbox.com/162.125.82.7
-address=/dl-doc.dropbox.com/162.125.82.6
-address=/dl-web.dropbox.com/162.125.82.6
-address=/dl.dropbox.com/162.125.82.6
-address=/dl.dropboxusercontent.com/162.125.82.6
+address=/dl-doc.dropbox.com/162.125.3.6
+address=/dl-web.dropbox.com/162.125.3.6
+address=/dl.dropbox.com/162.125.3.6
+address=/dl.dropboxusercontent.com/162.125.3.6
 address=/dropbox.com/219.76.4.70
 address=/dropboxstatic.com/219.76.4.70
 address=/getdropbox.com/108.160.172.195
@@ -46,24 +46,24 @@ address=/images.duckduckgo.com/52.77.181.198
 
 ## Facebook/Instagram
 address=/a.akamaihd.net/219.76.10.49
-address=/accountkit.com/157.240.7.20
+address=/accountkit.com/157.240.7.35
 address=/ak.facebook.com/219.76.10.49
 address=/ak.fbcdn.net/219.76.10.49
 address=/ak.instagram.com/219.76.10.49
-address=/cdninstagram.com/31.13.95.48
+address=/cdninstagram.com/157.240.7.52
 address=/edge-mqtt.facebook.com/31.13.95.5
-address=/facebook.com/157.240.7.20
-address=/facebook.net/157.240.7.20
-address=/fb.com/157.240.7.20
-address=/fbsbx.com/157.240.7.20
+address=/facebook.com/157.240.7.35
+address=/facebook.net/157.240.7.35
+address=/fb.com/157.240.7.35
+address=/fbsbx.com/157.240.7.35
 address=/giphy.com/151.101.25.127
-address=/instagram.com/31.13.95.48
-address=/m.me/157.240.7.20
-address=/messenger.com/157.240.7.20
-address=/scontentxxfbcdn.net/157.240.7.20
-address=/telegraph-ash.instagram.com/66.220.148.145
-address=/thefacebook.com/157.240.7.20
-address=/fbcdn.net/157.240.7.20
+address=/instagram.com/157.240.7.52
+address=/m.me/157.240.7.35
+address=/messenger.com/157.240.7.35
+address=/scontentxxfbcdn.net/157.240.7.35
+address=/telegraph-ash.instagram.com/173.252.91.113
+address=/thefacebook.com/157.240.7.35
+address=/fbcdn.net/157.240.7.35
 
 ## Flipboard    
 address=/s.flipboard.com/52.222.211.227
@@ -192,11 +192,11 @@ address=/initiummall.com/104.28.31.251
 address=/theinitium.com/104.28.31.251
 
 ## Twitter
-address=/t.co/104.244.45.255
-address=/tweetdeck.com/104.244.45.255
-address=/twimg.com/104.244.43.231
+address=/t.co/104.244.45.249
+address=/tweetdeck.com/104.244.45.249
+address=/twimg.com/104.244.43.135
 address=/twitpic.com/173.236.110.98
-address=/twitter.com/104.244.45.255
+address=/twitter.com/104.244.45.249
 
 ## Vimeo   
 address=/vimeo.com/23.235.37.217
@@ -229,18 +229,18 @@ address=/android.smtp.mail.yahoo.com/106.10.150.156
 address=/assets.tumblr.com/119.161.8.100
 address=/code.flickr.com/192.0.79.32
 address=/downloadr.flickr.com/183.177.81.75
-address=/flickr.com/119.161.9.99
+address=/flickr.com/119.161.14.18
 address=/geo.query.yahoo.com/119.160.242.41
-address=/info.yahoo.com/119.161.9.99
-address=/lh.secure.yahoo.com/119.161.9.99
+address=/info.yahoo.com/119.161.14.18
+address=/lh.secure.yahoo.com/119.161.14.18
 address=/ls.srvcs.tumblr.com/66.6.32.162
-address=/mg.mail.yahoo.com/119.161.9.99
+address=/mg.mail.yahoo.com/119.161.14.18
 address=/media.tumblr.com/54.239.176.79
 address=/mx.tumblr.com/192.229.237.97
-address=/msb-mobile.m.yahoo.com/119.161.9.99
+address=/msb-mobile.m.yahoo.com/119.161.14.18
 address=/news.yahoo.com/106.10.199.10
 address=/overview.mail.yahoo.com/216.39.54.12
-address=/policies.yahoo.com/119.161.9.99
+address=/policies.yahoo.com/119.161.14.18
 address=/px.srvcs.tumblr.com/66.6.32.162
 address=/saber.srvcs.tumblr.com/66.6.32.162
 address=/secure.flickr.com/68.142.240.50
@@ -254,5 +254,5 @@ address=/www.tumblr.com/119.161.8.100
 address=/www.yahoo.com/106.10.138.240
 address=/yahoo.co.jp/182.22.24.252
 address=/yahooapis.jp/183.79.249.124
-address=/yimg.com/119.161.9.99
+address=/yimg.com/119.161.14.18
 address=/yimg.jp/182.22.31.252
