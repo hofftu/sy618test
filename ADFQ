@@ -1,11 +1,11 @@
-## 2017-04-21 01:26:45
+## 2017-04-21 17:19:11
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，以获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-04-21 01:26:35
-#version=201704202237
+## 2017-04-21 17:18:56
+#version=20170421 726
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -47,6 +47,8 @@
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
+127.0.0.1 s.360.cn
+127.0.0.1 e.tf.360.cn
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com
 127.0.0.1 b.appjiagu.com
@@ -889,6 +891,7 @@
 127.0.0.1 ad.1kxun.com
 127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
 127.0.0.1 tcad.wedolook.com
+127.0.0.1 addl.easetuner.com
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
 127.0.0.1 tracking-server-prod-1.zenmxapps.com
 127.0.0.1 livep.l.ott.video.qq.com
@@ -993,6 +996,8 @@
 127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 ad.yixin.im
 127.0.0.1 static.ads-twitter.com
+127.0.0.1 ad.10010.com
+127.0.0.1 m1.ad.10010.com
 127.0.0.1 pc.boxshows.com
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 ads.bssdl.kugou.com
@@ -1164,6 +1169,16 @@
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+127.0.0.1 cds.51y5.net
+127.0.0.1 msg.push.51y5.net
+127.0.0.1 news-img.51y5.net
+127.0.0.1 news-log.51y5.net
+127.0.0.1 news.51y5.net
+127.0.0.1 push-dc.51y5.net
+127.0.0.1 wifiapi02.51y5.net
+127.0.0.1 c.wkanx.com
+127.0.0.1 c1.wkanx.com
+127.0.0.1 static.wkanx.com
 127.0.0.1 wifishow.ggsafe.com
 127.0.0.1 igou.ggsafe.com
 127.0.0.1 ad.12306.cn
@@ -1173,7 +1188,6 @@
 127.0.0.1 js.2011.8684.com
 127.0.0.1 media.2011.8684.com
 127.0.0.1 newswifiapi.dfshurufa.com
-127.0.0.1 api.vungle.com
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 127.0.0.1 ad.caiyunapp.com
@@ -1342,9 +1356,16 @@
 127.0.0.1 bd1.52che.com
 127.0.0.1 bd2.52che.com
 127.0.0.1 33.autohome.com.cn
+127.0.0.1 adnewnc.app.autohome.com.cn
+127.0.0.1 al.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 cmx.autohome.com.cn
+127.0.0.1 dspmnt.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
+127.0.0.1 pvx.autohome.com.cn
+127.0.0.1 rd.autohome.com.cn
+127.0.0.1 stats.autohome.com.cn
 127.0.0.1 adm0.autoimg.cn
 127.0.0.1 adm1.autoimg.cn
 127.0.0.1 adm2.autoimg.cn
@@ -1768,11 +1789,11 @@
 127.0.0.1 wl.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 clicklog.moviebox.baofeng.net
+127.0.0.1 pvlog.moviebox.baofeng.net
+127.0.0.1 rec.moviebox.baofeng.net
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net
-127.0.0.1 pvlog.moviebox.baofeng.net
-127.0.0.1 rec.moviebox.baofeng.net
 127.0.0.1 biz5.kankan.com
 127.0.0.1 kkpgv.kankan.com
 127.0.0.1 kkpgv2.kankan.com
@@ -2132,6 +2153,7 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+127.0.0.1 huan.szrk3.com
 127.0.0.1 kuang.myzk1.com
 127.0.0.1 j.fd7c.com
 127.0.0.1 m.laigame7.net
@@ -2369,6 +2391,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 p.qiailm.com
 127.0.0.1 code.33shangyou.com
 127.0.0.1 mm.nngft.com
 127.0.0.1 dm.fsyzcs.com
@@ -2437,6 +2460,7 @@
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 s.xm9178.com
 127.0.0.1 m.ningdutong.com
 127.0.0.1 m.hhllyt.com
 127.0.0.1 y.xm9178.com
@@ -3524,6 +3548,9 @@
 127.0.0.1 s.sxz67.com
 127.0.0.1 s.zzrcz.com
 127.0.0.1 ioscdn.ywpod3.com
+127.0.0.1 ad.holaq.com
+127.0.0.1 api.tongji.today
+127.0.0.1 stat.tongji.today
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -3585,14 +3612,12 @@
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 rd.wan.360.cn
-127.0.0.1 e.tf.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 stats.guess.tf.360.cn
 127.0.0.1 tf.360.cn
 127.0.0.1 v.tf.360.cn
 127.0.0.1 cm.lianmeng.360.cn
-127.0.0.1 s.360.cn
 127.0.0.1 s.union.360.cn
 127.0.0.1 api.shuaji.360.cn
 127.0.0.1 act.commercial.shouji.360.cn
@@ -5108,6 +5133,12 @@
 127.0.0.1 k.ma.social-touch.com
 127.0.0.1 n.ma.social-touch.com
 127.0.0.1 sc.ma.social-touch.com
+127.0.0.1 ads.supfast.net
+127.0.0.1 apk.supfast.net
+127.0.0.1 apps.supfast.net
+127.0.0.1 click.supfast.net
+127.0.0.1 img.supfast.net
+127.0.0.1 l.supfast.net
 127.0.0.1 good.ta80.com
 127.0.0.1 js.ta80.com
 127.0.0.1 analytics.talkingdata.net
@@ -5960,7 +5991,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 ad.endpo.in
-## 2017-04-21 01:26:42
+## 2017-04-21 17:19:09
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
@@ -6181,6 +6212,7 @@
 64.233.188.188 alt6-mtalk.google.com
 64.233.188.188 alt7-mtalk.google.com
 64.233.188.188 alt8-mtalk.google.com
+219.76.4.14 analytics.google.com
 104.244.45.249 analytics.twitter.com
 219.76.4.14 android-china.l.google.com
 219.76.4.14 android-market.l.google.com
@@ -6433,7 +6465,9 @@
 219.76.4.14 closure-library.googlecode.com
 219.76.4.14 cloud.google.com
 219.76.4.14 cloudconfig.googleapis.com
+219.76.4.14 cloudconsole-pa.clients6.google.com
 219.76.4.14 cloudssh.developers.google.com
+219.76.4.14 cloudusersettings-pa.clients6.google.com
 54.230.213.29 cn.nytimes.com
 54.230.213.29 cn.nytstyle.com
 219.76.4.14 code-opensocial.googleusercontent.com
@@ -6448,6 +6482,7 @@
 219.76.4.14 connectedclassrooms.withgoogle.com
 219.76.4.14 connectivitycheck.android.com
 54.239.31.91 console.aws.amazon.com
+219.76.4.14 console.cloud.google.com
 219.76.4.14 console.developers.google.com
 157.240.7.35 contactimporter.facebook.com
 219.76.4.14 contacts.google.com
@@ -6903,7 +6938,7 @@
 219.76.4.14 gp5.googleusercontent.com
 219.76.4.14 gp6.googleusercontent.com
 157.240.7.35 graph.accountkit.com
-157.240.11.17 graph.facebook.com
+157.240.7.35 graph.facebook.com
 157.240.7.52 graph.instagram.com
 157.240.7.35 graph2.facebook.com
 151.101.77.164 graphics8.nytimes.com
@@ -7467,6 +7502,7 @@
 68.142.240.50 secure.flickr.com
 52.222.211.243 secure.static.tumblr.com
 219.76.4.14 security.google.com
+219.76.4.14 servicemanagement.clients6.google.com
 219.76.4.14 services.google.com
 162.125.3.6 showbox.dropbox.com
 119.81.248.34 single.upsight-api.com
@@ -7515,6 +7551,7 @@
 219.76.4.14 spreadsheets7.google.com
 219.76.4.14 spreadsheets8.google.com
 219.76.4.14 spreadsheets9.google.com
+219.76.4.14 ssh.cloud.google.com
 157.240.7.35 ssl.facebook.com
 61.91.161.217 ssl.gstatic.com
 219.76.4.14 sslvideo-upload.l.google.com
@@ -7534,7 +7571,7 @@
 54.230.213.29 static.sxzhchina.com
 157.240.7.35 static.thefacebook.com
 104.244.45.249 static.twitter.com
-31.13.93.15 static.xx.fbcdn.net
+157.240.7.35 static.xx.fbcdn.net
 151.101.77.164 static01.nyt.com
 151.101.77.164 static02.nyt.com
 151.101.77.164 static03.nyt.com

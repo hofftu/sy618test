@@ -1,4 +1,4 @@
-## 2017-04-21 01:26:42
+## 2017-04-21 17:19:09
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -220,6 +220,7 @@
 64.233.188.188 alt6-mtalk.google.com
 64.233.188.188 alt7-mtalk.google.com
 64.233.188.188 alt8-mtalk.google.com
+219.76.4.14 analytics.google.com
 104.244.45.249 analytics.twitter.com
 219.76.4.14 android-china.l.google.com
 219.76.4.14 android-market.l.google.com
@@ -472,7 +473,9 @@
 219.76.4.14 closure-library.googlecode.com
 219.76.4.14 cloud.google.com
 219.76.4.14 cloudconfig.googleapis.com
+219.76.4.14 cloudconsole-pa.clients6.google.com
 219.76.4.14 cloudssh.developers.google.com
+219.76.4.14 cloudusersettings-pa.clients6.google.com
 54.230.213.29 cn.nytimes.com
 54.230.213.29 cn.nytstyle.com
 219.76.4.14 code-opensocial.googleusercontent.com
@@ -487,6 +490,7 @@
 219.76.4.14 connectedclassrooms.withgoogle.com
 219.76.4.14 connectivitycheck.android.com
 54.239.31.91 console.aws.amazon.com
+219.76.4.14 console.cloud.google.com
 219.76.4.14 console.developers.google.com
 157.240.7.35 contactimporter.facebook.com
 219.76.4.14 contacts.google.com
@@ -942,7 +946,7 @@
 219.76.4.14 gp5.googleusercontent.com
 219.76.4.14 gp6.googleusercontent.com
 157.240.7.35 graph.accountkit.com
-157.240.11.17 graph.facebook.com
+157.240.7.35 graph.facebook.com
 157.240.7.52 graph.instagram.com
 157.240.7.35 graph2.facebook.com
 151.101.77.164 graphics8.nytimes.com
@@ -1506,6 +1510,7 @@
 68.142.240.50 secure.flickr.com
 52.222.211.243 secure.static.tumblr.com
 219.76.4.14 security.google.com
+219.76.4.14 servicemanagement.clients6.google.com
 219.76.4.14 services.google.com
 162.125.3.6 showbox.dropbox.com
 119.81.248.34 single.upsight-api.com
@@ -1554,6 +1559,7 @@
 219.76.4.14 spreadsheets7.google.com
 219.76.4.14 spreadsheets8.google.com
 219.76.4.14 spreadsheets9.google.com
+219.76.4.14 ssh.cloud.google.com
 157.240.7.35 ssl.facebook.com
 61.91.161.217 ssl.gstatic.com
 219.76.4.14 sslvideo-upload.l.google.com
@@ -1573,7 +1579,7 @@
 54.230.213.29 static.sxzhchina.com
 157.240.7.35 static.thefacebook.com
 104.244.45.249 static.twitter.com
-31.13.93.15 static.xx.fbcdn.net
+157.240.7.35 static.xx.fbcdn.net
 151.101.77.164 static01.nyt.com
 151.101.77.164 static02.nyt.com
 151.101.77.164 static03.nyt.com
