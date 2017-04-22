@@ -1,11 +1,11 @@
-## 2017-04-22 15:34:11
+## 2017-04-22 23:30:55
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-04-22 15:33:13
-#version=201704211942
+## 2017-04-22 23:30:12
+#version=201704222217
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -997,8 +997,6 @@
 127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 ad.yixin.im
 127.0.0.1 static.ads-twitter.com
-127.0.0.1 ad.10010.com
-127.0.0.1 m1.ad.10010.com
 127.0.0.1 pc.boxshows.com
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 ads.bssdl.kugou.com
@@ -1102,8 +1100,6 @@
 127.0.0.1 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
-127.0.0.1 r.cnews.qq.com
-127.0.0.1 w.cnews.qq.com
 127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 ss.missyouxi.com
@@ -1861,6 +1857,7 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 dmapp.youku.com
 127.0.0.1 service.danmu.youku.com
+127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 dc.ads.linkedin.com
@@ -2307,6 +2304,8 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 m.yadade.com
+127.0.0.1 e.yadade.com
 127.0.0.1 e.xigeng0375.com
 127.0.0.1 ee.shanghetrade.com
 127.0.0.1 mm.shanghetrade.com
@@ -2359,6 +2358,7 @@
 127.0.0.1 sese.chmae.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
+127.0.0.1 sj2.sscefsol.com
 127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
@@ -2442,6 +2442,7 @@
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
+127.0.0.1 w.xayjr.cn
 127.0.0.1 w.bobocn.cn
 127.0.0.1 w.1lib.cn
 127.0.0.1 www.istage.com.cn
@@ -2586,6 +2587,11 @@
 127.0.0.1 lotraden.online
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
+127.0.0.1 img.jsjpac.com
+127.0.0.1 j.klsdmr.com
+127.0.0.1 count.qiqipower.com
+127.0.0.1 yunbofangbt.com
+127.0.0.1 js.hhcskj.com
 127.0.0.1 js89.shanglinli.com
 127.0.0.1 b.xm9178.com
 127.0.0.1 t.jqpszdq.com
@@ -3562,6 +3568,10 @@
 127.0.0.1 ad.holaq.com
 127.0.0.1 api.tongji.today
 127.0.0.1 stat.tongji.today
+127.0.0.1 rh.code.jjyx.com
+127.0.0.1 c.yisu.com
+127.0.0.1 tb.code.twyxi.com
+127.0.0.1 sycnzz.17tanwan.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -4907,10 +4917,12 @@
 127.0.0.1 stats.jpush.cn
 127.0.0.1 sis.jpush.io
 127.0.0.1 update.sdk.jiguang.cn
+127.0.0.1 demo.jointreport-switch.com
 127.0.0.1 lg2.jointreport-switch.com
+127.0.0.1 media-static.jointreport-switch.com
 127.0.0.1 media.jointreport-switch.com
 127.0.0.1 popup.jointreport-switch.com
-127.0.0.1 media-static.jointreport-switch.com
+127.0.0.1 static.jointreport-switch.com
 127.0.0.1 www.jpush.cn
 127.0.0.1 cms.v5.juzi.cn
 127.0.0.1 id.juzi.cn
@@ -5954,6 +5966,7 @@
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 themis.ykimg.com
 127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 api.mobile.youku.com
 127.0.0.1 ad.api.mobile.youku.com
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 c.l.youku.com
@@ -6002,7 +6015,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 ad.endpo.in
-## 2017-04-22 15:34:08
+## 2017-04-22 23:30:53
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
@@ -6296,8 +6309,8 @@
 219.76.4.14 au.youtube.com
 219.76.4.14 auth.keyhole.com
 176.32.100.36 aws.amazon.com
-157.240.2.36 b-api.facebook.com
-157.240.2.36 b-graph.facebook.com
+157.240.7.35 b-api.facebook.com
+157.240.7.35 b-graph.facebook.com
 157.240.7.35 b-www.facebook.com
 219.76.4.14 b.googlemail.l.google.com
 219.76.10.49 b.static.ak.facebook.com
@@ -6412,7 +6425,7 @@
 52.84.49.209 cdn.flipboard.com
 104.244.45.249 cdn.syndication.twimg.com
 104.244.45.249 cdn.syndication.twitter.com
-104.16.26.3 cdn01.boxcdn.net
+104.16.27.3 cdn01.boxcdn.net
 151.101.77.164 cdn1.nyt.com
 219.76.4.14 certificate-transparency.org
 54.192.127.227 cf-media.sndcdn.com
@@ -7402,7 +7415,7 @@
 219.76.4.14 polymer-project.org
 64.233.188.109 pop.gmail.com
 64.233.188.16 pop.googlemail.com
-157.240.11.17 portal.fb.com
+157.240.7.35 portal.fb.com
 151.101.76.84 post.pinterest.com
 219.76.4.14 pr.vp.video.l.google.com
 219.76.4.14 producer.googleusercontent.com
@@ -7809,6 +7822,8 @@
 219.76.4.14 wildcard-talkgadget.l.google.com
 219.76.4.14 wire.l.google.com
 54.230.86.73 wis.sndcdn.com
+157.240.7.35 work-m.facebook.com
+157.240.7.35 work.facebook.com
 192.0.78.12 work.fb.com
 219.76.4.14 writely-china.l.google.com
 219.76.4.14 writely-com.l.google.com

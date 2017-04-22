@@ -1,4 +1,4 @@
-## 2017-04-21 17:19:09
+## 2017-04-22 23:30:53
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -293,8 +293,8 @@
 219.76.4.14 au.youtube.com
 219.76.4.14 auth.keyhole.com
 176.32.100.36 aws.amazon.com
-157.240.2.36 b-api.facebook.com
-157.240.2.36 b-graph.facebook.com
+157.240.7.35 b-api.facebook.com
+157.240.7.35 b-graph.facebook.com
 157.240.7.35 b-www.facebook.com
 219.76.4.14 b.googlemail.l.google.com
 219.76.10.49 b.static.ak.facebook.com
@@ -409,7 +409,7 @@
 52.84.49.209 cdn.flipboard.com
 104.244.45.249 cdn.syndication.twimg.com
 104.244.45.249 cdn.syndication.twitter.com
-104.16.26.3 cdn01.boxcdn.net
+104.16.27.3 cdn01.boxcdn.net
 151.101.77.164 cdn1.nyt.com
 219.76.4.14 certificate-transparency.org
 54.192.127.227 cf-media.sndcdn.com
@@ -1399,7 +1399,7 @@
 219.76.4.14 polymer-project.org
 64.233.188.109 pop.gmail.com
 64.233.188.16 pop.googlemail.com
-157.240.11.17 portal.fb.com
+157.240.7.35 portal.fb.com
 151.101.76.84 post.pinterest.com
 219.76.4.14 pr.vp.video.l.google.com
 219.76.4.14 producer.googleusercontent.com
@@ -1806,6 +1806,8 @@
 219.76.4.14 wildcard-talkgadget.l.google.com
 219.76.4.14 wire.l.google.com
 54.230.86.73 wis.sndcdn.com
+157.240.7.35 work-m.facebook.com
+157.240.7.35 work.facebook.com
 192.0.78.12 work.fb.com
 219.76.4.14 writely-china.l.google.com
 219.76.4.14 writely-com.l.google.com
