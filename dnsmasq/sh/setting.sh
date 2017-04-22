@@ -1,8 +1,8 @@
 #!/bin/sh
 ###此脚本配置只需运行一次###
 ###只在老毛子华硕固件测试通过###
-###如需删除所有修改，只需运行即可还原：/bin/sh /etc/storage/dnsmasq/dns/del.sh
-
+###如需删除所有修改，只需运行即可还原： /bin/sh /etc/storage/dnsmasq/dns/del.sh
+###一键运行命令（初次运行）： mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/setting.sh -O /etc/storage/dnsmasq/dns/setting.sh;/bin/sh /etc/storage/dnsmasq/dns/setting.sh
 
 
 ##在“dnsmasq.conf”配置文件里指向规则文件路径
@@ -10,32 +10,34 @@
 #addn-hosts=/etc/storage/dnsmasq/dns/hosts
 #指定dnsmasq规则文件夹
 #conf-dir=/etc/storage/dnsmasq/dns/conf
-#@命令行运行▼
-sed -i -e '/\/dns\//d' /etc/storage/dnsmasq/dnsmasq.conf
+sed -i '/\/dns\//d' /etc/storage/dnsmasq/dnsmasq.conf
 cat >> /etc/storage/dnsmasq/dnsmasq.conf << EOF
 addn-hosts=/etc/storage/dnsmasq/dns/hosts
-conf-dir=/etc/storage/dnsmasq/dns/conf
+conf-file=/etc/storage/dnsmasq/dns/conf/dnsip
+conf-file=/etc/storage/dnsmasq/dns/conf/dnsad
+conf-file=/etc/storage/dnsmasq/dns/conf/dnsfq
 EOF
 
 
 ##到“定时脚本”里写入定时执行任务
-#零点更新脚本文件
-#0 0 * * * mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate -qO - https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/start.sh > /etc/storage/dnsmasq/dns/start.sh
 #零点一分执行脚本
 #1 0 * * * /bin/sh /etc/storage/dnsmasq/dns/start.sh
-#@命令行运行▼
-
 http_username=`nvram get http_username`
 sed -i '/\/dns\//d' /etc/storage/cron/crontabs/$http_username
 cat >> /etc/storage/cron/crontabs/$http_username << EOF
 1 0 * * * /bin/sh /etc/storage/dnsmasq/dns/start.sh
 EOF
 
+##到自定义脚本里“在 WAN 上行/下行启动后执行”写入脚本，网络重连自动更新dnsmasq
+sed -i '/\/dns\//d' /etc/storage/post_wan_script.sh
+cat >> /etc/storage/post_wan_script.sh << EOF
+/bin/sh /etc/storage/dnsmasq/dns/start.sh
+EOF
 
 
-
+#############################
 ##▼开始下载文件并重启dnsmasq生效
-cd /etc;rm -rf /etc/storage/dnsmasq/dns
+rm -rf /etc/storage/dnsmasq/dns;cd /etc
 mkdir -p /etc/storage/dnsmasq/dns/conf
 #下载hosts
 cd /etc/storage/dnsmasq/dns
@@ -51,8 +53,5 @@ wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master
 
 
 ##下载脚本备用
-#下载start.sh运行脚本文件
-wget --no-check-certificate -qO - https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/start.sh > /etc/storage/dnsmasq/dns/start.sh
-#下载还原脚本del.sh
-wget --no-check-certificate -qO - https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/del.sh > /etc/storage/dnsmasq/dns/del.sh
-
+wget --no-check-certificate -qO - https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/start.sh > /etc/storage/dnsmasq/dns/start.sh
+wget --no-check-certificate -qO - https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/del.sh > /etc/storage/dnsmasq/dns/del.sh

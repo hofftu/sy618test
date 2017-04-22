@@ -1,11 +1,11 @@
-## 2017-04-21 17:19:11
+## 2017-04-22 15:34:11
 ## https://github.com/sy618/hosts
-# 请自行改订阅成以下两个，以获得最新数据。
+# 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-04-21 17:18:56
-#version=20170421 726
+## 2017-04-22 15:33:13
+#version=201704211942
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -444,6 +444,7 @@
 127.0.0.1 xiazai.jlaee.com
 127.0.0.1 apnmedia.ask.com
 127.0.0.1 img.apnanalytics.com
+127.0.0.1 www.2345at.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
 127.0.0.1 www.tigerbrokers.com
@@ -1191,6 +1192,8 @@
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 127.0.0.1 ad.caiyunapp.com
+127.0.0.1 mbd.weathercn.com
+127.0.0.1 mbs.weathercn.com
 127.0.0.1 ad.api.moji.com
 127.0.0.1 adlaunch.moji.com
 127.0.0.1 fds.api.moji.com
@@ -1605,11 +1608,13 @@
 127.0.0.1 ad.house365.com
 127.0.0.1 adadmin.house365.com
 127.0.0.1 ads.house365.com
-127.0.0.1 images2.4hw.com.cn
 127.0.0.1 jb.4hw.com.cn
+127.0.0.1 js.4hw.com.cn
 127.0.0.1 ssp.4hw.com.cn
 127.0.0.1 jb.mbaidu.top
 127.0.0.1 js.mbaidu.top
+127.0.0.1 jb.mnkan.com
+127.0.0.1 js.mnkan.com
 127.0.0.1 d1.mobaders.com
 127.0.0.1 db.xhbqczl.com
 127.0.0.1 funexist.com
@@ -1663,6 +1668,7 @@
 127.0.0.1 baidu.jz5u.net
 127.0.0.1 cp.jz5u.net
 127.0.0.1 js.mumayi.net
+127.0.0.1 icons.mydrivers.com
 127.0.0.1 js-1.pchome.net
 127.0.0.1 stat.pchome.net
 127.0.0.1 imgad0.3conline.com
@@ -3133,6 +3139,11 @@
 127.0.0.1 p.tamenshuo.com
 127.0.0.1 s.mt145.com
 127.0.0.1 down.goziti.com
+127.0.0.1 js.5068.com
+127.0.0.1 s.yanpoly.com
+127.0.0.1 urh.tylll.com
+127.0.0.1 zjjgtz.com
+127.0.0.1 www.zjjgtz.com
 127.0.0.1 u291014.pr00001.com
 127.0.0.1 s.jzv1.com
 127.0.0.1 ss.shuajuzu.com
@@ -5991,7 +6002,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 ad.endpo.in
-## 2017-04-21 17:19:09
+## 2017-04-22 15:34:08
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
