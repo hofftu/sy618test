@@ -1,11 +1,11 @@
-## 2017-04-23 19:25:51
+## 2017-04-23 23:01:58
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-04-23 19:24:18
-#version=201704231241
+## 2017-04-23 23:00:31
+#version=201704232209
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1728,6 +1728,7 @@
 127.0.0.1 super.kdnet.net
 127.0.0.1 super.cat898.com
 127.0.0.1 tracking.cat898.com
+127.0.0.1 www.hxyifu.com
 127.0.0.1 pub.mop.com
 127.0.0.1 jebe.xnimg.cn
 127.0.0.1 bolt.jebe.renren.com
@@ -3340,6 +3341,8 @@
 127.0.0.1 image.vlook.cn
 127.0.0.1 tg.qzqywh.com
 127.0.0.1 www.youfumei.com
+127.0.0.1 jsjs.nthyn.com
+127.0.0.1 img.xiacaidd.com
 127.0.0.1 img.gaore.com
 127.0.0.1 dd.70yst.com
 127.0.0.1 www.70lm.com
@@ -6017,7 +6020,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 ad.endpo.in
-## 2017-04-23 19:25:49
+## 2017-04-23 23:01:55
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
