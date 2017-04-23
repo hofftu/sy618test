@@ -1,6 +1,6 @@
-## 2017-04-22 23:30:12
+## 2017-04-23 19:24:18
 #url=https://github.com/vokins/yhosts
-#version=201704222217
+#version=201704231241
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 014.guangdongjiayue.com
@@ -532,7 +532,6 @@
 0.0.0.0 api.itaoxiaoshuo.com
 0.0.0.0 api.k.sohu.com
 0.0.0.0 api.mobads4app.com
-0.0.0.0 api.mobile.youku.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.mp.uc.cn
 0.0.0.0 api.newad.ifeng.com
@@ -1229,6 +1228,7 @@
 0.0.0.0 downloada.dewmobile.net
 0.0.0.0 downloadb.dewmobile.net
 0.0.0.0 dp.559.cc
+0.0.0.0 dp.im.weibo.cn
 0.0.0.0 dp2.devopenserv.com
 0.0.0.0 dp3.devopenserv.com
 0.0.0.0 dp3.play.aiseet.atianqi.com
@@ -1660,7 +1660,6 @@
 0.0.0.0 i.xyqsnc.com
 0.0.0.0 i.zgzjjp.com
 0.0.0.0 i.zt-dq.com
-0.0.0.0 i1.go2yd.com
 0.0.0.0 i5k3bm.wddyly.cn
 0.0.0.0 i8.chinanews.com
 0.0.0.0 iad.g.163.com
@@ -2204,6 +2203,7 @@
 0.0.0.0 log.nvwa.baofeng.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.stat.kugou.com
+0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.tiexue.net
 0.0.0.0 log.ttjx.tatagou.com.cn
 0.0.0.0 log.tv.moliv.cn
@@ -2933,6 +2933,7 @@
 0.0.0.0 rj.huajingfood.cn
 0.0.0.0 rjgw.theta.sogou.com
 0.0.0.0 rjs.niuxgame77.com
+0.0.0.0 rl.go2yd.com
 0.0.0.0 rm.gdt.qq.com
 0.0.0.0 rm.lomark.cn
 0.0.0.0 rm.ra.icast.cn
@@ -4014,6 +4015,7 @@
 0.0.0.0 www.poctd.com
 0.0.0.0 www.predictivadvertising.com
 0.0.0.0 www.punuomisi.cn
+0.0.0.0 www.qchannel03.cn
 0.0.0.0 www.qdlansehaiwan.com
 0.0.0.0 www.qrsw.net
 0.0.0.0 www.schborg.com

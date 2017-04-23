@@ -1,11 +1,11 @@
-## 2017-04-22 23:30:55
+## 2017-04-23 19:25:51
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-04-22 23:30:12
-#version=201704222217
+## 2017-04-23 19:24:18
+#version=201704231241
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -265,11 +265,12 @@
 127.0.0.1 tongji.leju.com
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 1407.adsina.allyes.com
-127.0.0.1 u1.img.mobile.sina.cn
-127.0.0.1 wbpctips.mobile.sina.cn
+127.0.0.1 dp.im.weibo.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 u1.img.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
+127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 2016.sina.cn
 127.0.0.1 images.sohu.com
 127.0.0.1 pv.sohu.com
@@ -700,7 +701,7 @@
 127.0.0.1 news.docer.com
 127.0.0.1 img.particlenews.com
 127.0.0.1 openapi.particlenews.com
-127.0.0.1 i1.go2yd.com
+127.0.0.1 rl.go2yd.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
 127.0.0.1 api.zhuashouji.com
@@ -989,6 +990,7 @@
 127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 jrlt.beacon.qq.com
+127.0.0.1 log.tbs.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 btrace.qq.com
@@ -1858,6 +1860,7 @@
 127.0.0.1 dmapp.youku.com
 127.0.0.1 service.danmu.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
+127.0.0.1 myes.youku.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 dc.ads.linkedin.com
@@ -5120,6 +5123,7 @@
 127.0.0.1 w.punchbox.org
 127.0.0.1 ip2.pxene.com
 127.0.0.1 www.qchannel01.cn
+127.0.0.1 www.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn
@@ -5966,7 +5970,6 @@
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 themis.ykimg.com
 127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 api.mobile.youku.com
 127.0.0.1 ad.api.mobile.youku.com
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 c.l.youku.com
@@ -5981,7 +5984,6 @@
 127.0.0.1 miaozhen.atm.youku.com
 127.0.0.1 mo.atm.youku.com
 127.0.0.1 mp.atm.youku.com
-127.0.0.1 myes.youku.com
 127.0.0.1 notify.youku.com
 127.0.0.1 passport-log.youku.com
 127.0.0.1 player.lstat.youku.com
@@ -6015,7 +6017,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 ad.endpo.in
-## 2017-04-22 23:30:53
+## 2017-04-23 19:25:49
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
