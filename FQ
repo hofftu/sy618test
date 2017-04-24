@@ -1,4 +1,4 @@
-## 2017-04-22 23:30:53
+## 2017-04-24 22:08:02
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -183,7 +183,6 @@
 46.51.218.82 ac.duckduckgo.com
 219.76.4.14 accelerate.withgoogle.com
 107.152.25.197 account.box.com
-64.4.16.215 account.live.com
 219.76.4.14 accounts-cctld.l.google.com
 219.76.4.14 accounts.blogger.com
 219.76.4.14 accounts.google.co.jp
@@ -310,7 +309,7 @@
 219.76.4.14 base4.googlehosted.com
 219.76.4.14 base5.googlehosted.com
 119.81.248.34 batch.upsight-api.com
-54.164.65.195 beacon.flipboard.com
+23.23.66.189 beacon.flipboard.com
 219.76.4.14 beacons.gvt2.com
 219.76.4.14 beta.blogger.com
 104.244.45.249 betastream.twitter.com
@@ -406,7 +405,7 @@
 104.16.121.145 cdn-static-1.medium.com
 104.16.121.145 cdn-static-2.medium.com
 157.240.7.35 cdn.fbsbx.com
-52.84.49.209 cdn.flipboard.com
+52.84.218.217 cdn.flipboard.com
 104.244.45.249 cdn.syndication.twimg.com
 104.244.45.249 cdn.syndication.twitter.com
 104.16.27.3 cdn01.boxcdn.net
@@ -510,6 +509,7 @@
 119.161.14.18 d.yimg.com
 104.25.68.113 d0.winudf.com
 104.25.68.113 d1.winudf.com
+52.222.234.152 d3c33hcgiwev3.cloudfront.net
 219.76.4.14 datasaver.googleapis.com
 219.76.4.14 dbxlocal.dropboxstatic.com
 203.188.200.67 de.yahoo.com
@@ -623,7 +623,7 @@
 31.13.93.15 ent-b.xx.fbcdn.net
 31.13.93.15 ent-c.xx.fbcdn.net
 31.13.93.15 ent-e.xx.fbcdn.net
-52.1.0.123 et.nytimes.com
+52.206.184.18 et.nytimes.com
 54.239.54.107 eu-central-1.console.aws.amazon.com
 198.35.26.96 eu.wikipedia.org
 52.16.188.121 eventgateway.soundcloud.com
@@ -644,7 +644,7 @@
 157.240.7.35 fb.com
 219.76.10.49 fbcdn-video-a.akamaihd.net
 219.76.10.49 fbexternal-a.akamaihd.net
-52.21.120.211 fbprod.flipboard.com
+52.206.64.125 fbprod.flipboard.com
 219.76.10.49 fbstatic-a.akamaihd.net
 219.76.4.14 feedback.googleusercontent.com
 219.76.4.14 feedburner.google.com
@@ -657,7 +657,7 @@
 219.76.4.14 finance.google.com
 69.147.76.173 flickr.com
 34.192.27.249 flipboard.com
-50.18.151.133 flipboard.helpshift.com
+54.215.4.184 flipboard.helpshift.com
 219.76.4.14 fonts.googleapis.com
 219.76.4.14 fonts.gstatic.com
 219.76.4.14 foobar.withgoogle.com
@@ -995,7 +995,7 @@
 219.76.4.14 i3.ytimg.com
 54.192.138.234 i4.sndcdn.com
 219.76.4.14 i4.ytimg.com
-208.100.17.183 ic.tynt.com
+208.100.17.186 ic.tynt.com
 52.77.181.198 icons.duckduckgo.com
 219.76.4.14 id.google.co.nz
 219.76.4.14 id.google.com
@@ -1163,7 +1163,6 @@
 157.240.7.52 logger.instagram.com
 219.76.4.14 login.corp.google.com
 157.240.7.35 login.facebook.com
-131.253.61.64 login.live.com
 198.35.26.96 login.wikimedia.org
 106.10.193.20 login.yahoo.com
 66.6.32.162 ls.srvcs.tumblr.com
@@ -1220,7 +1219,7 @@
 54.239.176.79 media.tumblr.com
 151.101.25.127 media0.giphy.com
 104.16.121.127 medium.com
-107.23.6.161 messaging-sub.api.nytimes.com
+52.0.234.90 messaging-sub.api.nytimes.com
 157.240.7.35 messenger.com
 192.0.66.2 messengerplatform.fb.com
 198.35.26.96 meta.m.wikimedia.org
@@ -1337,7 +1336,6 @@
 104.244.43.135 pbs.twimg.com
 219.76.4.14 peering.google.com
 219.76.4.14 people-pa.googleapis.com
-64.4.16.15 people.live.com
 219.76.4.14 photo.dropbox.com
 162.125.18.130 photos-1.dropbox.com
 162.125.18.130 photos-2.dropbox.com
@@ -1405,7 +1403,6 @@
 219.76.4.14 producer.googleusercontent.com
 219.76.4.14 productforums.google.com
 219.76.10.49 profile.ak.fbcdn.net
-64.4.16.15 profile.live.com
 219.76.4.14 profiles.google.com
 219.76.4.14 promote.orkut.com
 72.21.91.127 promoted.soundcloud.com
@@ -1419,7 +1416,7 @@
 219.76.4.14 reader.google.com
 219.76.4.14 reader.googleusercontent.com
 68.142.242.184 real-min-ruler.secure.yahoo.com
-34.205.224.131 rec.api.nytimes.com
+54.209.158.74 rec.api.nytimes.com
 219.76.4.14 redirector-bigcache.googleapis.com
 219.76.4.14 redirector.c.youtube.com
 219.76.4.14 redirector.googlevideo.com
@@ -1435,7 +1432,7 @@
 219.76.10.49 s-static.ak.facebook.com
 219.76.10.49 s-static.ak.fbcdn.net
 157.240.7.35 s-static.facebook.com
-52.222.211.227 s.flipboard.com
+52.85.159.252 s.flipboard.com
 103.245.222.193 s.imgur.com
 151.101.76.84 s.pinimg.com
 104.244.45.249 s.twitter.com
@@ -1444,7 +1441,7 @@
 219.76.4.14 s.youtube.com
 219.76.4.14 s.ytimg.com
 219.76.4.14 s0-2mdn-net.l.google.com
-52.216.0.248 s1-nyt-com.s3.amazonaws.com
+54.231.114.227 s1-nyt-com.s3.amazonaws.com
 219.76.4.14 s1.googleusercontent.com
 151.101.77.164 s1.nyt.com
 119.161.14.18 s1.yimg.com
@@ -1470,7 +1467,7 @@
 219.76.4.14 safebrowsing.clients.google.com
 219.76.4.14 safebrowsing.google.com
 219.76.4.14 safebrowsing.googleapis.com
-54.201.1.68 samizdat.nytimes.com
+151.101.77.164 samizdat.nytimes.com
 219.76.4.14 sandbox.google.com
 219.76.4.14 sandbox.l.google.com
 219.76.4.14 sb-ssl.google.com
@@ -1598,7 +1595,6 @@
 219.76.4.14 storage-ugc.l.googleusercontent.com
 219.76.4.14 storage.googleapis.com
 219.76.4.14 storage.l.googleusercontent.com
-134.170.111.176 storage.live.com
 219.76.4.14 store.google.com
 103.245.222.193 store.imgur.com
 104.244.45.249 stream.twitter.com
@@ -1627,7 +1623,7 @@
 219.76.4.14 t5.gstatic.com
 219.76.4.14 t6.gstatic.com
 219.76.4.14 t7.gstatic.com
-107.21.119.15 tagx.nytimes.com
+23.23.119.219 tagx.nytimes.com
 64.233.188.125 talk.google.com
 64.233.188.125 talk.l.google.com
 219.76.4.14 talkgadget.google.com
@@ -1694,7 +1690,7 @@
 151.101.77.164 typeface.nytimes.com
 219.76.4.14 uberproxy.corp.google.com
 219.76.4.14 uberproxy.l.google.com
-54.164.65.195 ue.flipboard.com
+23.23.66.189 ue.flipboard.com
 219.76.4.14 ug.vp.video.l.google.com
 219.76.4.14 uk.youtube.com
 119.161.14.18 up.flickr.com
@@ -1749,7 +1745,7 @@
 219.76.4.14 virustotalcloud.appspot.com
 72.21.91.127 visuals.soundcloud.com
 219.76.4.14 voice.google.com
-104.89.147.109 vp.nyt.com
+23.219.132.99 vp.nyt.com
 219.76.4.14 vp.video.google.com
 219.76.4.14 vp.video.l.google.com
 219.76.4.14 vp01.video.l.google.com

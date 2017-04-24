@@ -1,4 +1,4 @@
-## 2017-04-23 19:24:18
+## 2017-04-24 22:07:04
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY 4.0 International License.
 # https://creativecommons.org/licenses/by/4.0/
@@ -15,6 +15,9 @@ address=/boxcloud.com/107.152.25.200
 address=/notes.services.box.com/107.152.25.207
 address=/support.box.com/104.218.203.34
 address=/box.net/107.152.25.193
+
+## collector
+52.222.234.152 d3c33hcgiwev3.cloudfront.net
 
 ## Disqus
 address=/disqus.com/151.101.192.134
@@ -65,13 +68,13 @@ address=/thefacebook.com/157.240.7.35
 address=/fbcdn.net/31.13.93.15
 
 ## Flipboard    
-address=/s.flipboard.com/52.222.211.227
-address=/cdn.flipboard.com/52.84.49.209
-address=/ue.flipboard.com/54.164.65.195
-address=/beacon.flipboard.com/54.164.65.195
+address=/s.flipboard.com/52.85.159.252
+address=/cdn.flipboard.com/52.84.218.217
+address=/ue.flipboard.com/23.23.66.189
+address=/beacon.flipboard.com/23.23.66.189
 address=/flipboard.com/34.192.27.249
-address=/fbprod.flipboard.com/52.21.120.211
-address=/flipboard.helpshift.com/50.18.151.133
+address=/fbprod.flipboard.com/52.206.64.125
+address=/flipboard.helpshift.com/54.215.4.184
 
 ## Google home
 address=/admob.com/219.76.4.70
@@ -166,21 +169,21 @@ address=/imgur.com/103.245.222.193
 ## New York Time      
 address=/cn.nytimes.com/54.230.213.29
 address=/cn.nytstyle.com/54.230.213.29
-address=/et.nytimes.com/52.1.0.123
-address=/ic.tynt.com/208.100.17.183
+address=/et.nytimes.com/52.206.184.18
+address=/ic.tynt.com/208.100.17.186
 address=/l0.cn.nytimes.com/122.152.169.5
 address=/m.cn.nytimes.com/35.186.231.252
 address=/m.cn.nytstyle.com/52.192.30.67
-address=/messaging-sub.api.nytimes.com/107.23.6.161
+address=/messaging-sub.api.nytimes.com/52.0.234.90
 address=/nyt.com/151.101.77.164
 address=/nytab.nytimes.com/50.19.127.24
 address=/nytimes.com/151.101.77.164
-address=/rec.api.nytimes.com/34.205.224.131
-address=/samizdat.nytimes.com/54.201.1.68
+address=/rec.api.nytimes.com/54.209.158.74
+address=/samizdat.nytimes.com/151.101.77.164
 address=/sso.nytcn.me/54.64.135.49
 address=/static.sxzhchina.com/54.230.213.29
-address=/tagx.nytimes.com/107.21.119.15
-address=/vp.nyt.com/104.89.147.109
+address=/tagx.nytimes.com/23.23.119.219
+address=/vp.nyt.com/23.219.132.99
 
 ## Onedrive
 address=/skyapi.onedrive.live.com/157.55.109.232
