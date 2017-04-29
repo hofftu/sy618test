@@ -1,11 +1,11 @@
-## 2017-04-24 22:08:04
+## 2017-04-29 18:39:06
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-04-24 22:07:05
-#version=201704241116
+## 2017-04-29 18:37:38
+#version=20170429
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1149,7 +1149,6 @@
 127.0.0.1 jinrong.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 static.m.sjzhushou.com
-127.0.0.1 img.momocdn.com
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 api.appodeal.com
 127.0.0.1 api.mobads4app.com
@@ -4892,7 +4891,6 @@
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
-127.0.0.1 api.growingio.com
 127.0.0.1 apihk.growingio.com
 127.0.0.1 t.growingio.com
 127.0.0.1 tags.growingio.com
@@ -6020,8 +6018,32 @@
 127.0.0.1 ads.wasu.tv
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
+127.0.0.1 m.baidu.com.zhiduo.org
+127.0.0.1 zen.ztidu.com
+127.0.0.1 m.ky666666.com
+127.0.0.1 xxx.caip2y.com
+127.0.0.1 s.nyydj.com
+127.0.0.1 p.dandan19.top
+127.0.0.1 mm.njfsk.com
+127.0.0.1 m.papajia55.com
+127.0.0.1 i5.hsmil.com
+127.0.0.1 i6.hsmil.com
+127.0.0.1 bbsimages.zkxf119.com
+127.0.0.1 bdjiaoben.wmxa.cn
+127.0.0.1 a2.huanqiumil.com
+127.0.0.1 a1.huanqiumil.com
+127.0.0.1 www.bgpxrwjrbsjb.com
+127.0.0.1 www.bzfguipyjops.com
+127.0.0.1 m3a425.wdalk.com
+127.0.0.1 z2.lnymd.com
+127.0.0.1 kd.zzhengre.com
+127.0.0.1 v7.kawinhome.com
+127.0.0.1 js43.hailiao520.com
+127.0.0.1 img.uyangyong.cn
+127.0.0.1 pic.by175.com
+127.0.0.1 jpg.hj753.com
 127.0.0.1 ad.endpo.in
-## 2017-04-24 22:08:02
+## 2017-04-29 18:39:02
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com
@@ -6594,6 +6616,7 @@
 219.76.4.14 domains.google.com
 219.76.4.14 download-chromium.appspot.com
 104.20.83.194 download.apkpure.com
+219.76.4.14 download.lineageos.org
 183.177.81.75 downloadr.flickr.com
 104.244.45.249 downloads.tweetdeck.com
 219.76.4.14 draft.blogger.com
@@ -7752,7 +7775,7 @@
 31.13.93.15 video-mrs1-2.xx.fbcdn.net
 31.13.93.15 video-mrs1-3.xx.fbcdn.net
 31.13.93.15 video-mrs1-4.xx.fbcdn.net
-31.13.93.15 video-sit4-1.xx.fbcdn.net/
+31.13.93.15 video-sit4-1.xx.fbcdn.net
 219.76.4.14 video-stats.l.google.com
 219.76.4.14 video-stats.video.google.com
 219.76.4.14 video-thumbnails.l.google.com

@@ -1,4 +1,4 @@
-## 2017-04-24 22:08:02
+## 2017-04-29 18:39:02
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -572,6 +572,7 @@
 219.76.4.14 domains.google.com
 219.76.4.14 download-chromium.appspot.com
 104.20.83.194 download.apkpure.com
+219.76.4.14 download.lineageos.org
 183.177.81.75 downloadr.flickr.com
 104.244.45.249 downloads.tweetdeck.com
 219.76.4.14 draft.blogger.com
@@ -1730,7 +1731,7 @@
 31.13.93.15 video-mrs1-2.xx.fbcdn.net
 31.13.93.15 video-mrs1-3.xx.fbcdn.net
 31.13.93.15 video-mrs1-4.xx.fbcdn.net
-31.13.93.15 video-sit4-1.xx.fbcdn.net/
+31.13.93.15 video-sit4-1.xx.fbcdn.net
 219.76.4.14 video-stats.l.google.com
 219.76.4.14 video-stats.video.google.com
 219.76.4.14 video-thumbnails.l.google.com
