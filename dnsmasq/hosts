@@ -1,6 +1,6 @@
-#version=201705062124
+#version=201705072032
 #url=https://github.com/vokins/yhosts/
-## 2017-05-07 10:34:17
+## 2017-05-07 21:47:37
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 xia.xiazailou.la
@@ -957,7 +957,6 @@
 0.0.0.0 pr.da.netease.com
 0.0.0.0 wr.da.netease.com
 0.0.0.0 statis.push.netease.com
-0.0.0.0 stat.nm.netease.com
 0.0.0.0 analytics.hz.netease.com
 0.0.0.0 s.chebse.com
 0.0.0.0 creatives.ftchinese.com
@@ -1683,6 +1682,7 @@
 0.0.0.0 sy.code.mytanwan.com
 0.0.0.0 sy.flash.mytanwan.com
 0.0.0.0 img.danzhuwan.com
+0.0.0.0 db.edwinyan.com
 0.0.0.0 p.m5bn.com
 0.0.0.0 js3555.championmachinery-cn.com
 0.0.0.0 analytics.21cn.com
@@ -2902,9 +2902,11 @@
 0.0.0.0 msg.m.letv.com
 0.0.0.0 static.app.m.letv.com
 0.0.0.0 fz.letv.com
+0.0.0.0 pcweb.v1.mgtv.com
+0.0.0.0 pc1.da.mgtv.com
 0.0.0.0 pc.da.mgtv.com
+0.0.0.0 x.da.mgtv.com
 0.0.0.0 disp1.titan.mgtv.com
-0.0.0.0 disp.titan.mgtv.com
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 cdn.cmop.mgtv.com
 0.0.0.0 as.mgtv.com
@@ -2920,6 +2922,7 @@
 0.0.0.0 v1.res.log.hunantv.com
 0.0.0.0 v2.res.log.hunantv.com
 0.0.0.0 v1.play.log.hunantv.com
+0.0.0.0 mp4.res.hunantv.com
 0.0.0.0 flv.res.hunantv.com
 0.0.0.0 adx.xiaodutv.com
 0.0.0.0 j.qiqivv.com
@@ -3296,6 +3299,7 @@
 0.0.0.0 www.adsage.cn
 0.0.0.0 adf.dahe.cn
 0.0.0.0 www.shanruibie.cn
+0.0.0.0 tt.shxinjie.cn
 0.0.0.0 imxiexie.cn
 0.0.0.0 pf.h5game.cn
 0.0.0.0 mcore.vcgame.cn

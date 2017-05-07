@@ -1,11 +1,11 @@
-## 2017-05-07 10:35:28
+## 2017-05-07 21:55:17
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-05-07 10:34:17
-#version=201705062124
+## 2017-05-07 21:47:37
+#version=201705072032
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1831,14 +1831,17 @@
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cmop.mgtv.com
-127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 disp1.titan.mgtv.com
 127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com
+127.0.0.1 pc1.da.mgtv.com
+127.0.0.1 pcweb.v1.mgtv.com
+127.0.0.1 x.da.mgtv.com
 127.0.0.1 flv.res.hunantv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.v2.hunantv.com
 127.0.0.1 mobile.log.hunantv.com
+127.0.0.1 mp4.res.hunantv.com
 127.0.0.1 player.log.hunantv.com
 127.0.0.1 v1.play.log.hunantv.com
 127.0.0.1 v1.res.log.hunantv.com
@@ -2218,6 +2221,7 @@
 127.0.0.1 e.968lele.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
+127.0.0.1 tt.shxinjie.cn
 127.0.0.1 pp.2945.com
 127.0.0.1 wywk.seuxm.cn
 127.0.0.1 stat.jdwjy168.com
@@ -2467,6 +2471,7 @@
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
+127.0.0.1 db.edwinyan.com
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 db.dghrwj.com
 127.0.0.1 crtl.322927.com
@@ -3671,7 +3676,6 @@
 127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 analytics.hz.netease.com
-127.0.0.1 stat.nm.netease.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 pr.da.netease.com
@@ -4585,6 +4589,7 @@
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
 127.0.0.1 vbaof.admaster.com.cn
+127.0.0.1 vhunantv.admaster.com.cn
 127.0.0.1 view.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
@@ -6094,7 +6099,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 ad.endpo.in
-## 2017-05-07 10:35:25
+## 2017-05-07 21:55:16
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.14 0-focus-opensocial.googleusercontent.com

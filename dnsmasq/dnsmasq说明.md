@@ -21,6 +21,6 @@
 ```
 
 
-##/sh 文件夹是【华硕老毛子固件】全自动脚本
+## sh文件夹 是[【华硕老毛子固件】全自动脚本](https://github.com/sy618/hosts/tree/master/dnsmasq/sh)
 
 
