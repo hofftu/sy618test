@@ -1,4 +1,4 @@
-## 2017-04-24 22:07:04
+## 2017-05-07 10:34:17
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY 4.0 International License.
 # https://creativecommons.org/licenses/by/4.0/
@@ -17,7 +17,7 @@ address=/support.box.com/104.218.203.34
 address=/box.net/107.152.25.193
 
 ## collector
-address=/d3c33hcgiwev3.cloudfront.net/52.222.234.152
+address=/d3c33hcgiwev3.cloudfront.net/54.192.151.157
 
 ## Disqus
 address=/disqus.com/151.101.192.134

@@ -1,4 +1,4 @@
-## 2017-04-29 18:39:02
+## 2017-05-07 10:35:25
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -450,23 +450,23 @@
 219.76.4.14 clients-cctld.l.google.com
 219.76.4.14 clients.l.google.com
 219.76.4.14 clients1.google.co.jp
-61.91.161.217 clients1.google.com
+219.76.4.14 clients1.google.com
 219.76.4.14 clients1.google.com.hk
 219.76.4.14 clients1.google.com.sg
 219.76.4.14 clients1.google.com.tw
 219.76.4.14 clients1.googleusercontent.com
 219.76.4.14 clients1.youtube.com
-61.91.161.217 clients2.google.com
+219.76.4.14 clients2.google.com
 219.76.4.14 clients2.googleusercontent.com
-61.91.161.217 clients3.google.com
+219.76.4.14 clients3.google.com
 219.76.4.14 clients3.googleusercontent.com
-61.91.161.217 clients4.google.com
+219.76.4.14 clients4.google.com
 219.76.4.14 clients4.googleusercontent.com
-61.91.161.217 clients5.google.com
+219.76.4.14 clients5.google.com
 219.76.4.14 clients5.googleusercontent.com
-61.91.161.217 clients6.google.com
+219.76.4.14 clients6.google.com
 219.76.4.14 clients6.googleusercontent.com
-61.91.161.217 clients7.google.com
+219.76.4.14 clients7.google.com
 219.76.4.14 clients7.googleusercontent.com
 219.76.4.14 clientservices.googleapis.com
 219.76.4.14 closure-library.googlecode.com
@@ -509,7 +509,7 @@
 119.161.14.18 d.yimg.com
 104.25.68.113 d0.winudf.com
 104.25.68.113 d1.winudf.com
-52.222.234.152 d3c33hcgiwev3.cloudfront.net
+54.192.151.157 d3c33hcgiwev3.cloudfront.net
 219.76.4.14 datasaver.googleapis.com
 219.76.4.14 dbxlocal.dropboxstatic.com
 203.188.200.67 de.yahoo.com
@@ -659,7 +659,6 @@
 69.147.76.173 flickr.com
 34.192.27.249 flipboard.com
 54.215.4.184 flipboard.helpshift.com
-219.76.4.14 fonts.googleapis.com
 219.76.4.14 fonts.gstatic.com
 219.76.4.14 foobar.withgoogle.com
 54.192.72.202 forums.dropbox.com
@@ -851,6 +850,7 @@
 219.76.4.14 google.gg
 219.76.4.14 google.gl
 219.76.4.14 google.gm
+219.76.4.14 google.golang.org
 219.76.4.14 google.gp
 219.76.4.14 google.gr
 219.76.4.14 google.gy
@@ -1097,7 +1097,7 @@
 151.101.77.164 int.nyt.com
 219.76.4.14 interstellar.withgoogle.com
 219.76.4.14 investor.google.com
-219.76.4.14 ipv4.google.com
+219.76.4.70 ipv4.google.com
 219.76.4.14 ipv4.l.google.com
 219.76.4.14 isolated.mail.google.com
 198.35.26.96 ja.m.wikipedia.org
@@ -1559,7 +1559,7 @@
 219.76.4.14 spreadsheets9.google.com
 219.76.4.14 ssh.cloud.google.com
 157.240.7.35 ssl.facebook.com
-61.91.161.217 ssl.gstatic.com
+219.76.4.70 ssl.gstatic.com
 219.76.4.14 sslvideo-upload.l.google.com
 54.64.135.49 sso.nytcn.me
 219.76.4.14 stage.gdata.youtube.com
@@ -1902,7 +1902,7 @@
 219.76.4.14 www.google.co.za
 219.76.4.14 www.google.co.zm
 219.76.4.14 www.google.co.zw
-61.91.161.217 www.google.com
+219.76.4.70 www.google.com
 219.76.4.14 www.google.com.af
 219.76.4.14 www.google.com.ag
 219.76.4.14 www.google.com.ai
@@ -1926,7 +1926,7 @@
 219.76.4.14 www.google.com.gi
 219.76.4.14 www.google.com.gr
 219.76.4.14 www.google.com.gt
-61.91.161.217 www.google.com.hk
+219.76.4.70 www.google.com.hk
 219.76.4.14 www.google.com.jm
 219.76.4.14 www.google.com.kh
 219.76.4.14 www.google.com.kw

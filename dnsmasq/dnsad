@@ -345,6 +345,7 @@ address=/.yengo.com/0.0.0.0
 address=/.zedo.com/0.0.0.0
 #
 address=/.googleadservices.com/0.0.0.0
+address=/.googletagservices.com/0.0.0.0
 address=/.nxrhs.com/0.0.0.0
 address=/.yunos.com/0.0.0.0
 address=/.mxmrt.com/0.0.0.0
