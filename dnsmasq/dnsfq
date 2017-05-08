@@ -1,12 +1,13 @@
-## 2017-05-07 10:34:17
+## 2017-05-08 22:21:05
+## by sy618
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY 4.0 International License.
 # https://creativecommons.org/licenses/by/4.0/
 
 ## Apkpure
 address=/apkpure.com/104.20.83.194
-address=/pureapk.com/104.25.68.113
-address=/winudf.com/104.25.68.113
+#address=/pureapk.com/104.25.68.113
+#address=/winudf.com/104.25.68.113
 
 ## Box
 address=/box.com/107.152.25.197

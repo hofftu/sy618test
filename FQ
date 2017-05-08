@@ -1,4 +1,4 @@
-## 2017-05-07 10:35:25
+## 2017-05-08 22:24:03
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -256,7 +256,6 @@
 104.16.121.145 api.medium.com
 204.79.197.213 api.onedrive.com
 151.101.76.84 api.pinterest.com
-104.25.68.113 api.pureapk.com
 219.76.4.14 api.recaptcha.net
 72.21.91.127 api.soundcloud.com
 104.28.31.251 api.theinitium.com
@@ -507,8 +506,6 @@
 157.240.7.35 d.facebook.com
 162.125.82.7 d.v.dropbox.com
 119.161.14.18 d.yimg.com
-104.25.68.113 d0.winudf.com
-104.25.68.113 d1.winudf.com
 54.192.151.157 d3c33hcgiwev3.cloudfront.net
 219.76.4.14 datasaver.googleapis.com
 219.76.4.14 dbxlocal.dropboxstatic.com
@@ -1017,7 +1014,6 @@
 219.76.4.14 ig.ig.gmodules.com
 104.244.43.135 image-proxy-origin.twimg.com
 219.76.4.14 image.google.com
-104.25.68.113 image.winudf.com
 219.76.4.14 images-blogger-opensocial.googleusercontent.com
 219.76.4.14 images-docs-opensocial.googleusercontent.com
 219.76.4.14 images-focus-opensocial.googleusercontent.com
@@ -2156,6 +2152,18 @@
 219.76.4.11 r18---sn-5uh5o-f5f6.gvt1.com
 219.76.4.11 r19---sn-5uh5o-f5f6.gvt1.com
 219.76.4.11 r20---sn-5uh5o-f5f6.gvt1.com
+219.76.4.11 r1---sn-5ualdn7k.gvt1.com
+219.76.4.11 r2---sn-5ualdn7k.gvt1.com
+219.76.4.11 r3---sn-5ualdn7k.gvt1.com
+219.76.4.11 r5---sn-5ualdn7k.gvt1.com
+219.76.4.11 r4---sn-5ualdn7k.gvt1.com
+219.76.4.11 r6---sn-5ualdn7k.gvt1.com
+219.76.4.11 r1---sn-hp57kn7e.gvt1.com
+219.76.4.11 r2---sn-hp57kn7e.gvt1.com
+219.76.4.11 r3---sn-hp57kn7e.gvt1.com
+219.76.4.11 r5---sn-hp57kn7e.gvt1.com
+219.76.4.11 r4---sn-hp57kn7e.gvt1.com
+219.76.4.11 r6---sn-hp57kn7e.gvt1.com
 219.76.4.11 r1---sn-i3b7knez.gvt1.com
 219.76.4.11 r2---sn-i3b7knez.gvt1.com
 219.76.4.11 r3---sn-i3b7knez.gvt1.com
@@ -3915,6 +3923,18 @@
 219.76.4.11 r18---sn-5uh5o-f5f6.googlevideo.com
 219.76.4.11 r19---sn-5uh5o-f5f6.googlevideo.com
 219.76.4.11 r20---sn-5uh5o-f5f6.googlevideo.com
+219.76.4.11 r1---sn-5ualdn7k.googlevideo.com
+219.76.4.11 r2---sn-5ualdn7k.googlevideo.com
+219.76.4.11 r3---sn-5ualdn7k.googlevideo.com
+219.76.4.11 r5---sn-5ualdn7k.googlevideo.com
+219.76.4.11 r4---sn-5ualdn7k.googlevideo.com
+219.76.4.11 r6---sn-5ualdn7k.googlevideo.com
+219.76.4.11 r1---sn-hp57kn7e.googlevideo.com
+219.76.4.11 r2---sn-hp57kn7e.googlevideo.com
+219.76.4.11 r3---sn-hp57kn7e.googlevideo.com
+219.76.4.11 r5---sn-hp57kn7e.googlevideo.com
+219.76.4.11 r4---sn-hp57kn7e.googlevideo.com
+219.76.4.11 r6---sn-hp57kn7e.googlevideo.com
 219.76.4.11 r1---sn-i3b7knez.googlevideo.com
 219.76.4.11 r2---sn-i3b7knez.googlevideo.com
 219.76.4.11 r3---sn-i3b7knez.googlevideo.com
