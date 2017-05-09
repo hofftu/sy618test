@@ -1,6 +1,6 @@
-#version=201705072032
+## 2017-05-09 22:52:43
 #url=https://github.com/vokins/yhosts/
-## 2017-05-08 22:21:06
+#version=201705092155
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 xia.xiazailou.la
@@ -255,6 +255,7 @@
 0.0.0.0 e.kod4pc293.com
 0.0.0.0 ioscdn.ywpod3.com
 0.0.0.0 huan.szrk3.com
+0.0.0.0 lkf1.m.sanhao3.com
 0.0.0.0 cs.xitao3.com
 0.0.0.0 ts.xitao3.com
 0.0.0.0 same.mzy2014.com
@@ -670,6 +671,7 @@
 0.0.0.0 img2.hrccb.com
 0.0.0.0 hvfzshrpfueb.com
 0.0.0.0 www.hvfzshrpfueb.com
+0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 iiiiii.sharrysweb.com
 0.0.0.0 s.bxgmb.com
 0.0.0.0 ad.jsnbrynb.com
@@ -1412,6 +1414,7 @@
 0.0.0.0 ju.fqjsjj.com
 0.0.0.0 m.cartekj.com
 0.0.0.0 sube.puwangkj.com
+0.0.0.0 yang.jfqkj.com
 0.0.0.0 js.hhcskj.com
 0.0.0.0 kob.adxkj.com
 0.0.0.0 js.adxkj.com
@@ -1625,7 +1628,6 @@
 0.0.0.0 cdnimg.liehu.ijinshan.com
 0.0.0.0 read.huabian.com
 0.0.0.0 www.huabian.com
-0.0.0.0 weidian.com
 0.0.0.0 vip.xjidian.com
 0.0.0.0 www.xjidian.com
 0.0.0.0 a.game.qidian.com
@@ -2244,6 +2246,8 @@
 0.0.0.0 sss.wzjmr.com
 0.0.0.0 js.jermr.com
 0.0.0.0 sp.wndoor.com
+0.0.0.0 e.zccompressor.com
+0.0.0.0 m.zccompressor.com
 0.0.0.0 loadm.exelator.com
 0.0.0.0 www.webdissector.com
 0.0.0.0 njs.msypr.com
@@ -3006,6 +3010,7 @@
 0.0.0.0 j.91cmzx.com
 0.0.0.0 s.dgpzx.com
 0.0.0.0 titi.18tzx.com
+0.0.0.0 b.ndtzx.com
 0.0.0.0 in.ndtzx.com
 0.0.0.0 s.ndtzx.com
 0.0.0.0 www.xbzzzx.com
@@ -3985,6 +3990,7 @@
 0.0.0.0 ssp.jtxh.net
 0.0.0.0 v.jtxh.net
 0.0.0.0 v.360daidai.net
+0.0.0.0 www.70niandai.net
 0.0.0.0 tw13b093.sandai.net
 0.0.0.0 liveupdate.mac.sandai.net
 0.0.0.0 api.tw06.xlmc.sandai.net
