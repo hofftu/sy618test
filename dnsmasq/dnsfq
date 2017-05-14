@@ -1,4 +1,4 @@
-## 2017-05-09 22:52:43
+## 2017-05-14 20:43:22
 ## by sy618
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
@@ -65,11 +65,12 @@ address=/instagram.com/157.240.7.52
 address=/m.me/157.240.7.35
 address=/messenger.com/157.240.7.35
 address=/telegraph-ash.instagram.com/173.252.91.113
+address=/telegraph-tiproxy.instagram.com/34.205.123.65
 address=/thefacebook.com/157.240.7.35
 address=/fbcdn.net/31.13.93.15
 
 ## Flipboard    
-address=/s.flipboard.com/52.85.159.252
+address=/s.flipboard.com/54.192.214.90
 address=/cdn.flipboard.com/52.84.218.217
 address=/ue.flipboard.com/23.23.66.189
 address=/beacon.flipboard.com/23.23.66.189
@@ -193,15 +194,15 @@ address=/initiummall.com/104.28.31.251
 address=/theinitium.com/104.28.31.251
 
 ## Twitter
-address=/t.co/104.244.45.249
-address=/tweetdeck.com/104.244.45.249
+address=/t.co/219.76.4.70
+address=/tweetdeck.com/219.76.4.70
 address=/twimg.com/104.244.43.135
 address=/twitpic.com/104.244.46.148
-address=/twitter.com/104.244.45.249
+address=/twitter.com/219.76.4.70
 
 ## Vimeo   
 address=/vimeo.com/23.235.37.217
-address=/vimeocdn.com/151.101.77.133
+#address=/vimeocdn.com/151.101.78.109
 address=/click.email.vimeo.com/198.245.92.39
 
 ## Wikipedia
