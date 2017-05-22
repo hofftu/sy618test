@@ -2,7 +2,7 @@
 
 ### [两个hosts订阅方案](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
 
-### [路由器dnsmasq规则（支持汤不热网页视频播放）](https://github.com/sy618/hosts/tree/master/dnsmasq)
+### [路由器dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)
 
 
 ## 自动更新hosts/dnsmasq
