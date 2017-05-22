@@ -1,8 +1,9 @@
 <TaskerData sr="" dvi="1" tv="4.9u3m">
 	<Profile sr="prof14" ve="2">
 		<cdate>1482847630573</cdate>
-		<edate>1490003821893</edate>
+		<edate>1495458900443</edate>
 		<id>14</id>
+		<limit>true</limit>
 		<mid0>11</mid0>
 		<nme>在WiFi下每隔三天更新</nme>
 		<Day sr="con0">
@@ -28,7 +29,7 @@
 		<cdate>1482824845945</cdate>
 		<name>ADFQhosts自动更新2</name>
 		<pids>14</pids>
-		<tids>11,6,7,8</tids>
+		<tids>8,7,6,11</tids>
 		<Kid sr="Kid">
 			<feat0>android.hardware.wifi:y</feat0>
 			<launchID>8</launchID>
@@ -39,9 +40,9 @@
 	</Project>
 	<Task sr="task11">
 		<cdate>1483812594195</cdate>
-		<edate>1490003814299</edate>
+		<edate>1495458889316</edate>
 		<id>11</id>
-		<nme>方案一ADFQ</nme>
+		<nme>方案一</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -83,7 +84,7 @@
 		</Action>
 		<Action sr="act3" ve="7">
 			<code>123</code>
-			<label>有问题可以找我</label>
+			<label>二合一</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
 cat ad FQ &gt; hosts
@@ -107,7 +108,7 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task6">
 		<cdate>1482050889292</cdate>
-		<edate>1490003812266</edate>
+		<edate>1495458811559</edate>
 		<id>6</id>
 		<nme>纯AD （vokins）</nme>
 		<pri>100</pri>
@@ -154,7 +155,7 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task7">
 		<cdate>1482051798178</cdate>
-		<edate>1490003809750</edate>
+		<edate>1495458808350</edate>
 		<id>7</id>
 		<nme>纯FQ （racaljk+sy618）</nme>
 		<pri>100</pri>
@@ -231,9 +232,9 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task8">
 		<cdate>1482825534204</cdate>
-		<edate>1490003801935</edate>
+		<edate>1495458887492</edate>
 		<id>8</id>
-		<nme>备用方案二</nme>
+		<nme>方案二</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -303,7 +304,7 @@ mount -o ro,remount /system</Str>
 		</Action>
 		<Action sr="act5" ve="7">
 			<code>123</code>
-			<label>方案一用不了就试试这个</label>
+			<label>四合一</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
 cat ad racaljk p y &gt; hosts

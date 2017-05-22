@@ -3,20 +3,35 @@
 
 下载脚本配置：“ADFQhosts自动更新2.prj.xml”
 
-导入脚本配置：打开软件Tasker，设置菜单-数据-还原-手工备份-选择已下载的“ADFQhosts自动更新2.prj.xml”脚本文件导入即可。
+导入脚本配置：打开软件Tasker，设置菜单→数据→还原→手工备份→选择已下载的“ADFQhosts自动更新2.prj.xml”脚本文件导入即可。
 
 
-“ADFQhosts自动更新2.prj.xml”说明：
+脚本说明：
 脚本内建了四种不同任务，可按自己需求使用。
-1.纯AD：使用vokins的yhosts AD hosts。
-2.纯FQ：使用的是racaljk的基础数据+sy618的play+YouTube数据
-3.方案一（推荐）。ADFQ，sy618 FQ hosts+vokins AD hosts，自用并维护。使用后有问题可以找我。
-4.备用方案二。即以上1+2合并的数据。
+
+1.纯AD：内置vokins的yhosts AD hosts。
+* AD(vokins)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+
+2.纯FQ：内置racaljk的基础数据+sy618的play+YouTube数据
+* fq(racaljk)：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+* play          ： https://raw.githubusercontent.com/sy618/hosts/master/p
+* YouTube  ：  https://raw.githubusercontent.com/sy618/hosts/master/y
+
+3.方案一，内置vokins AD hosts + sy618 FQ hosts（自用并维护）
+* AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+* FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
+
+4.方案二。内置四个源，使用的是vokins AD hosts+racaljk的基础数据+sy618的play+YouTube数据
+* AD(vokins)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+* play          ： https://raw.githubusercontent.com/sy618/hosts/master/p
+* YouTube  ：  https://raw.githubusercontent.com/sy618/hosts/master/y
+* fq(racaljk)：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+
 
 默认配置：在WiFi下每隔三天自动更新ADFQ方案一。（有其他需求的可自己去调配。）
 
 
-原贴：http://www.coolapk.com/feed/2355499
+方案一或方案二随便选一个使用。
 项目托管：https://github.com/sy618/hosts
 
 

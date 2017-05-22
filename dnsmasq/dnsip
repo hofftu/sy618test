@@ -1,12 +1,15 @@
-#运营商劫持
-bogus-nxdomain=60.19.29.21
-bogus-nxdomain=60.19.29.24
+
+# hijack
+bogus-nxdomain=120.197.89.239
 bogus-nxdomain=211.139.178.49
 bogus-nxdomain=221.179.46.190
 bogus-nxdomain=221.179.46.193
 bogus-nxdomain=221.179.46.194
+bogus-nxdomain=60.19.29.21
+bogus-nxdomain=60.19.29.24
 
-#广告IP
+
+# AD IP
 bogus-nxdomain=47.89.59.182
 bogus-nxdomain=106.75.65.90
 bogus-nxdomain=114.55.123.44

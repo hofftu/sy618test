@@ -1,5 +1,24 @@
 ## https://github.com/sy618/hosts
 
+
+## disqus
+104.16.80.166 c.disquscdn.com
+151.101.24.249 a.disquscdn.com
+151.101.24.134 referrer.disqus.com
+151.101.24.134 nytchinese.disqus.com
+151.101.192.134 disqus.com
+
+## collector #54.192.72.253
+54.192.151.157 d3c33hcgiwev3.cloudfront.net
+
+## lineageos ROM
+219.76.4.14 download.lineageos.org
+
+## voa 美国之音
+23.66.247.93 www.voachinese.com
+23.66.247.93 gdb.voanews.com
+23.66.247.93 av.voanews.com
+
 ## Amazon
 54.239.96.82 ap-northeast-1.console.aws.amazon.com
 54.240.226.19 ap-southeast-1.console.aws.amazon.com
@@ -28,6 +47,10 @@
 107.152.25.198 app.box.com
 107.152.25.196 box.com
 107.152.25.193 www.box.net
+107.152.25.200 public.boxcloud.com
+107.152.25.207 notes.services.box.com
+104.16.27.3 cdn01.boxcdn.net
+104.218.203.34 support.box.com
 
 ## DuckDuckGo    
 46.51.218.82 duckduckgo.com
@@ -37,7 +60,7 @@
 52.77.181.198 images.duckduckgo.com
 #96.45.82.53 help.duckduckgo.com
 
-##Dropbox
+## Dropbox
 162.125.82.6 dl.dropboxusercontent.com
 162.125.82.6 dl.dropbox.com
 162.125.82.6 dl-doc.dropbox.com
@@ -111,50 +134,43 @@
 104.20.83.194 i.apkpure.com
 104.20.83.194 download.apkpure.com
 104.20.83.194 translate.apkpure.com
-104.25.68.113 api.pureapk.com
 
 ## medium       
 104.16.121.127 medium.com
 104.16.121.145 api.medium.com
 104.16.121.145 cdn-static-1.medium.com
-104.16.121.145 cdn-static-2.medium.com
 104.16.117.145 cdn-images-1.medium.com
-151.101.44.101 cdn-images-2.medium.com
+104.16.120.145 cdn-images-2.medium.com
 
 ## theinitium端传媒
-52.76.148.61 stigma.theinitium.com
+104.28.31.251 stigma.theinitium.com
 104.28.31.251 theinitium.com
 104.28.31.251 api.theinitium.com
-23.227.38.32 initiummall.com
+104.28.31.251 initiummall.com
 
 ## OneDrive      
-64.4.16.215 account.live.com
-64.4.16.15 people.live.com
-64.4.16.15 profile.live.com
 157.55.109.232 skyapi.onedrive.live.com
-134.170.111.176 storage.live.com
-131.253.61.64 login.live.com
 204.79.197.217 onedrive.live.com
 
 ## Flipboard   
-52.222.211.227 s.flipboard.com
-52.84.49.209 cdn.flipboard.com
-54.164.65.195 ue.flipboard.com
-54.164.65.195 beacon.flipboard.com
+54.192.214.90 s.flipboard.com
+52.84.218.217 cdn.flipboard.com
+23.23.66.189 ue.flipboard.com
+23.23.66.189 beacon.flipboard.com
 34.192.27.249 flipboard.com
-52.21.120.211 fbprod.flipboard.com
-50.18.151.133 flipboard.helpshift.com
+52.206.64.125 fbprod.flipboard.com
+54.215.4.184 flipboard.helpshift.com
 
 ## vimeo
 198.245.92.39 click.email.vimeo.com
 23.235.37.217 vimeo.com
 23.235.37.217 api.vimeo.com
 23.235.37.217 player.vimeo.com
-151.101.77.133 fpdl.vimeocdn.com
-151.101.77.133 fresnel.vimeocdn.com
-151.101.77.133 skyfire.vimeocdn.com
-151.101.77.133 f.vimeocdn.com
-151.101.77.133 i.vimeocdn.com
+#151.101.78.109 fpdl.vimeocdn.com
+#151.101.78.109 fresnel.vimeocdn.com
+#151.101.78.109 skyfire.vimeocdn.com
+#151.101.78.109 f.vimeocdn.com
+#151.101.78.109 i.vimeocdn.com
 
 ## github
 151.101.76.249 github.global.ssl.fastly.net
@@ -168,7 +184,7 @@
 192.30.253.116 api.github.com
 192.30.253.113 github.com
 
-## Yahoo/flickr
+# Yahoo/flickr
 106.10.193.20 mail.yahoo.com
 106.10.193.20 hk-mg61.mail.yahoo.com
 106.10.193.20 login.yahoo.com
@@ -176,66 +192,56 @@
 106.10.193.20 na.edit.yahoo.com
 106.10.193.20 open.login.yahoo.com
 106.10.193.20 sa.edit.yahoo.com
+#202.43.194.205
+106.10.193.20 edit.yahoo.com
 106.10.193.30 sp.analytics.yahoo.com
 106.10.138.240 hk.yahoo.com
 106.10.138.240 tw.yahoo.com
 106.10.138.240 us.yahoo.com
 106.10.138.240 www.yahoo.com
+#106.10.139.246
 106.10.138.240 yahoo.com
 106.10.150.156 android.smtp.mail.yahoo.com
 27.123.207.149 android.imap.mail.yahoo.com
 68.142.242.184 real-min-ruler.secure.yahoo.com
-98.139.21.169 edit.yahoo.com
 103.6.87.114 radar.cedexis.com
 106.10.136.146 hsrd.yahoo.com
 106.10.198.33 cookiex.ngd.yahoo.com
 106.10.199.10 hk.news.yahoo.com
 106.10.199.11 tw.news.yahoo.com
+182.22.24.252 news.yahoo.co.jp
+182.22.24.252 search.yahoo.co.jp
+183.79.249.124 assist.search.yahooapis.jp
+182.22.31.252 s.yimg.jp
 119.160.242.41 geo.query.yahoo.com
 202.43.194.205 c5.ah.yahoo.com
 203.188.200.67 de.yahoo.com
 216.39.54.12 overview.mail.yahoo.com
-119.161.8.100 mg.mail.yahoo.com
-119.161.8.100 geo.yahoo.com
-119.161.8.100 m.mg.mail.yahoo.com
-119.161.8.100 info.yahoo.com
-119.161.8.100 policies.yahoo.com
-119.161.8.100 m.flickr.com
-119.161.8.100 www.flickr.com
-119.161.8.100 api.flickr.com
-119.161.8.100 up.flickr.com
-119.161.8.100 l.yimg.com
-119.161.8.100 d.yimg.com
-119.161.8.100 e.yimg.com
-119.161.8.100 h.yimg.com
-119.161.8.100 p.yimg.com
-119.161.8.100 ying.com
-119.161.8.100 s.yimg.com
-119.161.8.100 s1.yimg.com
+119.161.14.18 mg.mail.yahoo.com
+119.161.14.18 geo.yahoo.com
+119.161.14.18 m.mg.mail.yahoo.com
+119.161.14.18 info.yahoo.com
+119.161.14.18 policies.yahoo.com
+119.161.14.18 lh.secure.yahoo.com
+119.161.14.18 m.flickr.com
+119.161.14.18 www.flickr.com
+119.161.14.18 api.flickr.com
+119.161.14.18 up.flickr.com
+119.161.14.18 l.yimg.com
+119.161.14.18 d.yimg.com
+119.161.14.18 e.yimg.com
+119.161.14.18 h.yimg.com
+119.161.14.18 p.yimg.com
+119.161.14.18 ying.com
+119.161.14.18 s.yimg.com
+119.161.14.18 s1.yimg.com
 23.62.109.75 us.js2.yimg.com
 183.177.81.75 downloadr.flickr.com
 192.0.79.32 code.flickr.com
 203.84.197.9 heartbeat.flickr.com
-208.71.44.31 secure.flickr.com
+68.142.240.50 secure.flickr.com
 69.147.76.173 flickr.com
-63.250.200.72 bf1.farm3.staticflickr.com
-63.250.200.72 bf1.farm6.staticflickr.com
-63.250.200.72 bf1.farm7.staticflickr.com
-74.6.47.80 gq1.farm3.staticflickr.com
-74.6.47.80 gq1.farm4.staticflickr.com
-74.6.47.80 gq1.farm5.staticflickr.com
-74.6.47.80 gq1.farm6.staticflickr.com
-106.10.137.23 farm1.staticflickr.com
-106.10.137.23 farm2.staticflickr.com
-106.10.137.23 farm3.staticflickr.com
-106.10.137.23 farm4.staticflickr.com
-106.10.137.23 farm5.staticflickr.com
-106.10.137.23 farm6.staticflickr.com
-106.10.137.23 farm7.staticflickr.com
-106.10.137.23 farm8.staticflickr.com
-106.10.137.23 farm9.staticflickr.com
 106.10.137.23 static.flickr.com
-98.138.4.56 ne1.farm7.staticflickr.com
 
 ## twitch
 23.42.166.171 www.twitch.tv
@@ -250,12 +256,12 @@
 52.89.192.68 irc-ws.chat.twitch.tv
 
 ## Ingress
-54.241.32.15 api.crittercism.com
-54.241.32.22 appload.ingest.crittercism.com
-54.193.253.1 txn.ingest.crittercism.com
-169.46.12.74 bootstrap.upsight-api.com
-169.46.12.88 single.upsight-api.com
-169.46.12.88 batch.upsight-api.com
+119.81.248.34 single.upsight-api.com
+119.81.248.34 batch.upsight-api.com
+119.81.248.34 bootstrap.upsight-api.com
+54.241.32.8 appload.ingest.crittercism.com
+54.241.32.8 api.crittercism.com
+54.193.253.0 txn.ingest.crittercism.com
 
 ## tapatalk
 52.200.150.15 www.tapatalk.com
@@ -291,17 +297,17 @@
 203.208.41.176 mt3.google.cn
 
 ## pinterest                
-151.101.192.84 www.pinterest.com
-151.101.192.84 pinterest.com
-151.101.192.84 nl.pinterest.com
-151.101.192.84 api.pinterest.com
-151.101.192.84 s.pinimg.com
-151.101.192.84 i.pinimg.com
-151.101.192.84 v.pinimg.com
-151.101.192.84 s-media-cache-ak0.pinimg.com
-151.101.192.84 passets-cdn.pinterest.com
-151.101.192.84 trk.pinterest.com
-151.101.192.84 post.pinterest.com
+151.101.76.84 www.pinterest.com
+151.101.76.84 pinterest.com
+151.101.76.84 nl.pinterest.com
+151.101.76.84 api.pinterest.com
+151.101.76.84 s.pinimg.com
+151.101.76.84 i.pinimg.com
+151.101.76.84 v.pinimg.com
+151.101.76.84 s-media-cache-ak0.pinimg.com
+151.101.76.84 passets-cdn.pinterest.com
+151.101.76.84 trk.pinterest.com
+151.101.76.84 post.pinterest.com
 
 # SoundCloud  
 72.21.91.96 style.sndcdn.com
@@ -2005,3 +2011,4 @@
 219.76.4.14 www.google.co.tz
 219.76.4.14 google.co.uz
 219.76.4.14 www.google.co.uz
+
