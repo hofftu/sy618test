@@ -1,6 +1,6 @@
-## 2017-05-22 21:46:42
+## 2017-05-24 16:43:28
 #url=https://github.com/vokins/yhosts/
-#version=201705222009
+#version=201705222248
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 xia.xiazailou.la
@@ -51,7 +51,6 @@
 0.0.0.0 adx.chip.de
 0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 morepoweronmac.trade
-0.0.0.0 f12.baidu.com
 0.0.0.0 ggle.lywf.me
 0.0.0.0 ss.subo.me
 0.0.0.0 lotraden.online
@@ -2554,6 +2553,7 @@
 0.0.0.0 cp.nmbtedu.com
 0.0.0.0 f10.baidu.com
 0.0.0.0 f11.baidu.com
+0.0.0.0 f12.baidu.com
 0.0.0.0 a.baidu.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 cb.baidu.com

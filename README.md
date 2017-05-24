@@ -14,7 +14,6 @@
 ### China AD hosts，by vokins
 * 有广告或误杀问题请集中到以下地址反馈！
 * https://github.com/vokins/yhosts/
-* AD hosts爱好群:201973909
 
 
 ### licensed

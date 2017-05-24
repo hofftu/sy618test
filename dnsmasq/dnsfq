@@ -1,4 +1,4 @@
-## 2017-05-22 21:46:42
+## 2017-05-24 16:43:28
 ## by sy618
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
@@ -13,9 +13,9 @@ address=/apkpure.com/104.20.83.194
 address=/box.com/107.152.25.197
 address=/boxcdn.net/104.16.27.3
 address=/boxcloud.com/107.152.25.200
+address=/box.net/107.152.25.193
 address=/notes.services.box.com/107.152.25.207
 address=/support.box.com/104.218.203.34
-address=/box.net/107.152.25.193
 
 ## collector
 address=/d3c33hcgiwev3.cloudfront.net/54.192.151.157
@@ -49,8 +49,8 @@ address=/icons.duckduckgo.com/52.77.181.198
 address=/images.duckduckgo.com/52.77.181.198
 
 ## Facebook/Instagram
-address=/a.akamaihd.net/219.76.10.49
 address=/accountkit.com/157.240.7.35
+address=/akamaihd.net/219.76.10.49
 address=/ak.facebook.com/219.76.10.49
 address=/ak.fbcdn.net/219.76.10.49
 address=/ak.instagram.com/219.76.10.49
@@ -70,13 +70,13 @@ address=/thefacebook.com/157.240.7.35
 address=/fbcdn.net/31.13.93.15
 
 ## Flipboard    
-address=/s.flipboard.com/54.192.214.90
-address=/cdn.flipboard.com/52.84.218.217
-address=/ue.flipboard.com/23.23.66.189
 address=/beacon.flipboard.com/23.23.66.189
-address=/flipboard.com/34.192.27.249
+address=/cdn.flipboard.com/52.84.218.217
 address=/fbprod.flipboard.com/52.206.64.125
+address=/flipboard.com/34.192.27.249
 address=/flipboard.helpshift.com/54.215.4.184
+address=/s.flipboard.com/54.192.214.90
+address=/ue.flipboard.com/23.23.66.189
 
 ## Google family
 address=/admob.com/219.76.4.70
@@ -156,11 +156,14 @@ address=/youtube.co/219.76.4.70
 address=/youtube.com/219.76.4.70
 
 ##  Ingress    
-address=/upsight-api.com/119.81.248.34
 address=/crittercism.com/54.241.32.8
+address=/upsight-api.com/119.81.248.34
 
 ## Imgur
 address=/imgur.com/103.245.222.193
+
+## Lineageos ROM
+address=/download.lineageos.org/219.76.4.76
 
 ## New York Time      
 address=/cn.nytimes.com/54.230.213.29
@@ -184,12 +187,12 @@ address=/vp.nyt.com/23.219.132.99
 ## Onedrive
 address=/api.onedrive.live.com/2.17.58.51
 address=/api.onedrive.com/204.79.197.213
-address=/skyapi.onedrive.live.com/157.55.109.228
 address=/onedrive.live.com/204.79.197.217
+address=/skyapi.onedrive.live.com/157.55.109.228
 
 ## Pinterest               
-address=/pinterest.com/151.101.76.84
 address=/pinimg.com/151.101.76.84
+address=/pinterest.com/151.101.76.84
 
 ## Theinitium
 address=/initiummall.com/104.28.31.251
@@ -203,24 +206,23 @@ address=/twitpic.com/104.244.46.148
 address=/twitter.com/219.76.4.70
 
 ## Vimeo   
+address=/click.email.vimeo.com/198.245.92.39
 address=/vimeo.com/23.235.37.217
 #address=/vimeocdn.com/151.101.78.109
-address=/click.email.vimeo.com/198.245.92.39
 
 ## voa
-address=/www.voachinese.com/23.66.247.93
 address=/voanews.com/23.66.247.93
+address=/www.voachinese.com/23.66.247.93
 
 ## Wikipedia
 address=/upload.wikimedia.org/198.35.26.112
 address=/wikipedia.org/198.35.26.96
 
 ## Yahoo/flickr/tumblr
-address=/tumblr.com/66.6.33.149
 address=/97.media.tumblr.com/192.229.237.98
-address=/api.tumblr.com/119.161.8.100
 address=/android.imap.mail.yahoo.com/27.123.207.149
 address=/android.smtp.mail.yahoo.com/106.10.150.156
+address=/api.tumblr.com/119.161.8.100
 address=/assets.tumblr.com/119.161.8.100
 address=/code.flickr.com/192.0.79.32
 address=/downloadr.flickr.com/183.177.81.75
@@ -228,18 +230,19 @@ address=/flickr.com/119.161.14.18
 address=/geo.query.yahoo.com/119.160.242.41
 address=/info.yahoo.com/119.161.14.18
 address=/lh.secure.yahoo.com/119.161.14.18
-address=/mg.mail.yahoo.com/119.161.14.18
 address=/media.tumblr.com/119.161.8.100
-address=/mx.tumblr.com/192.229.237.97
+address=/mg.mail.yahoo.com/119.161.14.18
 address=/msb-mobile.m.yahoo.com/119.161.14.18
+address=/mx.tumblr.com/192.229.237.97
 address=/news.yahoo.com/106.10.199.10
 address=/overview.mail.yahoo.com/216.39.54.12
 address=/policies.yahoo.com/119.161.14.18
 address=/secure.flickr.com/68.142.240.50
 address=/srvcs.tumblr.com/66.6.32.162
-address=/static.tumblr.com/119.161.8.100
 address=/static.flickr.com/106.10.137.23
+address=/static.tumblr.com/119.161.8.100
 address=/t.umblr.com/66.6.32.162
+address=/tumblr.com/66.6.33.149
 address=/vt.tumblr.com/119.161.8.100
 address=/vtt.tumblr.com/119.161.9.100
 address=/www.tumblr.com/119.161.8.100

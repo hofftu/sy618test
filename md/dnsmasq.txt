@@ -1,0 +1,47 @@
+一个强大的dnsmasq规则与老毛子固件全自动脚本！
+恩山论坛
+
+1.什么是dnsmasq：https://wapbaike.baidu.com/item/DNSmasq?adapt=1
+简单来说，路由器dnsmasq可以看作是部署在路由器上的DNS服务器。
+dnsmasq功能很多，我们这里主要用来修正、加快网络响应 和 屏蔽广告（指向127.0.0.1或0.0.0.0）。
+
+2.1 加快网络响应。
+https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
+没时间解释了，有问题请到github
+
+2.2 屏蔽广告
+可以使用vokins的专门去国内广告hosts
+局域网内无PC的用这个规则：
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+PC用户的用这个：
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+（以hosts方式过滤广告肯定没有adbyby、KP等全面，但日常使用是够用了。）
+
+2.3 屏蔽运营商劫持
+https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsip
+
+3 如何使用
+3.1 手动添加（老毛子固件）
+dnsmasq规则下载到/etc/storage/dnsmasq/dnsmasq.d/目录内
+运行或添加到开机启动：
+wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq -O /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;restart_dhcpd
+定时任务自动更新：
+01 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq -O /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;restart_dhcpd
+
+hosts
+运行或添加到开机启动：
+wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts -O /etc/storage/dnsmasq/hosts;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/hosts;restart_dhcpd
+定时任务自动更新：
+02 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts  -O /etc/storage/dnsmasq/hosts;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/hosts;restart_dhcpd
+
+3.2 自动脚本（老毛子固件）
+setting.sh，详细看https://github.com/sy618/hosts/tree/master/dnsmasq/sh
+
+4.优缺点
+优点：解析快，消耗极少CPU资源，非常适合路由器使用。过滤广告无需证书，可部分代替s-s
+缺点：易失效，这一切美好的事情，全靠规则维护者的维护
+
+更多详细请看：
+https://github.com/vokins/yhosts
+https://github.com/sy618/hosts
+
