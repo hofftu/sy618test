@@ -1,4 +1,4 @@
-## 2017-05-24 16:43:28
+## 2017-05-26 23:02:07
 ## by sy618
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
@@ -82,8 +82,7 @@ address=/ue.flipboard.com/23.23.66.189
 address=/admob.com/219.76.4.70
 address=/agoogleaday.com/219.76.4.70
 address=/android.com/219.76.4.70
-address=/android.clients.google.com/61.91.161.217
-address=/appspot.com/61.91.161.217
+
 address=/blogger.com/219.76.4.70
 address=/blogspot.com/219.76.4.70
 address=/chromium.org/219.76.4.70
@@ -92,12 +91,11 @@ address=/dartlang.org/219.76.4.70
 address=/dl.google.com/203.208.43.105
 address=/feedburner.com/219.76.4.70
 address=/g.co/219.76.4.70
-address=/gcm-http.googleapis.com/61.91.161.217
+
 address=/gcr.io/219.76.4.70
 address=/ggpht.com/219.76.4.70
 address=/gmodules.com/219.76.4.70
 address=/golang.org/219.76.4.70
-address=/goo.gl/61.91.161.217
 address=/google.co.jp/219.76.4.70
 address=/google.co.kr/219.76.4.70
 address=/google.co.nz/219.76.4.70
@@ -133,7 +131,6 @@ address=/gvt2.com/219.76.4.69
 address=/gwtproject.org/219.76.4.70
 address=/html5rocks.com/219.76.4.70
 address=/keyhole.com/219.76.4.70
-address=/mail.google.com/61.91.161.217
 address=/mtalk.google.com/64.233.188.188
 address=/measurement.com/219.76.4.70
 address=/oneworldmanystories.com/219.76.4.70
@@ -154,6 +151,11 @@ address=/youtubeeducation.com/219.76.4.70
 address=/youtube-nocookie.com/219.76.4.70
 address=/youtube.co/219.76.4.70
 address=/youtube.com/219.76.4.70
+address=/android.clients.google.com/219.76.4.70
+address=/appspot.com/219.76.4.70
+address=/gcm-http.googleapis.com/219.76.4.70
+address=/goo.gl/219.76.4.70
+address=/mail.google.com/219.76.4.70
 
 ##  Ingress    
 address=/crittercism.com/54.241.32.8
@@ -173,7 +175,7 @@ address=/ic.tynt.com/208.100.17.186
 address=/l0.cn.nytimes.com/122.152.169.5
 address=/m.cn.nytimes.com/35.186.231.252
 address=/m.cn.nytstyle.com/52.192.30.67
-address=/messaging-sub.api.nytimes.com/52.0.234.90
+address=/messaging-sub.api.nytimes.com/52.203.102.52
 address=/nyt.com/151.101.77.164
 address=/nytab.nytimes.com/50.19.127.24
 address=/nytimes.com/151.101.77.164
@@ -251,3 +253,7 @@ address=/yahoo.co.jp/182.22.24.252
 address=/yahooapis.jp/183.79.249.124
 address=/yimg.com/119.161.14.18
 address=/yimg.jp/182.22.31.252
+
+## 1024
+address=/t66y.com/104.25.32.112
+

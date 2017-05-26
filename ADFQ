@@ -1,11 +1,11 @@
-## 2017-05-22 21:48:20
+## 2017-05-26 23:05:12
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-05-22 21:46:42
-#version=201705222009
+## 2017-05-26 23:02:07
+#version=201705261159
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -142,6 +142,7 @@
 127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 sina.wrating.com
 127.0.0.1 tongji.wrating.com
+127.0.0.1 init.phpwind.net
 127.0.0.1 api.share.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
@@ -167,6 +168,9 @@
 127.0.0.1 dxp.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -644,6 +648,9 @@
 127.0.0.1 eee.ttyy888.co
 127.0.0.1 www.716703.com
 127.0.0.1 dp.559.cc
+127.0.0.1 img.toppr.com.cn
+127.0.0.1 www.remote88.com
+127.0.0.1 ypv.chengadx.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -664,7 +671,6 @@
 127.0.0.1 t-flow.flyme.cn
 127.0.0.1 cal.meizu.com
 127.0.0.1 aries.mzres.com
-127.0.0.1 ebook.meizu.com
 127.0.0.1 ebook.res.meizu.com
 127.0.0.1 api-game.meizu.com
 127.0.0.1 game.res.meizu.com
@@ -1596,6 +1602,9 @@
 127.0.0.1 creatives1.ftimg.net
 127.0.0.1 dolphin.ftimg.net
 127.0.0.1 dolphin4.ftimg.net
+127.0.0.1 cod.southmoney.com
+127.0.0.1 icn.southmoney.com
+127.0.0.1 tongji.southmoney.com
 127.0.0.1 abc.douguo.com
 127.0.0.1 ggb.douguo.com
 127.0.0.1 ab.meishiba.com.cn
@@ -2218,6 +2227,7 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 shi.xacqp.com
 127.0.0.1 m.jundazulin.com
 127.0.0.1 shu.thxnr.com
 127.0.0.1 m.czxhgc.com
@@ -2438,6 +2448,7 @@
 127.0.0.1 e.mingysh.com
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
+127.0.0.1 18.m.dingdianzw.com
 127.0.0.1 y.hk9600.com
 127.0.0.1 rc.haodongkeji.cn
 127.0.0.1 rj.huajingfood.cn
@@ -2491,6 +2502,7 @@
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
+127.0.0.1 ge.dezfu.com
 127.0.0.1 jie.mnxtu.com
 127.0.0.1 da.qgss8.com
 127.0.0.1 yue.sqext.com
@@ -2558,12 +2570,15 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 e.yunanfuwuqi.com
+127.0.0.1 m.yunanfuwuqi.com
 127.0.0.1 www.lhafy.com
 127.0.0.1 e.kuwoyy.com
 127.0.0.1 e.s400cc.com
 127.0.0.1 m.sos0easy.com
 127.0.0.1 mm.yageben.com
 127.0.0.1 w.aidizi.com
+127.0.0.1 js.sxldyx.com
 127.0.0.1 qq.8368661.com
 127.0.0.1 n.yfi8.com
 127.0.0.1 vip.jixing8.com
@@ -2573,6 +2588,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 e.jundazulin.com
 127.0.0.1 sy.jhtcdj.com
 127.0.0.1 p.dandan19.top
 127.0.0.1 sy.njfsk.com
@@ -2628,6 +2644,8 @@
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
+127.0.0.1 s.m.xqingdou.com
+127.0.0.1 image.online2019.com
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
 127.0.0.1 www.xundefine.com
@@ -2652,6 +2670,7 @@
 127.0.0.1 e.feifish66.com
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
+127.0.0.1 cdn.0i-i0.com
 127.0.0.1 9pkw.com
 127.0.0.1 gfnksw.wap.xxbiquge.com
 127.0.0.1 iiehdh.wap.xxbiquge.com
@@ -2697,6 +2716,7 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+127.0.0.1 in.ddstu.com
 127.0.0.1 s.ddstu.com
 127.0.0.1 img.bdaerfa.com
 127.0.0.1 lz.bdaerfa.com
@@ -2740,6 +2760,7 @@
 127.0.0.1 www.keydot.net
 127.0.0.1 www.yanjiele8.club
 127.0.0.1 img1.trxxn.com
+127.0.0.1 s.tianyucangqiong1.com
 127.0.0.1 js3987.qsbz2011.com
 127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
@@ -3163,6 +3184,10 @@
 127.0.0.1 v.e704.net
 127.0.0.1 www.jjsszy.com
 127.0.0.1 www.duocpa2.cn
+127.0.0.1 dm76.dingon.com
+127.0.0.1 c.gzsanxiaomingshi.cn
+127.0.0.1 www.17168.com
+127.0.0.1 slb.pcmzn.com
 127.0.0.1 cc.zhongtoufc.com
 127.0.0.1 qjvcdn328.86666608.com
 127.0.0.1 show.niqiu99.org
@@ -3430,6 +3455,7 @@
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
 127.0.0.1 jjd.5442.com
+127.0.0.1 www.aomeng.net
 127.0.0.1 bdjs.itechwall.com
 127.0.0.1 xxx.caip2y.com
 127.0.0.1 v.huomob.com
@@ -3566,9 +3592,6 @@
 127.0.0.1 2.21shebao.com
 127.0.0.1 gg.anqu.com
 127.0.0.1 mm.anqu.com
-127.0.0.1 f10.baidu.com
-127.0.0.1 f11.baidu.com
-127.0.0.1 f12.baidu.com
 127.0.0.1 dygang.kkcaicai.com
 127.0.0.1 img1.tzxrs.com
 127.0.0.1 img2.tzxrs.com
@@ -4214,7 +4237,6 @@
 127.0.0.1 hz.mmstat.com
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 res.mmstat.com
-127.0.0.1 init.phpwind.net
 127.0.0.1 init.phpwind.com
 127.0.0.1 nt.phpwind.com
 127.0.0.1 s.phpwind.com
@@ -6227,7 +6249,7 @@
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 ad.endpo.in
-## 2017-05-22 21:48:18
+## 2017-05-26 23:05:10
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.76 0-focus-opensocial.googleusercontent.com
@@ -6447,7 +6469,7 @@
 219.76.4.76 android-china.l.google.com
 219.76.4.76 android-market.l.google.com
 219.76.4.76 android-review.googlesource.com
-61.91.161.217 android.clients.google.com
+219.76.4.76 android.clients.google.com
 219.76.4.76 android.com
 219.76.4.76 android.googleapis.com
 219.76.4.76 android.googlesource.com
@@ -6892,7 +6914,7 @@
 219.76.4.76 g7.gstatic.com
 219.76.4.76 gadgets.l.google.com
 219.76.4.76 gadgets.l.googleusercontent.com
-61.91.161.217 gcm-http.googleapis.com
+219.76.4.76 gcm-http.googleapis.com
 64.233.188.188 gcm-preprod.googleapis.com
 64.233.188.188 gcm-preprod.l.google.com
 64.233.188.188 gcm-xmpp.googleapis.com
@@ -6936,7 +6958,7 @@
 64.233.188.14 gmr-smtp-in.l.google.com
 219.76.4.76 go.googlesource.com
 219.76.4.76 golang.org
-61.91.161.217 goo.gl
+219.76.4.76 goo.gl
 219.76.4.76 google-code-feed-gadget.googlecode.com
 219.76.4.76 google-code-prettify.googlecode.com
 219.76.4.76 google.ad
@@ -7380,7 +7402,7 @@
 106.10.193.20 login.yahoo.com
 66.6.32.162 ls.srvcs.tumblr.com
 219.76.10.49 lumiere-a.akamaihd.net
-61.91.161.217 m-dot-betaspike.appspot.com
+219.76.4.76 m-dot-betaspike.appspot.com
 104.20.83.194 m.apkpure.com
 107.152.25.197 m.box.com
 35.186.231.252 m.cn.nytimes.com
@@ -7405,7 +7427,7 @@
 219.76.4.76 madeby.google.com
 219.76.4.76 mail-attachment.googleusercontent.com
 64.233.188.109 mail-settings.google.com
-61.91.161.217 mail.google.com
+219.76.4.76 mail.google.com
 106.10.193.20 mail.yahoo.com
 219.76.4.76 mailhide.recaptcha.net
 192.0.78.12 managingbias.fb.com
@@ -7432,7 +7454,7 @@
 119.161.8.100 media.tumblr.com
 151.101.25.127 media0.giphy.com
 104.16.121.127 medium.com
-52.0.234.90 messaging-sub.api.nytimes.com
+52.203.102.52 messaging-sub.api.nytimes.com
 157.240.7.35 messenger.com
 192.0.66.2 messengerplatform.fb.com
 198.35.26.96 meta.m.wikimedia.org
@@ -7823,6 +7845,7 @@
 219.76.4.76 t4.gstatic.com
 219.76.4.76 t5.gstatic.com
 219.76.4.76 t6.gstatic.com
+104.25.32.112 t66y.com
 219.76.4.76 t7.gstatic.com
 50.16.209.123 tagx.nytimes.com
 64.233.188.125 talk.google.com
@@ -7870,7 +7893,7 @@
 219.76.4.76 tour.golang.org
 104.20.83.194 translate.apkpure.com
 219.76.4.76 translate.google.co.jp
-61.91.161.217 translate.google.com
+219.76.4.76 translate.google.com
 219.76.4.76 translate.google.com.hk
 219.76.4.76 translate.google.com.sg
 219.76.4.76 translate.google.com.tw
