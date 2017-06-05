@@ -1,0 +1,57 @@
+一个强大的dnsmasq规则实现去广告与自由上网，附手动教程与老毛子固件全自动脚本！
+
+恩山论坛：http://www.right.com.cn/forum/forum.php?mod=viewthread&tid=216155&extra=page%3D1&mobile=1&simpletype=no
+
+
+1.什么是dnsmasq：https://wapbaike.baidu.com/item/DNSmasq?adapt=1
+简单来说，路由器dnsmasq可以看作是部署在路由器上的DNS服务器。
+dnsmasq功能很多，我们这里主要用来重定向、加快网络响应 和 屏蔽广告（指向127.0.0.1或0.0.0.0）。
+
+2 规则介绍
+   2.1 自.由.上.网，享受无墙般体验。
+https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
+没时间解释了，上车就是。详情请到github看
+
+   2.2 屏蔽广告
+可以使用vokins的专门去国内广告hosts
+局域网内无PC的用这个规则：
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+PC用户的用这个：
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+说明：
+上面两个hosts规则区别：非PC端的是完整数据。PC端的是删减版，是由于PC端部分视频网站不能用hosts屏蔽，所以去掉了那部分数据。
+（以hosts方式过滤广告非万能，肯定没有adbyby、KP等使用abp规则方式过滤全面，但对个人来说日常使用是够用了。如对去广告要求高的请用adbyby或KP。）
+
+   2.3 屏蔽运营商劫持
+https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsip
+（如何查看是否被劫持，使用nslookup命令测试一个不存在的域名，若返回IP就是劫持）
+
+3 如何使用（适用于h大的老毛子固件）
+   3.1 手动添加
+手动添加到自定义脚本的【在 WAN 上行/下行启动后执行】里，实现网络连接上时自动更新。也可以直接在命令行里直接运行。
+#自由上网dnsmasq：
+wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq -O /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;restart_dhcpd
+#去广告hosts：
+wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts -O /etc/storage/dnsmasq/hosts;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/hosts;restart_dhcpd
+
+手动添加到定时任务crontab（在 系统管理 - 服务 -计划任务 (Crontab) 里）
+#自由上网dnsmasq：
+01 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq -O /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;restart_dhcpd
+#去广告hosts
+02 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts  -O /etc/storage/dnsmasq/hosts;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/hosts;restart_dhcpd
+
+   3.2 自动化脚本
+一键运行命令：不会手动添加的用这个脚本命令，适用h大的老毛子固件
+mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/setting.sh -O /etc/storage/dnsmasq/dns/setting.sh;/bin/sh /etc/storage/dnsmasq/dns/setting.sh
+详细看https://github.com/sy618/hosts/tree/master/dnsmasq/sh
+
+4.优缺点
+优点：解析快，消耗极少CPU资源，非常适合路由器使用。过滤广告无需证书，可部分代替s-s
+缺点：易失效，这一切美好的事情，全靠规则维护者的维护，希望有更多人加入维护！
+
+由于不常上论坛，有问题请到github上反馈与交流！
+去广告项目：
+https://github.com/vokins/yhosts
+FQ项目：
+https://github.com/sy618/hosts
+
