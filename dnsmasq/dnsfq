@@ -1,4 +1,4 @@
-## 2017-06-05 23:00:28
+## 2017-06-06 19:53:23
 ## by sy618
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
@@ -202,11 +202,11 @@ address=/initiummall.com/104.28.31.251
 address=/theinitium.com/104.28.31.251
 
 ## Twitter
-address=/t.co/219.76.4.70
-address=/tweetdeck.com/219.76.4.70
-address=/twitter.com/219.76.4.70
-address=/twimg.com/104.244.43.135
-address=/twitpic.com/104.244.46.148
+#address=/t.co/104.244.45.247
+#address=/tweetdeck.com/104.244.45.247
+#address=/twitter.com/104.244.45.247
+#address=/twimg.com/104.244.43.135
+#address=/twitpic.com/104.244.46.148
 
 ## Vimeo   
 address=/click.email.vimeo.com/198.245.92.39

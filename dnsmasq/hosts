@@ -1,6 +1,7 @@
-#version=201706041430
+0.0.0.0 icons.mydrivers.com 
 #url=https://github.com/vokins/yhosts/
-## 2017-06-05 23:00:29
+## 2017-06-06 19:53:24
+#version=201706061139
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 xia.xiazailou.la
@@ -485,6 +486,7 @@
 0.0.0.0 mvip.zhuba8.com
 0.0.0.0 soft.chaomeng8.com
 0.0.0.0 vip.jixing8.com
+0.0.0.0 m.mobiorg8.com
 0.0.0.0 show.tcth8.com
 0.0.0.0 n.yfi8.com
 0.0.0.0 cpc.haohaowan8.com
@@ -708,6 +710,8 @@
 0.0.0.0 newrelic.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 images.beilic.com
+0.0.0.0 bd1.nipic.com
+0.0.0.0 bd2.nipic.com
 0.0.0.0 paopao0.qiyipic.com
 0.0.0.0 paopao1.qiyipic.com
 0.0.0.0 paopao2.qiyipic.com
@@ -1203,7 +1207,6 @@
 0.0.0.0 mhuodong.elong.com
 0.0.0.0 e.aishiguolong.com
 0.0.0.0 m.aishiguolong.com
-0.0.0.0 trade.koudaitong.com
 0.0.0.0 tj.koudaitong.com
 0.0.0.0 e.51jumintong.com
 0.0.0.0 m.51jumintong.com
@@ -1282,7 +1285,6 @@
 0.0.0.0 c.rexuebi.com
 0.0.0.0 d.rexuebi.com
 0.0.0.0 t.hzaibi.com
-0.0.0.0 telepathy.kakamobi.com
 0.0.0.0 adsdk.9imobi.com
 0.0.0.0 sc.ggdoubi.com
 0.0.0.0 hao.tiandi.com
@@ -1411,7 +1413,6 @@
 0.0.0.0 sg.keytui.com
 0.0.0.0 api.bs.zui.com
 0.0.0.0 lds.zui.com
-0.0.0.0 store.is.autonavi.com
 0.0.0.0 www.ybtianxi.com
 0.0.0.0 dev.tg.youxi.com
 0.0.0.0 ss.missyouxi.com
@@ -1889,6 +1890,7 @@
 0.0.0.0 adm.funshion.com
 0.0.0.0 new.yokaunion.com
 0.0.0.0 pic.jdunion.com
+0.0.0.0 fflsn.com
 0.0.0.0 arc1.msn.com
 0.0.0.0 ads1.msn.com
 0.0.0.0 a.ads1.msn.com
@@ -2140,9 +2142,6 @@
 0.0.0.0 ad.sojoyo.com
 0.0.0.0 m.sonomoyo.com
 0.0.0.0 sc.goyozo.com
-0.0.0.0 aos-cdn-image.amap.com
-0.0.0.0 page.amap.com
-0.0.0.0 sns.amap.com
 0.0.0.0 ffwap.com
 0.0.0.0 static-one.ffwap.com
 0.0.0.0 static-two.ffwap.com
@@ -2514,7 +2513,6 @@
 0.0.0.0 www.tigerbrokers.com
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 dc.vmoters.com
-0.0.0.0 icons.mydrivers.com
 0.0.0.0 ioa.hdkrs.com
 0.0.0.0 m.joyfuldoors.com
 0.0.0.0 img1.tzxrs.com
@@ -2554,6 +2552,7 @@
 0.0.0.0 v.yylys.com
 0.0.0.0 keystone.mwbsys.com
 0.0.0.0 ha12.qxxys.com
+0.0.0.0 kn.awyys.com
 0.0.0.0 sssd.qjcfzs.com
 0.0.0.0 you.ymfzs.com
 0.0.0.0 wo1.menghuanzs.com
@@ -2970,6 +2969,8 @@
 0.0.0.0 imgapp.yeyou.com
 0.0.0.0 code.3shangyou.com
 0.0.0.0 code.33shangyou.com
+0.0.0.0 ad1.yangjinyou.com
+0.0.0.0 ad2.yangjinyou.com
 0.0.0.0 ipinyou.com
 0.0.0.0 i.ipinyou.com
 0.0.0.0 cm.ipinyou.com
@@ -3360,6 +3361,7 @@
 0.0.0.0 vip2.media8.cn
 0.0.0.0 vip.media8.cn
 0.0.0.0 s.3333309.cn
+0.0.0.0 dps.499.cn
 0.0.0.0 35baba.cn
 0.0.0.0 union.dbba.cn
 0.0.0.0 whn.star-media.cn
@@ -3948,6 +3950,8 @@
 0.0.0.0 fp.fraudmetrix.cn
 0.0.0.0 js1597.txjzjx.cn
 0.0.0.0 w.hbalx.cn
+0.0.0.0 do.redmx.cn
+0.0.0.0 wo.redmx.cn
 0.0.0.0 img.contx.cn
 0.0.0.0 www.hxstfxx.cn
 0.0.0.0 hhqda.pop.t5yx.cn
@@ -3975,9 +3979,11 @@
 0.0.0.0 spb.bid.run
 0.0.0.0 cdn.adsk2.co
 0.0.0.0 eee.ttyy888.co
+0.0.0.0 image.ibb.co
 0.0.0.0 a.qindouxs.co
 0.0.0.0 b.qindouxs.co
 0.0.0.0 c.qindouxs.co
+0.0.0.0 zzc.shumilou.co
 0.0.0.0 c.m.shumilou.co
 0.0.0.0 s.m.shumilou.co
 0.0.0.0 cdn.puata.info
@@ -3986,6 +3992,7 @@
 0.0.0.0 aec.woutyo.info
 0.0.0.0 m.wufu.info
 0.0.0.0 x01.aidata.io
+0.0.0.0 baidut.github.io
 0.0.0.0 relap.io
 0.0.0.0 sync.1dmp.io
 0.0.0.0 xj40666.vip
