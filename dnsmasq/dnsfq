@@ -1,4 +1,4 @@
-## 2017-06-06 19:53:23
+## 2017-06-08 01:34:56
 ## by sy618
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
@@ -146,16 +146,17 @@ address=/translate.googleapis.com/203.208.43.105
 address=/urchin.com/216.58.200.33
 address=/webmproject.org/216.58.200.33
 address=/withgoogle.com/216.58.200.33
+address=/www.google.com/219.76.4.70
 address=/ytimg.com/216.58.200.33
 address=/youtu.be/216.58.200.33
 address=/youtubeeducation.com/216.58.200.33
 address=/youtube-nocookie.com/216.58.200.33
 address=/youtube.co/216.58.200.33
 address=/youtube.com/216.58.200.33
-address=/android.clients.google.com/216.58.200.33
 address=/appspot.com/216.58.200.33
-#address=/gcm-http.googleapis.com/216.58.200.33
 address=/goo.gl/216.58.200.33
+#address=/android.clients.google.com/216.58.200.33
+#address=/gcm-http.googleapis.com/216.58.200.33
 #address=/mail.google.com/216.58.200.33
 
 ##  Ingress    
@@ -219,7 +220,7 @@ address=/www.voachinese.com/23.42.169.61
 
 ## Wikipedia
 address=/upload.wikimedia.org/198.35.26.112
-address=/wikipedia.org/198.35.26.96
+address=/wikipedia.org/208.80.154.224
 
 ## Yahoo/flickr/tumblr
 address=/97.media.tumblr.com/192.229.237.98
