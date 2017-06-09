@@ -1,4 +1,4 @@
-## 2017-06-09 20:55:24
+## 2017-06-09 21:04:23
 ## by sy618
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
@@ -173,20 +173,20 @@ address=/download.lineageos.org/219.76.4.76
 ## New York Time      
 address=/cn.nytimes.com/54.230.213.29
 address=/cn.nytstyle.com/54.230.213.29
-address=/et.nytimes.com/52.206.184.18
+address=/et.nytimes.com/52.1.225.49
 address=/ic.tynt.com/208.100.17.186
 address=/l0.cn.nytimes.com/122.152.169.5
 address=/m.cn.nytimes.com/35.186.231.252
 address=/m.cn.nytstyle.com/52.192.30.67
-address=/messaging-sub.api.nytimes.com/52.203.102.52
+address=/messaging-sub.api.nytimes.com/54.236.141.13
 address=/nyt.com/151.101.77.164
-address=/nytab.nytimes.com/50.19.127.24
+address=/nytab.nytimes.com/23.23.72.28
 address=/nytimes.com/151.101.77.164
-address=/rec.api.nytimes.com/54.209.158.74
+address=/rec.api.nytimes.com/54.173.131.119
 address=/samizdat.nytimes.com/151.101.77.164
-address=/sso.nytcn.me/54.64.135.49
+address=/sso.nytcn.me/54.249.127.56
 address=/static.sxzhchina.com/54.230.213.29
-address=/tagx.nytimes.com/50.16.209.123
+address=/tagx.nytimes.com/204.236.232.125
 address=/vp.nyt.com/23.219.132.99
 
 ## Onedrive
