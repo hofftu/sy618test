@@ -1,7 +1,6 @@
-0.0.0.0 icons.mydrivers.com
+## 2017-06-09 20:55:24
 #url=https://github.com/vokins/yhosts/
-#version=201706071801
-## 2017-06-08 01:34:56
+#version=201706091926
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 xia.xiazailou.la
@@ -104,12 +103,14 @@
 0.0.0.0 fp.dasheng100.com
 0.0.0.0 hp.dasheng100.com
 0.0.0.0 hao.dian500.com
+0.0.0.0 s.hk9600.com
 0.0.0.0 y.hk9600.com
 0.0.0.0 cao.tc600.com
 0.0.0.0 www.700900.com
 0.0.0.0 lcktg00.com
 0.0.0.0 e.jbyy010.com
 0.0.0.0 m.jbyy010.com
+0.0.0.0 e.qbyy010.com
 0.0.0.0 m.qbyy010.com
 0.0.0.0 a.xigua110.com
 0.0.0.0 f.716120.com
@@ -719,7 +720,6 @@
 0.0.0.0 paopao3.qiyipic.com
 0.0.0.0 mbrowser.bdstatic.com
 0.0.0.0 su.bdstatic.com
-0.0.0.0 fex.bdstatic.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 adpublish.ydstatic.com
 0.0.0.0 cdn.dragonstatic.com
@@ -1041,6 +1041,7 @@
 0.0.0.0 d1.showself.com
 0.0.0.0 t.3apf.com
 0.0.0.0 img.rqgsf.com
+0.0.0.0 dan.qytyf.com
 0.0.0.0 rc.376zf.com
 0.0.0.0 s.376zf.com
 0.0.0.0 img.xrtzf.com
@@ -1998,7 +1999,6 @@
 0.0.0.0 adashx.m.taobao.com
 0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 pre.nbsdk-baichuan.taobao.com
-0.0.0.0 err.taobao.com
 0.0.0.0 sdkinit.taobao.com
 0.0.0.0 api.waptest.taobao.com
 0.0.0.0 adashbc.ut.taobao.com
@@ -2112,6 +2112,7 @@
 0.0.0.0 sh.qihoo.com
 0.0.0.0 s.sh.qihoo.com
 0.0.0.0 haostat.qihoo.com
+0.0.0.0 flux.faloo.com
 0.0.0.0 licenses.ashampoo.com
 0.0.0.0 ubm.fangtoo.com
 0.0.0.0 cpro.fangtoo.com
@@ -2473,6 +2474,7 @@
 0.0.0.0 log.umsns.com
 0.0.0.0 stats.umsns.com
 0.0.0.0 m.detuns.com
+0.0.0.0 www.k3bos.com
 0.0.0.0 bj.bcebos.com
 0.0.0.0 dd713.bj.bcebos.com
 0.0.0.0 vv84.bj.bcebos.com
@@ -2515,6 +2517,7 @@
 0.0.0.0 www.tigerbrokers.com
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 dc.vmoters.com
+0.0.0.0 icons.mydrivers.com
 0.0.0.0 ioa.hdkrs.com
 0.0.0.0 m.joyfuldoors.com
 0.0.0.0 img1.tzxrs.com
@@ -3028,6 +3031,7 @@
 0.0.0.0 ebook.res.meizu.com
 0.0.0.0 reader.res.meizu.com
 0.0.0.0 openapi-news.meizu.com
+0.0.0.0 www.legozu.com
 0.0.0.0 ss.shuajuzu.com
 0.0.0.0 hl.kuzu.com
 0.0.0.0 s.wapadv.com
@@ -3137,6 +3141,7 @@
 0.0.0.0 wan.yigyx.com
 0.0.0.0 a.fengyx.com
 0.0.0.0 rh.code.jjyx.com
+0.0.0.0 tv.code.jjyx.com
 0.0.0.0 shili.wanyx.com
 0.0.0.0 b.code.tanwanyx.com
 0.0.0.0 xd.code.tanwanyx.com
@@ -4192,6 +4197,7 @@
 0.0.0.0 m.haiwengji.net
 0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 mlog.search.xiaomi.net
+0.0.0.0 u.diginavi.net
 0.0.0.0 js.mumayi.net
 0.0.0.0 update.123juzi.net
 0.0.0.0 ma1.meishij.net
@@ -4421,6 +4427,7 @@
 0.0.0.0 cc.yfi052.pw
 0.0.0.0 e.bdoj.pw
 0.0.0.0 js.willads.pw
+0.0.0.0 gdhyfgd.m.xs222.tw
 0.0.0.0 ads.dvworld.com.tw
 0.0.0.0 ad.pchome.com.tw
 0.0.0.0 adcl.pchome.com.tw

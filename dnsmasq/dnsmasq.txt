@@ -10,7 +10,7 @@ dnsmasq功能很多，我们这里主要用来重定向、加快网络响应 和
 2 规则介绍
    2.1 自.由.上.网，享受无墙般体验。
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
-没时间解释了，上车就是。详情请到github看
+没时间解释了，上车就是。详情请到github看。
 
    2.2 屏蔽广告
 可以使用vokins的专门去国内广告hosts
@@ -40,14 +40,25 @@ wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/mast
 #去广告hosts
 02 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts  -O /etc/storage/dnsmasq/hosts;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/hosts;restart_dhcpd
 
-   3.2 自动化脚本
-一键运行命令：不会手动添加的用这个脚本命令，适用h大的老毛子固件
+   3.2 自动化脚本（适用h大的老毛子固件）
+一键运行命令：不会手动添加的用这个脚本命令
 mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/setting.sh -O /etc/storage/dnsmasq/dns/setting.sh;/bin/sh /etc/storage/dnsmasq/dns/setting.sh
+一键还原命令：
+/bin/sh /etc/storage/dnsmasq/dns/del.sh
 详细看https://github.com/sy618/hosts/tree/master/dnsmasq/sh
+
+  3.3其他固件的脚本
+Openwtr、LEDE脚本可以参考基友发的帖子
+http://www.right.com.cn/forum/thread-217335-1-1.html
+！由于我没有用过这些固件，所以没测试过效果如何。自测，有问题找帖子作者反馈。
 
 4.优缺点
 优点：解析快，消耗极少CPU资源，非常适合路由器使用。过滤广告无需证书，可部分代替s-s
 缺点：易失效，这一切美好的事情，全靠规则维护者的维护，希望有更多人加入维护！
+
+5.已集成规则的老毛子固件
+http://www.right.com.cn/forum/forum.php?mod=viewthread&tid=216667&extra=page%3D3&mobile=2
+这是由论坛基友做的固件，可以刷入试试。
 
 由于不常上论坛，有问题请到github上反馈与交流！
 去广告项目：
@@ -55,3 +66,4 @@ https://github.com/vokins/yhosts
 FQ项目：
 https://github.com/sy618/hosts
 
+做这个不为别的，在方便自己使用的同时也造福所有人，希望有更多人参与规则的维护！

@@ -1,4 +1,4 @@
-## 2017-06-08 01:34:56
+## 2017-06-09 20:55:24
 ## by sy618
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
@@ -85,6 +85,7 @@ address=/ue.flipboard.com/23.23.66.189
 address=/admob.com/216.58.200.33
 address=/agoogleaday.com/216.58.200.33
 address=/android.com/216.58.200.33
+address=/blogblog.com/216.58.200.33
 address=/blogger.com/216.58.200.33
 address=/blogspot.com/216.58.200.33
 address=/chromium.org/216.58.200.33
