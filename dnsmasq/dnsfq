@@ -1,4 +1,4 @@
-## 2017-06-14 09:53:11
+## 2017-06-14 11:22:48
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -41,8 +41,8 @@ address=/dl.dropbox.com/162.125.3.6
 address=/dl.dropboxusercontent.com/162.125.3.6
 address=/getdropbox.com/108.160.172.195
 address=/www.dropboxstatic.com/162.125.82.7
-address=/dropbox.com/219.76.4.70
-address=/dropboxstatic.com/219.76.4.70
+address=/dropbox.com/219.76.4.75
+address=/dropboxstatic.com/219.76.4.75
 
 ## DuckDuckGo
 address=/duckduckgo.com/46.51.218.82
