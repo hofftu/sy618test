@@ -1,4 +1,4 @@
-## 2017-06-14 11:22:48
+## 2017-06-14 23:35:18
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -197,6 +197,9 @@ address=/skyapi.onedrive.live.com/157.55.109.228
 ## Pinterest               
 address=/pinimg.com/151.101.76.84
 address=/pinterest.com/151.101.76.84
+
+## Resilio Sync
+address=/getsync.com/52.91.202.104
 
 ## Theinitium
 address=/initiummall.com/104.28.31.251

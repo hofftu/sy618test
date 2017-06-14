@@ -1,11 +1,11 @@
-## 2017-06-14 12:25:48
+## 2017-06-14 23:36:29
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-06-14 11:22:48
-#version=201706132058
+## 2017-06-14 23:35:18
+#version=201706142028
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -334,6 +334,7 @@
 127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
+127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com
@@ -1091,8 +1092,6 @@
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 m.aty.cp45.ott.cibntv.net
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
-127.0.0.1 push.ott.sohu.com
-127.0.0.1 ottpush.itc.cn
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
@@ -2457,6 +2456,8 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 tmc.biquge.com
+127.0.0.1 e.inccnd.com
+127.0.0.1 m.inccnd.com
 127.0.0.1 sha.qjjtc.com
 127.0.0.1 m.tuadong.com
 127.0.0.1 js205.lytubaobao.com
@@ -2846,6 +2847,8 @@
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 e.kafka8.com
+127.0.0.1 m.kafka8.com
 127.0.0.1 s.xm9178.com
 127.0.0.1 m.ningdutong.com
 127.0.0.1 m.hhllyt.com
@@ -4697,7 +4700,6 @@
 127.0.0.1 ip.cms.sohu.com
 127.0.0.1 suvset.sohu.com
 127.0.0.1 imp.go.sohu.com
-127.0.0.1 s.go.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 xls.go.sohu.com
 127.0.0.1 adsence.sogou.com
@@ -6546,7 +6548,7 @@
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 insight.ucweb.com
 127.0.0.1 gj.applog.uc.cn
-## 2017-06-14 12:25:46
+## 2017-06-14 23:36:26
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.76 0-focus-opensocial.googleusercontent.com
@@ -7028,6 +7030,7 @@
 219.76.4.76 code.l.google.com
 219.76.4.76 com.google
 219.76.4.76 compress.googlezip.net
+52.91.202.104 config.getsync.com
 157.240.7.35 connect.facebook.com
 157.240.7.35 connect.facebook.net
 219.76.4.76 connectedclassrooms.withgoogle.com
@@ -8220,6 +8223,7 @@
 219.76.4.76 uk.youtube.com
 119.161.14.18 up.flickr.com
 151.101.77.164 up.nytimes.com
+52.91.202.104 update.getsync.com
 219.76.4.76 update.googleapis.com
 107.152.25.197 upload.box.com
 219.76.4.76 upload.client.google.com

@@ -1,4 +1,4 @@
-## 2017-06-14 12:25:46
+## 2017-06-14 23:36:26
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -481,6 +481,7 @@
 219.76.4.76 code.l.google.com
 219.76.4.76 com.google
 219.76.4.76 compress.googlezip.net
+52.91.202.104 config.getsync.com
 157.240.7.35 connect.facebook.com
 157.240.7.35 connect.facebook.net
 219.76.4.76 connectedclassrooms.withgoogle.com
@@ -1673,6 +1674,7 @@
 219.76.4.76 uk.youtube.com
 119.161.14.18 up.flickr.com
 151.101.77.164 up.nytimes.com
+52.91.202.104 update.getsync.com
 219.76.4.76 update.googleapis.com
 107.152.25.197 upload.box.com
 219.76.4.76 upload.client.google.com
