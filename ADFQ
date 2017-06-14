@@ -1,11 +1,11 @@
-## 2017-06-09 20:56:12
+## 2017-06-14 09:54:45
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-06-09 20:55:24
-#version=201706091926
+## 2017-06-14 09:53:11
+#version=201706132058
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -339,10 +339,13 @@
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
 127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 fych.uranus.sogou.com
+127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
+127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 service.epro.sogou.com
@@ -369,6 +372,38 @@
 127.0.0.1 c.msn.com
 127.0.0.1 otf.msn.com
 127.0.0.1 rad.msn.com
+127.0.0.1 eavs02.eqifa.com
+127.0.0.1 p.yiqifa.com
+127.0.0.1 image.yiqifa.com
+127.0.0.1 www.yiqifa.com
+127.0.0.1 www.emar.com.cn
+127.0.0.1 c.duomai.com
+127.0.0.1 duomai.com
+127.0.0.1 aos.prf.hn
+127.0.0.1 click.lergao.com
+127.0.0.1 click.linktech.cn
+127.0.0.1 click.union.vip.com
+127.0.0.1 cps.kaola.com
+127.0.0.1 p.egou.com
+127.0.0.1 u.ctrip.com
+127.0.0.1 union.dangdang.com
+127.0.0.1 you.ctrip.com
+127.0.0.1 ju.taobao.com
+127.0.0.1 tejia.taobao.com
+127.0.0.1 tui.taobao.com
+127.0.0.1 tyh.taobao.com
+127.0.0.1 jx.tmall.com
+127.0.0.1 c-nfa.jd.com
+127.0.0.1 ccc.x.jd.com
+127.0.0.1 click.jr.jd.com
+127.0.0.1 img.x.jd.com
+127.0.0.1 jrclick.jd.com
+127.0.0.1 re.jd.com
+127.0.0.1 re.m.jd.com
+127.0.0.1 stat.m.jd.com
+127.0.0.1 union.click.jd.com
+127.0.0.1 union.m.jd.com
+127.0.0.1 dc2.jd.com
 127.0.0.1 dl.2345.com
 127.0.0.1 download.2345.com
 127.0.0.1 g.wan.2345.com
@@ -439,6 +474,11 @@
 127.0.0.1 xbp.code.weddingeeos.com
 127.0.0.1 xyy.code.weddingeeos.com
 127.0.0.1 ysej.code.weddingeeos.com
+127.0.0.1 download.mackeeper.com
+127.0.0.1 event.mackeeper.com
+127.0.0.1 mackeeper.com
+127.0.0.1 mackeeperapp.mackeeper.com
+127.0.0.1 static.mackeeper.com
 127.0.0.1 www.ahhjyl.cn
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
@@ -509,6 +549,14 @@
 127.0.0.1 www.2345at.com
 127.0.0.1 down.cqssbl.com
 127.0.0.1 baidut.github.io
+127.0.0.1 app2.letmacwork.world
+127.0.0.1 goodmacfaster.club
+127.0.0.1 pl108258.puserving.com
+127.0.0.1 script.crazyegg.com
+127.0.0.1 search.moviecarpet.com
+127.0.0.1 static.hotjar.com
+127.0.0.1 aka.ms
+127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
 127.0.0.1 www.tigerbrokers.com
@@ -520,6 +568,12 @@
 127.0.0.1 tl.771tao.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 s.youzhuanhua.com
+127.0.0.1 hao.360.cn
+127.0.0.1 www.2345.com
+127.0.0.1 www.hao123.com
+127.0.0.1 m.hao123.com
+127.0.0.1 vs12.bj.u3.ucweb.com
+127.0.0.1 yeah.qq.com
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 127.0.0.1 sddnserror2.wo.com.cn
@@ -785,7 +839,6 @@
 127.0.0.1 cloudservice28.kingsoft-office-service.com
 127.0.0.1 rating6.kingsoft-office-service.com
 127.0.0.1 bole.shangshufang.ksosoft.com
-127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 ic.ksosoft.com
 127.0.0.1 pc.uf.ksosoft.com
 127.0.0.1 pixiu.shangshufang.ksosoft.com
@@ -800,8 +853,10 @@
 127.0.0.1 s.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
+127.0.0.1 book.rdtuijian.com
 127.0.0.1 dfnews.rdtuijian.com
 127.0.0.1 ic.rdtuijian.com
+127.0.0.1 vasapi.rdtuijian.com
 127.0.0.1 a.mini.eastday.com
 127.0.0.1 mini.eastday.com
 127.0.0.1 cnc.ef-cdn.com
@@ -822,6 +877,7 @@
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
@@ -1033,6 +1089,10 @@
 127.0.0.1 ad.vryeye.com
 127.0.0.1 api.adv.ott.cibntv.net
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
+127.0.0.1 m.aty.cp45.ott.cibntv.net
+127.0.0.1 mmg.aty.cp45.ott.cibntv.net
+127.0.0.1 push.ott.sohu.com
+127.0.0.1 ottpush.itc.cn
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
@@ -1263,8 +1323,6 @@
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 ib.snssdk.com
 127.0.0.1 pb3.pstatp.com
-127.0.0.1 s3.pstatp.com
-127.0.0.1 s3a.pstatp.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 push.yuedu.163.com
 127.0.0.1 n.3g.163.com
@@ -1400,6 +1458,7 @@
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 analysis.chinaiiss.com
 127.0.0.1 sc.chinaiiss.com
+127.0.0.1 sogouwapjs.chinaiiss.com
 127.0.0.1 me.afp.chinanews.com
 127.0.0.1 i8.chinanews.com
 127.0.0.1 ad.gmw.cn
@@ -2296,6 +2355,8 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 ke.qzdag.com
+127.0.0.1 m.ddg1277.com
 127.0.0.1 da.ddanq.com
 127.0.0.1 dan.qytyf.com
 127.0.0.1 m.qbyy010.com
@@ -2622,6 +2683,8 @@
 127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
+127.0.0.1 s.xmcxz.com
+127.0.0.1 m.qlonglong.com
 127.0.0.1 m.umyai.com
 127.0.0.1 m.feifish66.com
 127.0.0.1 m.kuwoyy.com
@@ -2650,6 +2713,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 sub.alisinak.com
 127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
@@ -2673,6 +2737,8 @@
 127.0.0.1 zzc.shumilou.co
 127.0.0.1 c.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 e.ddg1277.com
+127.0.0.1 sy.sxjxhg.com
 127.0.0.1 e.qbyy010.com
 127.0.0.1 js.srhtzx.com
 127.0.0.1 e.mzbclean.com
@@ -2854,6 +2920,7 @@
 127.0.0.1 www.yanjiele8.club
 127.0.0.1 img1.trxxn.com
 127.0.0.1 s.tianyucangqiong1.com
+127.0.0.1 y.5125129.com
 127.0.0.1 js3987.qsbz2011.com
 127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
@@ -3728,7 +3795,10 @@
 127.0.0.1 2.21shebao.com
 127.0.0.1 gg.anqu.com
 127.0.0.1 mm.anqu.com
+127.0.0.1 6vhao.kkcaicai.com
+127.0.0.1 j.web0523.com
 127.0.0.1 dygang.kkcaicai.com
+127.0.0.1 www.fu68.com
 127.0.0.1 img1.tzxrs.com
 127.0.0.1 img2.tzxrs.com
 127.0.0.1 img3.tzxrs.com
@@ -3768,6 +3838,7 @@
 127.0.0.1 pic.hkivs.cn
 127.0.0.1 w3.yinyuehu.cn
 127.0.0.1 image.vlook.cn
+127.0.0.1 p.bnuni.com
 127.0.0.1 tg.qzqywh.com
 127.0.0.1 www.youfumei.com
 127.0.0.1 jsjs.nthyn.com
@@ -4009,6 +4080,8 @@
 127.0.0.1 c.yisu.com
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 sycnzz.17tanwan.com
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -4389,19 +4462,34 @@
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
 127.0.0.1 agoodm.m.taobao.com
-127.0.0.1 ai.taobao.com
-127.0.0.1 api.wapa.taobao.com
-127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
-127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 re.taobao.com
-127.0.0.1 sdkinit.taobao.com
-127.0.0.1 simba.m.taobao.com
-127.0.0.1 temai.taobao.com
-127.0.0.1 tns.simba.taobao.com
 127.0.0.1 unitacs.m.taobao.com
 127.0.0.1 w.m.taobao.com
+127.0.0.1 ai.taobao.com
+127.0.0.1 api.wapa.taobao.com
+127.0.0.1 agoodm.wapa.taobao.com
+127.0.0.1 api.waptest.taobao.com
+127.0.0.1 sdkinit.taobao.com
+127.0.0.1 temai.taobao.com
+127.0.0.1 re.taobao.com
+127.0.0.1 re.m.taobao.com
+127.0.0.1 show.re.taobao.com
+127.0.0.1 g.click.taobao.com
+127.0.0.1 i.click.taobao.com
+127.0.0.1 s.click.taobao.com
+127.0.0.1 s.click.tmall.com
+127.0.0.1 click.mz.simba.taobao.com
+127.0.0.1 click.simba.taobao.com
+127.0.0.1 click.tz.simba.taobao.com
+127.0.0.1 dsp.simba.taobao.com
+127.0.0.1 fav.simba.taobao.com
+127.0.0.1 m.simba.taobao.com
+127.0.0.1 mclick.simba.taobao.com
+127.0.0.1 simba.m.taobao.com
+127.0.0.1 srd.simba.taobao.com
+127.0.0.1 stat.simba.taobao.com
+127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 alog.umeng.co
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
@@ -4622,7 +4710,6 @@
 127.0.0.1 p3p.sogou.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 pbd.sogou.com
-127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 pv.sogou.com
 127.0.0.1 rjgw.theta.sogou.com
 127.0.0.1 web.sogou.com
@@ -5162,7 +5249,6 @@
 127.0.0.1 piccdn.bloggerads.net
 127.0.0.1 ab.hysdknb.com
 127.0.0.1 file.bmob.cn
-127.0.0.1 open.bmob.cn
 127.0.0.1 static.bmob.cn
 127.0.0.1 cloud.codenow.cn
 127.0.0.1 codenow.cn
@@ -6399,8 +6485,6 @@
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 888.tv.sohu.com
-127.0.0.1 count.vrs.sohu.com
-127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 info.lm.tv.sohu.com
@@ -6462,7 +6546,7 @@
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 insight.ucweb.com
 127.0.0.1 gj.applog.uc.cn
-## 2017-06-09 20:56:10
+## 2017-06-14 09:54:42
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 216.58.200.33 0-focus-opensocial.googleusercontent.com
@@ -6628,9 +6712,17 @@
 151.101.24.249 a.disquscdn.com
 219.76.10.49 a.dolimg.com
 216.58.200.33 a.orkut.gmodules.com
+104.244.43.135 a0.twimg.com
 151.101.77.164 a1.nyt.com
 54.230.86.121 a1.sndcdn.com
+104.244.43.135 a1.twimg.com
+104.244.43.135 a2.twimg.com
 219.76.10.49 a248.e.akamai.net
+104.244.43.135 a3.twimg.com
+104.244.43.135 a4.twimg.com
+104.244.43.135 a5.twimg.com
+121.59.17.10 about.twitter.com
+104.244.43.135 abs.twimg.com
 46.51.218.82 ac.duckduckgo.com
 216.58.200.33 accelerate.withgoogle.com
 107.152.25.197 account.box.com
@@ -6671,6 +6763,7 @@
 64.233.188.188 alt7-mtalk.google.com
 64.233.188.188 alt8-mtalk.google.com
 216.58.200.33 analytics.google.com
+121.59.17.10 analytics.twitter.com
 216.58.200.33 android-china.l.google.com
 216.58.200.33 android-market.l.google.com
 216.58.200.33 android-review.googlesource.com
@@ -6711,6 +6804,8 @@
 72.21.91.127 api.soundcloud.com
 104.28.31.251 api.theinitium.com
 119.161.8.100 api.tumblr.com
+121.59.17.10 api.tweetdeck.com
+121.59.17.10 api.twitter.com
 162.125.82.7 api.v.dropbox.com
 23.235.37.217 api.vimeo.com
 157.240.7.35 api2.facebook.com
@@ -6723,9 +6818,15 @@
 54.241.32.8 appload.ingest.crittercism.com
 157.240.7.35 apps.facebook.com
 216.58.200.33 apps.google.com
+121.59.17.10 apps.twitter.com
 216.58.200.33 appspot.l.google.com
 216.58.200.33 aspmx.l.google.com
 119.161.8.100 assets.tumblr.com
+121.59.17.10 assets0.twitter.com
+121.59.17.10 assets1.twitter.com
+121.59.17.10 assets2.twitter.com
+121.59.17.10 assets3.twitter.com
+121.59.17.10 assets4.twitter.com
 183.79.249.124 assist.search.yahooapis.jp
 216.58.200.33 atmosphere.withgoogle.com
 216.58.200.33 atmospheretokyo.withgoogle.com
@@ -6755,6 +6856,7 @@
 23.23.66.189 beacon.flipboard.com
 216.58.200.33 beacons.gvt2.com
 216.58.200.33 beta.blogger.com
+121.59.17.10 betastream.twitter.com
 216.58.200.33 bigcache.googleapis.com
 157.240.7.35 bigzipfiles.facebook.com
 216.58.200.33 bks0.books.google.com
@@ -6788,6 +6890,7 @@
 157.240.7.52 blog.instagram.com
 216.58.200.33 blog.orkut.com
 216.58.200.33 blog.panoramio.com
+121.59.17.10 blog.twitter.com
 64.233.188.121 blog.webmproject.org
 216.58.200.33 blogger.com
 216.58.200.33 blogger.google.com
@@ -6846,6 +6949,8 @@
 104.16.121.145 cdn-static-1.medium.com
 157.240.7.35 cdn.fbsbx.com
 52.84.218.217 cdn.flipboard.com
+121.59.17.10 cdn.syndication.twimg.com
+121.59.17.10 cdn.syndication.twitter.com
 104.16.27.3 cdn01.boxcdn.net
 151.101.77.164 cdn1.nyt.com
 216.58.200.33 certificate-transparency.org
@@ -6951,6 +7056,7 @@
 162.125.32.12 dbxlocal.dropboxstatic.com
 203.188.200.67 de.yahoo.com
 216.58.200.33 de.youtube.com
+121.59.17.10 debates.twitter.com
 216.58.200.33 desktop.google.co.jp
 216.58.200.33 desktop.google.com
 216.58.200.33 desktop.google.com.hk
@@ -6960,6 +7066,7 @@
 216.58.200.33 desktop2.google.com
 216.58.200.33 dev.android.com
 216.58.200.33 dev.chromium.org
+121.59.17.10 dev.twitter.com
 216.58.200.33 developer.android.com
 216.58.200.33 developer.chrome.com
 157.240.7.35 developer.facebook.com
@@ -7004,6 +7111,7 @@
 104.20.83.194 download.apkpure.com
 219.76.4.14 download.lineageos.org
 68.142.242.184 downloadr.flickr.com
+121.59.17.10 downloads.tweetdeck.com
 216.58.200.33 draft.blogger.com
 216.58.200.33 drive.google.com
 216.58.200.33 drive0.google.com
@@ -7048,10 +7156,10 @@
 216.58.200.33 encrypted.google.com.hk
 216.58.200.33 encrypted.google.com.sg
 216.58.200.33 encrypted.google.com.tw
-31.13.93.15 ent-a.xx.fbcdn.net
-31.13.93.15 ent-b.xx.fbcdn.net
-31.13.93.15 ent-c.xx.fbcdn.net
-31.13.93.15 ent-e.xx.fbcdn.net
+157.240.2.21 ent-a.xx.fbcdn.net
+157.240.2.21 ent-b.xx.fbcdn.net
+157.240.2.21 ent-c.xx.fbcdn.net
+157.240.2.21 ent-e.xx.fbcdn.net
 52.1.225.49 et.nytimes.com
 54.239.54.107 eu-central-1.console.aws.amazon.com
 208.80.154.224 eu.wikipedia.org
@@ -7059,7 +7167,7 @@
 216.58.200.33 events.google.com
 216.58.200.33 events.withgoogle.com
 219.76.10.49 external.ak.fbcdn.net
-31.13.93.15 external.xx.fbcdn.net
+157.240.2.21 external.xx.fbcdn.net
 157.240.7.35 facebook.com
 219.76.10.49 fb-l-a-a.akamaihd.net
 219.76.10.49 fb-l-b-a.akamaihd.net
@@ -7093,6 +7201,7 @@
 216.58.200.33 friendconnect.gmodules.com
 216.58.200.33 fusion.google.com
 216.58.200.33 g.co
+104.244.43.135 g.twimg.com
 216.58.200.33 g0.gstatic.com
 216.58.200.33 g1.gstatic.com
 216.58.200.33 g2.gstatic.com
@@ -7399,6 +7508,7 @@
 96.45.82.134 help.duckduckgo.com
 157.240.7.52 help.instagram.com
 216.58.200.33 help.orkut.com
+121.59.17.10 help.twitter.com
 216.58.200.33 help.youtube.com
 216.58.200.33 history.google.com
 216.58.200.33 history.l.google.com
@@ -7439,6 +7549,7 @@
 219.76.10.49 ig-s-d-a.akamaihd.net
 216.58.200.33 ig.gmodules.com
 216.58.200.33 ig.ig.gmodules.com
+104.244.43.135 image-proxy-origin.twimg.com
 216.58.200.33 image.google.com
 216.58.200.33 images-blogger-opensocial.googleusercontent.com
 216.58.200.33 images-docs-opensocial.googleusercontent.com
@@ -7610,6 +7721,8 @@
 119.161.14.18 m.mg.mail.yahoo.com
 72.21.91.127 m.soundcloud.com
 216.58.200.33 m.youtube.com
+104.244.46.148 m1.twitpic.com
+104.244.43.135 ma.twimg.com
 216.58.200.33 madeby.google.com
 216.58.200.33 mail-attachment.googleusercontent.com
 64.233.188.109 mail-settings.google.com
@@ -7652,6 +7765,7 @@
 216.58.200.33 mobile.google.com.hk
 216.58.200.33 mobile.l.google.com
 151.101.77.164 mobile.nytimes.com
+121.59.17.10 mobile.twitter.com
 216.58.200.33 mobilemaps.clients.google.com
 31.13.95.33 mqtt-mini.facebook.com
 157.240.7.35 mqtt.facebook.com
@@ -7726,6 +7840,7 @@
 151.101.77.164 nytimes.com
 216.58.200.33 nz.vp.video.l.google.com
 216.58.200.33 nztdug.vp.video.l.google.com
+104.244.43.135 o.twimg.com
 216.58.200.33 oauth.googleusercontent.com
 216.58.200.33 ogs.google.com
 204.79.197.217 onedrive.live.com
@@ -7744,6 +7859,7 @@
 216.39.54.12 overview.mail.yahoo.com
 216.58.200.33 p.gmodules.com
 103.245.222.193 p.imgur.com
+104.244.43.135 p.twimg.com
 119.161.14.18 p.yimg.com
 216.58.200.33 pack.google.com
 216.58.200.33 panoramio.com
@@ -7751,6 +7867,7 @@
 151.101.76.84 passets-cdn.pinterest.com
 216.58.200.33 passwords.google.com
 216.58.200.33 payments.google.com
+104.244.43.135 pbs.twimg.com
 216.58.200.33 peering.google.com
 216.58.200.33 people-pa.clients6.google.com
 216.58.200.33 people-pa.googleapis.com
@@ -7768,6 +7885,7 @@
 162.125.32.15 photos.dropbox.com
 216.58.200.33 photos.google.com
 216.58.200.33 photos1.blogger.com
+121.59.17.10 pic.twitter.com
 216.58.200.33 picasa.google.com
 216.58.200.33 picasaweb.google.co.jp
 216.58.200.33 picasaweb.google.com
@@ -7781,6 +7899,7 @@
 216.58.200.33 places.google.com
 219.76.10.49 platform.ak.fbcdn.net
 157.240.7.52 platform.instagram.com
+121.59.17.10 platform.twitter.com
 216.58.200.33 play-music.gstatic.com
 216.58.200.33 play.golang.org
 216.58.200.33 play.google.com
@@ -7816,6 +7935,7 @@
 107.152.25.200 public.boxcloud.com
 66.6.32.162 px.srvcs.tumblr.com
 216.58.200.33 qwqy.vp.video.l.google.com
+104.244.43.135 r.twimg.com
 103.6.87.114 radar.cedexis.com
 216.58.200.33 reader.google.com
 216.58.200.33 reader.googleusercontent.com
@@ -7831,7 +7951,7 @@
 192.0.78.12 rightsmanager.fb.com
 216.58.200.33 ru.youtube.com
 157.240.7.35 rupload.facebook.com
-31.13.93.15 s-external.ak.fbcdn.net
+157.240.2.21 s-external.ak.fbcdn.net
 151.101.76.84 s-media-cache-ak0.pinimg.com
 219.76.10.49 s-static.ak.facebook.com
 219.76.10.49 s-static.ak.fbcdn.net
@@ -7839,6 +7959,7 @@
 54.192.214.90 s.flipboard.com
 103.245.222.193 s.imgur.com
 151.101.76.84 s.pinimg.com
+121.59.17.10 s.twitter.com
 119.161.14.18 s.yimg.com
 182.22.31.252 s.yimg.jp
 216.58.200.33 s.youtube.com
@@ -7884,25 +8005,26 @@
 216.58.200.33 scholar.google.com.tw
 216.58.200.33 scholar.l.google.com
 157.240.7.52 scontent-a.cdninstagram.com
-31.13.93.15 scontent-a.xx.fbcdn.net
+157.240.2.21 scontent-a.xx.fbcdn.net
 157.240.7.52 scontent-b.cdninstagram.com
-31.13.93.15 scontent-b.xx.fbcdn.net
-31.13.93.15 scontent-c.xx.fbcdn.net
+157.240.2.21 scontent-b.xx.fbcdn.net
+157.240.2.21 scontent-c.xx.fbcdn.net
 157.240.7.52 scontent-fra3-1.cdninstagram.com
 157.240.7.52 scontent-hkg3-1.cdninstagram.com
-31.13.93.15 scontent-hkg3-1.xx.fbcdn.net
-31.13.93.15 scontent-hkg3-2.xx.fbcdn.net
-31.13.93.15 scontent-hkg3-3.xx.fbcdn.net
-31.13.93.15 scontent-lax3-1.xx.fbcdn.net
-31.13.93.15 scontent-lax3-2.xx.fbcdn.net
-31.13.93.15 scontent-lax3-3.xx.fbcdn.net
-31.13.93.15 scontent-lax3-4.xx.fbcdn.net
+157.240.2.21 scontent-hkg3-1.xx.fbcdn.net
+157.240.2.21 scontent-hkg3-2.xx.fbcdn.net
+157.240.2.21 scontent-hkg3-3.xx.fbcdn.net
+157.240.2.21 scontent-lax3-1.xx.fbcdn.net
+157.240.2.21 scontent-lax3-2.xx.fbcdn.net
+157.240.2.21 scontent-lax3-3.xx.fbcdn.net
+157.240.2.21 scontent-lax3-4.xx.fbcdn.net
 157.240.7.52 scontent-sea1-1.cdninstagram.com
 157.240.7.52 scontent-sit4-1.cdninstagram.com
 157.240.7.52 scontent.cdninstagram.com
 157.240.7.35 scontent.facebook.com
-31.13.93.15 scontent.xx.fbcdn.net
+157.240.2.21 scontent.xx.fbcdn.net
 216.58.200.33 script.google.com
+121.59.17.10 search.twitter.com
 182.22.24.252 search.yahoo.co.jp
 119.161.8.100 secure.assets.tumblr.com
 157.240.7.35 secure.facebook.com
@@ -7914,6 +8036,7 @@
 162.125.3.6 showbox.dropbox.com
 119.81.248.34 single.upsight-api.com
 216.58.200.33 sites.google.com
+121.59.17.10 sitestream.twitter.com
 216.58.200.33 sketchup.google.com
 216.58.200.33 sketchup.l.google.com
 216.58.200.33 skins.gmodules.com
@@ -7976,6 +8099,7 @@
 54.230.213.29 static.sxzhchina.com
 157.240.7.35 static.thefacebook.com
 119.161.8.100 static.tumblr.com
+121.59.17.10 static.twitter.com
 157.240.7.35 static.xx.fbcdn.net
 151.101.77.164 static01.nyt.com
 151.101.77.164 static02.nyt.com
@@ -7990,12 +8114,14 @@
 157.240.7.35 staticxx.facebook.com
 216.58.200.33 status.blogger.com
 54.192.212.178 status.dropbox.com
+121.59.17.10 status.twitter.com
 104.28.31.251 stigma.theinitium.com
 216.58.200.33 storage-ugc.l.googleusercontent.com
 216.58.200.33 storage.googleapis.com
 216.58.200.33 storage.l.googleusercontent.com
 216.58.200.33 store.google.com
 103.245.222.193 store.imgur.com
+121.59.17.10 stream.twitter.com
 216.58.200.33 streetart.withgoogle.com
 64.233.188.121 studio.html5rocks.com
 64.233.177.127 stun.l.google.com
@@ -8006,6 +8132,11 @@
 104.218.203.34 support.box.com
 162.125.3.1 support.dropbox.com
 216.58.200.33 support.google.com
+121.59.17.10 support.twitter.com
+104.244.43.135 syndication-o.twimg.com
+104.244.43.135 syndication.twimg.com
+121.59.17.10 syndication.twitter.com
+121.59.17.10 t.co
 216.58.200.33 t.doc-0-0-sj.sj.googleusercontent.com
 66.6.32.162 t.umblr.com
 216.58.200.33 t0.gstatic.com
@@ -8031,6 +8162,7 @@
 216.58.200.33 tbn4.google.com
 216.58.200.33 tbn5.google.com
 216.58.200.33 tbn6.google.com
+121.59.17.10 tdweb.twitter.com
 192.0.78.12 techprep.fb.com
 173.252.91.113 telegraph-ash.instagram.com
 34.205.123.65 telegraph-tiproxy.instagram.com
@@ -8041,6 +8173,8 @@
 216.58.200.33 themes.googleusercontent.com
 192.0.66.2 threatexchange.fb.com
 216.58.200.33 tip.golang.org
+104.244.43.135 ton.twimg.com
+121.59.17.10 ton.twitter.com
 216.58.200.33 toolbar.google.co.jp
 216.58.200.33 toolbar.google.com
 216.58.200.33 toolbar.google.com.hk
@@ -8072,6 +8206,10 @@
 106.10.199.11 tw.news.yahoo.com
 106.10.138.240 tw.yahoo.com
 216.58.200.33 tw.youtube.com
+121.59.17.10 tweetdeck.com
+121.59.17.10 tweetdeck.twitter.com
+104.244.46.148 twitpic.com
+121.59.17.10 twitter.com
 54.193.253.0 txn.ingest.crittercism.com
 151.101.77.164 typeface.nyt.com
 151.101.77.164 typeface.nytimes.com
@@ -8091,6 +8229,7 @@
 157.240.7.35 upload.facebook.com
 216.58.200.33 upload.google.com
 216.58.200.33 upload.photos.google.com
+121.59.17.10 upload.twitter.com
 216.58.200.33 upload.video.google.com
 198.35.26.112 upload.wikimedia.org
 216.58.200.33 upload.youtube.com
@@ -8099,22 +8238,24 @@
 216.58.200.33 uploads.code.google.com
 216.58.200.33 uploads.stage.gdata.youtube.com
 216.58.200.33 uploadsj.clients.google.com
+121.59.17.10 urls-real.api.twitter.com
 23.62.109.75 us.js2.yimg.com
 106.10.138.240 us.yahoo.com
+121.59.17.10 userstream.twitter.com
 151.101.76.84 v.pinimg.com
 216.58.200.33 v3.cache1.c.docs.google.com
 54.230.86.121 va.sndcdn.com
 216.58.200.33 video-analytics.l.google.com
-31.13.93.15 video-hkg3-1.xx.fbcdn.net
-31.13.93.15 video-lax3-1.xx.fbcdn.net
-31.13.93.15 video-lax3-2.xx.fbcdn.net
-31.13.93.15 video-lax3-3.xx.fbcdn.net
-31.13.93.15 video-lax3-4.xx.fbcdn.net
-31.13.93.15 video-mrs1-1.xx.fbcdn.net
-31.13.93.15 video-mrs1-2.xx.fbcdn.net
-31.13.93.15 video-mrs1-3.xx.fbcdn.net
-31.13.93.15 video-mrs1-4.xx.fbcdn.net
-31.13.93.15 video-sit4-1.xx.fbcdn.net
+157.240.2.21 video-hkg3-1.xx.fbcdn.net
+157.240.2.21 video-lax3-1.xx.fbcdn.net
+157.240.2.21 video-lax3-2.xx.fbcdn.net
+157.240.2.21 video-lax3-3.xx.fbcdn.net
+157.240.2.21 video-lax3-4.xx.fbcdn.net
+157.240.2.21 video-mrs1-1.xx.fbcdn.net
+157.240.2.21 video-mrs1-2.xx.fbcdn.net
+157.240.2.21 video-mrs1-3.xx.fbcdn.net
+157.240.2.21 video-mrs1-4.xx.fbcdn.net
+157.240.2.21 video-sit4-1.xx.fbcdn.net
 216.58.200.33 video-stats.l.google.com
 216.58.200.33 video-stats.video.google.com
 216.58.200.33 video-thumbnails.l.google.com
@@ -8123,7 +8264,8 @@
 216.58.200.33 video.google.com.tw
 216.58.200.33 video.googleusercontent.com
 216.58.200.33 video.l.google.com
-31.13.93.15 video.xx.fbcdn.net
+104.244.43.135 video.twimg.com
+157.240.2.21 video.xx.fbcdn.net
 23.235.37.217 vimeo.com
 216.58.200.33 virustotalcloud.appspot.com
 72.21.91.127 visuals.soundcloud.com
@@ -8165,6 +8307,17 @@
 216.58.200.33 wave0.google.com
 216.58.200.33 wave1.google.com
 157.240.7.35 web.facebook.com
+121.59.17.10 web.tweetdeck.com
+104.244.46.148 web1.twitpic.com
+104.244.46.148 web10.twitpic.com
+104.244.46.148 web2.twitpic.com
+104.244.46.148 web3.twitpic.com
+104.244.46.148 web4.twitpic.com
+104.244.46.148 web5.twitpic.com
+104.244.46.148 web6.twitpic.com
+104.244.46.148 web7.twitpic.com
+104.244.46.148 web8.twitpic.com
+104.244.46.148 web9.twitpic.com
 216.58.200.33 webcache.googleusercontent.com
 216.58.200.33 webmproject.org
 64.233.188.121 webrtc.org
@@ -8457,6 +8610,8 @@
 64.233.188.121 www.thegooglepuzzle.com
 216.58.200.33 www.thinkwithgoogle.com
 119.161.8.100 www.tumblr.com
+121.59.17.10 www.tweetdeck.com
+121.59.17.10 www.twitter.com
 162.125.3.1 www.v.dropbox.com
 23.42.169.61 www.voachinese.com
 64.233.188.121 www.waveprotocol.org
@@ -8497,7 +8652,7 @@
 216.58.200.33 ytimg.googleusercontent.com
 216.58.200.33 ytimg.l.google.com
 216.58.200.33 ytstatic.l.google.com
-31.13.93.15 z-1-scontent.xx.fbcdn.net
+157.240.2.21 z-1-scontent.xx.fbcdn.net
 157.240.7.35 zh-cn.facebook.com
 157.240.7.35 zh-cn.messenger.com
 157.240.7.35 zh-hk.facebook.com

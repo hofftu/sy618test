@@ -1,4 +1,4 @@
-## hosts方案二（建议）
+## hosts方案二
 * AD(vokins)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * play          ： https://raw.githubusercontent.com/sy618/hosts/master/p
 * YouTube  ：  https://raw.githubusercontent.com/sy618/hosts/master/y
@@ -11,7 +11,7 @@
 ## hosts方案一
 * AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
-* 自用并独立维护的hosts方案。支持Facebook Messenger。
+* 自用并维护的hosts方案。
 * 已合并： https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 ```javascript
 * 注：方案一与方案二的区别仅在于FQ数据与fq(racaljk)数据不同，两者不可混合使用。

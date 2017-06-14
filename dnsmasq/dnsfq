@@ -1,5 +1,4 @@
-## 2017-06-09 21:04:23
-## by sy618
+## 2017-06-14 09:53:11
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -70,7 +69,7 @@ address=/messenger.com/157.240.7.35
 address=/telegraph-ash.instagram.com/173.252.91.113
 address=/telegraph-tiproxy.instagram.com/34.205.123.65
 address=/thefacebook.com/157.240.7.35
-address=/fbcdn.net/31.13.93.15
+address=/fbcdn.net/157.240.2.21
 
 ## Flipboard    
 address=/beacon.flipboard.com/23.23.66.189
@@ -203,12 +202,12 @@ address=/pinterest.com/151.101.76.84
 address=/initiummall.com/104.28.31.251
 address=/theinitium.com/104.28.31.251
 
-## Twitter
-#address=/t.co/104.244.45.247
-#address=/tweetdeck.com/104.244.45.247
-#address=/twitter.com/104.244.45.247
-#address=/twimg.com/104.244.43.135
-#address=/twitpic.com/104.244.46.148
+## Twitter 
+address=/t.co/121.59.17.10
+address=/tweetdeck.com/121.59.17.10
+address=/twitter.com/121.59.17.10
+address=/twimg.com/104.244.43.135
+address=/twitpic.com/104.244.46.148
 
 ## Vimeo   
 address=/click.email.vimeo.com/198.245.92.39
@@ -221,7 +220,7 @@ address=/www.voachinese.com/23.42.169.61
 
 ## Wikipedia
 address=/upload.wikimedia.org/198.35.26.112
-address=/wikipedia.org/208.80.154.224
+address=/.wikipedia.org/208.80.154.224
 
 ## Yahoo/flickr/tumblr
 address=/97.media.tumblr.com/192.229.237.98
@@ -229,6 +228,7 @@ address=/android.imap.mail.yahoo.com/27.123.207.149
 address=/android.smtp.mail.yahoo.com/106.10.150.156
 address=/api.tumblr.com/119.161.8.100
 address=/assets.tumblr.com/119.161.8.100
+address=/http.atlas.cdn.yimg.com/119.161.8.82
 address=/code.flickr.com/192.0.79.32
 address=/downloadr.flickr.com/68.142.242.184
 address=/flickr.com/119.161.14.18

@@ -13,5 +13,6 @@ sed -i '/\/dns\//d' /etc/storage/post_wan_script.sh
 rm -rf /etc/storage/dnsmasq/dns
 
 #重启dnsmasq
-/sbin/restart_dhcpd
+restart_dhcpd
 
+echo " 已还原"
