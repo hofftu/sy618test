@@ -1,4 +1,4 @@
-## 2017-06-14 23:35:18
+## 2017-06-15 16:06:43
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -146,7 +146,7 @@ address=/translate.googleapis.com/203.208.43.105
 address=/urchin.com/219.76.4.70
 address=/webmproject.org/219.76.4.70
 address=/withgoogle.com/219.76.4.70
-address=/www.google.com/202.171.252.104
+address=/www.google.com/219.76.4.70
 address=/ytimg.com/219.76.4.70
 address=/youtu.be/219.76.4.70
 address=/youtubeeducation.com/219.76.4.70

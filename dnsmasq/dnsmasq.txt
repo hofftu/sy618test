@@ -1,6 +1,6 @@
 一个强大的hosts、dnsmasq规则实现去广告与自由上网，附手动教程与padavan、tomato固件自动脚本！
 
-恩山论坛：http://www.right.com.cn/forum/forum.php?mod=viewthread&tid=216155&extra=page%3D1&mobile=1&simpletype=no
+恩山论坛：http://right.com.cn/forum/thread-216155-1-1.html
 
 20170614 前使用过3.2自动化脚本的兄弟，请重新再执行一次，因为规则地址有调整。
 
@@ -71,7 +71,7 @@ https://github.com/clion007/dnsmasq
 
 
 4.已集成规则的老毛子固件
-http://www.right.com.cn/forum/forum.php?mod=viewthread&tid=216667&extra=page%3D3&mobile=2
+http://www.right.com.cn/forum/thread-216667-1-1.html
 这是由论坛基友做的固件，可以刷入试试。
 
 5.优缺点
