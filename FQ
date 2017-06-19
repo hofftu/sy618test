@@ -1,4 +1,4 @@
-## 2017-06-15 16:14:14
+## 2017-06-20 05:53:55
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -481,7 +481,7 @@
 219.76.4.76 code.l.google.com
 219.76.4.76 com.google
 219.76.4.76 compress.googlezip.net
-52.91.202.104 config.getsync.com
+54.192.212.38 config.getsync.com
 157.240.7.35 connect.facebook.com
 157.240.7.35 connect.facebook.net
 219.76.4.76 connectedclassrooms.withgoogle.com
@@ -505,6 +505,8 @@
 157.240.7.35 d.facebook.com
 162.125.82.7 d.v.dropbox.com
 119.161.14.18 d.yimg.com
+104.25.68.113 d0.winudf.com
+104.25.68.113 d1.winudf.com
 54.192.151.157 d3c33hcgiwev3.cloudfront.net
 219.76.4.76 datasaver.googleapis.com
 162.125.32.12 dbxlocal.dropboxstatic.com
@@ -561,6 +563,7 @@
 219.76.4.76 docs8.google.com
 219.76.4.76 docs9.google.com
 219.76.4.76 domains.google.com
+54.192.212.38 download-cdn.getsync.com
 219.76.4.76 download-chromium.appspot.com
 104.20.83.194 download.apkpure.com
 219.76.4.14 download.lineageos.org
@@ -591,6 +594,7 @@
 106.10.193.20 edit.yahoo.com
 219.76.4.76 edudirectory.withgoogle.com
 219.76.4.76 eduproducts.withgoogle.com
+219.76.10.49 emp.bbci.co.uk
 219.76.4.76 en.blog.orkut.com
 208.80.154.224 en.wikipedia.org
 219.76.4.76 encrypted-tbn.l.google.com
@@ -623,6 +627,15 @@
 219.76.10.49 external.ak.fbcdn.net
 157.240.2.21 external.xx.fbcdn.net
 157.240.7.35 facebook.com
+106.10.231.23 farm1.staticflickr.com
+106.10.231.23 farm2.staticflickr.com
+106.10.231.23 farm3.staticflickr.com
+106.10.231.23 farm4.staticflickr.com
+106.10.231.23 farm5.staticflickr.com
+106.10.231.23 farm6.staticflickr.com
+106.10.231.23 farm7.staticflickr.com
+106.10.231.23 farm8.staticflickr.com
+106.10.231.23 farm9.staticflickr.com
 219.76.10.49 fb-l-a-a.akamaihd.net
 219.76.10.49 fb-l-b-a.akamaihd.net
 219.76.10.49 fb-l-c-a.akamaihd.net
@@ -642,6 +655,7 @@
 219.76.4.76 feeds.feedburner.com
 219.76.4.76 feeds2.feedburner.com
 219.76.4.76 fi.google.com
+151.101.76.81 fig.bbc.co.uk
 162.125.3.6 files.dropbox.com
 219.76.4.76 filetransferenabled.mail.google.com
 219.76.4.76 finance.google.com
@@ -686,6 +700,7 @@
 219.76.4.76 geo6.ggpht.com
 219.76.4.76 geoauth.google.com
 219.76.4.76 gerrit.googlesource.com
+54.192.212.38 getsync.com
 219.76.4.76 gg.google.com
 64.233.188.121 ghs.google.com
 64.233.188.121 ghs.l.google.com
@@ -985,6 +1000,8 @@
 54.192.138.234 i4.sndcdn.com
 219.76.4.76 i4.ytimg.com
 208.100.17.186 ic.tynt.com
+219.76.10.49 ichef-1.bbci.co.uk
+219.76.10.49 ichef.bbci.co.uk
 52.77.181.198 icons.duckduckgo.com
 219.76.4.76 id.google.co.nz
 219.76.4.76 id.google.com
@@ -1141,9 +1158,9 @@
 219.76.4.76 lh6.google.com
 219.76.4.76 lh6.googleusercontent.com
 219.76.4.76 linkhelp.clients.google.com
-162.125.3.1 linux.dropbox.com
+162.125.6.1 linux.dropbox.com
 64.233.188.121 lists.webmproject.org
-162.125.3.1 live.dropbox.com
+162.125.6.1 live.dropbox.com
 192.0.78.12 live.fb.com
 157.240.7.35 lm.facebook.com
 219.76.4.76 local.google.com
@@ -1159,7 +1176,8 @@
 104.20.83.194 m.apkpure.com
 107.152.25.197 m.box.com
 35.186.231.252 m.cn.nytimes.com
-52.192.30.67 m.cn.nytstyle.com
+54.192.212.152 m.cn.nytstyle.com
+219.76.10.49 m.cn.rfi.fr
 162.125.32.9 m.dropbox.com
 157.240.7.35 m.facebook.com
 119.161.14.18 m.flickr.com
@@ -1271,6 +1289,7 @@
 192.229.237.97 mx.tumblr.com
 219.76.4.76 myaccount.google.com
 106.10.193.20 na.edit.yahoo.com
+219.76.10.49 nav.files.bbci.co.uk
 64.233.188.121 news.dartlang.org
 219.76.4.76 news.google.co.jp
 219.76.4.76 news.google.com
@@ -1299,8 +1318,9 @@
 219.76.4.76 ogs.google.com
 204.79.197.217 onedrive.live.com
 219.76.4.76 onetoday.google.com
+212.58.244.70 open.live.bbc.co.uk
 106.10.193.20 open.login.yahoo.com
-162.125.3.1 opensource.dropbox.com
+162.125.6.1 opensource.dropbox.com
 157.240.7.35 orcart.facebook.com
 219.76.4.76 origin-commondatastorage.googleapis.com
 219.76.4.76 orkut-fe.l.google.com
@@ -1389,6 +1409,7 @@
 107.152.25.200 public.boxcloud.com
 66.6.32.162 px.srvcs.tumblr.com
 219.76.4.76 qwqy.vp.video.l.google.com
+212.58.244.70 r.bbci.co.uk
 104.244.43.135 r.twimg.com
 103.6.87.114 radar.cedexis.com
 219.76.4.76 reader.google.com
@@ -1452,6 +1473,7 @@
 219.76.4.76 sb-ssl.l.google.com
 219.76.4.76 sb.google.com
 219.76.4.76 sb.l.google.com
+219.76.10.49 scd.cn.rfi.fr
 219.76.4.76 scholar.google.co.jp
 219.76.4.76 scholar.google.com
 219.76.4.76 scholar.google.com.hk
@@ -1545,9 +1567,11 @@
 219.76.10.49 static.ak.fbcdn.net
 219.76.10.49 static.ak.instagram.com
 104.20.83.194 static.apkpure.com
+219.76.10.49 static.bbc.co.uk
+219.76.10.49 static.bbci.co.uk
 219.76.4.76 static.cache.l.google.com
 157.240.7.35 static.facebook.com
-106.10.137.23 static.flickr.com
+106.10.231.23 static.flickr.com
 219.76.4.76 static.googleusercontent.com
 219.76.4.76 static.panoramio.com
 54.230.213.29 static.sxzhchina.com
@@ -1584,7 +1608,7 @@
 219.76.4.76 suggestqueries.l.google.com
 219.76.4.76 supl.google.com
 104.218.203.34 support.box.com
-162.125.3.1 support.dropbox.com
+162.125.6.1 support.dropbox.com
 219.76.4.76 support.google.com
 121.59.17.10 support.twitter.com
 104.244.43.135 syndication-o.twimg.com
@@ -1618,10 +1642,11 @@
 219.76.4.76 tbn6.google.com
 121.59.17.10 tdweb.twitter.com
 192.0.78.12 techprep.fb.com
+219.76.10.49 telechargement.rfi.fr
 173.252.91.113 telegraph-ash.instagram.com
-34.205.123.65 telegraph-tiproxy.instagram.com
+52.72.98.251 telegraph-tiproxy.instagram.com
 52.84.200.202 telemetry.soundcloud.com
-162.125.3.1 texter.dropbox.com
+162.125.6.1 texter.dropbox.com
 157.240.7.35 thefacebook.com
 104.28.31.251 theinitium.com
 219.76.4.76 themes.googleusercontent.com
@@ -1674,7 +1699,7 @@
 219.76.4.76 uk.youtube.com
 119.161.14.18 up.flickr.com
 151.101.77.164 up.nytimes.com
-52.91.202.104 update.getsync.com
+52.55.22.121 update.getsync.com
 219.76.4.76 update.googleapis.com
 107.152.25.197 upload.box.com
 219.76.4.76 upload.client.google.com
@@ -1809,6 +1834,8 @@
 64.233.188.121 www.20thingsilearned.com
 64.233.188.121 www.agoogleaday.com
 219.76.4.76 www.android.com
+212.58.244.70 www.bbc.co.uk
+151.101.76.81 www.bbc.com
 219.76.4.76 www.blogblog.com
 219.76.4.76 www.blogger.com
 219.76.4.76 www.blogspot.com
@@ -1821,7 +1848,7 @@
 219.76.4.76 www.chromium.org
 64.233.188.121 www.creativelab5.com
 219.76.4.76 www.data-vocabulary.org
-162.125.3.1 www.dropbox.com
+162.125.6.1 www.dropbox.com
 162.125.82.7 www.dropboxstatic.com
 46.51.218.82 www.duckduckgo.com
 157.240.7.35 www.facebook.com
@@ -1829,6 +1856,7 @@
 219.76.4.76 www.feedburner.com
 119.161.14.18 www.flickr.com
 219.76.4.76 www.gcr.io
+54.192.212.38 www.getsync.com
 219.76.4.76 www.gmail.com
 219.76.4.76 www.gmodules.com
 219.76.4.76 www.golang.org
@@ -2067,7 +2095,7 @@
 119.161.8.100 www.tumblr.com
 121.59.17.10 www.tweetdeck.com
 121.59.17.10 www.twitter.com
-162.125.3.1 www.v.dropbox.com
+162.125.6.1 www.v.dropbox.com
 23.42.169.61 www.voachinese.com
 64.233.188.121 www.waveprotocol.org
 219.76.4.76 www.webmproject.org

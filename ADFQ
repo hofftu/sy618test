@@ -1,11 +1,12 @@
-## 2017-06-15 16:14:16
+## 2017-06-20 05:53:57
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-06-15 16:06:44
-#version=20170615 623
+## 2017-06-20 05:53:19
+## 2017-06-20 05:22:53
+#version=201706192028
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -39,6 +40,9 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+127.0.0.1 e-p4p.163.com
+127.0.0.1 nex.163.com
+127.0.0.1 nos.netease.com
 127.0.0.1 log.yex.youdao.com
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
@@ -343,19 +347,27 @@
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
+127.0.0.1 jsnp.golden1.sogou.com
+127.0.0.1 ktivn.uranus.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
+127.0.0.1 qhl.bealge.sogou.com
+127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 union.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
-127.0.0.1 theta.sogoucdn.com
+127.0.0.1 art.theta.sogoucdn.com
+127.0.0.1 bite.theta.sogoucdn.com
+127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
+127.0.0.1 png.lu.sogoucdn.com
+127.0.0.1 theta.sogoucdn.com
 127.0.0.1 wds.inte.sogoucdn.com
 127.0.0.1 r.admob.com
 127.0.0.1 mm.admob.com
@@ -404,7 +416,6 @@
 127.0.0.1 stat.m.jd.com
 127.0.0.1 union.click.jd.com
 127.0.0.1 union.m.jd.com
-127.0.0.1 dc2.jd.com
 127.0.0.1 dl.2345.com
 127.0.0.1 download.2345.com
 127.0.0.1 g.wan.2345.com
@@ -1254,7 +1265,6 @@
 127.0.0.1 click.qianqian.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 s.qtad.qingting.fm
-127.0.0.1 od.qingting.fm
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adeventtracker.spotify.com
@@ -2120,13 +2130,6 @@
 127.0.0.1 service.danmu.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 myes.youku.com
-127.0.0.1 fans.bestvogue.com
-127.0.0.1 nexus.ensighten.com
-127.0.0.1 cdn.krxd.net
-127.0.0.1 dc.ads.linkedin.com
-127.0.0.1 stats.wp.com
-127.0.0.1 rum-collector.pingdom.net
-127.0.0.1 rum-static.pingdom.net
 127.0.0.1 adsatt.abcnews.starwave.com
 127.0.0.1 adsatt.disney.starwave.com
 127.0.0.1 adsatt.espn.starwave.com
@@ -2150,15 +2153,12 @@
 127.0.0.1 advertising.aol.com
 127.0.0.1 dynamic.aol.com
 127.0.0.1 free.aol.com
-127.0.0.1 o.sa.aol.com
 127.0.0.1 s.sa.aol.com
 127.0.0.1 ar.atwola.com
 127.0.0.1 ar1.atwola.com
 127.0.0.1 ar7.atwola.com
 127.0.0.1 ar9.atwola.com
 127.0.0.1 at.atwola.com
-127.0.0.1 cdn.at.atwola.com
-127.0.0.1 cdn.atwola.com
 127.0.0.1 pr.atwola.com
 127.0.0.1 tacoda.at.atwola.com
 127.0.0.1 ads.intergi.com
@@ -2353,6 +2353,8 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 m.huananb.com
+127.0.0.1 shi.tsrc8.com
 127.0.0.1 ke.qzdag.com
 127.0.0.1 m.ddg1277.com
 127.0.0.1 da.ddanq.com
@@ -2455,6 +2457,8 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 tmc.biquge.com
+127.0.0.1 e.clubske.com
+127.0.0.1 m.clubske.com
 127.0.0.1 e.inccnd.com
 127.0.0.1 m.inccnd.com
 127.0.0.1 sha.qjjtc.com
@@ -2467,6 +2471,7 @@
 127.0.0.1 m.resetgey.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 e.ksdsuzhou.com
 127.0.0.1 m.jbyy010.com
 127.0.0.1 e.jbyy010.com
 127.0.0.1 xian.axkxy.com
@@ -2509,6 +2514,7 @@
 127.0.0.1 www.zhzywl.cc
 127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 s.ztxbd.com
 127.0.0.1 s.pomhz.com
 127.0.0.1 s.hkfuy.com
 127.0.0.1 e.rpaulfrank.com
@@ -2616,6 +2622,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 js412.wangdaizao.com
 127.0.0.1 u.diginavi.net
 127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com
@@ -2713,6 +2720,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 www.sbrqp.com
 127.0.0.1 sub.alisinak.com
 127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.vichc.com
@@ -2770,6 +2778,7 @@
 127.0.0.1 syd.wayize.cn
 127.0.0.1 tks1y9.bairuile.cn
 127.0.0.1 wowo.kilospeak.com
+127.0.0.1 wo.rbywg.com
 127.0.0.1 m.gdyyyg.net
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
@@ -2800,6 +2809,7 @@
 127.0.0.1 wxmmh.net
 127.0.0.1 s.m.xqingdou.com
 127.0.0.1 b.aowugame.com
+127.0.0.1 b.flyreading.cn
 127.0.0.1 www.jndczg.com
 127.0.0.1 ikm0b.yuanshanshu.cn
 127.0.0.1 image.online2019.com
@@ -2835,6 +2845,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 m.jifeidandar.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 alibaba.zhihei.com
@@ -2988,7 +2999,6 @@
 127.0.0.1 www.kfwpyyctzmpk.com
 127.0.0.1 kfwpyyctzmpk.com
 127.0.0.1 go.onclasrv.com
-127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 www.predictivadvertising.com
@@ -3132,7 +3142,12 @@
 127.0.0.1 b.meiliyue.top
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
+127.0.0.1 js.brfrb.cn
 127.0.0.1 c.queene.cn
+127.0.0.1 p.heib7.top
+127.0.0.1 p.heib6.top
+127.0.0.1 mts.sdtieta.com
+127.0.0.1 ds-pv.iqu-operation.com
 127.0.0.1 www.boxercrazy.org
 127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 images.tygc5.com
@@ -3520,6 +3535,7 @@
 127.0.0.1 sg.keytui.com
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
+127.0.0.1 m.ksdsuzhou.com
 127.0.0.1 js257.rrsubway.com
 127.0.0.1 m.xigeng0375.com
 127.0.0.1 v1.0594529.com
@@ -3643,6 +3659,7 @@
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
 127.0.0.1 jjd.5442.com
+127.0.0.1 api.ssp.aomeng.net
 127.0.0.1 www.aomeng.net
 127.0.0.1 bdjs.itechwall.com
 127.0.0.1 xxx.caip2y.com
@@ -4084,6 +4101,9 @@
 127.0.0.1 sycnzz.17tanwan.com
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
+127.0.0.1 js.59jd.com
+127.0.0.1 jump.59jd.com
+127.0.0.1 tu.59jd.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -5248,6 +5268,7 @@
 127.0.0.1 pic.bloggerads.net
 127.0.0.1 pic2.bloggerads.net
 127.0.0.1 piccdn.bloggerads.net
+127.0.0.1 img.scupio.com
 127.0.0.1 ab.hysdknb.com
 127.0.0.1 file.bmob.cn
 127.0.0.1 static.bmob.cn
@@ -6285,6 +6306,28 @@
 127.0.0.1 www.adtaily.com
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+127.0.0.1 fans.bestvogue.com
+127.0.0.1 nexus.ensighten.com
+127.0.0.1 cdn.krxd.net
+127.0.0.1 dc.ads.linkedin.com
+127.0.0.1 stats.wp.com
+127.0.0.1 rum-collector.pingdom.net
+127.0.0.1 rum-static.pingdom.net
+127.0.0.1 inclk.com
+127.0.0.1 p215223.inclk.com
+127.0.0.1 n.ads3-adnow.com
+127.0.0.1 st-n.ads3-adnow.com
+127.0.0.1 c.codeonclick.com
+127.0.0.1 p215223.clksite.com
+127.0.0.1 p215223.mycdn2.co
+127.0.0.1 www.onclicktop.com
+127.0.0.1 adinfo.aol.com
+127.0.0.1 b.aol.com
+127.0.0.1 o.sa.aol.com
+127.0.0.1 cdn.komentary.aol.com
+127.0.0.1 o.aolcdn.com
+127.0.0.1 cdn.at.atwola.com
+127.0.0.1 cdn.atwola.com
 127.0.0.1 ad-stir.com
 127.0.0.1 ad.ad-stir.com
 127.0.0.1 api.ad-stir.com
@@ -6547,7 +6590,7 @@
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 insight.ucweb.com
 127.0.0.1 gj.applog.uc.cn
-## 2017-06-15 16:14:14
+## 2017-06-20 05:53:55
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.76 0-focus-opensocial.googleusercontent.com
@@ -7029,7 +7072,7 @@
 219.76.4.76 code.l.google.com
 219.76.4.76 com.google
 219.76.4.76 compress.googlezip.net
-52.91.202.104 config.getsync.com
+54.192.212.38 config.getsync.com
 157.240.7.35 connect.facebook.com
 157.240.7.35 connect.facebook.net
 219.76.4.76 connectedclassrooms.withgoogle.com
@@ -7053,6 +7096,8 @@
 157.240.7.35 d.facebook.com
 162.125.82.7 d.v.dropbox.com
 119.161.14.18 d.yimg.com
+104.25.68.113 d0.winudf.com
+104.25.68.113 d1.winudf.com
 54.192.151.157 d3c33hcgiwev3.cloudfront.net
 219.76.4.76 datasaver.googleapis.com
 162.125.32.12 dbxlocal.dropboxstatic.com
@@ -7109,6 +7154,7 @@
 219.76.4.76 docs8.google.com
 219.76.4.76 docs9.google.com
 219.76.4.76 domains.google.com
+54.192.212.38 download-cdn.getsync.com
 219.76.4.76 download-chromium.appspot.com
 104.20.83.194 download.apkpure.com
 219.76.4.14 download.lineageos.org
@@ -7139,6 +7185,7 @@
 106.10.193.20 edit.yahoo.com
 219.76.4.76 edudirectory.withgoogle.com
 219.76.4.76 eduproducts.withgoogle.com
+219.76.10.49 emp.bbci.co.uk
 219.76.4.76 en.blog.orkut.com
 208.80.154.224 en.wikipedia.org
 219.76.4.76 encrypted-tbn.l.google.com
@@ -7171,6 +7218,15 @@
 219.76.10.49 external.ak.fbcdn.net
 157.240.2.21 external.xx.fbcdn.net
 157.240.7.35 facebook.com
+106.10.231.23 farm1.staticflickr.com
+106.10.231.23 farm2.staticflickr.com
+106.10.231.23 farm3.staticflickr.com
+106.10.231.23 farm4.staticflickr.com
+106.10.231.23 farm5.staticflickr.com
+106.10.231.23 farm6.staticflickr.com
+106.10.231.23 farm7.staticflickr.com
+106.10.231.23 farm8.staticflickr.com
+106.10.231.23 farm9.staticflickr.com
 219.76.10.49 fb-l-a-a.akamaihd.net
 219.76.10.49 fb-l-b-a.akamaihd.net
 219.76.10.49 fb-l-c-a.akamaihd.net
@@ -7190,6 +7246,7 @@
 219.76.4.76 feeds.feedburner.com
 219.76.4.76 feeds2.feedburner.com
 219.76.4.76 fi.google.com
+151.101.76.81 fig.bbc.co.uk
 162.125.3.6 files.dropbox.com
 219.76.4.76 filetransferenabled.mail.google.com
 219.76.4.76 finance.google.com
@@ -7234,6 +7291,7 @@
 219.76.4.76 geo6.ggpht.com
 219.76.4.76 geoauth.google.com
 219.76.4.76 gerrit.googlesource.com
+54.192.212.38 getsync.com
 219.76.4.76 gg.google.com
 64.233.188.121 ghs.google.com
 64.233.188.121 ghs.l.google.com
@@ -7533,6 +7591,8 @@
 54.192.138.234 i4.sndcdn.com
 219.76.4.76 i4.ytimg.com
 208.100.17.186 ic.tynt.com
+219.76.10.49 ichef-1.bbci.co.uk
+219.76.10.49 ichef.bbci.co.uk
 52.77.181.198 icons.duckduckgo.com
 219.76.4.76 id.google.co.nz
 219.76.4.76 id.google.com
@@ -7689,9 +7749,9 @@
 219.76.4.76 lh6.google.com
 219.76.4.76 lh6.googleusercontent.com
 219.76.4.76 linkhelp.clients.google.com
-162.125.3.1 linux.dropbox.com
+162.125.6.1 linux.dropbox.com
 64.233.188.121 lists.webmproject.org
-162.125.3.1 live.dropbox.com
+162.125.6.1 live.dropbox.com
 192.0.78.12 live.fb.com
 157.240.7.35 lm.facebook.com
 219.76.4.76 local.google.com
@@ -7707,7 +7767,8 @@
 104.20.83.194 m.apkpure.com
 107.152.25.197 m.box.com
 35.186.231.252 m.cn.nytimes.com
-52.192.30.67 m.cn.nytstyle.com
+54.192.212.152 m.cn.nytstyle.com
+219.76.10.49 m.cn.rfi.fr
 162.125.32.9 m.dropbox.com
 157.240.7.35 m.facebook.com
 119.161.14.18 m.flickr.com
@@ -7819,6 +7880,7 @@
 192.229.237.97 mx.tumblr.com
 219.76.4.76 myaccount.google.com
 106.10.193.20 na.edit.yahoo.com
+219.76.10.49 nav.files.bbci.co.uk
 64.233.188.121 news.dartlang.org
 219.76.4.76 news.google.co.jp
 219.76.4.76 news.google.com
@@ -7847,8 +7909,9 @@
 219.76.4.76 ogs.google.com
 204.79.197.217 onedrive.live.com
 219.76.4.76 onetoday.google.com
+212.58.244.70 open.live.bbc.co.uk
 106.10.193.20 open.login.yahoo.com
-162.125.3.1 opensource.dropbox.com
+162.125.6.1 opensource.dropbox.com
 157.240.7.35 orcart.facebook.com
 219.76.4.76 origin-commondatastorage.googleapis.com
 219.76.4.76 orkut-fe.l.google.com
@@ -7937,6 +8000,7 @@
 107.152.25.200 public.boxcloud.com
 66.6.32.162 px.srvcs.tumblr.com
 219.76.4.76 qwqy.vp.video.l.google.com
+212.58.244.70 r.bbci.co.uk
 104.244.43.135 r.twimg.com
 103.6.87.114 radar.cedexis.com
 219.76.4.76 reader.google.com
@@ -8000,6 +8064,7 @@
 219.76.4.76 sb-ssl.l.google.com
 219.76.4.76 sb.google.com
 219.76.4.76 sb.l.google.com
+219.76.10.49 scd.cn.rfi.fr
 219.76.4.76 scholar.google.co.jp
 219.76.4.76 scholar.google.com
 219.76.4.76 scholar.google.com.hk
@@ -8093,9 +8158,11 @@
 219.76.10.49 static.ak.fbcdn.net
 219.76.10.49 static.ak.instagram.com
 104.20.83.194 static.apkpure.com
+219.76.10.49 static.bbc.co.uk
+219.76.10.49 static.bbci.co.uk
 219.76.4.76 static.cache.l.google.com
 157.240.7.35 static.facebook.com
-106.10.137.23 static.flickr.com
+106.10.231.23 static.flickr.com
 219.76.4.76 static.googleusercontent.com
 219.76.4.76 static.panoramio.com
 54.230.213.29 static.sxzhchina.com
@@ -8132,7 +8199,7 @@
 219.76.4.76 suggestqueries.l.google.com
 219.76.4.76 supl.google.com
 104.218.203.34 support.box.com
-162.125.3.1 support.dropbox.com
+162.125.6.1 support.dropbox.com
 219.76.4.76 support.google.com
 121.59.17.10 support.twitter.com
 104.244.43.135 syndication-o.twimg.com
@@ -8166,10 +8233,11 @@
 219.76.4.76 tbn6.google.com
 121.59.17.10 tdweb.twitter.com
 192.0.78.12 techprep.fb.com
+219.76.10.49 telechargement.rfi.fr
 173.252.91.113 telegraph-ash.instagram.com
-34.205.123.65 telegraph-tiproxy.instagram.com
+52.72.98.251 telegraph-tiproxy.instagram.com
 52.84.200.202 telemetry.soundcloud.com
-162.125.3.1 texter.dropbox.com
+162.125.6.1 texter.dropbox.com
 157.240.7.35 thefacebook.com
 104.28.31.251 theinitium.com
 219.76.4.76 themes.googleusercontent.com
@@ -8222,7 +8290,7 @@
 219.76.4.76 uk.youtube.com
 119.161.14.18 up.flickr.com
 151.101.77.164 up.nytimes.com
-52.91.202.104 update.getsync.com
+52.55.22.121 update.getsync.com
 219.76.4.76 update.googleapis.com
 107.152.25.197 upload.box.com
 219.76.4.76 upload.client.google.com
@@ -8357,6 +8425,8 @@
 64.233.188.121 www.20thingsilearned.com
 64.233.188.121 www.agoogleaday.com
 219.76.4.76 www.android.com
+212.58.244.70 www.bbc.co.uk
+151.101.76.81 www.bbc.com
 219.76.4.76 www.blogblog.com
 219.76.4.76 www.blogger.com
 219.76.4.76 www.blogspot.com
@@ -8369,7 +8439,7 @@
 219.76.4.76 www.chromium.org
 64.233.188.121 www.creativelab5.com
 219.76.4.76 www.data-vocabulary.org
-162.125.3.1 www.dropbox.com
+162.125.6.1 www.dropbox.com
 162.125.82.7 www.dropboxstatic.com
 46.51.218.82 www.duckduckgo.com
 157.240.7.35 www.facebook.com
@@ -8377,6 +8447,7 @@
 219.76.4.76 www.feedburner.com
 119.161.14.18 www.flickr.com
 219.76.4.76 www.gcr.io
+54.192.212.38 www.getsync.com
 219.76.4.76 www.gmail.com
 219.76.4.76 www.gmodules.com
 219.76.4.76 www.golang.org
@@ -8615,7 +8686,7 @@
 119.161.8.100 www.tumblr.com
 121.59.17.10 www.tweetdeck.com
 121.59.17.10 www.twitter.com
-162.125.3.1 www.v.dropbox.com
+162.125.6.1 www.v.dropbox.com
 23.42.169.61 www.voachinese.com
 64.233.188.121 www.waveprotocol.org
 219.76.4.76 www.webmproject.org
