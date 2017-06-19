@@ -1,4 +1,4 @@
-一个强大的hosts、dnsmasq规则实现去广告与自由上网，附手动教程与padavan、tomato固件自动脚本！
+一个强大的hosts、dnsmasq规则实现去广告与自由上网，附手动教程与padavan自动脚本！
 
 恩山论坛：http://right.com.cn/forum/thread-216155-1-1.html
 
@@ -13,6 +13,10 @@ dnsmasq功能很多，我们这里主要用来重定向、加快网络响应 和
    2.1 自.由.上.网，享受无墙般体验。
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
 （注意，这规则并不是万能的，目前仅解析部分高频使用的域名。若想完整访问外网请改用代理方式。）
+
+备用数据：与上面的区别仅在于这个使用的是谷歌官方IP，可能不稳定。但我这里移动、联通网络没问题。
+若想使用，请自行手动替换。使用自动脚本的你可以修改start.sh脚本里的规则地址。
+https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq1
 
    2.2 屏蔽广告
 可以使用vokins的专门去国内广告hosts
@@ -55,12 +59,8 @@ sh /etc/storage/dnsmasq/dns/del.sh
 详细看https://github.com/sy618/hosts/tree/master/dnsmasq/sh
     
        3.2.2 适用【tomato固件】
-固件地址：http://tomato.groov.pl/
-（感谢@◈Elvira◈ 的调试与帮助）
-一键运行命令：
-mkdir -p /tmp/etc/dns;wget https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/tomato/setting.sh -O /tmp/etc/dns/setting.sh;sh /tmp/etc/dns/setting.sh
-一键还原命令：
-sh /tmp/etc/dns/del.sh
+由于我没有这个固件，也没人帮忙调试。故暂时撤下脚本。
+你们可以去参考141#楼 wchf2 的手动做法。
   
   3.3 其他固件：
 Openwtr、LEDE、ddwrt等固件脚本可以尝试这位基友发的帖子里的脚本
