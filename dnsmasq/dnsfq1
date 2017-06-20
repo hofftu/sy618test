@@ -1,4 +1,4 @@
-## 2017-06-20 19:12:25
+## 2017-06-20 19:33:29
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -213,8 +213,8 @@ address=/getsync.com/54.192.212.38
 address=/update.getsync.com/52.55.22.121
 
 ## Rfi
-address=/cn.rfi.fr/219.76.10.49
-address=/telechargement.rfi.fr/219.76.10.49
+address=/cn.rfi.fr/219.76.10.218
+address=/telechargement.rfi.fr/219.76.10.218
 
 ## Theinitium
 address=/initiummall.com/104.28.31.251
