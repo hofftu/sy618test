@@ -1,4 +1,4 @@
-## 2017-06-20 05:53:19
+## 2017-06-20 19:12:25
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -11,13 +11,14 @@ address=/apkpure.com/104.20.83.194
 address=/winudf.com/104.25.68.113
 
 ## BBC
-address=/bbci.co.uk/219.76.10.49
-address=/static.bbc.co.uk/219.76.10.49
+address=/bbci.co.uk/96.16.169.73
+address=/static.bbc.co.uk/96.16.169.73
 address=/www.bbc.com/151.101.76.81
 address=/fig.bbc.co.uk/151.101.76.81
 address=/www.bbc.co.uk/212.58.244.70
-address=/r.bbci.co.uk/212.58.244.70
-
+address=/r.bbci.co.uk/212.58.244.15
+address=/open.live.bbc.co.uk/212.58.244.81
+ 
 ## Box
 address=/box.com/107.152.25.197
 address=/boxcdn.net/104.16.27.3
@@ -59,7 +60,7 @@ address=/images.duckduckgo.com/52.77.181.198
 
 ## Facebook/Instagram
 address=/accountkit.com/157.240.7.35
-address=/akamai.net/219.76.10.49
+#address=/akamai.net/219.76.10.49
 address=/akamaihd.net/219.76.10.49
 address=/ak.facebook.com/219.76.10.49
 address=/ak.fbcdn.net/219.76.10.49
@@ -98,7 +99,6 @@ address=/blogspot.com/219.76.4.70
 address=/chromium.org/219.76.4.70
 address=/com.google/219.76.4.70
 address=/dartlang.org/219.76.4.70
-address=/dl.google.com/203.208.43.105
 address=/feedburner.com/219.76.4.70
 address=/g.co/219.76.4.70
 address=/gcr.io/219.76.4.70
@@ -146,11 +146,9 @@ address=/oneworldmanystories.com/219.76.4.70
 address=/orkut.com/219.76.4.70
 address=/panoramio.com/219.76.4.70
 address=/recaptcha.net/219.76.4.70
-address=/redirector.gvt1.com/203.208.43.105
 address=/teachparentstech.org/219.76.4.70
 address=/thegooglepuzzle.com/219.76.4.70
 address=/transparency.org/219.76.4.70
-address=/translate.googleapis.com/203.208.43.105
 address=/urchin.com/219.76.4.70
 address=/webmproject.org/219.76.4.70
 address=/withgoogle.com/219.76.4.70
@@ -166,6 +164,10 @@ address=/goo.gl/219.76.4.70
 #address=/android.clients.google.com/219.76.4.70
 #address=/gcm-http.googleapis.com/219.76.4.70
 #address=/mail.google.com/219.76.4.70
+#cn IP google
+#address=/dl.google.com/203.208.43.105
+#address=/redirector.gvt1.com/203.208.43.105
+#address=/translate.googleapis.com/203.208.43.105
 
 ##  Ingress    
 address=/crittercism.com/54.241.32.8
@@ -200,7 +202,7 @@ address=/vp.nyt.com/23.219.132.99
 address=/api.onedrive.live.com/2.17.58.51
 address=/api.onedrive.com/204.79.197.213
 address=/onedrive.live.com/204.79.197.217
-address=/skyapi.onedrive.live.com/157.55.109.228
+address=/skyapi.onedrive.live.com/104.44.88.28
 
 ## Pinterest               
 address=/pinimg.com/151.101.76.84

@@ -1,7 +1,6 @@
-## 2017-06-20 05:22:53
+## 2017-06-20 19:12:25
 #url=https://github.com/vokins/yhosts/
-#version=201706192028
-## 2017-06-20 05:53:19
+#version=20170620 938
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
 127.0.0.1 xia.xiazailou.la
@@ -685,10 +684,7 @@
 127.0.0.1 adtrack.ucweb.com
 127.0.0.1 puds.ucweb.com
 127.0.0.1 cms.ucweb.com
-127.0.0.1 cms.ucweb.com
 127.0.0.1 insight.ucweb.com
-127.0.0.1 insight.ucweb.com
-127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 iiiiii.sharrysweb.com
@@ -797,7 +793,6 @@
 127.0.0.1 tracker.yhd.com
 127.0.0.1 nl.wodhid.com
 127.0.0.1 vi1.souid.com
-127.0.0.1 c-nfa.jd.com
 127.0.0.1 re.jd.com
 127.0.0.1 union.click.jd.com
 127.0.0.1 jrclick.jd.com
@@ -3343,7 +3338,6 @@
 127.0.0.1 scriptwap3.360doc.cn
 127.0.0.1 video.cvdvsc.cn
 127.0.0.1 applog.uc.cn
-127.0.0.1 gj.applog.uc.cn
 127.0.0.1 gj.applog.uc.cn
 127.0.0.1 track.uc.cn
 127.0.0.1 api.mp.uc.cn

@@ -1,12 +1,11 @@
-## 2017-06-20 05:53:57
+## 2017-06-20 19:13:04
 ## https://github.com/sy618/hosts
 # 请自行改订阅成以下两个，可获得最新数据。
 # AD：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 #####################################################
-## 2017-06-20 05:53:19
-## 2017-06-20 05:22:53
-#version=201706192028
+## 2017-06-20 19:12:25
+#version=20170620 938
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -406,7 +405,6 @@
 127.0.0.1 tui.taobao.com
 127.0.0.1 tyh.taobao.com
 127.0.0.1 jx.tmall.com
-127.0.0.1 c-nfa.jd.com
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 img.x.jd.com
@@ -6590,7 +6588,7 @@
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 insight.ucweb.com
 127.0.0.1 gj.applog.uc.cn
-## 2017-06-20 05:53:55
+## 2017-06-20 19:13:02
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
 219.76.4.76 0-focus-opensocial.googleusercontent.com
@@ -6761,7 +6759,6 @@
 54.230.86.121 a1.sndcdn.com
 104.244.43.135 a1.twimg.com
 104.244.43.135 a2.twimg.com
-219.76.10.49 a248.e.akamai.net
 104.244.43.135 a3.twimg.com
 104.244.43.135 a4.twimg.com
 104.244.43.135 a5.twimg.com
@@ -7185,7 +7182,7 @@
 106.10.193.20 edit.yahoo.com
 219.76.4.76 edudirectory.withgoogle.com
 219.76.4.76 eduproducts.withgoogle.com
-219.76.10.49 emp.bbci.co.uk
+96.16.169.73 emp.bbci.co.uk
 219.76.4.76 en.blog.orkut.com
 208.80.154.224 en.wikipedia.org
 219.76.4.76 encrypted-tbn.l.google.com
@@ -7591,8 +7588,8 @@
 54.192.138.234 i4.sndcdn.com
 219.76.4.76 i4.ytimg.com
 208.100.17.186 ic.tynt.com
-219.76.10.49 ichef-1.bbci.co.uk
-219.76.10.49 ichef.bbci.co.uk
+96.16.169.73 ichef-1.bbci.co.uk
+96.16.169.73 ichef.bbci.co.uk
 52.77.181.198 icons.duckduckgo.com
 219.76.4.76 id.google.co.nz
 219.76.4.76 id.google.com
@@ -7880,7 +7877,7 @@
 192.229.237.97 mx.tumblr.com
 219.76.4.76 myaccount.google.com
 106.10.193.20 na.edit.yahoo.com
-219.76.10.49 nav.files.bbci.co.uk
+96.16.169.73 nav.files.bbci.co.uk
 64.233.188.121 news.dartlang.org
 219.76.4.76 news.google.co.jp
 219.76.4.76 news.google.com
@@ -7909,7 +7906,7 @@
 219.76.4.76 ogs.google.com
 204.79.197.217 onedrive.live.com
 219.76.4.76 onetoday.google.com
-212.58.244.70 open.live.bbc.co.uk
+212.58.244.81 open.live.bbc.co.uk
 106.10.193.20 open.login.yahoo.com
 162.125.6.1 opensource.dropbox.com
 157.240.7.35 orcart.facebook.com
@@ -8000,7 +7997,7 @@
 107.152.25.200 public.boxcloud.com
 66.6.32.162 px.srvcs.tumblr.com
 219.76.4.76 qwqy.vp.video.l.google.com
-212.58.244.70 r.bbci.co.uk
+212.58.244.15 r.bbci.co.uk
 104.244.43.135 r.twimg.com
 103.6.87.114 radar.cedexis.com
 219.76.4.76 reader.google.com
@@ -8107,7 +8104,7 @@
 219.76.4.76 sketchup.google.com
 219.76.4.76 sketchup.l.google.com
 219.76.4.76 skins.gmodules.com
-157.55.109.228 skyapi.onedrive.live.com
+104.44.88.28 skyapi.onedrive.live.com
 64.233.188.121 slides.html5rocks.com
 219.76.4.76 smartypins.withgoogle.com
 64.233.188.109 smtp.gmail.com
@@ -8158,8 +8155,8 @@
 219.76.10.49 static.ak.fbcdn.net
 219.76.10.49 static.ak.instagram.com
 104.20.83.194 static.apkpure.com
-219.76.10.49 static.bbc.co.uk
-219.76.10.49 static.bbci.co.uk
+96.16.169.73 static.bbc.co.uk
+96.16.169.73 static.bbci.co.uk
 219.76.4.76 static.cache.l.google.com
 157.240.7.35 static.facebook.com
 106.10.231.23 static.flickr.com
