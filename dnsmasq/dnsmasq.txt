@@ -1,8 +1,6 @@
-一个强大的hosts、dnsmasq规则实现去广告与自由上网，附手动教程与padavan自动脚本！
+路由器hosts+dnsmasq规则订阅方案，实现去广告与自由上网，附padavan手动教程与一键脚本！
 
 恩山论坛：http://right.com.cn/forum/thread-216155-1-1.html
-
-20170614 前使用过3.2自动化脚本的兄弟，请重新再执行一次，因为规则地址有调整。
 
 
 1.什么是dnsmasq：https://wapbaike.baidu.com/item/DNSmasq?adapt=1
@@ -10,15 +8,15 @@
 dnsmasq功能很多，我们这里主要用来重定向、加快网络响应 和 屏蔽广告（指向127.0.0.1或0.0.0.0）。
 
 2 规则介绍
-   2.1 自.由.上.网，享受无墙般体验。
+   2.1 自.由.上.网，享受无墙般体验。dnsmasq规则
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
-（注意，这规则并不是万能的，目前仅解析部分高频使用的域名。若想完整访问外网请改用代理方式。）
-
-备用数据：与上面的区别仅在于这个使用的是谷歌官方IP，可能不稳定。但我这里移动、联通网络没问题。
-若想使用，请自行手动替换。使用自动脚本的你可以修改start.sh脚本里的规则地址。
+备用数据：（谷歌官方IP版）
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq1
+两点说明：
+①.这规则并不是万能的，目前仅解析部分高频使用的域名。若想完整访问外网请自行改用代理方式。
+②.规则内大部分域名都是解析到官方IP，但部分功能（如YouTube播放）必须依靠反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！
 
-   2.2 屏蔽广告
+   2.2 屏蔽广告hosts规则
 可以使用vokins的专门去国内广告hosts
 局域网内无PC的用这个规则：
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
@@ -28,15 +26,15 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 上面两个hosts规则区别：非PC端的是完整数据。PC端的是删减版，是由于PC端部分视频网站不能用hosts屏蔽，所以删掉了那部分数据。
 （以hosts方式过滤广告非万能，肯定没有adbyby、KP等使用abp规则方式过滤全面，但对个人来说日常使用是够用了。如对去广告要求高的请用adbyby或KP。）
 
-屏蔽一些广告家族的dnsmasq规则：
+    2.3 屏蔽一些广告家族的dnsmasq规则：
 https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/union.conf
   
-   2.3 屏蔽运营商劫持
+   2.4 屏蔽运营商劫持dnsmasq规则
 https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf
 （如何查看是否被劫持，使用nslookup命令测试一个不存在的域名，若返回IP就是劫持）
 
 3 如何使用
-   3.1 手动添加（仅适用于h大的老毛子固件）
+   3.1 手动添加（仅适用于h大的padavan老毛子固件）
 手动添加到自定义脚本的【在 WAN 上行/下行启动后执行】里，实现网络连接上时自动更新。也可以直接在命令行里直接运行。
 #自由上网dnsmasq：
 wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq -O /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/dnsmasq.d/dnsfq.conf;restart_dhcpd
@@ -50,23 +48,19 @@ wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/mast
 02 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts  -O /etc/storage/dnsmasq/hosts;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/hosts;restart_dhcpd
 
    3.2 自动化脚本，不会手动添加的用以下一键脚本命令
-       3.2.1 适用 hiboy大的【padavan固件】
+       适用 hiboy大的【padavan固件】
 固件地址：http://www.right.com.cn/forum/thread-161324-1-1.html
 一键运行命令：
 mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/setting.sh -O /etc/storage/dnsmasq/dns/setting.sh;sh /etc/storage/dnsmasq/dns/setting.sh
 一键还原命令：
 sh /etc/storage/dnsmasq/dns/del.sh
 详细看https://github.com/sy618/hosts/tree/master/dnsmasq/sh
-    
-       3.2.2 适用【tomato固件】
-由于我没有这个固件，也没人帮忙调试。故暂时撤下脚本。
-你们可以去参考141#楼 wchf2 的手动做法。
-  
-  3.3 其他固件：
+      
+    3.3 其他固件脚本：
 Openwtr、LEDE、ddwrt等固件脚本可以尝试这位基友发的帖子里的脚本
 http://www.right.com.cn/forum/thread-217335-1-1.html
 https://github.com/clion007/dnsmasq
-（这个脚本做的不错，有问题找帖子作者反馈。）
+（这个脚本做的不错，但我没试验过，所以有问题找帖子作者反馈。）
 * 不建议订阅太多规则（hosts或dnsmasq），可能会影响网络响应速度。因为路由器是使用遍历方式查询规则列表，规则越多耗时越多。同时太多规则你也很难排查问题在哪。
 
 

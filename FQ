@@ -1,4 +1,4 @@
-## 2017-06-20 19:34:00
+## 2017-06-22 06:53:40
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -617,7 +617,6 @@
 157.240.2.21 ent-b.xx.fbcdn.net
 157.240.2.21 ent-c.xx.fbcdn.net
 157.240.2.21 ent-e.xx.fbcdn.net
-52.1.225.49 et.nytimes.com
 54.239.54.107 eu-central-1.console.aws.amazon.com
 208.80.154.224 eu.wikipedia.org
 52.84.200.202 eventgateway.soundcloud.com
@@ -1176,7 +1175,7 @@
 107.152.25.197 m.box.com
 35.186.231.252 m.cn.nytimes.com
 54.192.212.152 m.cn.nytstyle.com
-219.76.10.218 m.cn.rfi.fr
+203.198.20.177 m.cn.rfi.fr
 162.125.32.9 m.dropbox.com
 157.240.7.35 m.facebook.com
 119.161.14.18 m.flickr.com
@@ -1224,7 +1223,6 @@
 119.161.8.100 media.tumblr.com
 151.101.25.127 media0.giphy.com
 104.16.121.127 medium.com
-54.236.141.13 messaging-sub.api.nytimes.com
 157.240.7.35 messenger.com
 192.0.66.2 messengerplatform.fb.com
 208.80.154.224 meta.m.wikimedia.org
@@ -1307,7 +1305,6 @@
 219.76.4.76 nt1.ggpht.com
 219.76.4.76 nt2.ggpht.com
 219.76.4.76 nt3.ggpht.com
-23.23.72.28 nytab.nytimes.com
 151.101.24.134 nytchinese.disqus.com
 151.101.77.164 nytimes.com
 219.76.4.76 nz.vp.video.l.google.com
@@ -1345,12 +1342,12 @@
 219.76.4.76 people-pa.clients6.google.com
 219.76.4.76 people-pa.googleapis.com
 162.125.32.15 photo.dropbox.com
-162.125.18.130 photos-1.dropbox.com
-162.125.18.130 photos-2.dropbox.com
-162.125.18.130 photos-3.dropbox.com
-162.125.18.130 photos-4.dropbox.com
-162.125.18.130 photos-5.dropbox.com
-162.125.18.130 photos-6.dropbox.com 
+162.125.82.5 photos-1.dropbox.com
+162.125.82.5 photos-2.dropbox.com
+162.125.82.5 photos-3.dropbox.com
+162.125.82.5 photos-4.dropbox.com
+162.125.82.5 photos-5.dropbox.com
+162.125.82.5 photos-6.dropbox.com 
 162.125.17.1 photos-thumb.dropbox.com
 162.125.17.1 photos-thumb.x.dropbox.com
 219.76.4.76 photos-ugc.l.google.com
@@ -1414,7 +1411,6 @@
 219.76.4.76 reader.google.com
 219.76.4.76 reader.googleusercontent.com
 68.142.242.184 real-min-ruler.secure.yahoo.com
-54.173.131.119 rec.api.nytimes.com
 219.76.4.76 redirector-bigcache.googleapis.com
 219.76.4.76 redirector.c.youtube.com
 219.76.4.14 redirector.googlevideo.com
@@ -1439,7 +1435,6 @@
 219.76.4.76 s.youtube.com
 219.76.4.76 s.ytimg.com
 219.76.4.76 s0-2mdn-net.l.google.com
-54.231.114.227 s1-nyt-com.s3.amazonaws.com
 219.76.4.76 s1.googleusercontent.com
 151.101.77.164 s1.nyt.com
 119.161.14.18 s1.yimg.com
@@ -1472,7 +1467,7 @@
 219.76.4.76 sb-ssl.l.google.com
 219.76.4.76 sb.google.com
 219.76.4.76 sb.l.google.com
-219.76.10.218 scd.cn.rfi.fr
+203.198.20.177 scd.cn.rfi.fr
 219.76.4.76 scholar.google.co.jp
 219.76.4.76 scholar.google.com
 219.76.4.76 scholar.google.com.hk
@@ -1558,7 +1553,7 @@
 157.240.7.35 ssl.facebook.com
 219.76.4.76 ssl.gstatic.com
 219.76.4.76 sslvideo-upload.l.google.com
-54.249.127.56 sso.nytcn.me
+54.250.193.44 sso.nytcn.me
 219.76.4.76 stage.gdata.youtube.com
 157.240.7.35 star.c10r.facebook.com
 157.240.7.35 star.facebook.com
@@ -1625,7 +1620,6 @@
 219.76.4.76 t6.gstatic.com
 104.25.32.112 t66y.com
 219.76.4.76 t7.gstatic.com
-204.236.232.125 tagx.nytimes.com
 64.233.188.125 talk.google.com
 64.233.188.125 talk.l.google.com
 219.76.4.76 talkgadget.google.com
@@ -1641,7 +1635,7 @@
 219.76.4.76 tbn6.google.com
 121.59.17.10 tdweb.twitter.com
 192.0.78.12 techprep.fb.com
-219.76.10.218 telechargement.rfi.fr
+203.198.20.177 telechargement.rfi.fr
 173.252.91.113 telegraph-ash.instagram.com
 52.72.98.251 telegraph-tiproxy.instagram.com
 52.84.200.202 telemetry.soundcloud.com
@@ -1698,7 +1692,7 @@
 219.76.4.76 uk.youtube.com
 119.161.14.18 up.flickr.com
 151.101.77.164 up.nytimes.com
-52.55.22.121 update.getsync.com
+54.192.212.38 update.getsync.com
 219.76.4.76 update.googleapis.com
 107.152.25.197 upload.box.com
 219.76.4.76 upload.client.google.com

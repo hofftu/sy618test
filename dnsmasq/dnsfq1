@@ -1,4 +1,4 @@
-## 2017-06-20 19:33:29
+## 2017-06-22 06:53:04
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -180,23 +180,23 @@ address=/imgur.com/103.245.222.193
 address=/download.lineageos.org/219.76.4.76
 
 ## New York Time      
-address=/cn.nytimes.com/54.230.213.29
-address=/cn.nytstyle.com/54.230.213.29
-address=/et.nytimes.com/52.1.225.49
-address=/ic.tynt.com/208.100.17.186
-address=/l0.cn.nytimes.com/122.152.169.5
 address=/m.cn.nytimes.com/35.186.231.252
 address=/m.cn.nytstyle.com/54.192.212.152
-address=/messaging-sub.api.nytimes.com/54.236.141.13
-address=/nyt.com/151.101.77.164
-address=/nytab.nytimes.com/23.23.72.28
-address=/nytimes.com/151.101.77.164
-address=/rec.api.nytimes.com/54.173.131.119
-address=/samizdat.nytimes.com/151.101.77.164
-address=/sso.nytcn.me/54.249.127.56
+address=/cn.nytimes.com/54.230.213.29
+address=/cn.nytstyle.com/54.230.213.29
 address=/static.sxzhchina.com/54.230.213.29
-address=/tagx.nytimes.com/204.236.232.125
+address=/ic.tynt.com/208.100.17.186
+address=/l0.cn.nytimes.com/122.152.169.5
 address=/vp.nyt.com/23.219.132.99
+address=/nyt.com/151.101.77.164
+address=/nytimes.com/151.101.77.164
+address=/samizdat.nytimes.com/151.101.77.164
+address=/sso.nytcn.me/54.250.193.44
+#address=/et.nytimes.com/52.1.225.49
+#address=/tagx.nytimes.com/204.236.232.125
+#address=/nytab.nytimes.com/23.23.72.28
+#address=/messaging-sub.api.nytimes.com/54.236.141.13
+#address=/rec.api.nytimes.com/54.173.131.119
 
 ## Onedrive
 address=/api.onedrive.live.com/2.17.58.51
@@ -210,11 +210,11 @@ address=/pinterest.com/151.101.76.84
 
 ## Resilio Sync
 address=/getsync.com/54.192.212.38
-address=/update.getsync.com/52.55.22.121
+#address=/update.getsync.com/34.192.28.55
 
 ## Rfi
-address=/cn.rfi.fr/219.76.10.218
-address=/telechargement.rfi.fr/219.76.10.218
+address=/cn.rfi.fr/203.198.20.177
+address=/telechargement.rfi.fr/203.198.20.177
 
 ## Theinitium
 address=/initiummall.com/104.28.31.251
@@ -274,7 +274,7 @@ address=/srvcs.tumblr.com/66.6.32.162
 address=/static.flickr.com/106.10.231.23
 address=/static.tumblr.com/119.161.8.100
 address=/t.umblr.com/66.6.32.162
-address=/tumblr.com/66.6.33.149
+address=/tumblr.com/66.6.33.21
 address=/vt.tumblr.com/119.161.8.100
 address=/vtt.tumblr.com/119.161.9.100
 address=/www.tumblr.com/119.161.8.100

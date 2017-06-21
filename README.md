@@ -2,7 +2,7 @@
 
 ### [两个hosts订阅方案](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
 
-### [路由器dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)
+### [路由器方案：hosts+dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)
 
 
 ## 自动更新hosts/dnsmasq
@@ -22,3 +22,4 @@
 * 本项目所有重定向数据仅用于个人学术研究与学习使用。从未用于产生盈利行为（包括“捐赠”等方式）
 * 未经许可，请勿内置于软件内发布与传播。请勿用于产生任何盈利活动。
 * 仅供个人免费使用。请遵守当地法律法规，文明上网。
+* 特别声明：项目大部分域名都是解析到官方IP，但部分功能（如YouTube播放）必须依靠反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！

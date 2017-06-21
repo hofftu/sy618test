@@ -1,6 +1,6 @@
-#version=20170620 938
+#version=201706211550
 #url=https://github.com/vokins/yhosts/
-## 2017-06-20 19:33:29
+## 2017-06-22 06:53:04
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
 127.0.0.1 xia.xiazailou.la
@@ -2408,6 +2408,7 @@
 127.0.0.1 onclkds.com
 127.0.0.1 js.yiwuds.com
 127.0.0.1 tj.zhaes.com
+127.0.0.1 www.googletagservices.com
 127.0.0.1 p.skimresources.com
 127.0.0.1 bdjs.120askimages.com
 127.0.0.1 ads.xprofiles.com
@@ -3888,8 +3889,11 @@
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
 127.0.0.1 zzc.shumilou.co
+127.0.0.1 s56.iuqsdf.shumilou.co
 127.0.0.1 c.m.shumilou.co
+127.0.0.1 ayc.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 c68.asdjqoz.shumilou.co
 127.0.0.1 cdn.puata.info
 127.0.0.1 ex.puata.info
 127.0.0.1 www.semmdh.info
@@ -3934,7 +3938,6 @@
 127.0.0.1 adscript.gmarket.co.kr
 127.0.0.1 ads.tripod.lycos.es
 127.0.0.1 shzyjbr.wtdtjs.rocks
-127.0.0.1 aka.ms
 127.0.0.1 www.38330.bet
 127.0.0.1 www.pj38330.bet
 127.0.0.1 www.39330.bet
