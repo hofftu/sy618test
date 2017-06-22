@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq1
 两点说明：
 ①.这规则并不是万能的，目前仅解析部分高频使用的域名。若想完整访问外网请自行改用代理方式。
-②.规则内大部分域名都是解析到官方IP，但部分功能（如YouTube播放）必须依靠反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！
+②.规则内大部分域名都是解析到官方IP，但部分功能（如YouTube播放）可能需要依靠反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！
 
    2.2 屏蔽广告hosts规则
 可以使用vokins的专门去国内广告hosts

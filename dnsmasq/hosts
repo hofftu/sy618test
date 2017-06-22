@@ -1,6 +1,6 @@
-#version=201706211550
+#version=201706221941
 #url=https://github.com/vokins/yhosts/
-## 2017-06-22 06:53:04
+## 2017-06-23 00:23:02
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
 127.0.0.1 xia.xiazailou.la
@@ -1304,6 +1304,7 @@
 127.0.0.1 bgrndi.com
 127.0.0.1 www.bgrndi.com
 127.0.0.1 txt.dongyihongbei.com
+127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 tu.bolimubei.com
 127.0.0.1 alibaba.zhihei.com
 127.0.0.1 img.zhihei.com
@@ -2143,6 +2144,7 @@
 127.0.0.1 vip.7huoguo.com
 127.0.0.1 ggb.douguo.com
 127.0.0.1 abc.douguo.com
+127.0.0.1 ffb.feihuo.com
 127.0.0.1 p.tamenshuo.com
 127.0.0.1 itaoxiaoshuo.com
 127.0.0.1 api.itaoxiaoshuo.com
@@ -3075,6 +3077,7 @@
 127.0.0.1 js384.rrsubway.com
 127.0.0.1 js257.rrsubway.com
 127.0.0.1 t.rrsubway.com
+127.0.0.1 hen.smxay.com
 127.0.0.1 s.iroby.com
 127.0.0.1 a.cj-cy.com
 127.0.0.1 in.jghcy.com
