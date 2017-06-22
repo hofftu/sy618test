@@ -8,13 +8,9 @@
 dnsmasq功能很多，我们这里主要用来重定向、加快网络响应 和 屏蔽广告（指向127.0.0.1或0.0.0.0）。
 
 2 规则介绍
-   2.1 自.由.上.网，享受无墙般体验。dnsmasq规则
+   2.1 自.由.上.网，享受无墙般体验。dnsmasq规则：
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
-备用数据：（谷歌官方IP版）
-https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq1
-两点说明：
-①.这规则并不是万能的，目前仅解析部分高频使用的域名。若想完整访问外网请自行改用代理方式。
-②.规则内大部分域名都是解析到官方IP，但部分功能（如YouTube播放）可能需要依靠反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！
+这规则并不是万能的，目前仅解析部分高频使用的域名。若想完整访问外网请自行改用代理方式。
 
    2.2 屏蔽广告hosts规则
 可以使用vokins的专门去国内广告hosts
