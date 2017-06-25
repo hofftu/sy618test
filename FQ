@@ -1,4 +1,4 @@
-## 2017-06-26 00:26:10
+## 2017-06-26 01:33:57
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -305,7 +305,6 @@
 219.76.4.76 base4.googlehosted.com
 219.76.4.76 base5.googlehosted.com
 119.81.248.34 batch.upsight-api.com
-23.23.66.189 beacon.flipboard.com
 219.76.4.76 beacons.gvt2.com
 219.76.4.76 beta.blogger.com
 121.59.17.10 betastream.twitter.com
@@ -400,7 +399,6 @@
 104.16.120.145 cdn-images-2.medium.com
 104.16.121.145 cdn-static-1.medium.com
 157.240.7.35 cdn.fbsbx.com
-52.84.218.217 cdn.flipboard.com
 121.59.17.10 cdn.syndication.twimg.com
 121.59.17.10 cdn.syndication.twitter.com
 104.16.27.3 cdn01.boxcdn.net
@@ -645,7 +643,6 @@
 157.240.7.35 fb.com
 219.76.10.49 fbcdn-video-a.akamaihd.net
 219.76.10.49 fbexternal-a.akamaihd.net
-52.206.64.125 fbprod.flipboard.com
 219.76.10.49 fbstatic-a.akamaihd.net
 219.76.4.76 feedback.googleusercontent.com
 219.76.4.76 feedburner.google.com
@@ -658,8 +655,6 @@
 219.76.4.76 filetransferenabled.mail.google.com
 219.76.4.76 finance.google.com
 69.147.76.173 flickr.com
-34.192.27.249 flipboard.com
-54.215.4.184 flipboard.helpshift.com
 219.76.4.76 fonts.gstatic.com
 219.76.4.76 foobar.withgoogle.com
 54.192.212.178 forums.dropbox.com
@@ -1429,7 +1424,6 @@
 219.76.10.49 s-static.ak.facebook.com
 219.76.10.49 s-static.ak.fbcdn.net
 157.240.7.35 s-static.facebook.com
-54.192.214.90 s.flipboard.com
 103.245.222.193 s.imgur.com
 151.101.76.84 s.pinimg.com
 121.59.17.10 s.twitter.com
@@ -1691,7 +1685,6 @@
 151.101.77.164 typeface.nytimes.com
 219.76.4.76 uberproxy.corp.google.com
 219.76.4.76 uberproxy.l.google.com
-23.23.66.189 ue.flipboard.com
 219.76.4.76 ug.vp.video.l.google.com
 219.76.4.76 uk.youtube.com
 119.161.14.18 up.flickr.com
