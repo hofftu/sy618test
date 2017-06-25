@@ -1,6 +1,8 @@
 ## dnsmasq规则文件说明：
-* dnsfq：GFW翻墙专用。这个需要大家共同努力完善。（已支持汤不热网页视频播放）
+* dnsfq：GFW翻墙专用。这个需要大家共同努力完善。（支持汤不热网页视频播放）
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
+* dnsfq1：同上，备用数据。使用谷歌官方IP直连，速度快。
+https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq1
 
 * ip.conf：屏蔽运营商劫持IP与一些广告IP（如何查看是否被劫持，使用nslookup命令测试一个不存在的域名，若返回IP就是劫持）
 https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf
@@ -8,15 +10,18 @@ https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf
 * union.conf：屏蔽广告家族
 https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/union.conf
 
-* hosts：默认使用的是vokins的完整AD hosts，并删除了与dnsad重复的域名，需要配合dnsad一起使用。
-（如PC需看视频的，请自行更换为不带屏蔽视频广告的hosts.txt规则，https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt）
+* hosts：默认使用的是vokins的完整AD hosts。
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+（PC用户，请自行更换为不带屏蔽视频广告的hosts.txt规则，https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt）
+
+## 推荐搭配方案：
+dnsfq + hosts + ip.conf + union.conf
 
 ## sh文件夹 是[华硕老毛子固件专用自动脚本](https://github.com/sy618/hosts/tree/master/dnsmasq/sh)
 * start.sh：立刻更新规则的脚本
 * setting.sh：初次运行的脚本，全自动修改配置与启用dnsmasq，只需要运行一次。
 * del.sh：删除所有更改，出问题了只需要运行一下即可还原
 
-### tomato 是[tomato固件专用脚本](https://github.com/sy618/hosts/tree/master/dnsmasq/tomato)
 
 ## [dnsmasq.txt](https://github.com/sy618/hosts/blob/master/dnsmasq/dnsmasq.txt )恩山论坛更详细的手动教程与自动脚本教程帖子。
 

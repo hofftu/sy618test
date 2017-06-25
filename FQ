@@ -1,4 +1,4 @@
-## 2017-06-22 06:53:40
+## 2017-06-26 00:26:10
 ## https://github.com/sy618/hosts
 157.240.7.35 0-edge-chat.facebook.com
 157.240.7.35 0-edge-chat.messenger.com
@@ -581,7 +581,7 @@
 219.76.4.76 drive8.google.com
 219.76.4.76 drive9.google.com
 219.76.4.76 drivenotepad.appspot.com
-219.76.4.75 dropbox.com
+162.125.248.1 dropbox.com
 46.51.218.82 duckduckgo.com
 119.161.14.18 e.yimg.com
 219.76.4.76 earth-api-samples.googlecode.com
@@ -983,6 +983,7 @@
 106.10.199.10 hk.news.yahoo.com
 106.10.138.240 hk.yahoo.com
 106.10.136.146 hsrd.yahoo.com
+216.18.168.28 hubt.pornhub.com
 104.20.83.194 i.apkpure.com
 103.245.222.193 i.imgur.com
 157.240.7.52 i.instagram.com
@@ -1105,6 +1106,7 @@
 208.80.154.224 ja.m.wikipedia.org
 64.233.188.121 javascript-blocker.toggleable.com
 219.76.4.76 jmt0.google.com
+31.192.120.36 jp.pornhub.com
 219.76.4.76 jp.youtube.com
 151.101.77.164 js.nyt.com
 151.101.77.164 json8.nytimes.com
@@ -1390,6 +1392,7 @@
 219.76.4.76 polymer-project.org
 64.233.188.109 pop.gmail.com
 64.233.188.16 pop.googlemail.com
+31.192.120.36 pornhub.com
 157.240.7.35 portal.fb.com
 151.101.76.84 post.pinterest.com
 219.76.4.76 pr.vp.video.l.google.com
@@ -1503,6 +1506,7 @@
 219.76.4.76 security.google.com
 219.76.4.76 servicemanagement.clients6.google.com
 219.76.4.76 services.google.com
+67.22.32.162 services.pornhub.com
 162.125.3.6 showbox.dropbox.com
 119.81.248.34 single.upsight-api.com
 219.76.4.76 sites.google.com
@@ -1692,7 +1696,7 @@
 219.76.4.76 uk.youtube.com
 119.161.14.18 up.flickr.com
 151.101.77.164 up.nytimes.com
-54.192.212.38 update.getsync.com
+52.20.43.156 update.getsync.com
 219.76.4.76 update.googleapis.com
 107.152.25.197 upload.box.com
 219.76.4.76 upload.client.google.com
@@ -2077,6 +2081,7 @@
 219.76.4.76 www.panoramio.com
 151.101.76.84 www.pinterest.com
 219.76.4.76 www.polymer-project.org
+31.192.120.36 www.pornhub.com
 219.76.4.76 www.recaptcha.net
 104.25.32.112 www.t66y.com
 219.76.4.76 www.teachparentstech.org

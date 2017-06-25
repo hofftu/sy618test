@@ -1,7 +1,7 @@
 #!/bin/sh
 ###此脚本配置只需运行一次###
 ###只适用老毛子华硕固件###
-###一键运行命令（初次运行）： mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/setting.sh -O /etc/storage/dnsmasq/dns/setting.sh;/bin/sh /etc/storage/dnsmasq/dns/setting.sh
+###一键运行命令（初次运行）： mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/setting.sh -O /etc/storage/dnsmasq/dns/setting.sh;sh /etc/storage/dnsmasq/dns/setting.sh
 echo "————————————开始脚本—————————————"
 echo " "
 echo "·········写入配置信息···········"
