@@ -1,4 +1,8 @@
 ## hosts/dnsmasq订阅搭配方案：
+### 使用我提供的方案前，请认真阅读以下关于风险质疑帖子与回应帖子 ，再决定是否使用！
+* [“关于Hosts扶墙的风险提示--你可能并不知道你认为你知道的”by@abccba94](https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/%E5%AF%B9dnsmasq%E8%B4%A8%E7%96%91%E7%9A%84%E5%B8%96%E5%AD%90.txt )
+* [关于hosts、dnsmasq规则，对“大神”@abccba94产生安全问题质疑的回应！](https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsmasq%E9%A3%8E%E9%99%A9%E8%B4%A8%E7%96%91%E7%9A%84%E5%9B%9E%E5%BA%94.txt )
+
 
 ### [两个hosts订阅方案](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
 
