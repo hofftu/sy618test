@@ -1,8 +1,9 @@
-## 2017-06-26 01:14:59
+## 2017-06-28 05:15:47
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
 # 本dnsmasq规则仅供个人免费使用
+# 安全性问题就见仁见智了。部分域名使用sni反向代理实现，并清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用！！
 # 未经许可，请勿内置于软件内发布与传播。请勿用于产生盈利活动。 
 
 ## Apkpure
@@ -10,7 +11,7 @@ address=/apkpure.com/104.20.83.194
 #address=/pureapk.com/104.25.68.113
 address=/winudf.com/104.25.68.113
 
-## BBC
+## Bbc
 address=/bbci.co.uk/96.16.169.73
 address=/static.bbc.co.uk/96.16.169.73
 address=/www.bbc.com/151.101.76.81
@@ -19,6 +20,9 @@ address=/www.bbc.co.uk/212.58.244.70
 address=/r.bbci.co.uk/212.58.244.15
 address=/open.live.bbc.co.uk/212.58.244.81
  
+## Boxun
+address=/boxun.com/104.28.8.126
+
 ## Box
 address=/box.com/107.152.25.197
 address=/boxcdn.net/104.16.27.3
@@ -50,8 +54,11 @@ address=/dl.dropbox.com/162.125.3.6
 address=/dl.dropboxusercontent.com/162.125.3.6
 address=/getdropbox.com/108.160.172.195
 address=/www.dropboxstatic.com/162.125.82.7
+#
+#↓注：★sni★
 address=/dropbox.com/219.76.4.75
 address=/dropboxstatic.com/219.76.4.75
+#↑
 
 ## DuckDuckGo
 address=/duckduckgo.com/46.51.218.82
@@ -59,7 +66,7 @@ address=/icons.duckduckgo.com/52.77.181.198
 address=/images.duckduckgo.com/52.77.181.198
 
 ## Facebook/Instagram
-address=/accountkit.com/157.240.7.35
+address=/accountkit.com/157.240.15.36
 #address=/akamai.net/219.76.10.49
 address=/akamaihd.net/219.76.10.49
 address=/ak.facebook.com/219.76.10.49
@@ -67,17 +74,17 @@ address=/ak.fbcdn.net/219.76.10.49
 address=/ak.instagram.com/219.76.10.49
 address=/cdninstagram.com/157.240.7.52
 address=/edge-mqtt.facebook.com/31.13.95.5
-address=/facebook.com/157.240.7.35
-address=/facebook.net/157.240.7.35
-address=/fb.com/157.240.7.35
-address=/fbsbx.com/157.240.7.35
+address=/facebook.com/157.240.15.36
+address=/facebook.net/157.240.15.36
+address=/fb.com/157.240.15.36
+address=/fbsbx.com/157.240.15.36
 address=/giphy.com/151.101.25.127
 address=/instagram.com/157.240.7.52
-address=/m.me/157.240.7.35
-address=/messenger.com/157.240.7.35
+address=/m.me/157.240.15.36
+address=/messenger.com/157.240.15.36
 address=/telegraph-ash.instagram.com/173.252.91.113
 address=/telegraph-tiproxy.instagram.com/52.72.98.251
-address=/thefacebook.com/157.240.7.35
+address=/thefacebook.com/157.240.15.36
 address=/fbcdn.net/157.240.2.21
 
 ## Flipboard    
@@ -90,90 +97,93 @@ address=/fbcdn.net/157.240.2.21
 #address=/ue.flipboard.com/23.23.66.189
 
 ## Google family
-address=/admob.com/219.76.4.70
-address=/agoogleaday.com/219.76.4.70
-address=/android.com/219.76.4.70
-address=/blogblog.com/219.76.4.70
-address=/blogger.com/219.76.4.70
-address=/blogspot.com/219.76.4.70
-address=/chromium.org/219.76.4.70
-address=/com.google/219.76.4.70
-address=/dartlang.org/219.76.4.70
-address=/feedburner.com/219.76.4.70
-address=/g.co/219.76.4.70
-address=/gcr.io/219.76.4.70
-address=/ggpht.com/219.76.4.70
-address=/gmodules.com/219.76.4.70
-address=/golang.org/219.76.4.70
-address=/google.co.jp/219.76.4.70
-address=/google.co.kr/219.76.4.70
-address=/google.co.nz/219.76.4.70
-address=/google.co.uk/219.76.4.70
-address=/google.com.gi/219.76.4.70
-address=/google.com.hk/219.76.4.70
-address=/google.com.sg/219.76.4.70
-address=/google.com.tw/219.76.4.70
-address=/google.com/219.76.4.70
-address=/google.org/219.76.4.70
-address=/googleapis.com/219.76.4.70
-address=/googleapps.com/219.76.4.70
-address=/googlechinawebmaster.com/219.76.4.70
-address=/googlecode.com/219.76.4.70
-address=/googlecommerce.com/219.76.4.70
-address=/googledrive.com/219.76.4.70
-address=/googlegroups.com/219.76.4.70
-address=/googlehosted.com/219.76.4.70
-address=/googleinsidesearch.com/219.76.4.70
-address=/googlemashups.com/219.76.4.70
-address=/googlesource.com/219.76.4.70
-address=/googlestore.com/219.76.4.70
-address=/googletagmanager.com/219.76.4.70
-address=/googleusercontent.com/219.76.4.70
-address=/googlewave.com/219.76.4.70
-address=/googlezeitgeist.com/219.76.4.70
-address=/googlezip.net/219.76.4.70
-address=/gstatic.com/219.76.4.70
-address=/gvt0.com/219.76.4.69
-address=/gvt1.com/219.76.4.69
-address=/gvt2.com/219.76.4.69
-#server=/gvt0.com/208.67.222.222
-#server=/gvt1.com/208.67.222.222
-#server=/gvt2.com/208.67.222.222
-address=/gwtproject.org/219.76.4.70
-address=/html5rocks.com/219.76.4.70
-address=/keyhole.com/219.76.4.70
+address=/admob.com/216.58.200.33
+address=/agoogleaday.com/216.58.200.33
+address=/android.com/216.58.200.33
+address=/blogblog.com/216.58.200.33
+address=/blogger.com/216.58.200.33
+address=/blogspot.com/216.58.200.33
+address=/chromium.org/216.58.200.33
+address=/com.google/216.58.200.33
+address=/dartlang.org/216.58.200.33
+address=/feedburner.com/216.58.200.33
+address=/g.co/216.58.200.33
+address=/gcr.io/216.58.200.33
+address=/ggpht.com/216.58.200.33
+address=/gmodules.com/216.58.200.33
+address=/golang.org/216.58.200.33
+address=/google.co.jp/216.58.200.33
+address=/google.co.kr/216.58.200.33
+address=/google.co.nz/216.58.200.33
+address=/google.co.uk/216.58.200.33
+address=/google.com.gi/216.58.200.33
+address=/google.com.hk/216.58.200.33
+address=/google.com.sg/216.58.200.33
+address=/google.com.tw/216.58.200.33
+address=/google.com/216.58.200.33
+address=/google.org/216.58.200.33
+address=/googleapis.com/216.58.200.33
+address=/googleapps.com/216.58.200.33
+address=/googlechinawebmaster.com/216.58.200.33
+address=/googlecode.com/216.58.200.33
+address=/googlecommerce.com/216.58.200.33
+address=/googledrive.com/216.58.200.33
+address=/googlegroups.com/216.58.200.33
+address=/googlehosted.com/216.58.200.33
+address=/googleinsidesearch.com/216.58.200.33
+address=/googlemashups.com/216.58.200.33
+address=/googlesource.com/216.58.200.33
+address=/googlestore.com/216.58.200.33
+address=/googletagmanager.com/216.58.200.33
+address=/googleusercontent.com/216.58.200.33
+address=/googlewave.com/216.58.200.33
+address=/googlezeitgeist.com/216.58.200.33
+address=/googlezip.net/216.58.200.33
+address=/gstatic.com/216.58.200.33
+address=/gwtproject.org/216.58.200.33
+address=/html5rocks.com/216.58.200.33
+address=/keyhole.com/216.58.200.33
 address=/mtalk.google.com/64.233.188.188
-address=/measurement.com/219.76.4.70
-address=/oneworldmanystories.com/219.76.4.70
-address=/orkut.com/219.76.4.70
-address=/panoramio.com/219.76.4.70
-address=/recaptcha.net/219.76.4.70
-address=/teachparentstech.org/219.76.4.70
-address=/thegooglepuzzle.com/219.76.4.70
-address=/transparency.org/219.76.4.70
-address=/urchin.com/219.76.4.70
-address=/webmproject.org/219.76.4.70
-address=/withgoogle.com/219.76.4.70
-address=/www.google.com/219.76.4.70
-address=/ytimg.com/219.76.4.70
-address=/youtu.be/219.76.4.70
-address=/youtubeeducation.com/219.76.4.70
-address=/youtube-nocookie.com/219.76.4.70
-address=/youtube.co/219.76.4.70
-address=/youtube.com/219.76.4.70
-address=/appspot.com/219.76.4.70
-address=/goo.gl/219.76.4.70
-#address=/android.clients.google.com/219.76.4.70
-#address=/gcm-http.googleapis.com/219.76.4.70
-#address=/mail.google.com/219.76.4.70
-#server=/googlevideo.com/208.67.222.222
-address=/googlevideo.com/219.76.4.69
-#address=/redirector.googlevideo.com/219.76.4.70
-#address=/manifest.googlevideo.com/219.76.4.70
-#cn IP google
+address=/measurement.com/216.58.200.33
+address=/oneworldmanystories.com/216.58.200.33
+address=/orkut.com/216.58.200.33
+address=/panoramio.com/216.58.200.33
+address=/recaptcha.net/216.58.200.33
+address=/teachparentstech.org/216.58.200.33
+address=/thegooglepuzzle.com/216.58.200.33
+address=/transparency.org/216.58.200.33
+address=/urchin.com/216.58.200.33
+address=/webmproject.org/216.58.200.33
+address=/withgoogle.com/216.58.200.33
+address=/ytimg.com/216.58.200.33
+address=/youtu.be/216.58.200.33
+address=/youtubeeducation.com/216.58.200.33
+address=/youtube-nocookie.com/216.58.200.33
+address=/youtube.co/216.58.200.33
+address=/youtube.com/216.58.200.33
+address=/appspot.com/216.58.200.33
+address=/goo.gl/216.58.200.33
+#address=/android.clients.google.com/216.58.200.33
+#address=/gcm-http.googleapis.com/216.58.200.33
+#address=/mail.google.com/216.58.200.33
+#address=/redirector.googlevideo.com/216.58.200.33
+#address=/manifest.googlevideo.com/216.58.200.33
+# google.cn IP
 #address=/dl.google.com/203.208.43.105
 #address=/redirector.gvt1.com/203.208.43.105
 #address=/translate.googleapis.com/203.208.43.105
+# open dns IP
+#server=/gvt0.com/208.67.222.222
+#server=/gvt1.com/208.67.222.222
+#server=/gvt2.com/208.67.222.222
+#server=/googlevideo.com/208.67.222.222
+#
+#↓注：★sni★
+address=/googlevideo.com/219.76.4.70
+address=/gvt0.com/219.76.4.70
+address=/gvt1.com/219.76.4.70
+address=/gvt2.com/219.76.4.70
+#↑
 
 ##  Ingress    
 address=/crittercism.com/54.241.32.8
@@ -183,7 +193,9 @@ address=/upsight-api.com/119.81.248.34
 address=/imgur.com/103.245.222.193
 
 ## Lineageos ROM
+#↓注：★sni★
 address=/download.lineageos.org/219.76.4.76
+#↑
 
 ## New York Time      
 address=/m.cn.nytimes.com/35.186.231.252
@@ -211,7 +223,7 @@ address=/onedrive.live.com/204.79.197.217
 address=/skyapi.onedrive.live.com/104.44.88.28
 
 ## Pinterest               
-address=/pinimg.com/151.101.76.84
+address=/pinimg.com/2.17.60.14
 address=/pinterest.com/151.101.76.84
 
 ## Pornhub
@@ -220,8 +232,12 @@ address=/services.pornhub.com/67.22.32.162
 address=/hubt.pornhub.com/216.18.168.28
 
 ## Resilio Sync
-address=/getsync.com/54.192.212.38
+address=/resilio.com/54.192.212.30
+address=/getsync.com/54.192.212.30
 address=/update.getsync.com/52.20.43.156
+address=/tracker1.resilio.com/173.244.217.42
+address=/tracker2.resilio.com/209.95.56.60
+address=/new-bench.resilio.com/54.82.227.39
 
 ## Rfi
 address=/cn.rfi.fr/203.198.20.177
@@ -232,11 +248,14 @@ address=/initiummall.com/104.28.31.251
 address=/theinitium.com/104.28.31.251
 
 ## Twitter 
+address=/twimg.com/104.244.43.135
+address=/twitpic.com/104.244.46.148
+#
+#↓注：★sni★
 address=/t.co/121.59.17.10
 address=/tweetdeck.com/121.59.17.10
 address=/twitter.com/121.59.17.10
-address=/twimg.com/104.244.43.135
-address=/twitpic.com/104.244.46.148
+#↑
 
 ## Vimeo   
 address=/click.email.vimeo.com/198.245.92.39

@@ -10,11 +10,8 @@ dnsmasq功能很多，我们这里主要用来重定向、加快网络响应 和
 2 规则介绍
    2.1 自.由.上.网，享受无墙般体验。dnsmasq规则：
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
-默认使用了反向代理服务器中转流量实现谷歌服务，不喜勿用！其余的大部分域名都是指向官方IP。可能对电信宽带不友好，因为电信对出国线路特别挑剔。
-
-使用谷歌官方IP的规则：https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq1
-直连谷歌，安全、速度快。不过可能部分视频播放不了，完全看运气了。
-
+部分域名使用了反向代理服务器中转流量来实现，不喜勿用！其余的大部分域名都是使用官方IP。
+*不再提供备用规则dnsfq1
 
    2.2 屏蔽广告hosts规则
 可以使用vokins的专门去国内广告hosts

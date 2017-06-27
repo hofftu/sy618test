@@ -1,6 +1,12 @@
-#Resilio Sync
+#@@ Resilio Sync          
 52.20.43.156 update.getsync.com
-54.192.212.38 config.getsync.com
-54.192.212.38 www.getsync.com
-54.192.212.38 getsync.com
-54.192.212.38 download-cdn.getsync.com
+#54.82.227.39 new-bench.resilio.com
+54.192.212.30 config.getsync.com
+54.192.212.30 www.getsync.com
+54.192.212.30 getsync.com
+54.192.212.30 download-cdn.getsync.com
+54.192.212.30 config.resilio.com
+54.192.212.30 link.resilio.com
+54.192.212.30 www.resilio.com
+#173.244.217.42 tracker1.resilio.com
+#209.95.56.60 tracker2.resilio.com
