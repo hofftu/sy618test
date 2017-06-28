@@ -1,8 +1,6 @@
 ## dnsmasq规则文件说明：
 * dnsfq：GFW翻墙专用。这个需要大家共同努力完善。（支持汤不热网页视频播放）
 https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
-* dnsfq1：同上，备用数据。使用谷歌官方IP直连，速度快。
-https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq1
 
 * ip.conf：屏蔽运营商劫持IP与一些广告IP（如何查看是否被劫持，使用nslookup命令测试一个不存在的域名，若返回IP就是劫持）
 https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf
