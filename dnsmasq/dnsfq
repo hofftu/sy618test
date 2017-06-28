@@ -1,10 +1,9 @@
-## 2017-06-28 05:15:47
+## 2017-06-28 23:17:38
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
-# 本dnsmasq规则仅供个人免费使用
+# 本dnsmasq规则仅供个人免费使用。未经许可，请勿内置于软件内发布与传播。请勿用于产生盈利活动。 
 # 安全性问题就见仁见智了。部分域名使用sni反向代理实现，并清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用！！
-# 未经许可，请勿内置于软件内发布与传播。请勿用于产生盈利活动。 
 
 ## Apkpure
 address=/apkpure.com/104.20.83.194
@@ -54,11 +53,10 @@ address=/dl.dropbox.com/162.125.3.6
 address=/dl.dropboxusercontent.com/162.125.3.6
 address=/getdropbox.com/108.160.172.195
 address=/www.dropboxstatic.com/162.125.82.7
-#
-#↓注：★sni★
+#★sni★
 address=/dropbox.com/219.76.4.75
 address=/dropboxstatic.com/219.76.4.75
-#↑
+#
 
 ## DuckDuckGo
 address=/duckduckgo.com/46.51.218.82
@@ -177,13 +175,12 @@ address=/goo.gl/216.58.200.33
 #server=/gvt1.com/208.67.222.222
 #server=/gvt2.com/208.67.222.222
 #server=/googlevideo.com/208.67.222.222
+#★sni★
+address=/googlevideo.com/219.76.4.69
+address=/gvt0.com/219.76.4.69
+address=/gvt1.com/219.76.4.69
+address=/gvt2.com/219.76.4.69
 #
-#↓注：★sni★
-address=/googlevideo.com/219.76.4.70
-address=/gvt0.com/219.76.4.70
-address=/gvt1.com/219.76.4.70
-address=/gvt2.com/219.76.4.70
-#↑
 
 ##  Ingress    
 address=/crittercism.com/54.241.32.8
@@ -193,9 +190,9 @@ address=/upsight-api.com/119.81.248.34
 address=/imgur.com/103.245.222.193
 
 ## Lineageos ROM
-#↓注：★sni★
+#★sni★
 address=/download.lineageos.org/219.76.4.76
-#↑
+#
 
 ## New York Time      
 address=/m.cn.nytimes.com/35.186.231.252
@@ -250,12 +247,11 @@ address=/theinitium.com/104.28.31.251
 ## Twitter 
 address=/twimg.com/104.244.43.135
 address=/twitpic.com/104.244.46.148
-#
-#↓注：★sni★
+#★sni★
 address=/t.co/121.59.17.10
 address=/tweetdeck.com/121.59.17.10
 address=/twitter.com/121.59.17.10
-#↑
+#
 
 ## Vimeo   
 address=/click.email.vimeo.com/198.245.92.39
