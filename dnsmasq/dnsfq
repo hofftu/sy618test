@@ -1,4 +1,4 @@
-## 2017-06-28 23:17:38
+## 2017-06-29 19:50:36
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -81,9 +81,9 @@ address=/instagram.com/157.240.7.52
 address=/m.me/157.240.15.36
 address=/messenger.com/157.240.15.36
 address=/telegraph-ash.instagram.com/173.252.91.113
-address=/telegraph-tiproxy.instagram.com/52.72.98.251
+address=/telegraph-tiproxy.instagram.com/52.200.118.84
 address=/thefacebook.com/157.240.15.36
-address=/fbcdn.net/157.240.2.21
+address=/fbcdn.net/31.13.78.14
 
 ## Flipboard    
 #address=/beacon.flipboard.com/23.23.66.189
@@ -183,7 +183,7 @@ address=/gvt2.com/219.76.4.69
 #
 
 ##  Ingress    
-address=/crittercism.com/54.241.32.8
+address=/crittercism.com/54.241.32.13
 address=/upsight-api.com/119.81.248.34
 
 ## Imgur
@@ -197,9 +197,9 @@ address=/download.lineageos.org/219.76.4.76
 ## New York Time      
 address=/m.cn.nytimes.com/35.186.231.252
 address=/m.cn.nytstyle.com/54.192.212.152
-address=/cn.nytimes.com/54.230.213.29
-address=/cn.nytstyle.com/54.230.213.29
-address=/static.sxzhchina.com/54.230.213.29
+address=/cn.nytimes.com/54.230.74.183
+address=/cn.nytstyle.com/54.230.74.183
+address=/static.sxzhchina.com/54.230.74.183
 address=/ic.tynt.com/208.100.17.186
 address=/l0.cn.nytimes.com/122.152.169.5
 address=/vp.nyt.com/23.219.132.99
@@ -228,13 +228,17 @@ address=/pornhub.com/31.192.120.36
 address=/services.pornhub.com/67.22.32.162
 address=/hubt.pornhub.com/216.18.168.28
 
-## Resilio Sync
-address=/resilio.com/54.192.212.30
-address=/getsync.com/54.192.212.30
+## Resilio BtSync
 address=/update.getsync.com/52.20.43.156
-address=/tracker1.resilio.com/173.244.217.42
-address=/tracker2.resilio.com/209.95.56.60
-address=/new-bench.resilio.com/54.82.227.39
+address=/getsync.com/54.192.212.30
+#address=/resilio.com/54.192.212.30
+address=/www.resilio.com/54.192.212.30
+address=/help.resilio.com/188.172.138.1
+#address=/tracker1.resilio.com/173.244.217.42
+#address=/tracker2.resilio.com/209.95.56.60
+#address=/relay1.resilio.com/107.182.230.198
+address=/relay2.resilio.com/173.244.209.150
+#address=/new-bench.resilio.com/54.82.227.39
 
 ## Rfi
 address=/cn.rfi.fr/203.198.20.177
@@ -265,6 +269,7 @@ address=/www.voachinese.com/23.42.169.61
 ## Wikipedia
 address=/upload.wikimedia.org/198.35.26.112
 address=/.wikipedia.org/208.80.154.224
+address=/wikinews.org/208.80.154.224
 
 ## Yahoo/flickr/tumblr
 address=/97.media.tumblr.com/192.229.237.98
