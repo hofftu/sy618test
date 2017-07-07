@@ -1,6 +1,7 @@
-#@@ Resilio BtSync          
+#@@ Resilio Sync (BTSync)        
 52.20.43.156 update.getsync.com
-#54.82.227.39 new-bench.resilio.com
+54.82.227.39 new-bench.resilio.com
+188.172.138.1 help.resilio.com
 54.192.212.30 config.getsync.com
 54.192.212.30 www.getsync.com
 54.192.212.30 getsync.com
@@ -8,8 +9,7 @@
 54.192.212.30 config.resilio.com
 54.192.212.30 link.resilio.com
 54.192.212.30 www.resilio.com
-188.172.138.1 help.resilio.com
-#173.244.217.42 tracker1.resilio.com
-#209.95.56.60 tracker2.resilio.com
-#107.182.230.198 relay1.resilio.com
+173.244.217.42 tracker1.resilio.com
+209.95.56.60 tracker2.resilio.com
+107.182.230.198 relay1.resilio.com
 173.244.209.150 relay2.resilio.com
