@@ -10,7 +10,7 @@
 * [【新神器】Daedalus：安卓免root使用DNS/hosts/dnsmasq规则软件](https://github.com/iTXTech/Daedalus/releases)，[【项目作者iTXTech 】](https://github.com/iTXTech/Daedalus)
 
 ### China AD hosts，by vokins
-* 有广告或误杀问题请集中到以下项目反馈！同时也欢迎鼓励支持与加入我们～
+* 有广告或误杀问题请到以下项目反馈！
 * https://github.com/vokins/yhosts/
 
 

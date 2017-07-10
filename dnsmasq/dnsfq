@@ -1,4 +1,4 @@
-## 2017-07-10 14:28:30
+## 2017-07-10 23:23:59
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -93,6 +93,8 @@ address=/fbcdn.net/31.13.78.14
 #address=/flipboard.helpshift.com/54.215.4.184
 #address=/s.flipboard.com/54.192.214.90
 #address=/ue.flipboard.com/23.23.66.189
+server=/flipboard.com/208.67.222.222#5353
+server=/helpshift.com/208.67.222.222#5353
 
 ## Google family
 address=/admob.com/216.58.200.33
@@ -164,22 +166,22 @@ address=/goo.gl/216.58.200.33
 #address=/android.clients.google.com/216.58.200.33
 #address=/gcm-http.googleapis.com/216.58.200.33
 #address=/mail.google.com/216.58.200.33
-address=/redirector.googlevideo.com/216.58.200.33
-address=/manifest.googlevideo.com/216.58.200.33
+#address=/redirector.googlevideo.com/216.58.200.33
+#address=/manifest.googlevideo.com/216.58.200.33
 # google.cn IP
 #address=/dl.google.com/203.208.43.105
 #address=/redirector.gvt1.com/203.208.43.105
 #address=/translate.googleapis.com/203.208.43.105
 # open dns IP
-server=/gvt0.com/208.67.222.222#5353
-server=/gvt1.com/208.67.222.222#5353
-server=/gvt2.com/208.67.222.222#5353
-server=/googlevideo.com/208.67.222.222#5353
+#server=/gvt0.com/208.67.222.222#5353
+#server=/gvt1.com/208.67.222.222#5353
+#server=/gvt2.com/208.67.222.222#5353
+#server=/googlevideo.com/208.67.222.222#5353
 #★sni★
-#address=/googlevideo.com/218.254.1.15
-#address=/gvt0.com/218.254.1.15
-#address=/gvt1.com/218.254.1.15
-#address=/gvt2.com/218.254.1.15
+address=/googlevideo.com/218.254.1.15
+address=/gvt0.com/218.254.1.15
+address=/gvt1.com/218.254.1.15
+address=/gvt2.com/218.254.1.15
 #
 
 ##  Ingress    
@@ -195,23 +197,24 @@ address=/download.lineageos.org/218.254.1.15
 #
 
 ## New York Time      
-address=/m.cn.nytimes.com/35.186.231.252
-address=/m.cn.nytstyle.com/54.192.212.152
-address=/cn.nytimes.com/54.230.74.183
-address=/cn.nytstyle.com/54.230.74.183
-address=/static.sxzhchina.com/54.230.74.183
-address=/ic.tynt.com/208.100.17.186
-address=/l0.cn.nytimes.com/122.152.169.5
-address=/vp.nyt.com/23.219.132.99
-address=/nyt.com/151.101.77.164
-address=/nytimes.com/151.101.77.164
-address=/samizdat.nytimes.com/151.101.77.164
-address=/sso.nytcn.me/54.250.193.44
-#address=/et.nytimes.com/52.1.225.49
-#address=/tagx.nytimes.com/204.236.232.125
-#address=/nytab.nytimes.com/23.23.72.28
-#address=/messaging-sub.api.nytimes.com/54.236.141.13
-#address=/rec.api.nytimes.com/54.173.131.119
+#address=/m.cn.nytimes.com/35.186.231.252
+#address=/m.cn.nytstyle.com/54.192.212.152
+#address=/cn.nytimes.com/54.230.74.183
+#address=/cn.nytstyle.com/54.230.74.183
+#address=/static.sxzhchina.com/54.230.74.183
+#address=/ic.tynt.com/208.100.17.186
+#address=/l0.cn.nytimes.com/122.152.169.5
+#address=/vp.nyt.com/23.219.132.99
+#address=/nyt.com/151.101.77.164
+#address=/nytimes.com/151.101.77.164
+#address=/samizdat.nytimes.com/151.101.77.164
+#address=/sso.nytcn.me/54.250.193.44
+server=/nytimes.com/208.67.222.222#5353
+server=/nytstyle.com/208.67.222.222#5353
+server=/sxzhchina.com/208.67.222.222#5353
+server=/tynt.com/208.67.222.222#5353
+server=/nyt.com/208.67.222.222#5353
+server=/nytcn.me/208.67.222.222#5353
 
 ## Onedrive
 address=/api.onedrive.live.com/2.17.58.51
@@ -229,15 +232,13 @@ address=/services.pornhub.com/67.22.32.162
 address=/hubt.pornhub.com/216.18.168.28
 
 ## Resilio Sync (BTSync)
-address=/update.getsync.com/52.20.43.156
-address=/new-bench.resilio.com/54.82.227.39
-address=/help.resilio.com/188.172.138.1
-address=/getsync.com/54.192.212.30
-address=/resilio.com/54.192.212.30
-#address=/tracker1.resilio.com/173.244.217.42
-#address=/tracker2.resilio.com/209.95.56.60
-#address=/relay1.resilio.com/107.182.230.198
-#address=/relay2.resilio.com/173.244.209.150
+#address=/update.getsync.com/52.20.43.156
+#address=/new-bench.resilio.com/54.82.227.39
+#address=/help.resilio.com/188.172.138.1
+address=/config.getsync.com/54.192.212.30
+address=/config.resilio.com/54.192.212.30
+server=/resilio.com/208.67.222.222#5353
+server=/getsync.com/208.67.222.222#5353
 
 ## Rfi
 address=/cn.rfi.fr/203.198.20.177
@@ -271,48 +272,52 @@ address=/.wikipedia.org/208.80.154.224
 address=/wikinews.org/208.80.154.224
 
 ## Yahoo/flickr/tumblr
-address=/97.media.tumblr.com/192.229.237.98
+#address=/97.media.tumblr.com/192.229.237.98
 address=/android.imap.mail.yahoo.com/27.123.207.149
 address=/android.smtp.mail.yahoo.com/106.10.150.156
-address=/api.tumblr.com/119.161.8.100
-address=/assets.tumblr.com/119.161.8.100
+#address=/api.tumblr.com/119.161.8.100
+#address=/assets.tumblr.com/119.161.8.100
 address=/http.atlas.cdn.yimg.com/119.161.8.82
 address=/code.flickr.com/192.0.79.32
 address=/downloadr.flickr.com/68.142.242.184
-address=/farm1.staticflickr.com/106.10.231.23
-address=/farm2.staticflickr.com/106.10.231.23
-address=/farm3.staticflickr.com/106.10.231.23
-address=/farm4.staticflickr.com/106.10.231.23
-address=/farm5.staticflickr.com/106.10.231.23
-address=/farm6.staticflickr.com/106.10.231.23
-address=/farm7.staticflickr.com/106.10.231.23
-address=/farm8.staticflickr.com/106.10.231.23
-address=/farm9.staticflickr.com/106.10.231.23
-address=/flickr.com/119.161.14.18
+#address=/farm1.staticflickr.com/106.10.231.23
+#address=/farm2.staticflickr.com/106.10.231.23
+#address=/farm3.staticflickr.com/106.10.231.23
+#address=/farm4.staticflickr.com/106.10.231.23
+#address=/farm5.staticflickr.com/106.10.231.23
+#address=/farm6.staticflickr.com/106.10.231.23
+#address=/farm7.staticflickr.com/106.10.231.23
+#address=/farm8.staticflickr.com/106.10.231.23
+#address=/farm9.staticflickr.com/106.10.231.23
+#address=/flickr.com/119.161.14.18
 address=/geo.query.yahoo.com/119.160.242.41
 address=/info.yahoo.com/119.161.14.18
 address=/lh.secure.yahoo.com/119.161.14.18
-address=/media.tumblr.com/119.161.8.100
+#address=/media.tumblr.com/119.161.8.100
 address=/mg.mail.yahoo.com/119.161.14.18
 address=/msb-mobile.m.yahoo.com/119.161.14.18
-address=/mx.tumblr.com/192.229.237.97
+#address=/mx.tumblr.com/192.229.237.97
 address=/news.yahoo.com/106.10.199.10
 address=/overview.mail.yahoo.com/119.161.14.18
 address=/policies.yahoo.com/119.161.14.18
 address=/secure.flickr.com/68.142.240.50
 address=/srvcs.tumblr.com/66.6.32.162
 address=/static.flickr.com/106.10.231.23
-address=/static.tumblr.com/119.161.8.100
+#address=/static.tumblr.com/119.161.8.100
 address=/t.umblr.com/66.6.32.162
-address=/tumblr.com/66.6.33.21
-address=/vt.tumblr.com/119.161.8.100
-address=/vtt.tumblr.com/119.161.9.100
-address=/www.tumblr.com/119.161.8.100
+#address=/tumblr.com/66.6.33.21
+#address=/vt.tumblr.com/119.161.8.100
+#address=/vtt.tumblr.com/119.161.9.100
+#address=/www.tumblr.com/119.161.8.100
 address=/www.yahoo.com/106.10.138.240
 address=/yahoo.co.jp/182.22.24.252
 address=/yahooapis.jp/183.79.249.124
 address=/yimg.com/119.161.14.18
 address=/yimg.jp/182.22.31.252
+server=/tumblr.com/208.67.222.222#5353
+server=/yahoo.com/208.67.222.222#5353
+server=/staticflickr.com/208.67.222.222#5353
+server=/flickr.com/208.67.222.222#5353
 
 ## 1024
 address=/t66y.com/104.25.32.112
