@@ -1,9 +1,9 @@
-## 2017-07-07 15:18:51
+## 2017-07-10 12:23:25
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
 # 本dnsmasq规则仅供个人免费使用。未经许可，请勿内置于软件内发布与传播。请勿用于产生盈利活动。 
-# 安全性问题就见仁见智了。部分域名使用sni反向代理实现，并清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用！！
+# 安全性问题就见仁见智了。部分域名使用sni反向代理实现，并已清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用，被害妄想症者慎用！！
 
 ## Apkpure
 address=/apkpure.com/104.20.83.194
@@ -18,9 +18,6 @@ address=/fig.bbc.co.uk/151.101.76.81
 address=/www.bbc.co.uk/212.58.244.70
 address=/r.bbci.co.uk/212.58.244.15
 address=/open.live.bbc.co.uk/212.58.244.81
- 
-## Boxun
-address=/boxun.com/104.28.8.126
 
 ## Box
 address=/box.com/107.152.25.197
@@ -57,8 +54,8 @@ address=/dl.dropboxusercontent.com/162.125.3.6
 address=/getdropbox.com/108.160.172.195
 address=/www.dropboxstatic.com/162.125.82.7
 #★sni★
-address=/dropbox.com/219.76.4.75
-address=/dropboxstatic.com/219.76.4.75
+address=/dropbox.com/219.76.4.4
+address=/dropboxstatic.com/219.76.4.4
 #
 
 ## DuckDuckGo
@@ -194,7 +191,7 @@ address=/imgur.com/103.245.222.193
 
 ## Lineageos ROM
 #★sni★
-address=/download.lineageos.org/219.76.4.76
+address=/download.lineageos.org/219.76.4.4
 #
 
 ## New York Time      
@@ -237,10 +234,10 @@ address=/new-bench.resilio.com/54.82.227.39
 address=/help.resilio.com/188.172.138.1
 address=/getsync.com/54.192.212.30
 address=/resilio.com/54.192.212.30
-address=/tracker1.resilio.com/173.244.217.42
-address=/tracker2.resilio.com/209.95.56.60
-address=/relay1.resilio.com/107.182.230.198
-address=/relay2.resilio.com/173.244.209.150
+#address=/tracker1.resilio.com/173.244.217.42
+#address=/tracker2.resilio.com/209.95.56.60
+#address=/relay1.resilio.com/107.182.230.198
+#address=/relay2.resilio.com/173.244.209.150
 
 ## Rfi
 address=/cn.rfi.fr/203.198.20.177

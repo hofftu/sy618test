@@ -33,7 +33,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master
 wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/del.sh -O /etc/storage/dnsmasq/dns/del.sh
 echo " "
 echo "·········执行start.sh脚本，自动下载规则文件···········"
-#chmod 775 /etc/storage/dnsmasq/dns/start.sh
+#chmod +x start.sh && ./start.sh
 sh /etc/storage/dnsmasq/dns/start.sh
 echo " "
 echo "————————————脚本结束！—————————————"
