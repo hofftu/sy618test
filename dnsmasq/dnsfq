@@ -1,4 +1,4 @@
-## 2017-07-10 23:23:59
+## 2017-07-11 19:52:36
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -11,13 +11,14 @@ address=/apkpure.com/104.20.83.194
 address=/winudf.com/104.25.68.113
 
 ## Bbc
-address=/bbci.co.uk/96.16.169.73
-address=/static.bbc.co.uk/96.16.169.73
-address=/www.bbc.com/151.101.76.81
-address=/fig.bbc.co.uk/151.101.76.81
-address=/www.bbc.co.uk/212.58.244.70
-address=/r.bbci.co.uk/212.58.244.15
-address=/open.live.bbc.co.uk/212.58.244.81
+#address=/bbci.co.uk/23.219.133.5
+#address=/static.bbc.co.uk/23.219.133.5
+#address=/www.bbc.com/151.101.76.81
+#address=/fig.bbc.co.uk/151.101.76.81
+#address=/www.bbc.co.uk/212.58.244.71
+#address=/r.bbci.co.uk/212.58.246.106
+#address=/open.live.bbc.co.uk/212.58.246.112
+server=/bbc.com/208.67.222.222#5353
 
 ## Box
 address=/box.com/107.152.25.197
@@ -28,13 +29,16 @@ address=/notes.services.box.com/107.152.25.207
 address=/support.box.com/104.218.203.34
 
 ## Collector
-address=/d3c33hcgiwev3.cloudfront.net/54.192.151.157
+#address=/d3c33hcgiwev3.cloudfront.net/54.230.156.106
+server=/d3c33hcgiwev3.cloudfront.net/208.67.222.222#5353
 
 ## Disqus
-address=/disqus.com/151.101.192.134
+#address=/disqus.com/151.101.192.134
+server=/disqus.com/208.67.222.222#5353
 
 ## Doubi
-address=/doub.io/168.235.75.151
+#address=/doub.io/168.235.75.151
+server=/doub.io/208.67.222.222#5353
 
 ## Dropbox
 address=/api-d.dropbox.com/162.125.82.7
@@ -97,82 +101,82 @@ server=/flipboard.com/208.67.222.222#5353
 server=/helpshift.com/208.67.222.222#5353
 
 ## Google family
-address=/admob.com/216.58.200.33
-address=/agoogleaday.com/216.58.200.33
-address=/android.com/216.58.200.33
-address=/blogblog.com/216.58.200.33
-address=/blogger.com/216.58.200.33
-address=/blogspot.com/216.58.200.33
-address=/chromium.org/216.58.200.33
-address=/com.google/216.58.200.33
-address=/dartlang.org/216.58.200.33
-address=/feedburner.com/216.58.200.33
-address=/g.co/216.58.200.33
-address=/gcr.io/216.58.200.33
-address=/ggpht.com/216.58.200.33
-address=/gmodules.com/216.58.200.33
-address=/golang.org/216.58.200.33
-address=/google.co.jp/216.58.200.33
-address=/google.co.kr/216.58.200.33
-address=/google.co.nz/216.58.200.33
-address=/google.co.uk/216.58.200.33
-address=/google.com.gi/216.58.200.33
-address=/google.com.hk/216.58.200.33
-address=/google.com.sg/216.58.200.33
-address=/google.com.tw/216.58.200.33
-address=/google.com/216.58.200.33
-address=/google.org/216.58.200.33
-address=/googleapis.com/216.58.200.33
-address=/googleapps.com/216.58.200.33
-address=/googlechinawebmaster.com/216.58.200.33
-address=/googlecode.com/216.58.200.33
-address=/googlecommerce.com/216.58.200.33
-address=/googledrive.com/216.58.200.33
-address=/googlegroups.com/216.58.200.33
-address=/googlehosted.com/216.58.200.33
-address=/googleinsidesearch.com/216.58.200.33
-address=/googlemashups.com/216.58.200.33
-address=/googlesource.com/216.58.200.33
-address=/googlestore.com/216.58.200.33
-address=/googletagmanager.com/216.58.200.33
-address=/googleusercontent.com/216.58.200.33
-address=/googlewave.com/216.58.200.33
-address=/googlezeitgeist.com/216.58.200.33
-address=/googlezip.net/216.58.200.33
-address=/gstatic.com/216.58.200.33
-address=/gwtproject.org/216.58.200.33
-address=/html5rocks.com/216.58.200.33
-address=/keyhole.com/216.58.200.33
+address=/admob.com/216.58.200.189
+address=/agoogleaday.com/216.58.200.189
+address=/android.com/216.58.200.189
+address=/blogblog.com/216.58.200.189
+address=/blogger.com/216.58.200.189
+address=/blogspot.com/216.58.200.189
+address=/chromium.org/216.58.200.189
+address=/com.google/216.58.200.189
+address=/dartlang.org/216.58.200.189
+address=/feedburner.com/216.58.200.189
+address=/g.co/216.58.200.189
+address=/gcr.io/216.58.200.189
+address=/ggpht.com/216.58.200.189
+address=/gmodules.com/216.58.200.189
+address=/golang.org/216.58.200.189
+address=/google.co.jp/216.58.200.189
+address=/google.co.kr/216.58.200.189
+address=/google.co.nz/216.58.200.189
+address=/google.co.uk/216.58.200.189
+address=/google.com.gi/216.58.200.189
+address=/google.com.hk/216.58.200.189
+address=/google.com.sg/216.58.200.189
+address=/google.com.tw/216.58.200.189
+address=/google.com/216.58.200.189
+address=/google.org/216.58.200.189
+address=/googleapis.com/216.58.200.189
+address=/googleapps.com/216.58.200.189
+address=/googlechinawebmaster.com/216.58.200.189
+address=/googlecode.com/216.58.200.189
+address=/googlecommerce.com/216.58.200.189
+address=/googledrive.com/216.58.200.189
+address=/googlegroups.com/216.58.200.189
+address=/googlehosted.com/216.58.200.189
+address=/googleinsidesearch.com/216.58.200.189
+address=/googlemashups.com/216.58.200.189
+address=/googlesource.com/216.58.200.189
+address=/googlestore.com/216.58.200.189
+address=/googletagmanager.com/216.58.200.189
+address=/googleusercontent.com/216.58.200.189
+address=/googlewave.com/216.58.200.189
+address=/googlezeitgeist.com/216.58.200.189
+address=/googlezip.net/216.58.200.189
+address=/gstatic.com/216.58.200.189
+address=/gwtproject.org/216.58.200.189
+address=/html5rocks.com/216.58.200.189
+address=/keyhole.com/216.58.200.189
 address=/mtalk.google.com/64.233.188.188
-address=/measurement.com/216.58.200.33
-address=/oneworldmanystories.com/216.58.200.33
-address=/orkut.com/216.58.200.33
-address=/panoramio.com/216.58.200.33
-address=/recaptcha.net/216.58.200.33
-address=/teachparentstech.org/216.58.200.33
-address=/thegooglepuzzle.com/216.58.200.33
-address=/transparency.org/216.58.200.33
-address=/urchin.com/216.58.200.33
-address=/webmproject.org/216.58.200.33
-address=/withgoogle.com/216.58.200.33
-address=/ytimg.com/216.58.200.33
-address=/youtu.be/216.58.200.33
-address=/youtubeeducation.com/216.58.200.33
-address=/youtube-nocookie.com/216.58.200.33
-address=/youtube.co/216.58.200.33
-address=/youtube.com/216.58.200.33
-address=/appspot.com/216.58.200.33
-address=/goo.gl/216.58.200.33
-#address=/android.clients.google.com/216.58.200.33
-#address=/gcm-http.googleapis.com/216.58.200.33
-#address=/mail.google.com/216.58.200.33
-#address=/redirector.googlevideo.com/216.58.200.33
-#address=/manifest.googlevideo.com/216.58.200.33
+address=/measurement.com/216.58.200.189
+address=/oneworldmanystories.com/216.58.200.189
+address=/orkut.com/216.58.200.189
+address=/panoramio.com/216.58.200.189
+address=/recaptcha.net/216.58.200.189
+address=/teachparentstech.org/216.58.200.189
+address=/thegooglepuzzle.com/216.58.200.189
+address=/transparency.org/216.58.200.189
+address=/urchin.com/216.58.200.189
+address=/webmproject.org/216.58.200.189
+address=/withgoogle.com/216.58.200.189
+address=/ytimg.com/216.58.200.189
+address=/youtu.be/216.58.200.189
+address=/youtubeeducation.com/216.58.200.189
+address=/youtube-nocookie.com/216.58.200.189
+address=/youtube.co/216.58.200.189
+address=/youtube.com/216.58.200.189
+address=/appspot.com/216.58.200.189
+address=/goo.gl/216.58.200.189
+#address=/android.clients.google.com/216.58.200.189
+#address=/gcm-http.googleapis.com/216.58.200.189
+#address=/mail.google.com/216.58.200.189
+#address=/redirector.googlevideo.com/216.58.200.189
+#address=/manifest.googlevideo.com/216.58.200.189
 # google.cn IP
 #address=/dl.google.com/203.208.43.105
 #address=/redirector.gvt1.com/203.208.43.105
 #address=/translate.googleapis.com/203.208.43.105
-# open dns IP
+# open dns
 #server=/gvt0.com/208.67.222.222#5353
 #server=/gvt1.com/208.67.222.222#5353
 #server=/gvt2.com/208.67.222.222#5353
@@ -222,14 +226,21 @@ address=/api.onedrive.com/204.79.197.213
 address=/onedrive.live.com/204.79.197.217
 address=/skyapi.onedrive.live.com/104.44.88.28
 
+## Pengbo
+server=/bloomberg.com/208.67.222.222#5353
+
 ## Pinterest               
-address=/pinimg.com/2.17.60.14
-address=/pinterest.com/151.101.76.84
+#address=/pinimg.com/2.17.60.14
+#address=/pinterest.com/151.101.76.84
+server=/pinimg.com/208.67.222.222#5353
+server=/pinterest.com/208.67.222.222#5353
 
 ## Pornhub
-address=/pornhub.com/31.192.120.36
-address=/services.pornhub.com/67.22.32.162
-address=/hubt.pornhub.com/216.18.168.28
+#address=/pornhub.com/31.192.120.36
+#address=/services.pornhub.com/67.22.32.162
+#address=/hubt.pornhub.com/216.18.168.28
+server=/pornhub.com/208.67.222.222#5353
+server=/phncdn.com/208.67.222.222#5353
 
 ## Resilio Sync (BTSync)
 #address=/update.getsync.com/52.20.43.156
@@ -241,8 +252,8 @@ server=/resilio.com/208.67.222.222#5353
 server=/getsync.com/208.67.222.222#5353
 
 ## Rfi
-address=/cn.rfi.fr/203.198.20.177
-address=/telechargement.rfi.fr/203.198.20.177
+#address=/cn.rfi.fr/223.119.50.209
+#address=/telechargement.rfi.fr/23.2.16.51
 
 ## Theinitium
 address=/initiummall.com/104.28.31.251
@@ -251,6 +262,8 @@ address=/theinitium.com/104.28.31.251
 ## Twitter 
 address=/twimg.com/104.244.43.135
 address=/twitpic.com/104.244.46.148
+server=/pscp.tv/208.67.222.222#5353
+
 #★sni★
 address=/t.co/121.59.17.10
 address=/tweetdeck.com/121.59.17.10
@@ -258,9 +271,11 @@ address=/twitter.com/121.59.17.10
 #
 
 ## Vimeo   
-address=/click.email.vimeo.com/198.245.92.39
-address=/vimeo.com/23.235.37.217
-#address=/vimeocdn.com/151.101.78.109
+#address=/click.email.vimeo.com/198.245.92.39
+#address=/vimeo.com/23.235.37.217
+#*address=/vimeocdn.com/151.101.78.109
+server=/vimeo.com/208.67.222.222#5353
+server=/vimeocdn.com/208.67.222.222#5353
 
 ## Voa
 address=/voanews.com/23.42.169.61
@@ -273,13 +288,13 @@ address=/wikinews.org/208.80.154.224
 
 ## Yahoo/flickr/tumblr
 #address=/97.media.tumblr.com/192.229.237.98
-address=/android.imap.mail.yahoo.com/27.123.207.149
-address=/android.smtp.mail.yahoo.com/106.10.150.156
+#address=/android.imap.mail.yahoo.com/27.123.207.149
+#address=/android.smtp.mail.yahoo.com/106.10.150.156
 #address=/api.tumblr.com/119.161.8.100
 #address=/assets.tumblr.com/119.161.8.100
-address=/http.atlas.cdn.yimg.com/119.161.8.82
-address=/code.flickr.com/192.0.79.32
-address=/downloadr.flickr.com/68.142.242.184
+#address=/http.atlas.cdn.yimg.com/119.161.8.82
+#address=/code.flickr.com/192.0.79.32
+#address=/downloadr.flickr.com/68.142.242.184
 #address=/farm1.staticflickr.com/106.10.231.23
 #address=/farm2.staticflickr.com/106.10.231.23
 #address=/farm3.staticflickr.com/106.10.231.23
@@ -290,35 +305,43 @@ address=/downloadr.flickr.com/68.142.242.184
 #address=/farm8.staticflickr.com/106.10.231.23
 #address=/farm9.staticflickr.com/106.10.231.23
 #address=/flickr.com/119.161.14.18
-address=/geo.query.yahoo.com/119.160.242.41
-address=/info.yahoo.com/119.161.14.18
-address=/lh.secure.yahoo.com/119.161.14.18
+#address=/geo.query.yahoo.com/119.160.242.41
+#address=/info.yahoo.com/119.161.14.18
+#address=/lh.secure.yahoo.com/119.161.14.18
 #address=/media.tumblr.com/119.161.8.100
-address=/mg.mail.yahoo.com/119.161.14.18
-address=/msb-mobile.m.yahoo.com/119.161.14.18
+#address=/mg.mail.yahoo.com/119.161.14.18
+#address=/msb-mobile.m.yahoo.com/119.161.14.18
 #address=/mx.tumblr.com/192.229.237.97
-address=/news.yahoo.com/106.10.199.10
-address=/overview.mail.yahoo.com/119.161.14.18
-address=/policies.yahoo.com/119.161.14.18
-address=/secure.flickr.com/68.142.240.50
-address=/srvcs.tumblr.com/66.6.32.162
-address=/static.flickr.com/106.10.231.23
+#address=/news.yahoo.com/106.10.199.10
+#address=/overview.mail.yahoo.com/119.161.14.18
+#address=/policies.yahoo.com/119.161.14.18
+#address=/secure.flickr.com/68.142.240.50
+#address=/srvcs.tumblr.com/66.6.32.162
+#address=/static.flickr.com/106.10.231.23
 #address=/static.tumblr.com/119.161.8.100
 address=/t.umblr.com/66.6.32.162
 #address=/tumblr.com/66.6.33.21
 #address=/vt.tumblr.com/119.161.8.100
 #address=/vtt.tumblr.com/119.161.9.100
 #address=/www.tumblr.com/119.161.8.100
-address=/www.yahoo.com/106.10.138.240
-address=/yahoo.co.jp/182.22.24.252
-address=/yahooapis.jp/183.79.249.124
-address=/yimg.com/119.161.14.18
-address=/yimg.jp/182.22.31.252
+#address=/www.yahoo.com/106.10.138.240
+#address=/yahoo.co.jp/182.22.24.252
+#address=/yahooapis.jp/182.22.24.124
+#address=/yimg.com/119.161.14.18
+#address=/yimg.jp/182.22.31.252
 server=/tumblr.com/208.67.222.222#5353
 server=/yahoo.com/208.67.222.222#5353
 server=/staticflickr.com/208.67.222.222#5353
 server=/flickr.com/208.67.222.222#5353
+server=/yimg.com/208.67.222.222#5353
 
 ## 1024
 address=/t66y.com/104.25.32.112
 
+## SERVER
+server=/jp/208.67.222.222#5353
+server=/tw/208.67.222.222#5353
+server=/hk/208.67.222.222#5353
+server=/uk/208.67.222.222#5353
+server=/sg/208.67.222.222#5353
+server=/fr/208.67.222.222#5353

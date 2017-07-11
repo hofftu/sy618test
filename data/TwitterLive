@@ -1,14 +1,16 @@
-## Twitter live 推特直播
-payman.pscp.tv
-www.pscp.tv
-assets.pscp.tv
-proxsee.pscp.tv
-channels.pscp.tv
-notification-service.pscp.tv
-prod-thumbnail.pscp.tv
-prod-profile.pscp.tv
-prod-video-us-west-1.pscp.tv
-prod-chatman-ancillary-us-west-2.pscp.tv
-prod-chatman-ancillary-eu-central-1.pscp.tv
-prod-video-eu-central-1.pscp.tv
 
+#@@ Twitter live 推特直播
+34.208.110.81 proxsee.pscp.tv
+34.209.167.157 payman.pscp.tv
+35.162.54.21 channels.pscp.tv
+52.220.51.152 signer.pscp.tv
+52.221.145.165 www.pscp.tv
+54.148.49.158 notification-service.pscp.tv
+54.192.148.8 assets.pscp.tv
+54.192.148.8 prod-profile.pscp.tv
+54.192.148.8 prod-thumbnail.pscp.tv
+35.158.172.8 prod-chatman-ancillary-eu-central-1.pscp.tv
+52.26.94.134 prod-chatman-ancillary-us-west-2.pscp.tv
+151.101.130.93 prod-video-ap-northeast-1.pscp.tv
+151.101.130.93 prod-video-eu-central-1.pscp.tv
+151.101.2.93 prod-video-us-west-1.pscp.tv

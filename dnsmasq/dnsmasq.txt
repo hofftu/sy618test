@@ -1,8 +1,5 @@
 路由器订阅hosts+dnsmasq规则，轻量化方案实现去广告与自由上网，附padavan固件手动教程与一键脚本！
 
-恩山论坛：http://right.com.cn/forum/thread-216155-1-1.html
-
-
 安全性问题：https://github.com/sy618/hosts/tree/master/dnsmasq/%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98
 
 
