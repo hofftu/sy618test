@@ -1,7 +1,7 @@
 ## hosts方案二
 * AD(vokins)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * play          ： https://raw.githubusercontent.com/sy618/hosts/master/p
-* YouTube  ：  https://raw.githubusercontent.com/sy618/hosts/master/y
+* YouTube  （可能不需要了，因为racalik源里内置了）：  https://raw.githubusercontent.com/sy618/hosts/master/y
 * fq(racaljk)：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 * 公共项目搭配，订阅以上四个就能得到最新最全的hosts！适合大众使用。
 ```javascript
