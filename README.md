@@ -16,9 +16,9 @@
 
 ### 免责声明
 * 项目大部分域名都是解析到官方IP，但部分功能可能需要依靠sni反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！
-▶Twitter部分域名
-▶谷歌、YouTube视频播放功能与商店软件
-▶Lineageos ROM下载页面：download.lineageos.org
+`▶Twitter部分域名`
+`▶谷歌、YouTube视频播放功能与商店`
+`▶Lineageos ROM下载页面：download.lineageos.org`
 * 仅供个人免费使用。请遵守当地法律法规，文明上网。
 * 建议自备代理，不要依赖于hosts来上网。
 ### licensed
