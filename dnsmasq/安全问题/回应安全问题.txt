@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
 
 目前规则内，只有部分功能需要借助sni反向代理来实现：
 ▶Twitter部分域名（因郭文贵事件被特别封锁，现在能实现正常打开已经是万幸了）
-▶谷歌视频播放功能与商店软件下载功能（这些域名必须严格对应IP才能正常工作，而官方IP被严重干扰导致不可用） 
+▶谷歌、YouTube视频播放功能与商店软件（官方IP被严重干扰导致不可用） 
 ▶Lineageos ROM下载页面（该页面只有一个IP且已被封锁）
 规则内其余的全部域名都是通过DNS反查得到（未被封锁）的官方IP。
 
