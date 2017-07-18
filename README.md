@@ -1,7 +1,7 @@
 ## hosts/dnsmasq订阅搭配方案：
 ### [两个hosts订阅方案](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
 ### [路由器方案：hosts+dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)
-* [安全性问题？](https://github.com/sy618/hosts/tree/master/dnsmasq/%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98)
+> [安全性问题？建议先看看](https://github.com/sy618/hosts/tree/master/dnsmasq/%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98)
 
 ## 自动更新hosts/dnsmasq
 * [安卓手机自动更新hosts tasker脚本与教程](https://github.com/sy618/hosts/tree/master/%E5%AE%89%E5%8D%93%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts)
