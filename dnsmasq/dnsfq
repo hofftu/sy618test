@@ -1,4 +1,4 @@
-## 2017-07-18 11:19:33
+## 2017-07-18 11:53:02
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -322,9 +322,9 @@ address=/twimg.com/104.244.43.135
 address=/twitpic.com/104.244.46.148
 server=/pscp.tv/208.67.222.222#5353
 #★sni★
-address=/t.co/121.59.17.9
-address=/tweetdeck.com/121.59.17.9
-address=/twitter.com/121.59.17.9
+address=/t.co/121.59.17.41
+address=/tweetdeck.com/121.59.17.41
+address=/twitter.com/121.59.17.41
 #
 
 ## Vimeo  
