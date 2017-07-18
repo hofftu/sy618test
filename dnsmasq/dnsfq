@@ -1,4 +1,4 @@
-## 2017-07-18 11:53:02
+## 2017-07-18 15:07:53
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -277,7 +277,7 @@ address=/api.onedrive.com/204.79.197.213
 address=/onedrive.live.com/204.79.197.217
 address=/skyapi.onedrive.live.com/104.44.88.28
 # outlook
-address=/outlook.live.com/40.97.119.194
+#address=/outlook.live.com/40.97.119.194
 
 ## Pengbo 
 server=/bloomberg.com/208.67.222.222#5353
