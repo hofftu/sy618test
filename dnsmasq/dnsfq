@@ -1,4 +1,4 @@
-## 2017-07-13 17:16:34
+## 2017-07-18 10:05:25
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # https://creativecommons.org/licenses/by-nc/4.0/deed.zh
@@ -10,7 +10,7 @@ address=/apkpure.com/104.20.83.194
 #address=/pureapk.com/104.25.68.113
 address=/winudf.com/104.25.68.113
 
-## Bbc
+## Bbc  
 #address=/bbci.co.uk/23.219.133.5
 #address=/static.bbc.co.uk/23.219.133.5
 #address=/www.bbc.com/151.101.76.81
@@ -29,39 +29,73 @@ address=/box.net/107.152.25.193
 address=/notes.services.box.com/107.152.25.207
 address=/support.box.com/104.218.203.34
 
-## Collector
+## Collector  
 #address=/d3c33hcgiwev3.cloudfront.net/54.230.156.106
 server=/d3c33hcgiwev3.cloudfront.net/208.67.222.222#5353
 
-## Disqus
+## Disqus  
 #address=/disqus.com/151.101.192.134
 server=/disqus.com/208.67.222.222#5353
 
-## Doubi
+## Doubi  
 #address=/doub.io/168.235.75.151
 server=/doub.io/208.67.222.222#5353
 
 ## Dropbox
+address=/dropbox.com/162.125.248.1
+address=/www.dropbox.com/162.125.6.1
+address=/www.v.dropbox.com/162.125.6.1
+address=/support.dropbox.com/162.125.6.1
+address=/live.dropbox.com/162.125.6.1
+address=/opensource.dropbox.com/162.125.6.1
+address=/linux.dropbox.com/162.125.6.1
+address=/texter.dropbox.com/162.125.6.1
+address=/dl.dropboxusercontent.com/162.125.3.6
+address=/dl.dropbox.com/162.125.3.6
+address=/dl-doc.dropbox.com/162.125.3.6
+address=/dl-web.dropbox.com/162.125.3.6
+address=/showbox.dropbox.com/162.125.3.6
+address=/files.dropbox.com/162.125.3.6
+address=/client-cf.dropbox.com/162.125.82.3
+address=/blogs.dropbox.com/54.192.212.178
+address=/forums.dropbox.com/54.192.212.178
+address=/marketing.dropbox.com/54.192.212.178
+address=/snapengage.dropbox.com/54.192.212.178
+address=/status.dropbox.com/54.192.212.178
+address=/cf.dropboxstatic.com/52.84.202.185
+address=/cfl.dropboxstatic.com/104.16.100.29
+address=/photo.dropbox.com/162.125.32.15
+address=/photos.dropbox.com/162.125.32.15
 address=/api-d.dropbox.com/162.125.82.7
 address=/api-notify.dropbox.com/162.125.82.7
 address=/api.dropbox.com/162.125.82.7
 address=/api.dropboxapi.com/162.125.82.7
 address=/api.v.dropbox.com/162.125.82.7
-address=/cf.dropboxstatic.com/52.84.202.185
-address=/cfl.dropboxstatic.com/104.16.100.29
-address=/client-cf.dropbox.com/162.125.82.3
 address=/d.dropbox.com/162.125.82.7
 address=/d.v.dropbox.com/162.125.82.7
-address=/dl-doc.dropbox.com/162.125.3.6
-address=/dl-web.dropbox.com/162.125.3.6
-address=/dl.dropbox.com/162.125.3.6
-address=/dl.dropboxusercontent.com/162.125.3.6
-address=/getdropbox.com/108.160.172.195
 address=/www.dropboxstatic.com/162.125.82.7
-#★sni★
-address=/dropbox.com/218.254.1.15
-address=/dropboxstatic.com/218.254.1.15
-#
+address=/log.getdropbox.com/108.160.172.195
+address=/dbxlocal.dropboxstatic.com/162.125.32.12
+address=/client-lb.dropbox.com/162.125.32.12
+address=/client-web.dropbox.com/162.125.32.12
+address=/client.dropbox.com/162.125.32.12
+address=/client.v.dropbox.com/162.125.32.12
+address=/dl-debug.dropbox.com/34.197.140.43
+address=/m.dropbox.com/162.125.32.9
+address=/photos-thumb.dropbox.com/162.125.17.1
+address=/photos-thumb.x.dropbox.com/162.125.17.1
+address=/photos-1.dropbox.com/162.125.82.5
+address=/photos-2.dropbox.com/162.125.82.5
+address=/photos-3.dropbox.com/162.125.82.5
+address=/photos-4.dropbox.com/162.125.82.5
+address=/photos-5.dropbox.com/162.125.82.5
+address=/photos-6.dropbox.com/162.125.82.5
+address=/notify.dropbox.com/162.125.17.3
+address=/bolt.dropbox.com/162.125.17.3
+address=/api-content-photos.dropbox.com/162.125.17.1
+address=/api-content.dropbox.com/162.125.17.1
+address=/block.dropbox.com/162.125.32.131
+address=/block.v.dropbox.com/162.125.32.131
 
 ## DuckDuckGo
 address=/duckduckgo.com/46.51.218.82
@@ -75,14 +109,14 @@ address=/akamaihd.net/219.76.10.49
 address=/ak.facebook.com/219.76.10.49
 address=/ak.fbcdn.net/219.76.10.49
 address=/ak.instagram.com/219.76.10.49
-address=/cdninstagram.com/157.240.7.52
+address=/cdninstagram.com/157.240.15.63
 address=/edge-mqtt.facebook.com/31.13.95.5
 address=/facebook.com/157.240.15.36
 address=/facebook.net/157.240.15.36
 address=/fb.com/157.240.15.36
 address=/fbsbx.com/157.240.15.36
 address=/giphy.com/151.101.25.127
-address=/instagram.com/157.240.7.52
+address=/instagram.com/157.240.15.63
 address=/m.me/157.240.15.36
 address=/messenger.com/157.240.15.36
 #address=/telegraph-ash.instagram.com/173.252.91.113
@@ -90,7 +124,7 @@ address=/messenger.com/157.240.15.36
 address=/thefacebook.com/157.240.15.36
 address=/fbcdn.net/31.13.78.14
 
-## Flipboard    
+## Flipboard   
 #address=/beacon.flipboard.com/23.23.66.189
 #address=/cdn.flipboard.com/52.84.218.217
 #address=/fbprod.flipboard.com/52.206.64.125
@@ -100,6 +134,11 @@ address=/fbcdn.net/31.13.78.14
 #address=/ue.flipboard.com/23.23.66.189
 server=/flipboard.com/208.67.222.222#5353
 server=/helpshift.com/208.67.222.222#5353
+
+## Github
+address=/gist.github.com/192.30.253.118
+#server=/github.com/208.67.222.222#5353
+#server=/githubusercontent.com/208.67.222.222#5353
 
 ## Google family
 address=/admob.com/216.58.200.192
@@ -196,12 +235,22 @@ address=/upsight-api.com/119.81.248.34
 ## Imgur
 address=/imgur.com/103.245.222.193
 
+## Line   
+server=/line.me/208.67.222.222#5353
+server=/line-apps.com/208.67.222.222#5353
+server=/naver.jp/208.67.222.222#5353
+
 ## Lineageos ROM
+server=/lineageos.org/208.67.222.222#5353
 #★sni★
 address=/download.lineageos.org/218.254.1.15
 #
 
-## New York Time      
+## Mega   
+server=/mega.nz/208.67.222.222#5353
+server=/co.nz/208.67.222.222#5353
+
+## New York Time  
 #address=/m.cn.nytimes.com/35.186.231.252
 #address=/m.cn.nytstyle.com/54.192.212.152
 #address=/cn.nytimes.com/54.230.74.183
@@ -221,22 +270,25 @@ server=/tynt.com/208.67.222.222#5353
 server=/nyt.com/208.67.222.222#5353
 server=/nytcn.me/208.67.222.222#5353
 
-## Onedrive
+## Microsoft family
+# onedrive
 address=/api.onedrive.live.com/2.17.58.51
 address=/api.onedrive.com/204.79.197.213
 address=/onedrive.live.com/204.79.197.217
 address=/skyapi.onedrive.live.com/104.44.88.28
+# outlook
+address=/outlook.live.com/40.97.119.194
 
-## Pengbo
+## Pengbo 
 server=/bloomberg.com/208.67.222.222#5353
 
-## Pinterest               
+## Pinterest  
 #address=/pinimg.com/2.17.60.14
 #address=/pinterest.com/151.101.76.84
 server=/pinimg.com/208.67.222.222#5353
 server=/pinterest.com/208.67.222.222#5353
 
-## Pornhub
+## Pornhub  
 #address=/pornhub.com/31.192.120.36
 #address=/services.pornhub.com/67.22.32.162
 #address=/hubt.pornhub.com/216.18.168.28
@@ -252,7 +304,7 @@ address=/config.resilio.com/54.192.212.30
 server=/resilio.com/208.67.222.222#5353
 server=/getsync.com/208.67.222.222#5353
 
-## Rfi
+## Rfi  
 #address=/cn.rfi.fr/23.2.16.219
 #address=/telechargement.rfi.fr/23.2.16.82
 server=/rfi.fr/208.67.222.222#5353
@@ -261,20 +313,24 @@ server=/rfi.fr/208.67.222.222#5353
 address=/initiummall.com/104.28.31.251
 address=/theinitium.com/104.28.31.251
 
+## Tor   
+#address=/torproject.org/154.35.132.70
+server=/torproject.org/208.67.222.222#5353
+
 ## Twitter 
 address=/twimg.com/104.244.43.135
 address=/twitpic.com/104.244.46.148
 server=/pscp.tv/208.67.222.222#5353
 #★sni★
-address=/t.co/121.59.17.10
-address=/tweetdeck.com/121.59.17.10
-address=/twitter.com/121.59.17.10
+address=/t.co/121.59.17.9
+address=/tweetdeck.com/121.59.17.9
+address=/twitter.com/121.59.17.9
 #
 
-## Vimeo   
+## Vimeo  
 #address=/click.email.vimeo.com/198.245.92.39
 #address=/vimeo.com/23.235.37.217
-#*address=/vimeocdn.com/151.101.78.109
+#address=/vimeocdn.com/151.101.78.109
 server=/vimeo.com/208.67.222.222#5353
 server=/vimeocdn.com/208.67.222.222#5353
 
@@ -284,10 +340,11 @@ address=/www.voachinese.com/23.42.169.61
 
 ## Wikipedia
 address=/upload.wikimedia.org/198.35.26.112
-address=/.wikipedia.org/208.80.154.224
-address=/wikinews.org/208.80.154.224
+address=/wikipedia.org/198.35.26.96
+address=/zh.m.wikipedia.org/198.35.26.96
+address=/wikinews.org/198.35.26.96
 
-## Yahoo/flickr/tumblr
+## Yahoo/flickr/tumblr  
 #address=/97.media.tumblr.com/192.229.237.98
 #address=/android.imap.mail.yahoo.com/27.123.207.149
 #address=/android.smtp.mail.yahoo.com/106.10.150.156

@@ -1,7 +1,7 @@
 ## hosts/dnsmasq订阅搭配方案：
 ### [两个hosts订阅方案](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
 ### [路由器方案：hosts+dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)
-* [安全性问题，建议看完再使用](https://github.com/sy618/hosts/tree/master/dnsmasq/%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98)
+* [安全性问题？](https://github.com/sy618/hosts/tree/master/dnsmasq/%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98)
 
 ## 自动更新hosts/dnsmasq
 * [安卓手机自动更新hosts tasker脚本与教程](https://github.com/sy618/hosts/tree/master/%E5%AE%89%E5%8D%93%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts)
@@ -17,7 +17,7 @@
 ### 免责声明
 * 项目大部分域名都是解析到官方IP，但部分功能（如YouTube播放）可能需要依靠反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！
 * 仅供个人免费使用。请遵守当地法律法规，文明上网。
-* 建议自备代理，不要依赖这个来上网。
+* 建议自备代理，不要依赖于hosts来上网。
 ### licensed
 * [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
 * 本项目所有重定向数据仅用于个人学术研究与学习使用。
