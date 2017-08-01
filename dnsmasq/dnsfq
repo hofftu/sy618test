@@ -1,8 +1,7 @@
-## 2017-07-18 15:07:53
+## 2017-08-01 16:11:03
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
-# https://creativecommons.org/licenses/by-nc/4.0/deed.zh
-# 本dnsmasq规则仅供个人免费使用。未经许可，请勿内置于软件内发布与传播。请勿用于产生盈利活动。 
+# 本dnsmasq规则仅供个人免费使用。未经许可，请勿内置于软件内发布与传播。请勿用于商业性活动。 
 # 安全性问题就见仁见智了。部分域名需要使用sni反向代理实现，并已清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用！！
 
 ## Apkpure
@@ -30,7 +29,7 @@ address=/notes.services.box.com/107.152.25.207
 address=/support.box.com/104.218.203.34
 
 ## Collector  
-#address=/d3c33hcgiwev3.cloudfront.net/54.230.156.106
+#address=/d3c33hcgiwev3.cloudfront.net/54.230.156.123
 server=/d3c33hcgiwev3.cloudfront.net/208.67.222.222#5353
 
 ## Disqus  
@@ -38,8 +37,7 @@ server=/d3c33hcgiwev3.cloudfront.net/208.67.222.222#5353
 server=/disqus.com/208.67.222.222#5353
 
 ## Doubi  
-#address=/doub.io/168.235.75.151
-server=/doub.io/208.67.222.222#5353
+address=/doub.io/168.235.75.151
 
 ## Dropbox
 address=/dropbox.com/162.125.248.1
@@ -104,11 +102,11 @@ address=/images.duckduckgo.com/52.77.181.198
 
 ## Facebook/Instagram
 address=/accountkit.com/157.240.15.36
-#address=/akamai.net/219.76.10.49
-address=/akamaihd.net/219.76.10.49
-address=/ak.facebook.com/219.76.10.49
-address=/ak.fbcdn.net/219.76.10.49
-address=/ak.instagram.com/219.76.10.49
+#address=/akamai.net/219.76.10.59
+address=/akamaihd.net/219.76.10.59
+address=/ak.facebook.com/219.76.10.59
+address=/ak.fbcdn.net/219.76.10.59
+address=/ak.instagram.com/219.76.10.59
 address=/cdninstagram.com/157.240.15.63
 address=/edge-mqtt.facebook.com/31.13.95.5
 address=/facebook.com/157.240.15.36
@@ -184,7 +182,7 @@ address=/googleusercontent.com/218.254.1.15
 address=/googlewave.com/218.254.1.15
 address=/googlezeitgeist.com/218.254.1.15
 address=/googlezip.net/218.254.1.15
-address=/gstatic.com/218.254.1.15
+#address=/gstatic.com/218.254.1.15
 address=/gwtproject.org/218.254.1.15
 address=/html5rocks.com/218.254.1.15
 address=/keyhole.com/218.254.1.15
@@ -251,7 +249,7 @@ server=/mega.nz/208.67.222.222#5353
 server=/co.nz/208.67.222.222#5353
 
 ## New York Time  
-#address=/m.cn.nytimes.com/35.186.231.252
+address=/m.cn.nytimes.com/35.186.231.252
 #address=/m.cn.nytstyle.com/54.192.212.152
 #address=/cn.nytimes.com/54.230.74.183
 #address=/cn.nytstyle.com/54.230.74.183
@@ -308,6 +306,9 @@ server=/getsync.com/208.67.222.222#5353
 #address=/cn.rfi.fr/23.2.16.219
 #address=/telechargement.rfi.fr/23.2.16.82
 server=/rfi.fr/208.67.222.222#5353
+
+## Telegram
+address=/telegram.org/149.154.167.119
 
 ## Theinitium
 address=/initiummall.com/104.28.31.251
