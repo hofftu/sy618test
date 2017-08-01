@@ -1,4 +1,6 @@
-##—————youtube—————
+##—————YouTube—————
+218.254.1.15 redirector.googlevideo.com
+218.254.1.15 manifest.googlevideo.com
 218.254.1.15 r1---sn-4g57knz7.googlevideo.com
 218.254.1.15 r2---sn-4g57knz7.googlevideo.com
 218.254.1.15 r3---sn-4g57knz7.googlevideo.com

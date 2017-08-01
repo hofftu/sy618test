@@ -14,19 +14,20 @@
 * https://github.com/vokins/yhosts/
 
 
-### 免责声明
+### 免责与提醒
 * 项目大部分域名都是解析到官方IP，但部分功能可能需要依靠sni反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！
  > - Twitter部分域名
  > - 谷歌、YouTube视频播放功能与商店
  > - Lineageos ROM下载页面：download.lineageos.org
-* 仅供个人免费使用。请遵守当地法律法规，文明上网。
-* 建议自备代理，不要依赖于hosts来上网。
+* 请遵守当地法律法规，文明上网。
+* 请勿在中国大陆的社交网络内传播与讨论本项目内容！
+
 ### licensed
 * [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
 * 本项目所有重定向数据仅用于个人学术研究与学习使用。
-* 未经许可，请勿内置于软件内发布与传播。请勿用于产生任何盈利活动。
+* 未经许可，请勿内置于软件内发布与传播。请勿用于任何商业性盈利活动。
+* 不适用人群：强迫症者、被害妄想症者
 
-### 以下人群慎用！！
-* 强迫症者
-* 被害妄想症者
-
+### other
+* 建议自备代理，不要依赖于hosts来上网。
+* [telegram](https://t.me/joinchat/C4W8eEDPOGS3V8-UHx2aKw)
