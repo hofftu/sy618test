@@ -15,7 +15,7 @@
 
 ### other
 * 建议自备代理，不要依赖于hosts来上网。
-* [直连上telegram解决方案，让我们一起来爱国](https://github.com/sy618/hosts/blob/master/md/telegram.md)
+* [直连上telegram解决方法](https://github.com/sy618/hosts/blob/master/md/telegram.md)
 * [telegram](https://t.me/joinchat/C4W8eEDPOGS3V8-UHx2aKw)
 
 
