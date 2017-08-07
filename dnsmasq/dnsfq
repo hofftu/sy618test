@@ -1,4 +1,4 @@
-## 2017-08-01 16:11:03
+## 2017-08-07 21:33:55
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # 本dnsmasq规则仅供个人免费使用。未经许可，请勿内置于软件内发布与传播。请勿用于商业性活动。 
@@ -101,25 +101,25 @@ address=/icons.duckduckgo.com/52.77.181.198
 address=/images.duckduckgo.com/52.77.181.198
 
 ## Facebook/Instagram
-address=/accountkit.com/157.240.15.36
+address=/accountkit.com/157.240.7.36
 #address=/akamai.net/219.76.10.59
 address=/akamaihd.net/219.76.10.59
 address=/ak.facebook.com/219.76.10.59
 address=/ak.fbcdn.net/219.76.10.59
 address=/ak.instagram.com/219.76.10.59
-address=/cdninstagram.com/157.240.15.63
+address=/cdninstagram.com/31.13.82.52
 address=/edge-mqtt.facebook.com/31.13.95.5
-address=/facebook.com/157.240.15.36
-address=/facebook.net/157.240.15.36
-address=/fb.com/157.240.15.36
-address=/fbsbx.com/157.240.15.36
+address=/facebook.com/157.240.7.36
+address=/facebook.net/157.240.7.36
+address=/fb.com/157.240.7.36
+address=/fbsbx.com/157.240.7.36
 address=/giphy.com/151.101.25.127
-address=/instagram.com/157.240.15.63
-address=/m.me/157.240.15.36
-address=/messenger.com/157.240.15.36
+address=/instagram.com/31.13.82.52
+address=/m.me/157.240.7.36
+address=/messenger.com/157.240.7.36
 #address=/telegraph-ash.instagram.com/173.252.91.113
 #address=/telegraph-tiproxy.instagram.com/54.89.41.182
-address=/thefacebook.com/157.240.15.36
+address=/thefacebook.com/157.240.7.36
 address=/fbcdn.net/31.13.78.14
 
 ## Flipboard   
@@ -209,9 +209,9 @@ address=/goo.gl/218.254.1.15
 #address=/android.clients.google.com/218.254.1.15
 #address=/gcm-http.googleapis.com/218.254.1.15
 #address=/mail.google.com/218.254.1.15
-#address=/redirector.googlevideo.com/218.254.1.15
 #address=/manifest.googlevideo.com/218.254.1.15
 # google.cn IP
+#address=/redirector.googlevideo.com/203.208.43.105
 #address=/dl.google.com/203.208.43.105
 #address=/redirector.gvt1.com/203.208.43.105
 #address=/translate.googleapis.com/203.208.43.105
@@ -323,10 +323,13 @@ address=/twimg.com/104.244.43.135
 address=/twitpic.com/104.244.46.148
 server=/pscp.tv/208.67.222.222#5353
 #★sni★
-address=/t.co/121.59.17.41
-address=/tweetdeck.com/121.59.17.41
-address=/twitter.com/121.59.17.41
+#address=/t.co/121.59.17.41
+#address=/tweetdeck.com/121.59.17.41
+#address=/twitter.com/121.59.17.41
 #
+
+## t66y
+address=/t66y.com/104.25.32.112
 
 ## Vimeo  
 #address=/click.email.vimeo.com/198.245.92.39
@@ -396,8 +399,4 @@ server=/staticflickr.com/208.67.222.222#5353
 server=/flickr.com/208.67.222.222#5353
 server=/yimg.com/208.67.222.222#5353
 server=/co.jp/208.67.222.222#5353
-
-## 1024
-address=/t66y.com/104.25.32.112
-
 

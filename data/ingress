@@ -1,0 +1,8 @@
+
+#  ingress    
+119.81.248.34 single.upsight-api.com
+119.81.248.34 batch.upsight-api.com
+119.81.248.34 bootstrap.upsight-api.com
+54.241.32.13 appload.ingest.crittercism.com
+54.241.32.13 api.crittercism.com
+54.241.32.13 txn.ingest.crittercism.com
