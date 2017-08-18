@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 ## 推荐搭配方案：
 dnsfq + hosts + ip.conf + union.conf
 
-## sh文件夹 是[华硕老毛子固件专用自动脚本](https://github.com/sy618/hosts/tree/master/dnsmasq/sh)
+## sh文件夹 是[padavan固件专用自动脚本](https://github.com/sy618/hosts/tree/master/dnsmasq/sh)
 * start.sh：立刻更新规则的脚本
 * setting.sh：初次运行的脚本，全自动修改配置与启用dnsmasq，只需要运行一次。
 * del.sh：删除所有更改，出问题了只需要运行一下即可还原
