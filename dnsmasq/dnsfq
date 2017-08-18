@@ -1,4 +1,4 @@
-## 2017-08-07 21:33:55
+## 2017-08-18 21:40:21
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # 本dnsmasq规则仅供个人免费使用。未经许可，请勿内置于软件内发布与传播。请勿用于商业性活动。 
@@ -72,7 +72,7 @@ address=/api.v.dropbox.com/162.125.82.7
 address=/d.dropbox.com/162.125.82.7
 address=/d.v.dropbox.com/162.125.82.7
 address=/www.dropboxstatic.com/162.125.82.7
-address=/log.getdropbox.com/108.160.172.195
+address=/log.getdropbox.com/162.125.82.2
 address=/dbxlocal.dropboxstatic.com/162.125.32.12
 address=/client-lb.dropbox.com/162.125.32.12
 address=/client-web.dropbox.com/162.125.32.12
@@ -112,6 +112,7 @@ address=/edge-mqtt.facebook.com/31.13.95.5
 address=/facebook.com/157.240.7.36
 address=/facebook.net/157.240.7.36
 address=/fb.com/157.240.7.36
+address=/fb.me/157.240.7.36
 address=/fbsbx.com/157.240.7.36
 address=/giphy.com/151.101.25.127
 address=/instagram.com/31.13.82.52
@@ -270,10 +271,10 @@ server=/nytcn.me/208.67.222.222#5353
 
 ## Microsoft family
 # onedrive
-address=/api.onedrive.live.com/2.17.58.51
+address=/api.onedrive.live.com/23.77.13.193
 address=/api.onedrive.com/204.79.197.213
 address=/onedrive.live.com/204.79.197.217
-address=/skyapi.onedrive.live.com/104.44.88.28
+address=/skyapi.onedrive.live.com/157.55.109.228
 # outlook
 #address=/outlook.live.com/40.97.119.194
 
@@ -323,9 +324,9 @@ address=/twimg.com/104.244.43.135
 address=/twitpic.com/104.244.46.148
 server=/pscp.tv/208.67.222.222#5353
 #★sni★
-#address=/t.co/121.59.17.41
-#address=/tweetdeck.com/121.59.17.41
-#address=/twitter.com/121.59.17.41
+#address=/t.co/0.0.0.0
+#address=/tweetdeck.com/0.0.0.0
+#address=/twitter.com/0.0.0.0
 #
 
 ## t66y
@@ -347,6 +348,9 @@ address=/upload.wikimedia.org/198.35.26.112
 address=/wikipedia.org/198.35.26.96
 address=/zh.m.wikipedia.org/198.35.26.96
 address=/wikinews.org/198.35.26.96
+
+## W3schools
+address=/w3schools.com/192.229.179.87
 
 ## Yahoo/flickr/tumblr  
 #address=/97.media.tumblr.com/192.229.237.98

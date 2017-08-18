@@ -1,5 +1,5 @@
-# Resilio Sync (BTSync)        
 
+# Resilio Sync (BTSync)        
 54.192.212.30 config.resilio.com
 54.192.212.30 config.getsync.com
 54.192.212.30 www.getsync.com
@@ -9,12 +9,7 @@
 54.192.212.30 www.resilio.com
 52.84.243.28 forum.resilio.com
 188.172.138.1 help.resilio.com
-52.20.43.156 update.getsync.com
-52.7.12.216 new-bench.resilio.com
-54.234.132.138 orders.resilio.com
-52.45.132.190 license.resilio.com
-23.21.54.204 sync-push-proxy.resilio.com
-52.0.196.253 helpfiles.resilio.com
+#52.20.43.156 update.getsync.com
 #跟踪服务器（4000）
 #173.244.217.42 tracker1.resilio.com
 #209.95.56.60 tracker2.resilio.com

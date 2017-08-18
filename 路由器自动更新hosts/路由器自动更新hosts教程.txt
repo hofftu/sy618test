@@ -7,7 +7,7 @@
 5.另起一行，添加以下代码进去即可。#号是注释内容不要复制进去。看自己需求选择源，不要两个都订阅，一般仅需订阅其中一个源即可。路由器上可以使用强大的ss，所以不推荐使用FQ hosts挂到路由器上。
 
 #订阅纯AD hosts：
-0 0 * * * cd /etc/storage/dnsmasq;rm -rf hosts;wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts -O hosts
+0 0 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts -O /etc/storage/dnsmasq/hosts;restart_dhcpd
 
 
 ###多个源合用写法
@@ -15,14 +15,13 @@
 #源1https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 #源2https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 
-0 0 * * * cd /etc/storage/dnsmasq;rm -rf hosts;wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts;wget --no-check-certifica https://raw.githubusercontent.com/racaljk/hosts/master/hosts -O 123;cat 123 >> hosts;rm -rf 123
+0 0 * * * cd /etc/storage/dnsmasq;wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts -O hosts;wget --no-check-certifica https://raw.githubusercontent.com/racaljk/hosts/master/hosts -O 123;cat 123 >> hosts;rm -rf 123;restart_dhcpd
 
-#整句命令意思是：每天零点更新、重定向hosts路径、删除旧hosts、下载源1“hosts”、下载源2hosts并改名为“123”、把“123”文件合并入“hosts”文件、删除临时文件“123”。
+#整句命令意思是：每天零点更新、重定向hosts路径、下载源1“hosts”、下载源2hosts并改名为“123”、把“123”文件合并入“hosts”文件、删除临时文件“123”、重启DNS。
 #添加更多以此类推！
 
 
 ##################################
-（其他路由器的设置方法欢迎大家分享与提供补充完善！！）
 ###（由@chonghua提供）openwrt路由器合并多个hosts并转换为dnsmasq格式的写法，欢迎指正。
 ##/etc/init.d/dnsmasq restart为重启dnsmasq服务以便生效。
 cd /etc/dnsmasq.d;wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts;wget --no-check-certifica https://raw.githubusercontent.com/racaljk/hosts/master/hosts -O 123;cat 123 >> hosts | awk '$1 ~ /^[0-9]/ {printf("address=/%s/%s\n", $2,$1)}' hosts > /etc/dnsmasq.d/dnsmasq.adfq;rm -rf 123 hosts

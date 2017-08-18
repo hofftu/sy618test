@@ -1,22 +1,14 @@
 <TaskerData sr="" dvi="1" tv="4.9u3m">
 	<Profile sr="prof14" ve="2">
 		<cdate>1482847630573</cdate>
-		<edate>1496928720713</edate>
+		<edate>1503044168473</edate>
 		<id>14</id>
-		<limit>true</limit>
 		<mid0>11</mid0>
-		<nme>在WiFi下每隔三天更新</nme>
+		<nme>在WiFi下每两天零点更新</nme>
 		<Day sr="con0">
-			<mday0>16</mday0>
-			<mday1>1</mday1>
-			<mday2>19</mday2>
-			<mday3>4</mday3>
-			<mday4>22</mday4>
-			<mday5>7</mday5>
-			<mday6>25</mday6>
-			<mday7>10</mday7>
-			<mday8>28</mday8>
-			<mday9>13</mday9>
+			<wday0>4</wday0>
+			<wday1>6</wday1>
+			<wday2>2</wday2>
 		</Day>
 		<State sr="con1" ve="2">
 			<code>160</code>
@@ -24,12 +16,18 @@
 			<Str sr="arg1" ve="3"/>
 			<Str sr="arg2" ve="3"/>
 		</State>
+		<Time sr="con2">
+			<fh>0</fh>
+			<fm>0</fm>
+			<th>0</th>
+			<tm>0</tm>
+		</Time>
 	</Profile>
 	<Project sr="proj0" ve="2">
 		<cdate>1482824845945</cdate>
 		<name>hosts自动更新2</name>
 		<pids>14</pids>
-		<tids>11,26,7,24,6,8</tids>
+		<tids>6,7,11,26,8</tids>
 		<Kid sr="Kid">
 			<feat0>android.hardware.wifi:y</feat0>
 			<launchID>8</launchID>
@@ -40,10 +38,9 @@
 	</Project>
 	<Task sr="task11">
 		<cdate>1483812594195</cdate>
-		<edate>1501320046801</edate>
+		<edate>1503044151300</edate>
 		<id>11</id>
 		<nme>方案一</nme>
-		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
 			<label>新建文件夹</label>
@@ -84,7 +81,7 @@
 		</Action>
 		<Action sr="act3" ve="7">
 			<code>123</code>
-			<label>二合一。公共项目</label>
+			<label>二合一。自用并维护</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
 cat ad FQ &gt; hosts
@@ -106,108 +103,12 @@ mount -o ro,remount /system</Str>
 			<Int sr="arg0" val="10"/>
 		</Action>
 	</Task>
-	<Task sr="task24">
-		<cdate>1482825534204</cdate>
-		<edate>1501320052837</edate>
-		<id>24</id>
-		<nme>方案二</nme>
-		<pri>100</pri>
-		<Action sr="act0" ve="7">
-			<code>123</code>
-			<label>新建文件夹</label>
-			<Str sr="arg0" ve="3">mkdir -p /storage/emulated/0/Tasker/hosts/</Str>
-			<Int sr="arg1" val="0"/>
-			<Int sr="arg2" val="0"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Str sr="arg5" ve="3"/>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>118</code>
-			<label>AD hosts by vokins</label>
-			<se>false</se>
-			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/vokins/yhosts/master/hosts</Str>
-			<Str sr="arg1" ve="3"/>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="10"/>
-			<Str sr="arg6" ve="3">text/*</Str>
-			<Str sr="arg7" ve="3">/storage/emulated/0/Tasker/hosts/ad</Str>
-			<Int sr="arg8" val="0"/>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>118</code>
-			<label>FQ hosts by racaljk</label>
-			<se>false</se>
-			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/racaljk/hosts/master/hosts</Str>
-			<Str sr="arg1" ve="3"/>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="10"/>
-			<Str sr="arg6" ve="3">text/*</Str>
-			<Str sr="arg7" ve="3">/storage/emulated/0/Tasker/hosts/racaljk</Str>
-			<Int sr="arg8" val="0"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>118</code>
-			<label>play hosts by sy618</label>
-			<se>false</se>
-			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/sy618/hosts/master/p</Str>
-			<Str sr="arg1" ve="3"/>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="10"/>
-			<Str sr="arg6" ve="3">text/*</Str>
-			<Str sr="arg7" ve="3">/storage/emulated/0/Tasker/hosts/p</Str>
-			<Int sr="arg8" val="0"/>
-		</Action>
-		<Action sr="act4" ve="7">
-			<code>118</code>
-			<label>YouTube hosts by sy618</label>
-			<se>false</se>
-			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/sy618/hosts/master/y</Str>
-			<Str sr="arg1" ve="3"/>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="10"/>
-			<Str sr="arg6" ve="3">text/*</Str>
-			<Str sr="arg7" ve="3">/storage/emulated/0/Tasker/hosts/y</Str>
-			<Int sr="arg8" val="0"/>
-		</Action>
-		<Action sr="act5" ve="7">
-			<code>123</code>
-			<label>四合一。公共项目。删除racaljk源里有关YouTube、play的域名，避免干扰</label>
-			<se>false</se>
-			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
-sed -i '/gvt1\|googlevideo/d' racaljk
-cat ad racaljk p y &gt; hosts
-sed -i -e '/^##\|^#.*201\|^#.*licensed\|^#.*https/! s/^#.*$//' -i -e '/^ *$/d' hosts
-mount -o rw,remount /system
-
-cp -f hosts /system/etc/hosts
-sed -i "1 i\##方案二：$(date "+%Y-%m-%d %H:%M:%S")" /system/etc/hosts
-chmod 600 /system/etc/hosts
-mount -o ro,remount /system</Str>
-			<Int sr="arg1" val="0"/>
-			<Int sr="arg2" val="1"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Str sr="arg5" ve="3"/>
-		</Action>
-		<Action sr="act6" ve="7">
-			<code>61</code>
-			<Int sr="arg0" val="10"/>
-		</Action>
-	</Task>
 	<Task sr="task26">
 		<cdate>1498342831446</cdate>
-		<edate>1501320076980</edate>
+		<edate>1503044051441</edate>
 		<id>26</id>
 		<nme>还原hosts</nme>
+		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
 			<label>清空hosts内容</label>
@@ -231,7 +132,7 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task6">
 		<cdate>1482050889292</cdate>
-		<edate>1500474135064</edate>
+		<edate>1503043984336</edate>
 		<id>6</id>
 		<nme>纯AD （vokins）</nme>
 		<pri>100</pri>
@@ -279,7 +180,7 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task7">
 		<cdate>1482051798178</cdate>
-		<edate>1501320037771</edate>
+		<edate>1503044035895</edate>
 		<id>7</id>
 		<nme>纯FQ （racaljk）</nme>
 		<pri>100</pri>
@@ -312,7 +213,7 @@ mount -o ro,remount /system</Str>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
 mount -o rw,remount /system
 cat racaljk &gt; /system/etc/hosts
-sed -i "1 i\## 纯FQ：$(date "+%Y-%m-%d %H:%M:%S")" /system/etc/hosts
+sed -i "1 i\## racaljk：$(date "+%Y-%m-%d %H:%M:%S")" /system/etc/hosts
 chmod 600 /system/etc/hosts
 mount -o ro,remount /system</Str>
 			<Int sr="arg1" val="0"/>
@@ -328,9 +229,9 @@ mount -o ro,remount /system</Str>
 	</Task>
 	<Task sr="task8">
 		<cdate>1482825534204</cdate>
-		<edate>1501320072536</edate>
+		<edate>1503044121594</edate>
 		<id>8</id>
-		<nme>方案三</nme>
+		<nme>方案二</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>123</code>
@@ -372,13 +273,13 @@ mount -o ro,remount /system</Str>
 		</Action>
 		<Action sr="act3" ve="7">
 			<code>123</code>
-			<label>二合一。公共项目搭配</label>
+			<label>二合一。公共项目搭配。无任何修改</label>
 			<se>false</se>
 			<Str sr="arg0" ve="3">cd /storage/emulated/0/Tasker/hosts
 cat ad racaljk &gt; hosts
 mount -o rw,remount /system
 cp -f hosts /system/etc/hosts
-sed -i "1 i\##方案三：$(date "+%Y-%m-%d %H:%M:%S")" /system/etc/hosts
+sed -i "1 i\##方案二：$(date "+%Y-%m-%d %H:%M:%S")" /system/etc/hosts
 chmod 600 /system/etc/hosts
 mount -o ro,remount /system</Str>
 			<Int sr="arg1" val="0"/>

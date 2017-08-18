@@ -20,7 +20,7 @@ http://www.right.com.cn/forum/forum.php?mod=viewthread&tid=219905&mobile=1
 因此我们可以确定：单纯知道google服务器的正确地址，也是无法扶墙的
 GFW不仅对域名进行了污染，还对指定的IP地址段进行了数据干扰，同时还对一些关键字进行了截取和干扰，这也是gfwlist为何要用base64加密的原因，你直接拷贝明文的GFWList文件是拷贝不下来的”
 
-反驳：
+回答：
 想知道hosts的原理，那么我们就得知道GFW是如何工作的。
 
 GFW主要技术手段以及对应方法：
@@ -49,9 +49,9 @@ https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
 鉴于此问题，规则内【能用官方IP的都已使用官方IP，最大限度减少对sni的依赖】。
 
 目前规则内，只有部分功能需要借助sni反向代理来实现：
-▶Twitter部分域名（已移除）
 ▶谷歌、YouTube视频播放功能与商店软件（官方IP被严重干扰导致不可用） 
 ▶Lineageos ROM下载页面（该页面只有一个IP且已被封锁）
+（暂时移除Twitter部分域名）
 规则内其余的全部域名都是通过DNS反查得到（未被封锁）的官方IP。
 
 建议有敏感性上网操作的慎用！

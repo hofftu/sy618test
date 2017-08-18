@@ -1,7 +1,7 @@
-# Dropbox
-# https://raw.githubusercontent.com/sy618/hosts/master/data/dropbox
 
+# Dropbox
 162.125.248.1 dropbox.com
+
 162.125.6.1 www.dropbox.com
 162.125.6.1 www.v.dropbox.com
 162.125.6.1 support.dropbox.com
@@ -9,22 +9,29 @@
 162.125.6.1 opensource.dropbox.com
 162.125.6.1 linux.dropbox.com
 162.125.6.1 texter.dropbox.com
+
 162.125.3.6 dl.dropboxusercontent.com
 162.125.3.6 dl.dropbox.com
 162.125.3.6 dl-doc.dropbox.com
 162.125.3.6 dl-web.dropbox.com
 162.125.3.6 showbox.dropbox.com
 162.125.3.6 files.dropbox.com
+
 162.125.82.3 client-cf.dropbox.com
+
 54.192.212.178 blogs.dropbox.com
 54.192.212.178 forums.dropbox.com
 54.192.212.178 marketing.dropbox.com
 54.192.212.178 snapengage.dropbox.com
 54.192.212.178 status.dropbox.com
+
 52.84.202.185 cf.dropboxstatic.com
+
 104.16.100.29 cfl.dropboxstatic.com
+
 162.125.32.15 photo.dropbox.com
 162.125.32.15 photos.dropbox.com
+
 162.125.82.7 api-d.dropbox.com
 162.125.82.7 api-notify.dropbox.com
 162.125.82.7 api.dropbox.com
@@ -33,12 +40,15 @@
 162.125.82.7 d.dropbox.com
 162.125.82.7 d.v.dropbox.com
 162.125.82.7 www.dropboxstatic.com
-108.160.172.195 log.getdropbox.com
+
+162.125.82.2 log.getdropbox.com
+
 162.125.32.12 dbxlocal.dropboxstatic.com
 162.125.32.12 client-lb.dropbox.com
 162.125.32.12 client-web.dropbox.com
 162.125.32.12 client.dropbox.com
 162.125.32.12 client.v.dropbox.com
+
 34.197.140.43 dl-debug.dropbox.com
 162.125.32.9 m.dropbox.com
 162.125.17.1 photos-thumb.dropbox.com
@@ -55,4 +65,3 @@
 162.125.17.1 api-content.dropbox.com
 162.125.32.131 block.dropbox.com
 162.125.32.131 block.v.dropbox.com
-#

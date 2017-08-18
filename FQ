@@ -1,4 +1,4 @@
-## 2017-08-07 21:34:28
+## 2017-08-18 21:40:55
 ## GitHub：https://github.com/sy618/hosts
 ## Raw data：https://github.com/sy618/hosts/tree/master/data
 127.0.0.1 localhost
@@ -65,6 +65,7 @@
 218.254.1.15 google.co.ke
 218.254.1.15 www.google.co.ke
 218.254.1.15 com.google
+157.240.7.36 fb.me
 218.254.1.15 google.me
 218.254.1.15 www.google.me
 157.240.7.36 m.me
@@ -363,7 +364,6 @@
 104.16.100.29 cfl.dropboxstatic.com
 162.125.82.7 www.dropboxstatic.com
 54.192.212.30 getsync.com
-34.192.28.55 update.getsync.com
 54.192.212.30 config.getsync.com
 54.192.212.30 download-cdn.getsync.com
 54.192.212.30 www.getsync.com
@@ -973,8 +973,8 @@
 218.254.1.15 www.chromercise.com
 218.254.1.15 googlewave.com
 204.79.197.217 onedrive.live.com
-2.17.58.51 api.onedrive.live.com
-104.44.88.28 skyapi.onedrive.live.com
+23.77.13.193 api.onedrive.live.com
+157.55.109.228 skyapi.onedrive.live.com
 218.254.1.15 googledrive.com
 204.79.197.213 api.onedrive.com
 104.25.68.113 d0.winudf.com
@@ -1361,6 +1361,8 @@
 64.233.188.121 studio.html5rocks.com
 64.233.188.121 slides.html5rocks.com
 64.233.188.121 www.html5rocks.com
+192.229.179.87 w3schools.com
+192.229.179.87 www.w3schools.com
 218.254.1.15 toolbox.googleapps.com
 218.254.1.15 googlemashups.com
 218.254.1.15 www.googlemashups.com
@@ -1715,7 +1717,7 @@
 162.125.6.1 linux.dropbox.com
 162.125.17.3 notify.dropbox.com
 162.125.82.7 api-notify.dropbox.com
-108.160.172.195 log.getdropbox.com
+162.125.82.2 log.getdropbox.com
 104.25.32.112 t66y.com
 104.25.32.112 www.t66y.com
 64.233.188.121 www.agoogleaday.com
@@ -1805,9 +1807,9 @@
 218.254.1.15 www.google.co.cr
 218.254.1.15 google.fr
 218.254.1.15 www.google.fr
-60.254.131.61 scd.cn.rfi.fr
-23.2.16.219 m.cn.rfi.fr
-23.2.16.82 telechargement.rfi.fr
+219.76.10.43 scd.cn.rfi.fr
+219.76.10.209 m.cn.rfi.fr
+219.76.10.225 telechargement.rfi.fr
 218.254.1.15 google.gr
 218.254.1.15 www.google.gr
 218.254.1.15 www.google.com.gr
@@ -1919,7 +1921,7 @@
 218.254.1.15 compress.googlezip.net
 218.254.1.15 proxy-dev.googlezip.net
 218.254.1.15 proxy.googlezip.net
-54.230.156.123 d3c33hcgiwev3.cloudfront.net
+52.84.203.147 d3c33hcgiwev3.cloudfront.net
 107.152.25.193 www.box.net
 218.254.1.15 google.com.gt
 218.254.1.15 www.google.com.gt
@@ -1964,15 +1966,15 @@
 218.254.1.15 www.google.com.sv
 151.101.78.93 prod-video-eu-central-1.pscp.tv
 151.101.78.164 prod-exp-video-eu-central-1.pscp.tv
-52.28.237.68 chatman-replay-eu-central-1.pscp.tv
+52.29.1.229 chatman-replay-eu-central-1.pscp.tv
 52.28.143.27 prod-chatman-ancillary-eu-central-1.pscp.tv
 151.101.78.93 prod-video-us-east-1.pscp.tv
 151.101.78.164 prod-exp-video-us-east-1.pscp.tv
-52.70.26.133 chatman-replay-us-east-1.pscp.tv
-52.6.160.244 prod-chatman-ancillary-us-east-1.pscp.tv
+34.196.104.180 chatman-replay-us-east-1.pscp.tv
+52.21.58.174 prod-chatman-ancillary-us-east-1.pscp.tv
 151.101.78.93 prod-video-ap-northeast-1.pscp.tv
 151.101.78.164 prod-exp-video-ap-northeast-1.pscp.tv
-54.249.41.29 chatman-replay-ap-northeast-1.pscp.tv
+54.178.150.228 chatman-replay-ap-northeast-1.pscp.tv
 54.65.175.92 prod-chatman-ancillary-ap-northeast-1.pscp.tv
 151.101.78.93 prod-video-ap-southeast-1.pscp.tv
 151.101.78.164 prod-exp-video-ap-southeast-1.pscp.tv
@@ -1980,7 +1982,7 @@
 151.101.78.164 prod-exp-video-us-west-1.pscp.tv
 151.101.78.93 prod-video-us-west-2.pscp.tv
 151.101.78.164 prod-exp-video-us-west-2.pscp.tv
-52.40.0.143 chatman-replay-us-west-2.pscp.tv
+52.25.0.156 chatman-replay-us-west-2.pscp.tv
 52.89.133.239 prod-chatman-ancillary-us-west-2.pscp.tv
 54.70.159.19 notification-service.pscp.tv
 52.24.72.66 proxsee.pscp.tv
