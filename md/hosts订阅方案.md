@@ -19,8 +19,6 @@
 > https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts
 
 ```javascript
-* 注1：勿多个FQ hosts合用。很多人似乎喜欢大杂烩，这样极易产生冲突问题。同时对于对应hosts项目无任何帮助。`
-```
-```javascript
+* 注1：勿多个FQ hosts合用。很多人似乎喜欢大杂烩，这样极易产生冲突问题。同时对于对应hosts项目无任何帮助。
 * 注2：这里只接受方案一hosts的问题反馈。其他问题请去对应项目反馈。
 ```
