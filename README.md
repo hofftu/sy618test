@@ -15,7 +15,7 @@
 
 ### 免责与提醒
 * 项目大部分域名都是解析到官方IP，但部分功能可能需要依靠sni反向代理（公共服务器）才能实现，不保证安全性。不喜勿用！
-> - ~~谷歌全家桶~~
+> - 谷歌全家桶
 > - YouTube视频播放 `sn-*.googlevideo.com`
 > - play商店下载 `sn-*.gvt1.com`
 > - Lineageos ROM下载页面 `download.lineageos.org`
