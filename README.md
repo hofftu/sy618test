@@ -1,6 +1,6 @@
 ## hosts/dnsmasq订阅方案
-### [hosts订阅推荐方案](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
-### [路由器方案：hosts+dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)、[padavan脚本](https://github.com/sy618/hosts/blob/master/dnsmasq/sh/padavan%E5%9B%BA%E4%BB%B6%E8%84%9A%E6%9C%AC.md)
+ [hosts订阅推荐方案](https://github.com/sy618/hosts/blob/master/md/hosts%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88.md)
+ [路由器方案：hosts+dnsmasq规则](https://github.com/sy618/hosts/tree/master/dnsmasq)、[padavan脚本](https://github.com/sy618/hosts/blob/master/dnsmasq/sh/padavan%E5%9B%BA%E4%BB%B6%E8%84%9A%E6%9C%AC.md)
 > - [安全性问题？建议先看看](https://github.com/sy618/hosts/tree/master/dnsmasq/%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98)
 
 ## 自动更新hosts/dnsmasq、工具
