@@ -1,6 +1,5 @@
 ### 使用内置代理服务上telegram
-由于telegram是使用IP直连，所以hosts没法用。不过可以使用tg内置代理服务解决问题。
-> 方法来自tg群[自由公园](https://telegram.me/joinchat/Cp919j0kXKxynaUbsNffqA)的群友分享
+由于telegram是使用IP直连，所以hosts没法用。不过可以使用tg内置代理服务解决问题。方法来自tg群[自由公园](https://telegram.me/joinchat/Cp919j0kXKxynaUbsNffqA)的群友分享
 
 ## 获取最新公共服务器列表：
 * 1. http://www.gatherproxy.com/zh/sockslist/
