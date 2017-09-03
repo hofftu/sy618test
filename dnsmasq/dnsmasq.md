@@ -1,19 +1,21 @@
-## 路由器订阅hosts+dnsmasq规则
-轻量化方案实现去广告与自由上网，附padavan固件手动教程与一键脚本！
->安全性问题：https://github.com/sy618/hosts/tree/master/dnsmasq/%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98
+## 路由器轻量化方案
+订阅hosts+dnsmasq规则实现去广告与自由上网，附padavan固件手动教程与一键脚本！
+>[安全性问题？](https://github.com/sy618/hosts/tree/master/dnsmasq/%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98)
+
 ### 个人推荐的订阅方案：四个规则
 【dnsfq】 + 【union.conf】 + 【ip.conf】 + 【hosts】
 
 `每个规则都有不同用途，不建议再与其他同类规则合用，因为极易出现冲突问题。但可替换。`
-*  1、【dnsfq】：GFW翻墙专用的dnsmasq规则，享受无墙般体验。这个需要大家共同努力完善。（支持汤不热网页视频播放）
+
+1. 【dnsfq】：GFW翻墙专用的dnsmasq规则，享受无墙般体验。这个需要大家共同努力完善。（支持汤不热网页视频播放）
 >https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq
-*  2、【union.conf】：专门屏蔽一些家族式广告的dnsmasq规则。作为AD hosts的补充。
+2. 【union.conf】：专门屏蔽一些家族式广告的dnsmasq规则。作为AD hosts的补充。
 >https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/union.conf
-*  3、【ip.conf】：屏蔽运营商劫持IP与一些广告IP的dnsmasq规则。`查看劫持IP：使用nslookup命令查询一个不存在的域名`
+3. 【ip.conf】：屏蔽运营商劫持IP与一些广告IP的dnsmasq规则。`查看劫持IP：使用nslookup命令查询一个不存在的域名`
 >https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf
-*  4、『hosts』：[vokins的专门去国内广告hosts规则](https://github.com/vokins/yhosts)
->完整版：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
->删减版（PC专用）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt 
+4. 『hosts』：[vokins的专门去国内广告hosts规则](https://github.com/vokins/yhosts)
+> - 完整版：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+> - 删减版（PC专用）：https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt 
 
 
 ## 如何使用？
