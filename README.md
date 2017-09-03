@@ -5,7 +5,7 @@
 
 ## 自动更新hosts/dnsmasq、工具
 * [安卓手机定时自动更新hosts，tasker脚本与教程](https://github.com/sy618/hosts/tree/master/%E5%AE%89%E5%8D%93%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0hosts)
-* [路由器自动更新dnsmasq教程与padavan脚本](https://github.com/sy618/hosts/blob/master/dnsmasq/dnsmasq%E8%AF%B4%E6%98%8E.md)
+* [路由器自动更新dnsmasq教程与padavan脚本](https://github.com/sy618/hosts/blob/master/dnsmasq/dnsmasq.md)
 * [SwitchHosts：PC端更新hosts软件，作者：oldj](https://github.com/oldj/SwitchHosts/blob/master/README.md)，下载：[【github】](https://github.com/oldj/SwitchHosts/releases)、[【网站】](https://oldj.github.io/SwitchHosts)
 * [Daedalus：安卓免root使用DNS/hosts/dnsmasq规则软件，项目作者iTXTech ](https://github.com/iTXTech/Daedalus)。下载：[【play商店】](https://play.google.com/store/apps/details?id=org.itxtech.daedalus)、[【github】](https://github.com/iTXTech/Daedalus/releases)
 
