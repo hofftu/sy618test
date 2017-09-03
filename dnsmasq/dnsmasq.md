@@ -35,6 +35,7 @@
 
 ## [【padavan固件专用自动脚本】](https://github.com/sy618/hosts/tree/master/dnsmasq/sh)
 [hiboy的padavan固件](http://www.right.com.cn/forum/thread-161324-1-1.html)可打开【网页终端】（Shellinabox）功能来运行命令或脚本。
+
 在【`配置扩展环境`】→启用【`网页终端`】→【`打开网页终端`】，进入终端界面后输入路由账号、密码即可开始。直接复制以下的一键命令执行即可。
 * 一键运行命令：
 >mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/setting.sh -O /etc/storage/dnsmasq/dns/setting.sh;sh /etc/storage/dnsmasq/dns/setting.sh
