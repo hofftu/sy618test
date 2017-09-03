@@ -33,10 +33,9 @@
 * 去广告hosts
 >02 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts  -O /etc/storage/dnsmasq/hosts;sed -i "1 i\## update：$(date "+%Y-%m-%d %H:%M:%S")" /etc/storage/dnsmasq/hosts;restart_dhcpd
 
-## 【padavan固件专用自动脚本】(https://github.com/sy618/hosts/tree/master/dnsmasq/sh)
-hiboy的padavan固件地址：http://www.right.com.cn/forum/thread-161324-1-1.html
-
-padavan老毛子固件可打开【网页终端】（Shellinabox）功能来运行命令或脚本。在【`配置扩展环境`】→启用【`网页终端`】→【`打开网页终端`】，进入终端界面后输入路由账号、密码即可开始。直接复制以下的一键命令执行即可。
+## [【padavan固件专用自动脚本】](https://github.com/sy618/hosts/tree/master/dnsmasq/sh)
+[hiboy的padavan固件](http://www.right.com.cn/forum/thread-161324-1-1.html)可打开【网页终端】（Shellinabox）功能来运行命令或脚本。
+在【`配置扩展环境`】→启用【`网页终端`】→【`打开网页终端`】，进入终端界面后输入路由账号、密码即可开始。直接复制以下的一键命令执行即可。
 * 一键运行命令：
 >mkdir -p /etc/storage/dnsmasq/dns;wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/sh/setting.sh -O /etc/storage/dnsmasq/dns/setting.sh;sh /etc/storage/dnsmasq/dns/setting.sh
 * 一键还原命令：
@@ -45,7 +44,8 @@ padavan老毛子固件可打开【网页终端】（Shellinabox）功能来运�
 ## 优缺点
 * 优点：永久免费，本地解析速度快，消耗极少CPU资源，非常适合路由器使用。过滤广告无需证书，可部分代替ss
 * 缺点：IP易失效、hosts方式过滤广告有局限性。
-这一切美好的事情，全靠规则维护者的维护，希望有更多人加入维护与完善！
+
+`这一切美好的事情，全靠规则维护者的维护，希望有更多人加入维护与完善！`
 
 ### 为规则续命
 感觉大家似乎很喜欢`各自为政`，一直期盼的多人合作维护的局面一直没有出现。
