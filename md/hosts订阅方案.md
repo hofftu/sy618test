@@ -3,6 +3,7 @@
 * [AD(vokins)](https://github.com/vokins/yhosts/)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 * 自用并维护的hosts方案。
+自定义方案看[hosts各文件说明](https://github.com/sy618/hosts/blob/master/md/hosts%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E.md )
 
 ## hosts方案二
 * [AD(vokins)](https://github.com/vokins/yhosts/)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
