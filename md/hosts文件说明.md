@@ -6,8 +6,10 @@
 *  [play](https://raw.githubusercontent.com/sy618/hosts/master/play) ：play商店下载数据（直连走谷歌官方IP）
 ### YouTube
 *  [ y ](https://raw.githubusercontent.com/sy618/hosts/master/y) ：YouTube播放视频数据（走代理ip）
+
 订阅`y`时走代理IP看YouTube视频，网页、app端都能正常播放。但这是辆公交车，越多人用就会越卡与慢。
 *  [youtube](https://raw.githubusercontent.com/sy618/hosts/master/youtube) ：YouTube播放视频数据（直连走谷歌官方IP）
+
 订阅`youtube`时，必须使用YouTube app才能成功播放视频，直连谷歌服务器播放4k没问题。但网页版可能播放不了。需配合`f`源使用。具体怎么用？订阅`f`+`youtube`即可。
 ## 已合并
 *  [FQ](https://raw.githubusercontent.com/sy618/hosts/master/FQ)： 完整FQ数据。合并了`f`+`p`+`y`。主要是给Android设备使用的。
