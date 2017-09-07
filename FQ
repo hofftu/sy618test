@@ -1,4 +1,4 @@
-## 2017-09-02 21:04:31
+## 2017-09-07 08:43:45
 ## GitHub：https://github.com/sy618/hosts
 ## Raw data：https://github.com/sy618/hosts/tree/master/data
 127.0.0.1 localhost
@@ -961,14 +961,6 @@
 218.254.1.15 4.gvt0.com
 218.254.1.15 5.gvt0.com
 218.254.1.15 beacons.gvt2.com
-218.254.1.15 base0.googlehosted.com
-218.254.1.15 base1.googlehosted.com
-218.254.1.15 base2.googlehosted.com
-218.254.1.15 base3.googlehosted.com
-218.254.1.15 base4.googlehosted.com
-218.254.1.15 base5.googlehosted.com
-218.254.1.15 base.googlehosted.com
-218.254.1.15 www.googlehosted.com
 218.254.1.15 android.com
 218.254.1.15 source.android.com
 218.254.1.15 connectivitycheck.android.com
@@ -1202,7 +1194,6 @@
 218.254.1.15 browsersync.l.google.com
 218.254.1.15 yt-video-upload.l.google.com
 218.254.1.15 sslvideo-upload.l.google.com
-218.254.1.15 googlehosted.l.google.com
 218.254.1.15 afd.l.google.com
 218.254.1.15 id.l.google.com
 218.254.1.15 android.l.google.com
@@ -1725,7 +1716,6 @@
 218.254.1.15 gadgets.l.googleusercontent.com
 218.254.1.15 googlecode.l.googleusercontent.com
 218.254.1.15 googlegroups.l.googleusercontent.com
-218.254.1.15 googlehosted.l.googleusercontent.com
 218.254.1.15 gp.googleusercontent.com
 218.254.1.15 gp0.googleusercontent.com
 218.254.1.15 gp1.googleusercontent.com
@@ -2000,10 +1990,10 @@
 119.161.8.100 68.media.tumblr.com
 119.161.8.100 92.media.tumblr.com
 119.161.8.100 vt.media.tumblr.com
-119.161.8.100 vt.tumblr.com
-119.161.9.100 vtt.tumblr.com
-119.161.8.100 api.tumblr.com
-119.161.8.100 assets.tumblr.com
+119.161.9.100 vt.tumblr.com
+119.161.9.150 vtt.tumblr.com
+119.161.8.150 api.tumblr.com
+119.161.8.200 assets.tumblr.com
 119.161.8.100 secure.assets.tumblr.com
 119.161.8.100 static.tumblr.com
 119.161.8.100 secure.static.tumblr.com
@@ -2063,6 +2053,7 @@
 151.101.77.164 static04.nyt.com
 151.101.77.164 static05.nyt.com
 151.101.77.164 static06.nyt.com
+54.192.75.215 m.cn.nytimes.com
 54.192.75.215 m.cn.nytstyle.com
 54.192.75.215 cn.nytstyle.com
 54.192.75.215 cn.nytimes.com
@@ -2070,7 +2061,6 @@
 122.152.169.5 l0.cn.nytimes.com
 208.100.17.181 ic.tynt.com
 104.89.126.83 vp.nyt.com
-35.186.231.252 m.cn.nytimes.com
 223.119.50.202 m.cn.rfi.fr
 223.119.50.209 scd.cn.rfi.fr
 223.119.50.210 telechargement.rfi.fr

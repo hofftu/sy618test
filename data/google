@@ -564,14 +564,14 @@
 #218.254.1.15 apps.admob.com
 #218.254.1.15 www.admob.com
 
-218.254.1.15 base0.googlehosted.com
-218.254.1.15 base1.googlehosted.com
-218.254.1.15 base2.googlehosted.com
-218.254.1.15 base3.googlehosted.com
-218.254.1.15 base4.googlehosted.com
-218.254.1.15 base5.googlehosted.com
-218.254.1.15 base.googlehosted.com
-218.254.1.15 www.googlehosted.com
+#218.254.1.15 base0.googlehosted.com
+#218.254.1.15 base1.googlehosted.com
+#218.254.1.15 base2.googlehosted.com
+#218.254.1.15 base3.googlehosted.com
+#218.254.1.15 base4.googlehosted.com
+#218.254.1.15 base5.googlehosted.com
+#218.254.1.15 base.googlehosted.com
+#218.254.1.15 www.googlehosted.com
 
 218.254.1.15 android.com
 218.254.1.15 source.android.com
@@ -813,7 +813,7 @@
 218.254.1.15 yt-video-upload.l.google.com
 218.254.1.15 sslvideo-upload.l.google.com
 #218.254.1.15 partnerad.l.google.com
-218.254.1.15 googlehosted.l.google.com
+#218.254.1.15 googlehosted.l.google.com
 #218.254.1.15 pagead-googlehosted.l.google.com
 218.254.1.15 afd.l.google.com
 218.254.1.15 id.l.google.com
@@ -1358,7 +1358,7 @@
 218.254.1.15 gadgets.l.googleusercontent.com
 218.254.1.15 googlecode.l.googleusercontent.com
 218.254.1.15 googlegroups.l.googleusercontent.com
-218.254.1.15 googlehosted.l.googleusercontent.com
+#218.254.1.15 googlehosted.l.googleusercontent.com
 218.254.1.15 gp.googleusercontent.com
 218.254.1.15 gp0.googleusercontent.com
 218.254.1.15 gp1.googleusercontent.com

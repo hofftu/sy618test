@@ -1,4 +1,4 @@
-## 2017-09-06 20:42:10
+## 2017-09-07 08:43:45
 ## GitHub：https://github.com/sy618/hosts
 ## Raw data：https://github.com/sy618/hosts/tree/master/data
 127.0.0.1 localhost
@@ -961,14 +961,6 @@
 218.254.1.15 4.gvt0.com
 218.254.1.15 5.gvt0.com
 218.254.1.15 beacons.gvt2.com
-218.254.1.15 base0.googlehosted.com
-218.254.1.15 base1.googlehosted.com
-218.254.1.15 base2.googlehosted.com
-218.254.1.15 base3.googlehosted.com
-218.254.1.15 base4.googlehosted.com
-218.254.1.15 base5.googlehosted.com
-218.254.1.15 base.googlehosted.com
-218.254.1.15 www.googlehosted.com
 218.254.1.15 android.com
 218.254.1.15 source.android.com
 218.254.1.15 connectivitycheck.android.com
@@ -1202,7 +1194,6 @@
 218.254.1.15 browsersync.l.google.com
 218.254.1.15 yt-video-upload.l.google.com
 218.254.1.15 sslvideo-upload.l.google.com
-218.254.1.15 googlehosted.l.google.com
 218.254.1.15 afd.l.google.com
 218.254.1.15 id.l.google.com
 218.254.1.15 android.l.google.com
@@ -1725,7 +1716,6 @@
 218.254.1.15 gadgets.l.googleusercontent.com
 218.254.1.15 googlecode.l.googleusercontent.com
 218.254.1.15 googlegroups.l.googleusercontent.com
-218.254.1.15 googlehosted.l.googleusercontent.com
 218.254.1.15 gp.googleusercontent.com
 218.254.1.15 gp0.googleusercontent.com
 218.254.1.15 gp1.googleusercontent.com

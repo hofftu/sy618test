@@ -1,4 +1,4 @@
-## 2017-09-02 21:04:01
+## 2017-09-07 08:43:14
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # 安全性问题：部分域名需要使用sni反向代理实现，并已清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用！！
@@ -16,8 +16,8 @@ address=/winudf.com/104.25.68.113
 #address=/www.bbc.co.uk/212.58.244.71
 #address=/r.bbci.co.uk/212.58.246.106
 #address=/open.live.bbc.co.uk/212.58.246.112
-server=/bbc.com/208.67.222.222#5353
-server=/co.uk/208.67.222.222#5353
+server=/bbc.com/208.67.222.222#443
+server=/co.uk/208.67.222.222#443
 
 ## Box
 address=/box.com/107.152.25.197
@@ -29,11 +29,11 @@ address=/support.box.com/104.218.203.34
 
 ## Collector  
 #address=/d3c33hcgiwev3.cloudfront.net/54.230.156.123
-server=/d3c33hcgiwev3.cloudfront.net/208.67.222.222#5353
+server=/d3c33hcgiwev3.cloudfront.net/208.67.222.222#443
 
 ## Disqus  
 #address=/disqus.com/151.101.192.134
-server=/disqus.com/208.67.222.222#5353
+server=/disqus.com/208.67.222.222#443
 
 ## Doubi  
 address=/doub.io/168.235.75.151
@@ -130,13 +130,13 @@ address=/fbcdn.net/31.13.78.14
 #address=/flipboard.helpshift.com/54.215.4.184
 #address=/s.flipboard.com/54.192.214.90
 #address=/ue.flipboard.com/23.23.66.189
-server=/flipboard.com/208.67.222.222#5353
-server=/helpshift.com/208.67.222.222#5353
+server=/flipboard.com/208.67.222.222#443
+server=/helpshift.com/208.67.222.222#443
 
 ## Github
 address=/gist.github.com/192.30.253.118
-#server=/github.com/208.67.222.222#5353
-#server=/githubusercontent.com/208.67.222.222#5353
+#server=/github.com/208.67.222.222#443
+#server=/githubusercontent.com/208.67.222.222#443
 
 ## Google family
 #★sni★
@@ -172,7 +172,7 @@ address=/googlecode.com/218.254.1.15
 address=/googlecommerce.com/218.254.1.15
 address=/googledrive.com/218.254.1.15
 address=/googlegroups.com/218.254.1.15
-address=/googlehosted.com/218.254.1.15
+#address=/googlehosted.com/218.254.1.15
 address=/googleinsidesearch.com/218.254.1.15
 address=/googlemashups.com/218.254.1.15
 address=/googlesource.com/218.254.1.15
@@ -216,10 +216,10 @@ address=/goo.gl/218.254.1.15
 #address=/redirector.gvt1.com/203.208.43.105
 #address=/translate.googleapis.com/203.208.43.105
 # open
-#server=/gvt0.com/208.67.222.222#5353
-#server=/gvt1.com/208.67.222.222#5353
-#server=/gvt2.com/208.67.222.222#5353
-#server=/googlevideo.com/208.67.222.222#5353
+#server=/gvt0.com/208.67.222.222#443
+#server=/gvt1.com/208.67.222.222#443
+#server=/gvt2.com/208.67.222.222#443
+#server=/googlevideo.com/208.67.222.222#443
 #
 address=/googlevideo.com/218.254.1.15
 address=/gvt0.com/218.254.1.15
@@ -238,22 +238,25 @@ address=/upsight-api.com/119.81.248.34
 address=/imgur.com/103.245.222.193
 
 ## Line   
-server=/line.me/208.67.222.222#5353
-server=/line-apps.com/208.67.222.222#5353
-server=/naver.jp/208.67.222.222#5353
+server=/line.me/208.67.222.222#443
+server=/line-apps.com/208.67.222.222#443
+server=/naver.jp/208.67.222.222#443
 
 ## Lineageos ROM
-server=/lineageos.org/208.67.222.222#5353
+server=/lineageos.org/208.67.222.222#443
 #★sni★
 address=/download.lineageos.org/218.254.1.15
 #
 
+## Medium
+server=/medium.com/208.67.222.222#443
+
 ## Mega   
-server=/mega.nz/208.67.222.222#5353
-server=/co.nz/208.67.222.222#5353
+server=/mega.nz/208.67.222.222#443
+server=/co.nz/208.67.222.222#443
 
 ## New York Time  
-address=/m.cn.nytimes.com/35.186.231.252
+address=/m.cn.nytimes.com/54.192.75.215
 address=/cn.nytimes.com/54.192.75.215
 address=/cn.nytstyle.com/54.192.75.215
 address=/static.sxzhchina.com/54.192.75.215
@@ -264,12 +267,12 @@ address=/nyt.com/151.101.77.164
 #address=/nytimes.com/151.101.77.164
 #address=/samizdat.nytimes.com/151.101.77.164
 #address=/sso.nytcn.me/54.250.193.44
-server=/nytimes.com/208.67.222.222#5353
-server=/nytstyle.com/208.67.222.222#5353
-server=/sxzhchina.com/208.67.222.222#5353
-server=/tynt.com/208.67.222.222#5353
-server=/nyt.com/208.67.222.222#5353
-server=/nytcn.me/208.67.222.222#5353
+server=/nytimes.com/208.67.222.222#443
+server=/nytstyle.com/208.67.222.222#443
+server=/sxzhchina.com/208.67.222.222#443
+server=/tynt.com/208.67.222.222#443
+server=/nyt.com/208.67.222.222#443
+server=/nytcn.me/208.67.222.222#443
 
 ## Microsoft family
 # onedrive
@@ -281,7 +284,7 @@ address=/skyapi.onedrive.live.com/157.55.109.228
 #address=/outlook.live.com/40.97.119.194
 
 ## Pengbo 
-server=/bloomberg.com/208.67.222.222#5353
+server=/bloomberg.com/208.67.222.222#443
 
 ## Pinterest  
 address=/pinimg.com/151.101.76.84
@@ -291,8 +294,8 @@ address=/pinterest.com/151.101.76.84
 #address=/pornhub.com/31.192.120.36
 #address=/services.pornhub.com/67.22.32.162
 #address=/hubt.pornhub.com/216.18.168.28
-server=/pornhub.com/208.67.222.222#5353
-server=/phncdn.com/208.67.222.222#5353
+server=/pornhub.com/208.67.222.222#443
+server=/phncdn.com/208.67.222.222#443
 
 ## Resilio Sync (BTSync)
 #address=/update.getsync.com/52.20.43.156
@@ -300,13 +303,13 @@ server=/phncdn.com/208.67.222.222#5353
 #address=/help.resilio.com/188.172.138.1
 address=/config.getsync.com/54.192.75.121
 address=/config.resilio.com/54.192.75.121
-server=/resilio.com/208.67.222.222#5353
-server=/getsync.com/208.67.222.222#5353
+server=/resilio.com/208.67.222.222#443
+server=/getsync.com/208.67.222.222#443
 
 ## Rfi  
 #address=/cn.rfi.fr/23.2.16.219
 #address=/telechargement.rfi.fr/23.2.16.82
-server=/rfi.fr/208.67.222.222#5353
+server=/rfi.fr/208.67.222.222#443
 
 ## Telegram
 address=/telegram.org/149.154.167.119
@@ -317,12 +320,12 @@ address=/theinitium.com/104.28.31.251
 
 ## Tor   
 #address=/torproject.org/154.35.132.70
-server=/torproject.org/208.67.222.222#5353
+server=/torproject.org/208.67.222.222#443
 
 ## Twitter 
 address=/twimg.com/104.244.43.135
 address=/twitpic.com/104.244.46.148
-server=/pscp.tv/208.67.222.222#5353
+server=/pscp.tv/208.67.222.222#443
 #address=/t.co/104.244.42.134
 #address=/tweetdeck.com/104.244.42.134
 #address=/twitter.com/104.244.42.134
@@ -335,8 +338,8 @@ address=/t66y.com/104.25.32.112
 #address=/click.email.vimeo.com/198.245.92.39
 #address=/vimeo.com/23.235.37.217
 #address=/vimeocdn.com/151.101.78.109
-server=/vimeo.com/208.67.222.222#5353
-server=/vimeocdn.com/208.67.222.222#5353
+server=/vimeo.com/208.67.222.222#443
+server=/vimeocdn.com/208.67.222.222#443
 
 ## Voa
 address=/voanews.com/23.42.169.61
@@ -362,7 +365,7 @@ address=/videos1.xvideos.com/113.29.44.114
 address=/videos2.xvideos.com/113.29.44.114
 address=/videos3.xvideos.com/113.29.44.114
 address=/videos4.xvideos.com/113.29.44.114
-server=/xvideos.com/208.67.222.222#5353
+server=/xvideos.com/208.67.222.222#443
 
 ## Yahoo/flickr/tumblr  
 address=/97.media.tumblr.com/192.229.237.98
@@ -386,7 +389,7 @@ address=/assets.tumblr.com/119.161.8.200
 #address=/geo.query.yahoo.com/119.160.242.41
 #address=/info.yahoo.com/119.161.14.18
 #address=/lh.secure.yahoo.com/119.161.14.18
-address=/media.tumblr.com/119.161.9.50
+address=/media.tumblr.com/119.161.8.100
 #address=/mg.mail.yahoo.com/119.161.14.18
 #address=/msb-mobile.m.yahoo.com/119.161.14.18
 address=/mx.tumblr.com/192.229.237.97
@@ -407,12 +410,12 @@ address=/www.tumblr.com/119.161.8.100
 #address=/yahooapis.jp/182.22.24.124
 #address=/yimg.com/119.161.14.18
 #address=/yimg.jp/182.22.31.252
-server=/yimg.jp/208.67.222.222#5353
-server=/yahooapis.jp/208.67.222.222#5353
-server=/tumblr.com/208.67.222.222#5353
-server=/yahoo.com/208.67.222.222#5353
-server=/staticflickr.com/208.67.222.222#5353
-server=/flickr.com/208.67.222.222#5353
-server=/yimg.com/208.67.222.222#5353
-server=/co.jp/208.67.222.222#5353
+server=/yimg.jp/208.67.222.222#443
+server=/yahooapis.jp/208.67.222.222#443
+server=/tumblr.com/208.67.222.222#443
+server=/yahoo.com/208.67.222.222#443
+server=/staticflickr.com/208.67.222.222#443
+server=/flickr.com/208.67.222.222#443
+server=/yimg.com/208.67.222.222#443
+server=/co.jp/208.67.222.222#443
 
