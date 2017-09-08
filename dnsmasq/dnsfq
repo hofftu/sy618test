@@ -209,7 +209,7 @@ address=/goo.gl/216.58.200.192
 #address=/android.clients.google.com/216.58.200.192
 #address=/gcm-http.googleapis.com/216.58.200.192
 #address=/mail.google.com/216.58.200.192
-#address=/manifest.googlevideo.com/216.58.200.192
+address=/manifest.googlevideo.com/216.58.200.192
 # google.cn IP
 #address=/redirector.googlevideo.com/203.208.43.105
 #address=/dl.google.com/203.208.43.105

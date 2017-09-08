@@ -1,4 +1,4 @@
-## 2017-09-08 20:24:18
+## 2017-09-08 21:27:21
 ## GitHub：https://github.com/sy618/hosts
 ## Raw data：https://github.com/sy618/hosts/tree/master/data
 127.0.0.1 localhost
@@ -968,6 +968,7 @@
 216.58.200.192 market.android.com
 216.58.200.192 dev.android.com
 216.58.200.192 www.android.com
+216.58.200.192 manifest.googlevideo.com
 216.58.200.192 youtube.com
 216.58.200.192 clients1.youtube.com
 216.58.200.192 s2.youtube.com
