@@ -1,4 +1,4 @@
-## 2017-09-13 15:45:12
+## 2017-09-13 18:22:35
 ## GitHub：https://github.com/sy618/hosts
 ## Raw data：https://github.com/sy618/hosts/tree/master/data
 127.0.0.1 localhost
@@ -2123,7 +2123,7 @@
 168.235.75.151 doub.io
 149.154.167.119 telegram.org
 52.85.158.184 d3c33hcgiwev3.cloudfront.net
-219.76.4.83 download.lineageos.org
+223.197.123.65 download.lineageos.org
 192.30.253.118 gist.github.com
 192.229.179.87 w3schools.com
 192.229.179.87 www.w3schools.com
