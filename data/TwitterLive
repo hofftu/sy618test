@@ -17,19 +17,19 @@
 151.101.78.164 prod-video-us-west-1.pscp.tv
 151.101.78.164 prod-video-us-west-2.pscp.tv
 
-52.24.72.66 proxsee.pscp.tv
-54.148.84.129 payman.pscp.tv
-34.213.140.252 channels.pscp.tv
-52.220.51.152 signer.pscp.tv
-54.249.17.30 www.pscp.tv
-54.70.159.19 notification-service.pscp.tv
+52.199.126.233 signer.pscp.tv
+52.37.123.90 channels.pscp.tv
+54.148.49.158 notification-service.pscp.tv
+54.187.208.95 payman.pscp.tv
+54.64.208.225 www.pscp.tv
+52.26.156.159 proxsee.pscp.tv
 
-52.196.188.197 prod-chatman-ancillary-ap-northeast-1.pscp.tv
-35.158.228.205 prod-chatman-ancillary-eu-central-1.pscp.tv
-52.21.58.174 prod-chatman-ancillary-us-east-1.pscp.tv
-34.211.196.72 prod-chatman-ancillary-us-west-2.pscp.tv
+52.196.2.187 chatman-replay-ap-northeast-1.pscp.tv
+35.157.226.92 chatman-replay-eu-central-1.pscp.tv
+52.37.133.160 chatman-replay-us-west-2.pscp.tv
+34.205.237.42 chatman-replay-us-east-1.pscp.tv
+35.165.242.188 prod-chatman-ancillary-us-west-2.pscp.tv
+52.59.62.207 prod-chatman-ancillary-eu-central-1.pscp.tv
+54.164.250.49 prod-chatman-ancillary-us-east-1.pscp.tv
+52.193.50.108 prod-chatman-ancillary-ap-northeast-1.pscp.tv
 
-52.196.46.10 chatman-replay-ap-northeast-1.pscp.tv
-52.58.253.65 chatman-replay-eu-central-1.pscp.tv
-52.70.108.163 chatman-replay-us-east-1.pscp.tv
-54.68.245.50 chatman-replay-us-west-2.pscp.tv

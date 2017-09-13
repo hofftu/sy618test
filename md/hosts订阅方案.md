@@ -4,13 +4,7 @@
 * FQ：https://raw.githubusercontent.com/sy618/hosts/master/FQ
 * 自用并维护的hosts方案。
 
-FQ源看YouTube视频太卡太慢？改订阅以下源可解决。直连谷歌服务器看4k无压力。但必须用YouTube app看才有效果。
->- [AD(vokins)](https://github.com/vokins/yhosts/)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
->- 基础fq数据：https://raw.githubusercontent.com/sy618/hosts/master/f
->- play：https://raw.githubusercontent.com/sy618/hosts/master/p
->- YouTube：https://raw.githubusercontent.com/sy618/hosts/master/youtube
-
-具体看[hosts各文件说明](https://github.com/sy618/hosts/blob/master/md/hosts%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E.md )
+自定义合并具体看[hosts各文件说明](https://github.com/sy618/hosts/blob/master/md/hosts%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E.md )
 
 ## hosts方案二
 * [AD(vokins)](https://github.com/vokins/yhosts/)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
