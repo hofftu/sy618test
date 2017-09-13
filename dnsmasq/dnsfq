@@ -221,10 +221,10 @@ address=/manifest.googlevideo.com/223.197.123.65
 #server=/gvt2.com/208.67.222.222#443
 #server=/googlevideo.com/208.67.222.222#443
 #
-address=/googlevideo.com/219.76.4.83
-address=/gvt0.com/219.76.4.83
-address=/gvt1.com/219.76.4.83
-address=/gvt2.com/219.76.4.83
+address=/googlevideo.com/223.197.123.65
+address=/gvt0.com/223.197.123.65
+address=/gvt1.com/223.197.123.65
+address=/gvt2.com/223.197.123.65
 #
 
 ## HK01     
