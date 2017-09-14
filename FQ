@@ -1,4 +1,4 @@
-## 2017-09-13 18:22:35
+## 2017-09-14 16:22:44
 ## GitHub：https://github.com/sy618/hosts
 ## Raw data：https://github.com/sy618/hosts/tree/master/data
 127.0.0.1 localhost
@@ -2120,7 +2120,7 @@
 113.29.44.114 videos2.xvideos.com
 113.29.44.114 videos3.xvideos.com
 113.29.44.114 videos4.xvideos.com
-168.235.75.151 doub.io
+104.28.3.179 doub.io
 149.154.167.119 telegram.org
 52.85.158.184 d3c33hcgiwev3.cloudfront.net
 223.197.123.65 download.lineageos.org

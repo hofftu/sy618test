@@ -1,4 +1,4 @@
-## 2017-09-14 15:40:17
+## 2017-09-14 16:22:12
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # 安全性问题：部分域名需要使用sni反向代理实现，并已清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用！！
@@ -36,7 +36,7 @@ server=/d3c33hcgiwev3.cloudfront.net/208.67.222.222#443
 server=/disqus.com/208.67.222.222#443
 
 ## Doubi  
-address=/doub.io/168.235.75.151
+address=/doub.io/104.28.3.179
 
 ## Dropbox
 address=/dropbox.com/162.125.248.1
