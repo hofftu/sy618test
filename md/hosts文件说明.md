@@ -10,7 +10,7 @@
 订阅`y`时走代理IP看YouTube视频，网页、app端都能正常播放。但这是辆公交车，越多人用就会越卡与慢。
 *  [youtube](https://raw.githubusercontent.com/sy618/hosts/master/youtube) ：YouTube播放视频数据（直连走谷歌官方IP）
 
-订阅`youtube`时，必须使用YouTube app才能成功播放视频，直连谷歌服务器播放4k没问题。但网页版可能播放不了。需配合`f`源使用。具体怎么用？订阅`f`+`youtube`即可。
+订阅`youtube`时，必须使用YouTube app才能成功播放视频，直连谷歌服务器播放4k没问题。（由于YouTube IP的443端口被彻底封死，所以可能已无法用了）
 ## 已合并
 *  [FQ](https://raw.githubusercontent.com/sy618/hosts/master/FQ)： 完整FQ数据。合并了`f`+`p`+`y`。主要是给Android设备使用的。
 *  [pc](https://raw.githubusercontent.com/sy618/hosts/master/pc)： 与FQ相同，只合并了`f`+`y`。并转换成dos换行符。去掉对win平台无用的play商店数据。主要是Windows用。
