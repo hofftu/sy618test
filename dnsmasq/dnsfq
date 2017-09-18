@@ -1,4 +1,4 @@
-## 2017-09-17 01:07:05
+## 2017-09-19 06:13:15
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # 安全性问题：部分域名需要使用sni反向代理实现，并已清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用！！
@@ -43,7 +43,6 @@ address=/dropbox.com/162.125.248.1
 address=/www.dropbox.com/162.125.6.1
 address=/www.v.dropbox.com/162.125.6.1
 address=/support.dropbox.com/162.125.6.1
-address=/live.dropbox.com/162.125.6.1
 address=/opensource.dropbox.com/162.125.6.1
 address=/linux.dropbox.com/162.125.6.1
 address=/texter.dropbox.com/162.125.6.1
@@ -216,13 +215,11 @@ address=/manifest.googlevideo.com/223.197.123.65
 #address=/redirector.gvt1.com/203.208.43.105
 #address=/translate.googleapis.com/203.208.43.105
 # open
-#server=/gvt0.com/208.67.222.222#443
 #server=/gvt1.com/208.67.222.222#443
 #server=/gvt2.com/208.67.222.222#443
 #server=/googlevideo.com/208.67.222.222#443
 #
 address=/googlevideo.com/223.197.123.65
-address=/gvt0.com/223.197.123.65
 address=/gvt1.com/223.197.123.65
 address=/gvt2.com/223.197.123.65
 #
@@ -289,6 +286,11 @@ server=/bloomberg.com/208.67.222.222#443
 ## Pinterest  
 address=/pinimg.com/151.101.76.84
 address=/pinterest.com/151.101.76.84
+
+## Pixiv
+server=/pixiv.net/208.67.222.222#443
+server=/pixiv.org/208.67.222.222#443
+server=/pximg.net/208.67.222.222#443
 
 ## Pornhub  
 #address=/pornhub.com/31.192.120.36
