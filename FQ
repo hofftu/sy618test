@@ -1,4 +1,4 @@
-## 2017-09-19 07:20:52
+## 2017-09-19 08:11:15
 ## GitHub：https://github.com/sy618/hosts
 ## Raw data：https://github.com/sy618/hosts/tree/master/data
 127.0.0.1 localhost
@@ -1957,6 +1957,7 @@
 192.229.179.87 www.w3schools.com
 23.185.0.2 blog.torproject.org
 210.129.120.43 pixiv.net
+210.129.120.43 www.pixiv.net
 210.129.120.43 app-api.pixiv.net
 210.129.120.43 accounts.pixiv.net
 210.129.120.43 touch.pixiv.net
