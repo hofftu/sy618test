@@ -1,0 +1,10 @@
+#YouTube
+*.googlevideo.com
+*.ytimg.com
+*.youtube.com
+
+#Twitter
+*.twitter.com
+
+#Facebook
+*.facebook.com
