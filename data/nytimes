@@ -1,10 +1,5 @@
 
 # New York Time        
-#54.236.141.13 messaging-sub.api.nytimes.com
-#23.23.72.28 nytab.nytimes.com
-#52.1.225.49 et.nytimes.com
-#204.236.232.125 tagx.nytimes.com
-#54.173.131.119 rec.api.nytimes.com
 54.250.193.44 sso.nytcn.me
 151.101.77.164 www.nytimes.com
 151.101.77.164 mobile.nytimes.com
@@ -25,10 +20,6 @@
 151.101.77.164 typeface.nyt.com
 151.101.77.164 static01.nyt.com
 151.101.77.164 static02.nyt.com
-151.101.77.164 static03.nyt.com
-151.101.77.164 static04.nyt.com
-151.101.77.164 static05.nyt.com
-151.101.77.164 static06.nyt.com
 54.192.75.215 m.cn.nytimes.com
 54.192.75.215 m.cn.nytstyle.com
 54.192.75.215 cn.nytstyle.com
@@ -37,4 +28,3 @@
 122.152.169.5 l0.cn.nytimes.com
 208.100.17.181 ic.tynt.com
 104.89.126.83 vp.nyt.com
-

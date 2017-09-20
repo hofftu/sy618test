@@ -1,6 +1,5 @@
 
 # Facebook
-157.240.11.36 chat.facebook.com
 157.240.11.36 0-edge-chat.facebook.com
 157.240.11.36 0-edge-chat.messenger.com
 157.240.11.36 1-edge-chat.facebook.com
@@ -18,13 +17,11 @@
 157.240.11.36 7-edge-chat.messenger.com
 157.240.11.36 8-edge-chat.messenger.com
 157.240.11.36 9-edge-chat.messenger.com
-157.240.11.36 scontent.facebook.com
 157.240.11.36 secure.facebook.com
 157.240.11.36 ssl.facebook.com
 157.240.11.36 star.c10r.facebook.com
 157.240.11.36 star.facebook.com
 157.240.11.36 static.facebook.com
-157.240.11.36 static.thefacebook.com
 157.240.11.36 staticxx.facebook.com
 157.240.11.36 thefacebook.com
 157.240.11.36 touch.facebook.com
@@ -59,7 +56,7 @@
 157.240.11.36 check6.facebook.com
 157.240.11.36 code.facebook.com
 157.240.11.36 connect.facebook.com
-157.240.11.36 connect.facebook.net
+#157.240.11.36 connect.facebook.net
 157.240.11.36 contactimporter.facebook.com
 157.240.11.36 developer.facebook.com
 157.240.11.36 developers.facebook.com
@@ -119,36 +116,25 @@
 31.13.78.14 video-sit4-1.xx.fbcdn.net
 31.13.78.14 video-sin6-1.xx.fbcdn.net
 31.13.78.14 video.xx.fbcdn.net
+31.13.78.14 external-sit4-1.xx.fbcdn.net
 31.13.78.14 external.xx.fbcdn.net
-31.13.78.14 s-external.ak.fbcdn.net
 31.13.95.5 edge-mqtt.facebook.com
 192.0.78.12 live.fb.com
-192.0.78.12 work.fb.com
 192.0.78.12 nonprofits.fb.com
 192.0.78.12 techprep.fb.com
 192.0.78.12 managingbias.fb.com
 192.0.78.12 rightsmanager.fb.com
 192.0.78.12 instantarticles.fb.com
+
 192.0.66.2 messengerplatform.fb.com
 192.0.66.2 threatexchange.fb.com
+
 31.13.95.33 snaptu-z.facebook.com
 31.13.95.33 snaptu-p1.facebook.com
 31.13.95.33 snaptu-p2.facebook.com
 31.13.95.33 mqtt-mini.facebook.com
-151.101.25.127 media0.giphy.com
-219.76.10.59 a.dolimg.com
-219.76.10.59 s-static.ak.facebook.com
-219.76.10.59 static.ak.facebook.com
-219.76.10.59 b.static.ak.facebook.com
+
 219.76.10.59 fbcdn-video-a.akamaihd.net
-219.76.10.59 creative.ak.fbcdn.net
-219.76.10.59 platform.ak.fbcdn.net
-219.76.10.59 profile.ak.fbcdn.net
-219.76.10.59 external.ak.fbcdn.net
-219.76.10.59 vthumb.ak.fbcdn.net
-219.76.10.59 b.static.ak.fbcdn.net
-219.76.10.59 s-static.ak.fbcdn.net
-219.76.10.59 static.ak.fbcdn.net
 219.76.10.59 fbstatic-a.akamaihd.net
 219.76.10.59 fbexternal-a.akamaihd.net
 219.76.10.59 lumiere-a.akamaihd.net
@@ -160,4 +146,3 @@
 219.76.10.59 fb-s-b-a.akamaihd.net
 219.76.10.59 fb-s-c-a.akamaihd.net
 219.76.10.59 fb-s-d-a.akamaihd.net
-
