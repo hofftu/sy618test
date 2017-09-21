@@ -23,8 +23,8 @@
 * 项目大部分域名都是解析到官方IP，但部分功能可能需要依靠sni反向代理（运营商提供的缓存服务器）才能实现，不保证安全性。不喜勿用！
 > - 谷歌全家桶
 > - play商店下载 `sn-*.gvt1.com`
-> - Lineageos ROM下载页面 `download.lineageos.org`
-> - ~~YouTube视频播放 `sn-*.googlevideo.com~~`
+> - ~~Lineageos ROM下载页面 `download.lineageos.org`~~
+> - ~~YouTube视频播放 `sn-*.googlevideo.com`~~
 > - ~~推特部分域名`*.twitter.com`~~
 * 请遵守当地法律法规，文明上网。
 * 请勿在中国大陆的社交网络内传播与讨论本项目内容！

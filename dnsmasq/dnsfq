@@ -1,4 +1,4 @@
-## 2017-09-20 16:22:05
+## 2017-09-21 14:48:30
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY-NC 4.0 International License.
 # 安全性问题：部分域名需要使用sni反向代理实现，并已清晰标注“ ★sni★”，未标注的域名全部为官方IP！不喜勿用！！
@@ -99,27 +99,26 @@ address=/icons.duckduckgo.com/52.77.181.198
 address=/images.duckduckgo.com/52.77.181.198
 
 ## Facebook/Instagram
-address=/accountkit.com/157.240.11.36
-#address=/akamai.net/219.76.10.59
+#facebook
+#address=/accountkit.com/157.240.13.35
+#address=/facebook.com/157.240.13.35
+#address=/facebook.net/157.240.13.35
+#address=/fb.com/157.240.13.35
+#address=/fb.me/157.240.13.35
+#address=/fbsbx.com/157.240.13.35
+#address=/m.me/157.240.13.35
+#address=/messenger.com/157.240.13.35
+#address=/thefacebook.com/157.240.13.35
+address=/fbcdn.net/31.13.78.14
+address=/edge-mqtt.facebook.com/31.13.95.5
+#ins
+address=/cdninstagram.com/31.13.82.52
+address=/instagram.com/31.13.82.52
+#
 address=/akamaihd.net/219.76.10.59
 address=/ak.facebook.com/219.76.10.59
 address=/ak.fbcdn.net/219.76.10.59
 address=/ak.instagram.com/219.76.10.59
-address=/cdninstagram.com/31.13.82.52
-address=/edge-mqtt.facebook.com/31.13.95.5
-address=/facebook.com/157.240.11.36
-address=/facebook.net/157.240.11.36
-address=/fb.com/157.240.11.36
-address=/fb.me/157.240.11.36
-address=/fbsbx.com/157.240.11.36
-address=/giphy.com/151.101.25.127
-address=/instagram.com/31.13.82.52
-address=/m.me/157.240.11.36
-address=/messenger.com/157.240.11.36
-#address=/telegraph-ash.instagram.com/173.252.91.113
-#address=/telegraph-tiproxy.instagram.com/54.89.41.182
-address=/thefacebook.com/157.240.11.36
-address=/fbcdn.net/31.13.78.14
 
 ## Flipboard   
 #address=/beacon.flipboard.com/23.23.66.189
@@ -243,9 +242,6 @@ server=/naver.jp/208.67.222.222#443
 
 ## Lineageos ROM
 server=/lineageos.org/208.67.222.222#443
-#★sni★
-address=/download.lineageos.org/220.130.34.177
-#
 
 ## Medium
 server=/medium.com/208.67.222.222#443
